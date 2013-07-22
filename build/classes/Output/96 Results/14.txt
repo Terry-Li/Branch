@@ -1,0 +1,13 @@
+14==http://www.uvic.ca/
+School==Peter B. Gustavson School of Business==http://www.uvic.ca/gustavson/index.php
+School==Division of Continuing Studies==http://www.uvcs.uvic.ca/
+School==Faculty of Education==http://www.uvic.ca/education/index.php
+School==Faculty of Engineering==http://www.uvic.ca/engineering/index.php
+School==Faculty of Fine Arts==http://finearts.uvic.ca/
+School==Faculty of Graduate Studies==http://www.uvic.ca/graduatestudies/index.php
+School==Faculty of Human and Social Development==http://www.uvic.ca/hsd/index.php
+School==Faculty of Humanities==http://web.uvic.ca/humanities/aboutus/index.php
+School==Faculty of Law==http://www.law.uvic.ca
+School==Division of Medical Sciences==http://www.uvic.ca/medsci/index.php
+School==Faculty of Science==http://www.uvic.ca/science/index.php
+School==Faculty of Social Sciences==http://socialsciences.uvic.ca/

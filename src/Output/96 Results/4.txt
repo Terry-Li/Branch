@@ -1,0 +1,8 @@
+4==http://www.queensu.ca/
+School==Faculty of Arts and Science==http://www.queensu.ca/artsci/
+School==Faculty of Education==http://educ.queensu.ca/
+School==Faculty of Engineering and Applied Science==http://engineering.queensu.ca/
+School==Faculty of Health Sciences==http://healthsci.queensu.ca/
+School==Faculty of Law==http://law.queensu.ca/
+School==School of Business==http://business.queensu.ca/index.php
+School==School of Graduate Studies==http://www.queensu.ca/sgs/

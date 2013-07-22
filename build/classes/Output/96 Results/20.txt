@@ -1,0 +1,12 @@
+20==http://www.yorku.ca/web/index.htm
+School==Faculty of Education==http://www.edu.yorku.ca/
+School==Faculty of Environmental Studies==http://www.yorku.ca/fes/
+School==Faculty of Fine Arts==http://www.yorku.ca/finearts/
+School==Glendon==http://www.glendon.yorku.ca/
+School==Faculty of Graduate Studies==http://www.yorku.ca/grads/
+School==Faculty of Health==http://www.health.yorku.ca/
+School==Lassonde School of Engineering==http://eng.yorku.ca/
+School==Faculty of Liberal Arts & Professional Studies==http://www.yorku.ca/laps/
+School==Osgoode Hall Law School==http://www.osgoode.yorku.ca/
+School==Schulich School of Business==http://www.schulich.yorku.ca/
+School==Faculty of Science==http://www.science.yorku.ca/
