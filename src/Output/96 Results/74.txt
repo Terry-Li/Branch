@@ -1,0 +1,7 @@
+74==http://rpi.edu/
+School==School of Architecture==http://www.arch.rpi.edu/
+School==Lally School of Management & Technology==http://lallyschool.rpi.edu/
+School==School of Engineering==http://eng.rpi.edu/soe/
+School==Information Technology Programs==http://rpi.edu/academics/it.html
+School==School of Humanities, Arts, and Social Sciences==http://www.hass.rpi.edu/
+School==School of Science==http://science.rpi.edu

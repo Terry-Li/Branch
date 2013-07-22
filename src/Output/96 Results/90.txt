@@ -1,0 +1,9 @@
+90==http://nd.edu/
+School==Architecture==http://architecture.nd.edu/
+School==Arts and Letters==http://al.nd.edu/
+School==Business==http://business.nd.edu/
+School==Engineering==http://engineering.nd.edu/
+School==First Year Studies==http://fys.nd.edu/
+School==Graduate School==http://graduateschool.nd.edu/
+School==Law==http://law.nd.edu/
+School==Science==http://science.nd.edu/

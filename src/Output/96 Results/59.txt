@@ -1,0 +1,17 @@
+59==http://www.uci.edu/
+School==Claire Trevor School of the Arts==http://www.arts.uci.edu/
+School==School of Biological Sciences==http://www.bio.uci.edu/
+School==The Paul Merage School of Business==http://merage.uci.edu/
+School==School of Education==http://gse.uci.edu/
+School==The Henry Samueli School of Engineering==http://www.eng.uci.edu/
+School==School of Humanities==http://www.humanities.uci.edu/
+School==Donald Bren School of ICS==http://ics.uci.edu/
+School==Interdisciplinary Studies==http://www.editor.uci.edu/catalogue/idp/idp.1.htm
+School==School of Law==http://law.uci.edu/
+School==School of Medicine==http://som.uci.edu/
+School==Program in Nursing Science==http://www.nursing.uci.edu/
+School==Department of Pharmaceutical Sciences==http://pharmsci.uci.edu/
+School==School of Physical Sciences==http://www.physsci.uci.edu/
+School==Program in Public Health==http://publichealth.uci.edu/
+School==School of Social Ecology==http://socialecology.uci.edu/
+School==School of Social Sciences==http://www.socsci.uci.edu/

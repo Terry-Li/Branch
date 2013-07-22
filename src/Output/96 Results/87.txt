@@ -1,0 +1,10 @@
+87==http://www.northeastern.edu/
+School==College of Arts, Media & Design==http://www.northeastern.edu/camd/
+School==D'Amore-McKim School of Business==http://www.cba.neu.edu/
+School==College of Computer & Information Science==http://www.northeastern.edu/ccis/
+School==College of Engineering==http://www.northeastern.edu/coe/
+School==Bouv? College of Health Sciences==http://www.northeastern.edu/bouve/
+School==School of Law==http://www.northeastern.edu/law/
+School==College of Professional Studies==http://www.northeastern.edu/cps/
+School==College of Science==http://www.northeastern.edu/cos/
+School==College of Social Sciences & Humanities==http://www.northeastern.edu/cssh/

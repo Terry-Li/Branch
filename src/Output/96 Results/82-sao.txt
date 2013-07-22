@@ -1,0 +1,15 @@
+82==http://www.pitt.edu/
+School==Arts & Sciences ?==http://www.as.pitt.edu
+School==Business ?==http://www.business.pitt.edu
+School==Dental Medicine ?==http://www.dental.pitt.edu
+School==Education ?==http://www.education.pitt.edu
+School==Engineering ?==http://www.engineering.pitt.edu
+School==General Studies ?==http://www.cgs.pitt.edu
+School==Health & Rehab ?==http://www.shrs.pitt.edu
+School==Honors College ?==http://www.honorscollege.pitt.edu
+School==Law ?==http://www.law.pitt.edu
+School==Information Sciences ?==http://www.ischool.pitt.edu
+School==Medicine ?==http://www.medschool.pitt.edu
+School==Computing Services ?==http://www.technology.pitt.edu
+School==Help Desk ?==http://technology.pitt.edu/help.html
+School==Education Services ?==http://www.cidde.pitt.edu

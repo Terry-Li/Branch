@@ -1,0 +1,8 @@
+7==http://www.dal.ca/
+School==Architecture==http://www.dal.ca/academics/programs/undergraduate/architecture.html
+School==Costume Studies==http://www.dal.ca/academics/undergraduate_programs/costumestudies.html
+School==Community Design==http://www.dal.ca/academics/programs/undergraduate/commdesign.html
+School==Informatics==http://www.dal.ca/academics/programs/undergraduate/informatics.html
+School==Environment, Sustainability and Society (ESS)?the first of its kind in Canada==http://www.dal.ca/academics/programs/undergraduate/ess.html
+School==International Food Business==http://www.dal.ca/academics/programs/undergraduate/international-food-business.html
+School==Integrated Environmental Management==http://www.dal.ca/academics/programs/undergraduate/integrated-environmental-management.html

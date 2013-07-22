@@ -1,0 +1,15 @@
+89==http://www.syr.edu/
+School==School of Architecture==http://soa.syr.edu
+School==The College of Arts and Sciences==http://thecollege.syr.edu
+School==School of Education==http://soeweb.syr.edu
+School==L.C. Smith College of Engineering and Computer Science==http://lcs.syr.edu
+School==Graduate School==http://gradsch.syr.edu
+School==David B. Falk College of Sport and Human Dynamics==http://falk.syr.edu/
+School==School of Information Studies==http://ischool.syr.edu
+School==College of Law==http://law.syr.edu
+School==The Martin J. Whitman School of Management==http://whitman.syr.edu
+School==Maxwell School of Citizenship and Public Affairs==http://maxwell.syr.edu/
+School==S.I. Newhouse School of Public Communications==http://newhouse.syr.edu
+School==College of Visual and Performing Arts==http://vpa.syr.edu/
+School==University College==http://suce.syr.edu
+School==Summer at Syracuse==http://summeratsyracuse.syr.edu/

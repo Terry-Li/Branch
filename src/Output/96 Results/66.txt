@@ -1,0 +1,17 @@
+66==http://www.ufl.edu/
+School==Agricultural and Life Sciences==http://cals.ufl.edu/
+School==Business Administration==http://warrington.ufl.edu/
+School==Dentistry==http://www.dental.ufl.edu/
+School==Design, Construction and Planning==http://www.dcp.ufl.edu/
+School==Education==http://www.coe.ufl.edu/
+School==Engineering==http://www.eng.ufl.edu/
+School==Fine Arts==http://www.arts.ufl.edu/
+School==Health and Human Performance==http://www.hhp.ufl.edu/
+School==Journalism and Communications==http://www.jou.ufl.edu/
+School==Law==http://www.law.ufl.edu/
+School==Liberal Arts and Sciences==http://www.clas.ufl.edu/
+School==Medicine==http://www.med.ufl.edu/
+School==Nursing==http://con.ufl.edu/
+School==Pharmacy==http://www.cop.ufl.edu/
+School==Public Health and Health Professions==http://www.hp.ufl.edu/
+School==Veterinary Medicine==http://www.vetmed.ufl.edu/

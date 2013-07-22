@@ -1,0 +1,26 @@
+35==http://www.utexas.edu/
+School==Cockrell School of Engineering==http://www.engr.utexas.edu
+School==College of Communication==http://communication.utexas.edu
+School==College of Education==http://www.edb.utexas.edu/education/
+School==College of Fine Arts==http://www.utexas.edu/finearts/
+School==College of Liberal Arts==http://www.utexas.edu/cola/
+School==College of Natural Sciences==http://www.cns.utexas.edu
+School==College of Pharmacy==http://www.utexas.edu/pharmacy/
+School==Dell Medical School==http://www.utexas.edu/dell-medical-school
+School==Graduate School==http://www.utexas.edu/ogs/
+School==Jackson School of Geosciences==http://www.jsg.utexas.edu
+School==Lyndon B. Johnson School of Public Affairs==http://www.utexas.edu/lbj/
+School==McCombs School of Business==http://www.mccombs.utexas.edu
+School==School of Architecture==http://www.soa.utexas.edu
+School==School of Information==http://www.ischool.utexas.edu
+School==School of Law==http://www.utexas.edu/law/
+School==School of Nursing==http://www.utexas.edu/nursing/
+School==School of Social Work==http://www.utexas.edu/ssw/
+School==School of Undergraduate Studies==http://www.utexas.edu/ugs/
+School==Alexander Architectural Archive==http://www.lib.utexas.edu/apl/aaa/
+School==Architecture and Planning Library==http://www.lib.utexas.edu/apl/
+School==Benson Latin American Collection==http://www.lib.utexas.edu/benson/
+School==Classics Library==http://www.lib.utexas.edu/classics/
+School==Fine Arts Library==http://www.lib.utexas.edu/fal/
+School==Kuehne Physics Mathematics Astronomy Library==http://www.lib.utexas.edu/pma/
+School==Life Science Library==http://www.lib.utexas.edu/lsl/

@@ -1,0 +1,12 @@
+73==http://www.ncsu.edu/
+School==College of Agriculture and Life Sciences==http://harvest.cals.ncsu.edu/indexmain.cfm
+School==College of Design==http://design.ncsu.edu/
+School==College of Education==http://ced.ncsu.edu/
+School==College of Engineering==http://www.engr.ncsu.edu/
+School==College of Humanities and Social Sciences==http://www.chass.ncsu.edu/index.php
+School==College of Natural Resources==http://natural-resources.ncsu.edu/
+School==Poole College of Management==http://www.mgt.ncsu.edu/index.php
+School==College of Sciences==http://sciences.ncsu.edu/
+School==College of Textiles==http://www.tx.ncsu.edu/
+School==College of Veterinary Medicine==http://www.cvm.ncsu.edu/
+School==The Graduate School==http://www.ncsu.edu/grad/

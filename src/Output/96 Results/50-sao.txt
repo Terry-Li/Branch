@@ -1,0 +1,6 @@
+50==http://www.usc.edu/
+School==USC Marshall School of Business==http://academics.usc.edu/business/
+School==Herman Ostrow School of Dentistry of USC==http://academics.usc.edu/dentistry/
+School==USC Roski School of Fine Arts==http://academics.usc.edu/fine-arts/
+School==USC Thornton School of Music==http://academics.usc.edu/music/
+School==USC Sol Price School of Public Policy==http://academics.usc.edu/publicpolicy-planning-and-development/

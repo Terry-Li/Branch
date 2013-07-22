@@ -1,11 +1,1 @@
 22==http://www.uwindsor.ca/
-School==Faculty of Arts, Humanities & Social Sciences==http://www.uwindsor.ca/fahss
-School==Faculty of Education==http://www.uwindsor.ca/education
-School==Faculty of Engineering==http://www.uwindsor.ca/engineering
-School==Faculty of Graduate Studies==http://www.uwindsor.ca/graduate
-School==Faculty of Human Kinetics==http://www.uwindsor.ca/hk
-School==Faculty of Law==http://www.uwindsor.ca/law
-School==Faculty of Nursing==http://www.uwindsor.ca/nursing
-School==Odette School of Business==http://www.uwindsor.ca/odette
-School==Faculty of Science==http://www.uwindsor.ca/science
-School==Centre for Inter-Faculty Programs==http://www.uwindsor.ca/interfaculty

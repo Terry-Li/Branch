@@ -1,0 +1,4 @@
+25==http://www.concordia.ca/
+School==School of Graduate Studies==http://graduatestudies.concordia.ca/
+School==School of Extended Learning==http://www.concordia.ca/extended-learning/
+School==Colleges, Institutes & Departments==http://www.concordia.ca/programs-and-courses/academic-units/

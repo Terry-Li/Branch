@@ -1,0 +1,18 @@
+31==http://www.cornell.edu/
+School==College of Agriculture and Life Sciences==http://www.cals.cornell.edu/
+School==College of Architecture, Art, and Planning==http://www.aap.cornell.edu/
+School==College of Arts and Sciences==http://as.cornell.edu/
+School==College of Engineering==http://www.engineering.cornell.edu/
+School==School of Hotel Administration==http://www.hotelschool.cornell.edu/
+School==College of Human Ecology==http://www.human.cornell.edu/
+School==School of Industrial and Labor Relations (ILR)==http://www.ilr.cornell.edu/
+School==The Faculty of Computing and Information Science==http://www.cis.cornell.edu/
+School==Graduate School==http://www.gradschool.cornell.edu/
+School==Cornell NYC Tech==http://tech.cornell.edu/
+School==Cornell Law School==http://www.lawschool.cornell.edu/
+School==Samuel Curtis Johnson Graduate School of Management==http://www.johnson.cornell.edu/
+School==Weill Cornell Medical College (New York City)==http://www.med.cornell.edu/
+School==Weill Cornell Medical College (Doha, Qatar)==http://www.qatar-med.cornell.edu/
+School==Weill Cornell Graduate School of Medical Sciences (New York City)==http://biomedsci.cornell.edu/
+School==College of Veterinary Medicine==http://www.vet.cornell.edu/
+School==School of Continuing Education and Summer Sessions==http://www.sce.cornell.edu/

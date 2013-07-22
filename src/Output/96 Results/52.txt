@@ -1,0 +1,18 @@
+52==http://www.unc.edu/index.htm
+School==College of Arts & Sciences==http://college.unc.edu
+School==Dentistry==http://www.dentistry.unc.edu/
+School==Education==http://soe.unc.edu/
+School==Eshelman School of Pharmacy==http://www.pharmacy.unc.edu/
+School==Friday Center for Continuing Education==http://www.fridaycenter.unc.edu/
+School==General College==http://advising.unc.edu/
+School==Gillings School of Global Public Health==http://www.sph.unc.edu/
+School==Graduate School==http://gradschool.unc.edu/
+School==Kenan-Flagler Business School==http://www.kenan-flagler.unc.edu/
+School==Government==http://www.sog.unc.edu/
+School==Information & Library Science==http://sils.unc.edu/
+School==Journalism & Mass Communication==http://www.jomc.unc.edu/
+School==Law==http://www.law.unc.edu/
+School==Medicine==http://www.med.unc.edu/
+School==Nursing==http://nursing.unc.edu/
+School==Social Work==http://ssw.unc.edu/
+School==Summer School==http://summer.unc.edu/

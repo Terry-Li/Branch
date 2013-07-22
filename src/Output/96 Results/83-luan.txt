@@ -1,0 +1,6 @@
+83==http://www.ucsc.edu/
+School==Cowell College==http://cowell.ucsc.edu/
+School==Adlai E. Stevenson College==http://stevenson.ucsc.edu/
+School==Crown College==http://crown.ucsc.edu/
+School==Merrill College==http://merrill.ucsc.edu/
+School==Benjamin F. Porter College==http://porter.ucsc.edu/

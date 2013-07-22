@@ -1,0 +1,15 @@
+29==http://berkeley.edu/
+School==Letters & Science, College of==http://ls.berkeley.edu/
+School==Business, Haas School of==http://haas.berkeley.edu/
+School==Chemistry, College of==http://chemistry.berkeley.edu/
+School==Education, Graduate School of==http://www-gse.berkeley.edu/
+School==Engineering, College of==http://coe.berkeley.edu/
+School==Environmental Design, College of==http://ced.berkeley.edu/
+School==Information, School of==http://www.ischool.berkeley.edu/
+School==Journalism, Graduate School of==http://journalism.berkeley.edu/
+School==Law, School of==http://www.law.berkeley.edu/
+School==Natural Resources, College of==http://cnr.berkeley.edu/
+School==Optometry, School of==http://optometry.berkeley.edu/
+School==Public Health, School of==http://sph.berkeley.edu/
+School==Public Policy, Richard & Rhoda Goldman School of==http://gspp.berkeley.edu/
+School==Social Welfare, School of==http://socialwelfare.berkeley.edu/

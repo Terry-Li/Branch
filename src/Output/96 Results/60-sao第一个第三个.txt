@@ -1,0 +1,20 @@
+60==http://www.osu.edu/
+School==Arts and Sciences (College of)==http://artsandsciences.osu.edu/
+School==Continuing Education==http://ced.osu.edu/
+School==Dentistry (College of)==http://www.dent.ohio-state.edu
+School==Education and Human Ecology (College of)==http://ehe.osu.edu/
+School==Engineering (College of)==http://engineering.osu.edu/
+School==Environment and Natural Resources (School of)==http://senr.osu.edu
+School==Food, Agricultural, and Environmental Sciences (College of)==http://cfaes.osu.edu/
+School==Graduate School==http://www.gradsch.ohio-state.edu/
+School==Health and Rehabilitation Sciences==http://medicine.osu.edu/hrs/Pages/index.aspx
+School==John Glenn School of Public Affairs, The==http://glennschool.osu.edu/
+School==Law, (Michael E. Moritz College of)==http://moritzlaw.osu.edu/
+School==Medicine (College of)==http://medicine.osu.edu/
+School==Natural Resources (School of Environment and)==http://snr.osu.edu/
+School==Nursing (College of)==http://nursing.osu.edu/
+School==Optometry (College of)==http://optometry.osu.edu
+School==Pharmacy (College of)==http://www.pharmacy.ohio-state.edu
+School==Public Health (College of)==http://cph.osu.edu
+School==Social Work (College of)==http://www.csw.ohio-state.edu
+School==Veterinary Medicine (College of)==http://vet.osu.edu/

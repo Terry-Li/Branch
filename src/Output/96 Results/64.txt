@@ -1,0 +1,6 @@
+64==http://www.ucsb.edu/
+School==College of Creative Studies==http://www.ccs.ucsb.edu/
+School==College of Engineering==http://engineering.ucsb.edu/
+School==College of Letters & Science==http://www.ltsc.ucsb.edu/
+School==Bren School of Environmental Science & Management==http://www.esm.ucsb.edu/
+School==Gevirtz Graduate School of Education==http://education.ucsb.edu/

@@ -1,0 +1,13 @@
+1==http://www.mcgill.ca/
+School==School of Architecture==http://www.mcgill.ca/architecture/
+School==School of Communication Sciences & Disorders==http://www.mcgill.ca/scsd/
+School==School of Computer Science==http://www.cs.mcgill.ca/
+School==School of Continuing Studies==http://www.mcgill.ca/conted/
+School==School of Dietetics and Human Nutrition==http://www.mcgill.ca/dietetics/
+School==McGill School of Environment==http://www.mcgill.ca/mse/
+School==School of Information Studies==http://www.mcgill.ca/sis/
+School==Schulich School of Music==http://www.mcgill.ca/music/
+School==Ingram School of Nursing==http://www.mcgill.ca/nursing/
+School==School of Physical & Occupational Therapy==http://www.mcgill.ca/spot/
+School==School of Social Work==http://www.mcgill.ca/socialwork/
+School==School of Urban Planning==http://www.mcgill.ca/urbanplanning/

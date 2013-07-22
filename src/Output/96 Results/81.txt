@@ -1,0 +1,15 @@
+81==http://www.iub.edu/
+School==College of Arts and Sciences==http://college.indiana.edu/
+School==Jacobs School of Music==http://music.indiana.edu/
+School==Kelley School of Business==http://kelley.iu.edu/
+School==Maurer School of Law==http://law.indiana.edu/
+School==School of Education==http://education.indiana.edu/
+School==School of Global and International Studies==http://sgis.indiana.edu/
+School==School of Informatics and Computing==http://www.soic.indiana.edu/
+School==School of Journalism==http://journalism.indiana.edu/
+School==School of Nursing==http://www.indiana.edu/%7eiubnurse/
+School==School of Optometry==http://www.opt.indiana.edu/
+School==School of Public and Environmental Affairs==http://spea.indiana.edu/
+School==School of Public Health?Bloomington==http://www.publichealth.indiana.edu/
+School==School of Social Work==http://socialwork.iub.edu/
+School==University Graduate School==http://graduate.indiana.edu/
