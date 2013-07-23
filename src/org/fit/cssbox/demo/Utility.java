@@ -566,7 +566,9 @@ public class Utility {
             if (temps.size() > 1) {
                 if (grouptype == 1) {
                     group(temps);
-                } else groupExact(temps);
+                } else if(grouptype == 2) {
+                    groupExact(temps);
+                }
                 for (Combo c : temps) {
                     //System.out.println(c);
                     if (c.group != 0) {

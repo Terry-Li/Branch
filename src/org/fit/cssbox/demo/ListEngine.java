@@ -422,7 +422,9 @@ public class ListEngine {
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);
             for (Combo c: current) {
-                //System.out.println(c);
+                if (c.x == 292 || c.x == 40){
+                    //System.out.println(c);
+                }
             }
             //System.out.println("----------------------------");
             if (current.size() >= 1) {
@@ -595,7 +597,7 @@ public class ListEngine {
         int count = 0;
         for (String str: list.list) {
             String anchor = str.toLowerCase().split("==")[0];
-            if (anchor.contains("faculty") ||anchor.contains("school") || anchor.contains("college")){
+            if (anchor.contains("faculty") || anchor.contains("college")){ //||anchor.contains("school")
                 count++;
             }
         }
@@ -607,7 +609,7 @@ public class ListEngine {
         ArrayList<Combo> combos = CSSModel.getCombos(link.url);
         //System.out.println(combos.size());
         for (Combo c: combos) {
-            if (true) {
+            if (c.x == 25 && c.height == 17) {
                 //System.out.println(c);
                 //System.out.println(c.style);
             }
@@ -623,6 +625,13 @@ public class ListEngine {
             System.out.println(new String("第一轮：抓嵌套列表".getBytes("utf-8")));
             candidates.add(iter1);
         }
+        /*
+        SemanticList iter2s = tiled(link, combos, 0);//第二轮前奏：抓矩形列表
+        if (iter2s != null) {
+            System.out.println(new String("第二轮前奏：抓矩形列表".getBytes("utf-8")));
+            candidates.add(iter2s);
+        }*/
+        
         SemanticList iter2 = tiled(link, combos, 1);//第二轮：抓矩形列表，距离相似
         if (iter2 != null) {
             System.out.println(new String("第二轮：抓矩形列表，距离相似".getBytes("utf-8")));

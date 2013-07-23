@@ -1,0 +1,22 @@
+62==http://www1.umn.edu/twincities/index.html
+School==Allied Health Programs==http://www.cahp.umn.edu/
+School==Biological Sciences==http://www.cbs.umn.edu/
+School==Continuing Education==http://www.cce.umn.edu/index.html
+School==Dentistry==http://www.dentistry.umn.edu/
+School==Design==http://www.design.umn.edu/
+School==Education and Human Development==http://www.cehd.umn.edu/
+School==Extension==http://www.extension.umn.edu/
+School==Law School==http://www.law.umn.edu/
+School==Liberal Arts==http://www.cla.umn.edu/
+School==Management==http://www.csom.umn.edu/
+School==Medical School==http://www.med.umn.edu/
+School==Nursing==http://www.nursing.umn.edu/
+School==Pharmacy==http://www.pharmacy.umn.edu/
+School==Public Affairs==http://www.hhh.umn.edu/index.php
+School==Public Health==http://www.sph.umn.edu/
+School==Science and Engineering==http://cse.umn.edu/index.php
+School==Veterinary Medicine==http://www.cvm.umn.edu/
+School==Academic Calendar==http://onestop.umn.edu/calendars/index.html
+School==Academy of Distinguished Teachers==http://www.adt.umn.edu/
+School==Bookstores==http://www.bookstores.umn.edu/
+School==Centers and Institutes==http://www1.umn.edu/twincities/centers/index.html

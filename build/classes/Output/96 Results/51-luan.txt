@@ -1,0 +1,14 @@
+51==http://www.rice.edu/
+School==School of Architecture==http://arch.rice.edu/Contact/School-of-Architecture/
+School==George R. Brown School of Engineering==http://engineering.rice.edu/
+School==School of Humanities==http://humanities.rice.edu/
+School==Jesse H. Jones Graduate School of Business==http://business.rice.edu/
+School==The Shepherd School of Music==http://music.rice.edu/
+School==Wiess School of Natural Sciences==http://naturalsciences.rice.edu/
+School==Schools (Full List)==http://students.rice.edu/students/Schools_dept_programs.aspx
+School==School of Social Sciences==http://socialsciences.rice.edu/
+School==Susanne M. Glasscock School of Continuing Studies/ESL==http://gscs.rice.edu/GSCSHome.aspx
+School==George R. Brown School of Engineering==http://engr.rice.edu/
+School==School of Architecture==http://architecture.rice.edu/
+School==Schools and Departments (Full List)==http://students.rice.edu/students/Departments.asp
+School==Susanne M. Glassock School of Continuing Studies/ESL==http://www.gscs.rice.edu/GSCSHome.aspx

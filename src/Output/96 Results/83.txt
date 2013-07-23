@@ -1,0 +1,6 @@
+83==http://www.ucsc.edu/
+School==Division of the Arts==http://arts.ucsc.edu
+School==Division of Humanities==http://humanities.ucsc.edu
+School==Division of Physical & Biological Sciences==http://pbsci.ucsc.edu
+School==Division of Social Sciences==http://socialsciences.ucsc.edu
+School==Jack Baskin School of Engineering==http://soe.ucsc.edu/

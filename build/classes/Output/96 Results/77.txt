@@ -1,0 +1,7 @@
+77==http://www.rochester.edu/
+School==Arts, Sciences and Engineering==http://www.rochester.edu/college/
+School==Eastman School of Music==http://www.esm.rochester.edu/
+School==School of Medicine and Dentistry==http://www.urmc.rochester.edu/smd/
+School==School of Nursing==http://www.son.rochester.edu/son/home
+School==Simon School of Business==http://www.simon.rochester.edu/index.aspx
+School==Warner School of Education==http://www.rochester.edu/warner/index.php

@@ -29,6 +29,20 @@ public class CSSModel {
      * Recursively prints the text boxes from the specified tree
      */
     static String title = "";
+    
+    private static String trimStyle(String style){
+        String[] attrs = style.split("\n");
+        StringBuilder sb = new StringBuilder();
+        for (String attr: attrs) {
+            if (!attr.contains("none") && !attr.contains("0.0px") && 
+                !attr.contains("baseline") && !attr.contains(": ;") &&
+                !attr.contains("100.0%")) {
+                sb.append(attr+"\n");
+            }
+        }
+        return sb.toString();
+    }
+    
     private static void printTextBoxes(Box root, ArrayList<Combo> combos, URL base) throws MalformedURLException
     {   
         if (root instanceof TextBox)
@@ -52,6 +66,9 @@ public class CSSModel {
                 //if (c.url!=null && !c.url.contains("http")) c.setUrl(new URL(base,c.url).toString());
                 c.setHeight(text.getContentHeight());
                 c.style = text.getParent().getStyleString();
+                if (c.style != null) {
+                    c.style = trimStyle(c.style);//^.*?: [none|0.0px|baseline]?;\n
+                }
                 c.title = title;
                 c.setParent(text.getParent().getParent().getElement().getTagName());
                 if (c.parent.equals("Xdiv") && text.getParent().getParent().getParent() != null) {

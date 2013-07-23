@@ -1,0 +1,23 @@
+72==http://www.stonybrook.edu/sb/
+School==College of Arts & Sciences==http://www.stonybrook.edu/cas/
+School==College of Business==http://www.stonybrook.edu/commcms/business/
+School==College of Engineering & Applied ??Sciences==http://www.ceas.sunysb.edu/
+School==Graduate School==http://www.grad.sunysb.edu/
+School==Honors College==http://stonybrook.edu/uaa/honorscollege/index.shtml
+School==School of Health Technology & ??Management==http://www.hsc.stonybrook.edu/shtm/index.cfm
+School==School of Journalism==http://www.stonybrook.edu/journalism/
+School==School of Marine & Atmospheric ??Sciences==http://www.somas.stonybrook.edu/
+School==School of Nursing==http://nursing.stonybrookmedicine.edu/
+School==School of Professional Development==http://www.stonybrook.edu/spd/index.html
+School==School of Social Welfare==http://www.hsc.stonybrook.edu/ssw/index.cfm
+School==Southampton Arts==http://www.stonybrook.edu/southampton/mfa/
+School==Stony Brook Manhattan==http://www.stonybrook.edu/sb/nyc/
+School==Stony Brook Southampton==http://www.stonybrook.edu/sb/southampton/
+School==Undergraduate Colleges==http://www.stonybrook.edu/ucolleges/
+
+School==Career Center==http://www.stonybrook.edu/career
+School==High School Programs==http://www.stonybrook.edu/sb/highschool.shtml
+School==Intensive English Center==http://www.stonybrook.edu/iec
+School==Science Education Programs==http://stonybrook.edu/ligase/
+School==School of Professional Development==http://www.sunysb.edu/spd/
+School==Summer Research Institute==http://www.stonybrook.edu/agep/Summer_Research_Institute/

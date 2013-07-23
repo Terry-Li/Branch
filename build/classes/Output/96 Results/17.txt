@@ -1,0 +1,8 @@
+17==http://www.uoguelph.ca/
+School==College of Arts==http://www.uoguelph.ca/arts
+School==College of Biological Science==http://www.uoguelph.ca/cbs/
+School==College of Management & Economics==http://www.uoguelph.ca/cme/
+School==College of Physical & Engineering Science==http://www.uoguelph.ca/cpes/
+School==College of Social & Applied Human Sciences==http://www.csahs.uoguelph.ca/
+School==Ontario Agricultural College==http://www.oac.uoguelph.ca/
+School==Ontario Veterinary College==http://www.ovc.uoguelph.ca/

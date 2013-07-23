@@ -1,0 +1,5 @@
+15==http://uwaterloo.ca/
+School==Conrad Grebel University College==https://uwaterloo.ca/grebel/
+School==Renison University College==https://uwaterloo.ca/renison/
+School==St. Jerome's University==http://www.sju.ca/
+School==St. Paul's University College==https://uwaterloo.ca/stpauls/

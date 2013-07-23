@@ -1,0 +1,18 @@
+40==http://ucsd.edu/
+School==Arts & Humanities==http://dah.ucsd.edu/
+School==Biological Sciences==http://biology.ucsd.edu/
+School==Jacobs School of Engineering==http://www.jacobsschool.ucsd.edu/
+School==Physical Sciences==http://physicalsciences.ucsd.edu/
+School==Rady School of Management==http://rady.ucsd.edu/
+School==School of International Relations and Pacific Studies==http://irps.ucsd.edu/
+School==School of Medicine==http://som.ucsd.edu/
+School==Scripps Inst. of Oceanography==http://sio.ucsd.edu/
+School==Skaggs School of Pharmacy & Pharmaceutical Sciences==http://pharmacy.ucsd.edu/
+School==Social Sciences==http://socialsciences.ucsd.edu/
+School==About The UCSD College System==http://www.ucsd.edu/prospective-students/colleges/about/
+School==Marshall College==http://marshall.ucsd.edu/
+School==Muir College==http://muir.ucsd.edu/
+School==Revelle College==http://revelle.ucsd.edu/
+School==Roosevelt College==http://roosevelt.ucsd.edu/
+School==Sixth College==http://sixth.ucsd.edu/
+School==Warren College==http://warren.ucsd.edu/

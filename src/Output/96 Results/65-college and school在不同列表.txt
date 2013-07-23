@@ -1,0 +1,8 @@
+65==http://www.ucdavis.edu/
+School==The Betty Irene Moore School of Nursing==http://www.ucdmc.ucdavis.edu/nursing/
+School==Graduate School of Management==http://www.gsm.ucdavis.edu/
+School==School of Education==http://education.ucdavis.edu/
+School==College of Agricultural and Environmental Sciences==http://caes.ucdavis.edu/
+School==College of Biological Sciences==http://biosci.ucdavis.edu/index_js.html
+School==College of Engineering==http://engineering.ucdavis.edu/
+School==College of Letters and Science==http://www.ls.ucdavis.edu/

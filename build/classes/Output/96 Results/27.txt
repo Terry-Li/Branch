@@ -1,0 +1,8 @@
+27==http://www.cmu.edu/index.shtml
+School==Carnegie Institute of Technology (College of Engineering)==http://www.cit.cmu.edu/
+School==College of Fine Arts==http://www.cfa.cmu.edu/
+School==Dietrich College of Humanities and Social Sciences==http://www.hss.cmu.edu/
+School==Tepper School of Business==http://www.tepper.cmu.edu/
+School==H. John Heinz III College (Public Policy & Information Systems)==http://www.heinz.cmu.edu
+School==Mellon College of Science==http://www.cmu.edu/mcs
+School==School of Computer Science==http://www.scs.cmu.edu/

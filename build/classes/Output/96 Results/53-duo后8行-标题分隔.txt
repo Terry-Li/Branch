@@ -1,0 +1,19 @@
+53==http://www.duke.edu/
+School==Trinity College of Arts & Sciences==http://trinity.duke.edu/
+School==Divinity School==http://www.divinity.duke.edu/
+School==Fuqua School of Business==http://www.fuqua.duke.edu/
+School==The Graduate School==http://gradschool.duke.edu/
+School==School of Law==http://www.law.duke.edu/
+School==School of Medicine==http://medschool.duke.edu/
+School==Nicholas School of the Environment==http://www.nicholas.duke.edu/
+School==School of Nursing==http://nursing.duke.edu/
+School==Pratt School of Engineering==http://www.pratt.duke.edu/
+School==Sanford School of Public Policy==http://sanford.duke.edu/
+School==Duke Institute for Brain Sciences==http://www.dibs.duke.edu/
+School==Nicholas Institute for Environmental Policy Solutions==http://www.nicholas.duke.edu/institute/
+School==Kenan Institute for Ethics==http://kenan.ethics.duke.edu/
+School==Institute for Genome Sciences and Policy==http://genome.duke.edu/
+School==Duke Global Health Institute==http://globalhealth.duke.edu/
+School==John Hope Franklin Humanities Institute==http://www.fhi.duke.edu/
+School==Social Science Research Institute==http://www.ssri.duke.edu/
+School==Interdisciplinary Studies==http://interdisciplinary.duke.edu/

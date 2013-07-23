@@ -1,0 +1,7 @@
+93==http://www.uoregon.edu/
+School==College of Arts and Sciences==http://cas.uoregon.edu/
+School==Lundquist College of Business==http://www2.lcb.uoregon.edu/
+School==College of Education==http://education.uoregon.edu
+School==Graduate School==http://gradschool.uoregon.edu/?page=prospectiveStudents
+School==Robert D. Clark Honors College==http://honors.uoregon.edu/
+School==School of Journalism & Communication==http://jcomm.uoregon.edu/

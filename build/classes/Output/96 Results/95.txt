@@ -1,0 +1,10 @@
+95==http://www.case.edu/
+School==case school of engineering==http://engineering.case.edu
+School==college of arts and sciences==http://www.case.edu/artsci
+School==frances payne bolton school of nursing==http://fpb.case.edu
+School==mandel school of applied social sciences==http://msass.case.edu
+School==school of dental medicine==http://dental.case.edu
+School==school of graduate studies==http://gradstudies.case.edu
+School==school of law==http://law.case.edu
+School==school of medicine==http://casemed.case.edu
+School==weatherhead school of management==http://weatherhead.case.edu

@@ -1,0 +1,18 @@
+57==http://www.psu.edu/
+School==Agricultural Sciences==http://agsci.psu.edu
+School==Arts and Architecture==http://artsandarchitecture.psu.edu
+School==Smeal College of Business==http://www.smeal.psu.edu
+School==Communications==http://comm.psu.edu
+School==Earth and Mineral Sciences==http://www.ems.psu.edu
+School==Education==http://www.ed.psu.edu/educ
+School==Engineering==http://www.engr.psu.edu
+School==Health and Human Development==http://www.hhdev.psu.edu
+School==Information Sciences and Technology==http://ist.psu.edu
+School==The Liberal Arts==http://www.la.psu.edu
+School==Eberly College of Science==http://science.psu.edu
+School==School of Law==http://law.psu.edu
+School==School of Nursing==http://www.nursing.psu.edu
+School==Schreyer Honors College==http://www.shc.psu.edu
+School==The Graduate School==http://www.gradsch.psu.edu
+School==Pennsylvania College of Technology==http://www.pct.edu
+School==Division of Undergraduate Studies==http://dus.psu.edu

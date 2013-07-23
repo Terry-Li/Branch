@@ -81,7 +81,7 @@ public class SUSE implements Runnable{
     public static void main(String[] args) throws IOException, InterruptedException {
         List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
         ExecutorService executor = Executors.newFixedThreadPool(1);
-        for (int i=18; i<19; i++) {
+        for (int i=50; i<51; i++) {
             Runnable task = new SUSE(i+1+"",lines.get(i).split("==")[1]);
             executor.execute(task);
         }

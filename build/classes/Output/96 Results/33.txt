@@ -1,0 +1,17 @@
+33==http://www.washington.edu/
+School==Arts and Sciences==http://www.artsci.washington.edu/
+School==Built Environments==http://www.caup.washington.edu/
+School==Business==http://foster.washington.edu/
+School==Dentistry==http://www.dental.washington.edu/
+School==Education==http://depts.washington.edu/coe/
+School==Engineering==http://www.engr.washington.edu/
+School==Environment==http://coenv.washington.edu/
+School==Graduate==http://www.grad.washington.edu/
+School==Information==http://www.ischool.washington.edu/
+School==Law==http://www.law.washington.edu/
+School==Medicine==http://uwmedicine.washington.edu/
+School==Nursing==http://www.son.washington.edu/
+School==Pharmacy==http://sop.washington.edu/
+School==Public Affairs==http://evans.washington.edu/
+School==Public Health==http://sphcm.washington.edu/
+School==Social Work==http://depts.washington.edu/sswweb/

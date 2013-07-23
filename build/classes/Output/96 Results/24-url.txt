@@ -1,0 +1,46 @@
+24==http://www.ryerson.ca/index.html
+School==? French & Spanish==http://www.ryerson.ca/french/
+School==? Economics==http://economics.ryerson.ca/
+School==? English==http://www.ryerson.ca/english/
+School==? Geography==http://www.geography.ryerson.ca/geography/
+School==? Sociology==http://www.ryerson.ca/%7Esoc/
+School==? Centre for Study of Commercial Activity==http://www.csca.ryerson.ca
+School==? Centre for Learning Technology==http://www.ryerson.ca/clt/
+School==? Centre for Voluntary Sector Studies==http://www.ryerson.ca/cvss
+School==? Diversity Institute==http://www.ryerson.ca/tedrogersschool/diversityinstitute/
+School==? Disability Studies==http://www.ryerson.ca/ds/
+School==? Health Services Management==http://www.ryerson.ca/%7Ehsm/
+School==? Aerospace Engineering==http://www.ryerson.ca/graduate/aerospace/
+School==? Architecture==http://www.ryerson.ca/graduate/architecture/
+School==? Biomedical Physics==http://www.ryerson.ca/graduate/programs/biomedical_physics/
+School==? Chemical Engineering==http://www.ryerson.ca/%7Echemgrad/
+School==? Civil Engineering==http://www.ryerson.ca/%7Ecivgrad/
+School==? Computer Networks==http://www.cn.ryerson.ca/
+School==? Computer Science==http://www.ryerson.ca/graduate/computerscience/
+School==? Electrical and Computer and Engineering and Management==http://www.ryerson.ca/%7Eeleceng/
+School==? Management of Technology & Innovation==http://www.ryerson.ca/graduate/programs/technology_innovation/
+School==? Mathematics==http://www.ryerson.ca/dept/math.html
+School==? Mechanical Engineering==http://www.ryerson.ca/%7Emechgrad/
+School==? Molecular Science==http://www.ryerson.ca/graduate/programs/molecular_science/
+School==? Justice Studies==http://www.ryerson.ca/criminaljustice/academic/justicestudies/
+School==? Public Administration and Governance==http://www.ryerson.ca/politics/pogv/index.html
+School==? Ted Rogers School of Business Management==http://www.ryerson.ca/tedrogersschool/bm/
+School==? Ted Rogers School of Retail Management==http://www.ryerson.ca/tedrogersschool/rm/
+School==? Interior Design==http://ryerson.ca/interior/
+School==? Journalism==http://www.ryerson.ca/journalism/
+School==? Performance [Acting | Dance | Production]==http://www.ryerson.ca/theatreschool/
+School==? Radio and Television Arts==http://www.ryerson.ca/rta
+School==? Nutrition and Food==http://www.ryerson.ca/foodandnutrition/
+School==? Occupational and Public Health==http://www.ryerson.ca/sophe/
+School==? Social Work==http://www.ryerson.ca/socialwork/
+School==? Urban & Regional Planning==http://www.ryerson.ca/surp/
+School==? Electrical Engineering==http://www.ee.ryerson.ca/
+School==? Industrial Engineering==http://www.ryerson.ca/%7Emecheng/index.shtml
+School==? Mechanical Engineering==http://www.mie.ryerson.ca/index.shtml
+School==? Communication and Culture==http://www.ryerson.ca/graduate/programs/comcult/
+School==? Early Childhood Studies==http://www.ryerson.ca/graduate/programs/childhood_studies/
+School==? Environmental Applied Science and Management==http://www.ryerson.ca/ensciman/
+School==? Immigration and Settlement Studies==http://www.ryerson.ca/graduate/programs/immigration/
+School==? Nursing==http://www.ryerson.ca/graduate/programs/nursing/
+School==? Nutrition Communication==http://www.ryerson.ca/graduate/nutrition/
+School==? Social Work==http://www.ryerson.ca/graduate/socialwork/

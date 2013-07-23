@@ -1,0 +1,7 @@
+79==http://www.ucr.edu/
+School==Bourns College of Engineering (BCOE)==http://www.engr.ucr.edu/
+School==College of Humanities, Arts, & Social Sciences (CHASS)==http://www.chass.ucr.edu/
+School==College of Natural & Agricultural Sciences (CNAS)==http://www.cnas.ucr.edu/
+School==School of Business Administration (SoBA)==http://soba.ucr.edu/
+School==Graduate School of Education (GSOE)==http://www.education.ucr.edu/
+School==School of Medicine==http://medschool.ucr.edu/

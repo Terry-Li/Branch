@@ -1,0 +1,14 @@
+21==http://www.uregina.ca/
+School==Arts==http://www.uregina.ca/arts/
+School==Business Administration==http://www.uregina.ca/business/
+School==Continuing Education==http://www.uregina.ca/cce/
+School==Education==http://education.uregina.ca/
+School==Engineering & Applied Science==http://www.uregina.ca/engg/
+School==Fine Arts==http://www.uregina.ca/finearts/
+School==Graduate Studies & Research==http://www.uregina.ca/gradstudies/
+School==Johnson-Shoyama Graduate School of Public Policy==http://www.uregina.ca/gspp/
+School==Institut fran?ais==http://www.uregina.ca/institutfrancais/
+School==Kinesiology & Health Studies==http://www.uregina.ca/kinesiology/
+School==Nursing==http://www.uregina.ca/nursing/
+School==Science==http://www.uregina.ca/science/
+School==Social Work==http://www.uregina.ca/socialwork/index.html

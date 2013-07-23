@@ -1,0 +1,13 @@
+44==http://www.upenn.edu/
+School==Annenberg School for Communication==null
+School==Arts & Sciences==null
+School==Dental Medicine==null
+School==Design==null
+School==Engineering==null
+School==Graduate School of Education==null
+School==Law School==null
+School==Nursing==null
+School==Perelman School of Medicine==null
+School==Social Policy & Practice==null
+School==Veterinary Medicine==null
+School==The Wharton School==null

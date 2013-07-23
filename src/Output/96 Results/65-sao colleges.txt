@@ -1,7 +1,0 @@
-65==http://www.ucdavis.edu/
-School==The Betty Irene Moore School of Nursing==http://www.ucdmc.ucdavis.edu/nursing/
-School==Graduate School of Management==http://www.gsm.ucdavis.edu/
-School==School of Education==http://education.ucdavis.edu/
-School==School of Law==http://www.law.ucdavis.edu/academics-clinicals/index.html
-School==School of Medicine==http://www.ucdmc.ucdavis.edu/medschool/
-School==School of Veterinary Medicine==http://www.vetmed.ucdavis.edu/students/dvm_program/dvm_curriculum/index.cfm
