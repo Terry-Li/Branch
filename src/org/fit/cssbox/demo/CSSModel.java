@@ -36,7 +36,8 @@ public class CSSModel {
         for (String attr: attrs) {
             if (!attr.contains("none") && !attr.contains("0.0px") && 
                 !attr.contains("baseline") && !attr.contains(": ;") &&
-                !attr.contains("100.0%")) {
+                !attr.contains("100.0%") && !attr.contains("0.0") &&
+                !(attr.contains("border")&&attr.contains("radius"))) {
                 sb.append(attr+"\n");
             }
         }

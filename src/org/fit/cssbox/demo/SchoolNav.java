@@ -222,7 +222,7 @@ public class SchoolNav{
             for (Element e: result) {
                 String anchor = e.text().trim().toLowerCase();
                 String href = e.attr("abs:href").trim();
-                if ((anchor.contains("colleges") || anchor.contains("schools") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
+                if ((anchor.contains("colleges")|| anchor.contains("divisions") || anchor.contains("schools") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
                     Link link = new Link();
                     link.url = href;
                     ArrayList<String> context = new ArrayList<String>();
@@ -236,13 +236,13 @@ public class SchoolNav{
                         for (Element image: images) {
                             String alt = image.attr("alt").toLowerCase();
                             String title = image.attr("title").toLowerCase();
-                            if ((alt.contains("schools")||alt.contains("colleges")||alt.contains("faculties")||alt.contains("departments")||title.contains("schools")||title.contains("colleges")||title.contains("faculties")||title.contains("departments")) &&
+                            if ((alt.contains("schools")||alt.contains("divisions")||alt.contains("colleges")||alt.contains("faculties")||alt.contains("departments")||title.contains("schools")||title.contains("divisions")||title.contains("colleges")||title.contains("faculties")||title.contains("departments")) &&
                                  !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
                                 Link link = new Link();
                                 link.url = href;
                                 ArrayList<String> context = new ArrayList<String>();
                                 context.addAll(url.context);
-                                if (alt.contains("schools")||alt.contains("colleges")||alt.contains("faculties")||alt.contains("departments")) {
+                                if (alt.contains("schools")||alt.contains("divisions")||alt.contains("colleges")||alt.contains("faculties")||alt.contains("departments")) {
                                     context.add(alt);
                                 } else {
                                     context.add(title);

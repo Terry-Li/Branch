@@ -48,6 +48,7 @@ Consumer
 Applied
 Aviation
 General Studies
+Native Studies
 Labor and Employment Relations
 Liberal
 Media
@@ -62,7 +63,7 @@ Public Health
 Communication
 Natural Sciences
 Geosciences
-Undergraduate Studies
+Graduate Studies
 Biology
 Chemical
 Geological

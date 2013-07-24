@@ -4,10 +4,14 @@
  */
 package org.fit.cssbox.demo;
 
+import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+
 
 /**
  *
@@ -17,6 +21,7 @@ public class ListEngine {
     private ArrayList<String> positives;
     private ArrayList<String> negatives;
     private ArrayList<String> degrees;
+    
 
     public ListEngine(ArrayList<String> positives, ArrayList<String> negatives, ArrayList<String> degrees) {
         this.positives = positives;
@@ -608,12 +613,15 @@ public class ListEngine {
         //System.out.println("Why:...");
         ArrayList<Combo> combos = CSSModel.getCombos(link.url);
         //System.out.println(combos.size());
+        //FileWriter writer = new FileWriter("96 Results/log.txt", true);
         for (Combo c: combos) {
-            if (c.x == 25 && c.height == 17) {
+            if (true) {
                 //System.out.println(c);
+                //writer.write(c.toString()+"\n");
                 //System.out.println(c.style);
             }
         }
+        //writer.close();
         ArrayList<SemanticList> candidates = new ArrayList<SemanticList>();
         SemanticList iter0 = nestedTiled(link, combos); //第零轮：抓嵌套矩形列表
         if (iter0 != null) {

@@ -1,5 +1,0 @@
-47==http://www.brown.edu/
-School==Biology, Medicine and Public Health==http://biomed.brown.edu/
-School==Graduate School==http://www.brown.edu/gradschool
-School==School of Engineering==http://www.engin.brown.edu/
-School==Adult and Professional Programs==http://brown.edu/ce/adult/
