@@ -21,12 +21,14 @@ public class ListEngine {
     private ArrayList<String> positives;
     private ArrayList<String> negatives;
     private ArrayList<String> degrees;
+    private ArrayList<String> urlNegatives;
     
 
-    public ListEngine(ArrayList<String> positives, ArrayList<String> negatives, ArrayList<String> degrees) {
+    public ListEngine(ArrayList<String> positives, ArrayList<String> negatives, ArrayList<String> degrees, ArrayList<String> urlNegatives) {
         this.positives = positives;
         this.negatives = negatives;
         this.degrees = degrees;
+        this.urlNegatives = urlNegatives;
     }
     
     public boolean negative(String text,String url) {
@@ -49,8 +51,9 @@ public class ListEngine {
             }
         }
         //System.out.println("2");
+        
         if (url != null){
-            for (String neg : negatives) {
+            for (String neg : urlNegatives) {
                 if (neg.length() > 6 && url.toLowerCase().contains(neg.toLowerCase())) {
                     //System.out.println(text+":"+neg);
                     return true;
@@ -59,7 +62,7 @@ public class ListEngine {
         }
         //System.out.println("3");
         for (String degree: degrees) {
-            if (text.contains(degree) || (url!=null && url.contains(degree))) {
+            if (text.contains(degree)|| (url!=null && url.contains(degree))) { //|| (url!=null && url.contains(degree))
                 return true;
             }
         }
@@ -113,10 +116,11 @@ public class ListEngine {
         } else return false;
     }
     
-    public ArrayList<String> getNames(String url, ArrayList<Combo> original) throws IOException {
+    public ArrayList<String> getNames(String url, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.verticalNames(combos);
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);
@@ -137,10 +141,11 @@ public class ListEngine {
         return SchoolNav.dedup(output, url);
     }
     
-    public ArrayList<Integer> getNameCombos(String url, ArrayList<Combo> original) throws IOException {
+    public ArrayList<Integer> getNameCombos(String url, ArrayList<Combo> combos) throws IOException {
         ArrayList<Integer> output = new ArrayList<Integer>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         for (int i=0;i<combos.size();i++) {
             combos.get(i).index = i;
         }
@@ -176,7 +181,11 @@ public class ListEngine {
         } else return false;
     }
     
-    public void resetCombo(ArrayList<Combo> combos, ArrayList<Combo> original){
+    public void resetCombo(ArrayList<Combo> combos){//, ArrayList<Combo> original
+        for (Combo c: combos) {
+            c.group = 0;
+        }
+        /*
         for (Combo c: original) {
             Combo brand = new Combo(c.x,c.y,c.text,c.tag,c.dom);
             brand.setFont(c.font);
@@ -186,17 +195,41 @@ public class ListEngine {
             brand.setText(c.text);
             brand.setUrl(c.url);
             brand.setContract(c.contract);
-            brand.previous = c.previous;
+            if (c.previous == null) {
+                brand.previous = null;
+            } else {
+                brand.previous = clonePrevious(c.previous);
+            }
             brand.style = c.style;
             brand.title = c.title;
             combos.add(brand);
-        }
+        } */
     }
     
-    public SemanticList vertical(Link link, ArrayList<Combo> original) throws IOException {
+    public Combo clonePrevious(Combo c){
+            Combo brand = new Combo(c.x,c.y,c.text,c.tag,c.dom);
+            brand.setFont(c.font);
+            brand.setGroup(c.group);
+            brand.setHeight(c.height);
+            brand.setParent(c.parent);
+            brand.setText(c.text);
+            brand.setUrl(c.url);
+            brand.setContract(c.contract);
+            if (c.previous == null) {
+                brand.previous = null;
+            } else {
+                brand.previous = clonePrevious(c.previous);
+            }
+            brand.style = c.style;
+            brand.title = c.title;
+            return brand;
+    }
+    
+    public SemanticList vertical(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.vertical(combos);
         int height = 0;
         int xvalue = 0;
@@ -206,6 +239,16 @@ public class ListEngine {
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);
             if (current.size() < 3) continue;
+            /*
+            boolean hasTitle = false;
+            for (int i=0;i<current.size()-1;i++) {
+                if (!current.get(i+1).previous.equals(current.get(i))){
+                    hasTitle = true;
+                    break;
+                }
+            }
+            if (hasTitle) continue;
+            */
             if (validCombo(current)) {
                 //for (Combo c: current) System.out.println(c);
                 if (current.get(0).height > height || current.get(0).x < xvalue){
@@ -243,10 +286,11 @@ public class ListEngine {
         }
     }
     
-    public SemanticList horizontal(Link link, ArrayList<Combo> original) throws IOException {
+    public SemanticList horizontal(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         HashMap<String,ArrayList<Combo>> horizontals =  Utility.horizontal(combos);
         int height = 0;
         int yvalue = 0;
@@ -293,10 +337,11 @@ public class ListEngine {
     }
     
     
-    public SemanticList nestedVertical(Link link, ArrayList<Combo> original) throws IOException {
+    public SemanticList nestedVertical(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.vertical(combos);
         int height = 0;
         int xvalue = 10000;
@@ -347,10 +392,11 @@ public class ListEngine {
         }
     }
     
-    public SemanticList nestedTiled(Link link, ArrayList<Combo> original) throws IOException {
+    public SemanticList nestedTiled(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.tiled(combos);
         HashMap<String,ArrayList<Combo>> tileds = new HashMap<String,ArrayList<Combo>>();
         HashMap<String,Integer> counts = new HashMap<String,Integer>();
@@ -409,10 +455,11 @@ public class ListEngine {
         }
     }
     
-    public SemanticList tiled(Link link, ArrayList<Combo> original, int grouptype) throws IOException {
+    public SemanticList tiled(Link link, ArrayList<Combo> combos, int grouptype) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.tiled(combos, grouptype);
         for (Combo c: combos){
             if (c.x == 509) {
@@ -427,21 +474,32 @@ public class ListEngine {
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);
             for (Combo c: current) {
-                if (c.x == 292 || c.x == 40){
+                if (grouptype==0){
                     //System.out.println(c);
                 }
             }
             //System.out.println("----------------------------");
             if (current.size() >= 1) {
-                String index = current.get(0).y + "";
-                if (tileds.keySet().contains(index)) {
-                    tileds.get(index).addAll(current);
-                    counts.put(index, counts.get(index)+1);
+                boolean hasTitle = false;
+                for (int i = 0; i < current.size() - 1; i++) {
+                    if (!current.get(i + 1).previous.equals(current.get(i))) {
+                        hasTitle = true;
+                        break;
+                    }
+                }
+                if (!hasTitle) {
+                    String index = current.get(0).y + "";
+                    if (tileds.keySet().contains(index)) {
+                        tileds.get(index).addAll(current);
+                        counts.put(index, counts.get(index) + 1);
+                    } else {
+                        ArrayList<Combo> empty = new ArrayList<Combo>();
+                        empty.addAll(current);
+                        tileds.put(index, empty);
+                        counts.put(index, 1);
+                    }
                 } else {
-                    ArrayList<Combo> empty = new ArrayList<Combo>();
-                    empty.addAll(current);
-                    tileds.put(index, empty);
-                    counts.put(index, 1);
+                    //to be implemented
                 }
             } 
         }
@@ -485,10 +543,11 @@ public class ListEngine {
         }
     }
     
-    public SemanticList indexed(Link link, ArrayList<Combo> original, int grouptype) throws IOException {
+    public SemanticList indexed(Link link, ArrayList<Combo> combos, int grouptype) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        ArrayList<Combo> combos = new ArrayList<Combo>();
-        resetCombo(combos, original);
+        //ArrayList<Combo> combos = new ArrayList<Combo>();
+        //resetCombo(combos, original);
+        resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.arithmetic(combos, grouptype);
         boolean needHead = true;
         String head = null;
@@ -606,8 +665,9 @@ public class ListEngine {
                 count++;
             }
         }
-        return count*2>list.list.size();
+        return count > 1;
     }
+    
     
     public SemanticList getSchools(Link link) throws IOException {
         //System.out.println("Why:...");
@@ -680,6 +740,7 @@ public class ListEngine {
                     return candidates.get(i);
                 }
             }
+            
             return candidates.get(0);
         }
     }

@@ -1,0 +1,9 @@
+72==http://www.stonybrook.edu/sb/
+School==College of Arts & Sciences==http://www.stonybrook.edu/cas/
+School==College of Business==http://www.stonybrook.edu/commcms/business/
+School==College of Engineering & Applied   Sciences==http://www.ceas.sunysb.edu/
+School==Graduate School==http://www.grad.sunysb.edu/
+School==Honors College==http://stonybrook.edu/uaa/honorscollege/index.shtml
+School==School of Health Technology &   Management==http://www.hsc.stonybrook.edu/shtm/index.cfm
+School==School of Journalism==http://www.stonybrook.edu/journalism/
+School==School of Marine & Atmospheric   Sciences==http://www.somas.stonybrook.edu/

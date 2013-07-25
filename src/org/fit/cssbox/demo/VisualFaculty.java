@@ -32,7 +32,7 @@ public class VisualFaculty {
     //}
     
     public static void main(String[] args) throws MalformedURLException, IOException {
-        ListEngine facultyEngine = new ListEngine(names, new ArrayList<String>(),new ArrayList<String>());
+        ListEngine facultyEngine = new ListEngine(names, new ArrayList<String>(),new ArrayList<String>(),new ArrayList<String>());
         ArrayList<Combo> combos = CSSModel.getCombos("http://www-cs.stanford.edu/faculty");
         for (Combo c: combos) {
             System.out.println(c.text+" -> "+c.x);

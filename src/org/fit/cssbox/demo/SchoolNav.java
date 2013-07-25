@@ -30,7 +30,8 @@ public class SchoolNav{
             ArrayList<String> positives = Utility.getKeywords("Group/schools.txt");
             ArrayList<String> negatives = Utility.getKeywords("Group/Negatives.txt");
             ArrayList<String> degrees = Utility.getKeywords("Group/degrees.txt");
-            engine = new ListEngine(positives, negatives, degrees);
+            ArrayList<String> urlNegatives = Utility.getKeywords("Group/URLNegatives.txt");
+            engine = new ListEngine(positives, negatives, degrees, urlNegatives);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {

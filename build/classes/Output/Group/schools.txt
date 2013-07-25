@@ -64,6 +64,7 @@ Communication
 Natural Sciences
 Geosciences
 Graduate Studies
+Graduate School
 Biology
 Chemical
 Geological

@@ -452,6 +452,7 @@ public class Utility {
     
     public static HashMap<String,ArrayList<Combo>> vertical(ArrayList<Combo> combos) {
         HashMap<String,ArrayList<Combo>> sets = new HashMap<String,ArrayList<Combo>>();
+        HashMap<String,ArrayList<Combo>> result = new HashMap<String,ArrayList<Combo>>();
         for (Combo c: combos) {
             if (c.text.trim().length()!=0) {
                 String key = c.x + "" + c.height + ""+ c.style;
@@ -465,7 +466,40 @@ public class Utility {
                 }
             }
         }
-        return sets;
+        for (String key: sets.keySet()) {
+            ArrayList<Combo> current = sets.get(key);
+            boolean hasTitle = false;
+            for (int i=0;i<current.size()-1;i++) {
+                if (!current.get(i+1).previous.equals(current.get(i))){
+                    hasTitle = true;
+                    break;
+                }
+            }
+            if (!hasTitle) {
+                result.put(key, current);
+            } else {
+                ArrayList<Combo> temp = new ArrayList<Combo>();
+                temp.add(current.get(0));
+                //System.out.println("Need to split...");
+                //System.out.println(current.get(0));
+                for (int i=1;i<current.size();i++) {
+                    //System.out.println(current.get(i).previous);
+                    //System.out.println(current.get(i-1));
+                    //System.out.println("-------------------------");
+                    if (current.get(i).previous != current.get(i-1)) { //!current.get(i).previous.equals(current.get(i-1))
+                        //System.out.println(current.get(i));
+                        result.put(key+""+i, temp);
+                        temp = new ArrayList<Combo>();
+                        temp.add(current.get(i));
+                    } else {
+                        //System.out.println("=====================");
+                        temp.add(current.get(i));
+                    }
+                }
+                result.put(key+""+current.size(), temp);
+            }
+        }
+        return result;
     }
     
     public static HashMap<String,ArrayList<Combo>> verticalNames(ArrayList<Combo> combos) {
@@ -570,7 +604,7 @@ public class Utility {
                     groupExact(temps);
                 }
                 for (Combo c : temps) {
-                    //System.out.println(c);
+                    //if(grouptype==0)System.out.println(c);
                     if (c.group != 0) {
                         //if (c.text.equals("School of Business")) System.out.println(c);
                         String newKey = key + "" + c.group;

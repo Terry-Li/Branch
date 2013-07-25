@@ -1,0 +1,17 @@
+82==http://www.pitt.edu/
+School==Nursing »==http://www.nursing.pitt.edu
+School==Pharmacy »==http://www.pharmacy.pitt.edu
+School==Public & Intl Affairs »==http://www.gspia.pitt.edu
+School==Public Health »==http://www.publichealth.pitt.edu
+School==Social Work »==http://www.socialwork.pitt.edu
+School==Arts & Sciences »==http://www.as.pitt.edu
+School==Business »==http://www.business.pitt.edu
+School==Dental Medicine »==http://www.dental.pitt.edu
+School==Education »==http://www.education.pitt.edu
+School==Engineering »==http://www.engineering.pitt.edu
+School==General Studies »==http://www.cgs.pitt.edu
+School==Health & Rehab »==http://www.shrs.pitt.edu
+School==Honors College »==http://www.honorscollege.pitt.edu
+School==Law »==http://www.law.pitt.edu
+School==Information Sciences »==http://www.ischool.pitt.edu
+School==Medicine »==http://www.medschool.pitt.edu

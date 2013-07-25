@@ -20,12 +20,13 @@ public class TestSchool {
     public static void main(String[] args) throws MalformedURLException, IOException {
         //Document doc = Jsoup.connect("http://www.capella.edu/").timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
         Link l = new Link();
-        l.url = "http://www.utexas.edu/";
+        l.url = "http://www.stonybrook.edu/sb/academics.shtml";
         l.context = new ArrayList<String>();
         ArrayList<String> positives = Utility.getKeywords("Group/schools.txt");
         ArrayList<String> negatives = Utility.getKeywords("Group/Negatives.txt");
         ArrayList<String> degrees = Utility.getKeywords("Group/degrees.txt");
-        ListEngine engine = new ListEngine(positives, negatives, degrees);
+        ArrayList<String> urlNegatives = Utility.getKeywords("Group/URLNegatives.txt");
+        ListEngine engine = new ListEngine(positives, negatives, degrees, urlNegatives);
         SemanticList list = engine.getSchools(l);
         if (list != null)
         for (String school: list.list) {
