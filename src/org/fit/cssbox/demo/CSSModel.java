@@ -106,9 +106,10 @@ public class CSSModel {
                     combos.add(c);
                     //System.out.println(alt+": \n"+c.style+"\nheight: "+c.height+"\nY: "+c.y);
                 }
-            }
-            for (int i = el.getStartChild(); i < el.getEndChild(); i++)
+            }  
+            for (int i = el.getStartChild(); i < el.getEndChild(); i++) {
                 printTextBoxes(el.getSubBox(i), combos, base);
+            }           
         }
     }
     

@@ -1,4 +1,0 @@
-67==http://www.utah.edu/
-School==College of Health==http://www.health.utah.edu/
-School==College of Nursing==http://nursing.utah.edu/
-School==College of Pharmacy==http://pharmacy.utah.edu/

@@ -1,0 +1,20 @@
+39==http://www.umich.edu/
+School==Architecture & Urban Planning==http://taubmancollege.umich.edu/
+School==Art & Design==http://www.art-design.umich.edu/
+School==Business==http://www.bus.umich.edu/
+School==Dentistry==http://www.umich.edu/units_dent.php
+School==Education==http://www.soe.umich.edu/
+School==Engineering==http://www.umich.edu/units_engin.php
+School==Graduate Studies, Rackham School of==http://www.rackham.umich.edu/
+School==Information, School of==http://www.si.umich.edu/
+School==Kinesiology==http://www.kines.umich.edu/
+School==Law==http://www.law.umich.edu/
+School==Literature, Science, and the Arts==http://www.umich.edu/units_lsa.php
+School==Medicine==http://www.med.umich.edu/medschool/
+School==Music, Theatre & Dance==http://www.music.umich.edu/
+School==Natural Resources & Environment==http://www.snre.umich.edu/
+School==Nursing==http://www.nursing.umich.edu/
+School==Pharmacy==http://pharmacy.umich.edu/pharmacy/home
+School==Public Health==http://www.sph.umich.edu/
+School==Public Policy==http://www.fordschool.umich.edu/
+School==Social Work==http://ssw.umich.edu/

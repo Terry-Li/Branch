@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -225,6 +226,28 @@ public class ListEngine {
             return brand;
     }
     
+    public void mergeList(ArrayList<ArrayList<Combo>> candidates){
+        ArrayList<Combo> previous = null;
+        for (Iterator<ArrayList<Combo>> it = candidates.iterator(); it.hasNext();) {
+            previous = it.next();
+            String head = previous.get(0).previous.text.toLowerCase();
+            if (head.contains("faculties") || head.contains("colleges")) {
+                break;
+            }
+        }
+        for (Iterator<ArrayList<Combo>> it = candidates.iterator(); it.hasNext();) {
+            if (previous!=null) {
+                ArrayList<Combo> list = it.next();
+                Combo last = previous.get(previous.size() - 1); //lastComboOfPrevious
+                Combo first = list.get(0); //firstComboOfCurrent 
+                if (first.previous==last && first.height == last.height && first.style.equals(last.style)) { //first.previous==last && first.height==last.height && first.style.equals(last.style)
+                    previous.addAll(list);
+                    it.remove();
+                } 
+            }
+        }
+    }
+    
     public SemanticList vertical(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
         //ArrayList<Combo> combos = new ArrayList<Combo>();
@@ -236,43 +259,47 @@ public class ListEngine {
         boolean needHead = true;
         String head = null;
         String title = null;
+        ArrayList<ArrayList<Combo>> candidates = new ArrayList<ArrayList<Combo>>();
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);
             if (current.size() < 3) continue;
-            /*
-            boolean hasTitle = false;
-            for (int i=0;i<current.size()-1;i++) {
-                if (!current.get(i+1).previous.equals(current.get(i))){
-                    hasTitle = true;
-                    break;
-                }
-            }
-            if (hasTitle) continue;
-            */
+
             if (validCombo(current)) {
-                //for (Combo c: current) System.out.println(c);
-                if (current.get(0).height > height || current.get(0).x < xvalue){
-                    height = current.get(0).height;
-                    xvalue = current.get(0).x;
-                    output = new ArrayList<String>();
-                    needHead = true;
-                    for (Combo c : current) {
-                        if (needHead) {
-                            needHead = false;
-                            title = c.title;
-                            if (c.previous != null) {
-                                head = c.previous.text;
-                            }
-                        }
-                        if (c.url == null || c.url.startsWith("http")) {
-                            output.add(c.text + "==" + c.url);
-                        } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                            output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                        }
-                    }
+                candidates.add(current);
+                for (Combo c: current) {
+                    //System.out.println(c);
                 }
+               // System.out.println("---------------------------");
             } 
         }
+        mergeList(candidates);
+        for (ArrayList<Combo> current: candidates) {
+            for (Combo c: current) {
+                //System.out.println(c);
+            }
+            //System.out.println("-----------------");
+            if (current.get(0).height > height || current.get(0).x < xvalue) {
+                height = current.get(0).height;
+                xvalue = current.get(0).x;
+                output = new ArrayList<String>();
+                needHead = true;
+                for (Combo c : current) {
+                    if (needHead) {
+                        needHead = false;
+                        title = c.title;
+                        if (c.previous != null) {
+                            head = c.previous.text;
+                        }
+                    }
+                    if (c.url == null || c.url.startsWith("http")) {
+                        output.add(c.text + "==" + c.url);
+                    } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
+                        output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                    }
+                }
+            }
+        }
+        
         output = SchoolNav.dedup(output, link.url);
         if (output.size() < 3) {
             return null;
@@ -556,9 +583,14 @@ public class ListEngine {
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);  
             if (current.size() >= 3 && validCombo(current)) {
+                for (Combo c: current) {
+                    //System.out.println(c);
+                }
+                //System.out.println("------------------------");
                 candidates.add(current);
             } 
         }
+        mergeList(candidates);
         if (candidates.size()==1) {
             for (Combo c: candidates.get(0)) {
                 if (needHead) {
@@ -659,6 +691,25 @@ public class ListEngine {
     
     public static boolean hasSchoolKeyword(SemanticList list) {
         int count = 0;
+        boolean headStatus = false;
+        String head = list.head;
+        String title = list.title;
+        if (head!=null && (head.toLowerCase().contains("colleges")||head.toLowerCase().contains("faculties"))) {
+            headStatus = true;
+        } else if (title!=null && (title.toLowerCase().contains("colleges")||title.toLowerCase().contains("faculties"))){
+            headStatus = true;
+        }
+        for (String str: list.list) {
+            String anchor = str.toLowerCase().split("==")[0];
+            if (anchor.contains("faculty") || anchor.contains("college")){ //||anchor.contains("school")
+                count++;
+            }
+        }
+        return count > 1 && headStatus;
+    }
+    
+    public static boolean hasSchoolKeyword2(SemanticList list) {
+        int count = 0;
         for (String str: list.list) {
             String anchor = str.toLowerCase().split("==")[0];
             if (anchor.contains("faculty") || anchor.contains("college")){ //||anchor.contains("school")
@@ -740,7 +791,12 @@ public class ListEngine {
                     return candidates.get(i);
                 }
             }
-            
+            for (int i=0;i<candidates.size();i++) {
+                if (hasSchoolKeyword2(candidates.get(i))) {
+                    System.out.println(i);
+                    return candidates.get(i);
+                }
+            }
             return candidates.get(0);
         }
     }

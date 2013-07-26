@@ -1,15 +1,5 @@
 13==http://www.sfu.ca/
-School==Faculty of Health Sciences ==http://www.sfu.ca/fhs.html
-School==Faculty of Science==http://www.sfu.ca/science
-School==Actuarial Science and Statistics==http://www.stat.sfu.ca/
-School==Biological Sciences==http://www.biology.sfu.ca/
-School==Biomedical Physiology and Kinesiology==http://www.sfu.ca/bpk.html
-School==Chemistry==http://www.chemistry.sfu.ca/
-School==Earth Sciences==http://www.sfu.ca/earth-sciences/
-School==Mathematics==http://www.math.sfu.ca
-School==Molecular Biology and Biochemistry==http://www.sfu.ca/mbb/
-School==Physics==http://www.physics.sfu.ca/
-School==Faculty of Applied Sciences ==http://fas.sfu.ca
-School==Computing Science==http://www.cs.sfu.ca/
-School==Engineering Science==http://www.ensc.sfu.ca/
-School==Mechatronic Systems Engineering==http://mse.ensc.sfu.ca
+School==Faculty of Education==null
+School==Faculty of Environment==null
+School==Faculty of Health Sciences==null
+School==Faculty of Science==null
