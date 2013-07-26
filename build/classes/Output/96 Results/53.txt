@@ -1,0 +1,11 @@
+53==http://www.duke.edu/
+School==Trinity College of Arts & Sciences==http://trinity.duke.edu/
+School==Divinity School==http://www.divinity.duke.edu/
+School==Fuqua School of Business==http://www.fuqua.duke.edu/
+School==The Graduate School==http://gradschool.duke.edu/
+School==School of Law==http://www.law.duke.edu/
+School==School of Medicine==http://medschool.duke.edu/
+School==Nicholas School of the Environment==http://www.nicholas.duke.edu/
+School==School of Nursing==http://nursing.duke.edu/
+School==Pratt School of Engineering==http://www.pratt.duke.edu/
+School==Sanford School of Public Policy==http://sanford.duke.edu/

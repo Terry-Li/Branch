@@ -1,0 +1,5 @@
+42==http://www.ucla.edu/
+School==Dentistry==http://www.dentistry.ucla.edu
+School==Design | Media Arts==http://www.dma.ucla.edu
+School==Digital Humanities==http://www.cdh.ucla.edu/instruction/dhminor.html
+School==Disability Studies==http://www.disabilitystudies.ucla.edu

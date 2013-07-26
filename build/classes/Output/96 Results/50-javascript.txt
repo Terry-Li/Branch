@@ -1,0 +1,4 @@
+50==http://www.usc.edu/
+School==Undergraduate Education==http://undergrad.usc.edu/
+School==The Graduate School==http://www.usc.edu/schools/GraduateSchool/
+School==Continuing Education and Professional Studies==http://continuingeducation.usc.edu/
