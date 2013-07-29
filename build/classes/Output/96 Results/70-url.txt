@@ -1,5 +1,0 @@
-70==http://www.dartmouth.edu/
-School==FACULTY OF THE ARTS & SCIENCES==http://dartmouth.edu/faculty-directory
-School==GEISEL SCHOOL OF MEDICINE==http://geiselmed.dartmouth.edu/faculty/facultydb/search.php
-School==THAYER SCHOOL OF ENGINEERING==http://engineering.dartmouth.edu/people/faculty/
-School==TUCK SCHOOL OF BUSINESS==http://www.tuck.dartmouth.edu/faculty/faculty-directory

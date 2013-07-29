@@ -24,6 +24,7 @@ public class SUSE implements Runnable{
     public static final String[] gateway = {"academics","academic units","schools","colleges","divisions", "faculties",
         "departments","department list","programs","faculty","directory","people","staff"};
     public Set<String> visited = new HashSet<String>();
+    public static String[] NoUrls = {"0","7","23","43","54","60","68","77"};
 
 
     public SUSE(String univName, String univURL) {
@@ -80,14 +81,21 @@ public class SUSE implements Runnable{
      */
     public static void main(String[] args) throws IOException, InterruptedException {
         List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
-        ExecutorService executor = Executors.newFixedThreadPool(1);
-        for (int i=23; i<24; i++) {
+        ExecutorService executor = Executors.newFixedThreadPool(50);
+        for (int i=0; i<lines.size(); i++) {
             Runnable task = new SUSE(i+1+"",lines.get(i).split("==")[1]);
             executor.execute(task);
         }
         executor.shutdown();
         while (!executor.isTerminated()) {
         }
+        ArrayList<String> fails = new ArrayList<String>();
+        for (int j=0; j<lines.size(); j++) {
+            if (!new File(dataCenter+(j+1)+".txt").exists()) {
+                fails.add((j+1)+"");
+            }
+        }
+        FileUtils.writeStringToFile(new File("log.txt"), fails.toString());
         System.out.println("Finished all threads");
     }
 }

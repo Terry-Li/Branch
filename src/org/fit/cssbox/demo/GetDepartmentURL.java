@@ -35,12 +35,7 @@ public class GetDepartmentURL {
 	public Document pageDoc = null; // 包含学院的页面URL
 	public String deptName = null; // 学院名
 	
-	public static void main(String[] args) throws IOException {
-		GetDepartmentURL departmentUrl = new GetDepartmentURL();
-                Document doc = Jsoup.connect("http://ualr.edu/academics/colleges-and-departments/").timeout(12000).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
-		String url = departmentUrl.getDepartmentURL(doc,"College of Professional Studies");
-		System.out.println(url);
-	}
+	
 	
 	/**
 	 * 根据学院名，取该学院名缩写和不包含'department of'等带'of'的名字
@@ -309,31 +304,60 @@ public class GetDepartmentURL {
             return false;
         }
         
+        public static boolean hasPriority(ArrayList<Combo> current){
+            String anchor = current.get(0).text.toLowerCase();
+            if (anchor.contains("faculty") || anchor.contains("college") || anchor.contains("school") || anchor.startsWith("http")) {
+                return true;
+            } else {
+                return false;
+            }
+            
+        }
+        
         public static ArrayList<String> parallelLinks(String url, int count){
+            ArrayList<ArrayList<Combo>> candidates = new ArrayList<ArrayList<Combo>>();
             ArrayList<String> links = new ArrayList<String>();
             try {
                 ArrayList<Combo> combos = CSSModel.getCombos(url);
-                for (Combo c: combos){
-                    //if (c.text.toLowerCase().contains("visit"))System.out.println(c);
+                for (Combo c : combos) {
+                    //System.out.println(c);
                 }
-                HashMap<String,ArrayList<Combo>> maps = Utility.vertical(combos);
-                for (String key: maps.keySet()) {
-                    ArrayList<Combo> current = maps.get(key);
-                    //if (current.size() == 15) {
-                        for (Combo c : current) {
-                            //System.out.println(c.text);
-                        }
-                        //System.out.println("-----------------------");
-                    //}
-                    //System.out.println(count);
-                    if (current.size() == count && current.get(0).url != null) {
-                        for (Combo c: current){
-                            links.add(c.url);
-                        }
-                        break;
+
+                HashMap<String,ArrayList<Combo>> list = Utility.verticalURL(combos);
+                for (String key: list.keySet()) {
+                    ArrayList<Combo> current = list.get(key);
+                    for (Combo c: current) {
+                        //if (c.x == 140)
+                        //System.out.println(c.url);
+                    }
+                    //System.out.println("---------------------------");
+                    if (current.size() == count) {
+                        candidates.add(current);
                     } 
                 }
-          
+                if (candidates.size() == 1) {
+                    for (Combo c : candidates.get(0)) {
+                        links.add(c.url);
+                    }
+                    return links;
+                } else if (candidates.size() > 1) {
+                    for (ArrayList<Combo> current: candidates) {
+                        if (hasPriority(current)) {
+                            for (Combo c : current) {
+                                links.add(c.url);
+                            }
+                            return links;
+                        }
+                    }
+                    for (ArrayList<Combo> current: candidates) {
+                        if (true) {
+                            for (Combo c : current) {
+                                links.add(c.url);
+                            }
+                            return links;
+                        }
+                    }
+                }
             } catch (MalformedURLException ex) {
                 Logger.getLogger(GetDepartmentURL.class.getName()).log(Level.SEVERE, null, ex);
                 return links;
@@ -341,4 +365,11 @@ public class GetDepartmentURL {
             return links;
         }
 	
+        public static void main(String[] args) {
+            ArrayList<String> links = parallelLinks("http://www.mcgill.ca/faculties/",13);// 14, 20, 11, 19, 12, 8, 13
+            for (String link: links) {
+                System.out.println(link);
+            }
+	}
+        
 }

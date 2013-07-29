@@ -101,6 +101,23 @@ public class SchoolNav{
     } 
     
     public static void addURLs(ArrayList<String> temps, String baseURL) throws IOException{
+        if (!needURLStrong(temps)) return;
+        ///////////////////////////parallel local/////////////////////////
+
+        ArrayList<String> as = GetDepartmentURL.parallelLinks(baseURL, temps.size());
+        if (as.size() != 0) {
+            for (int i = 0; i < temps.size(); i++) {
+                String[] tokens = temps.get(i).split("==");
+                temps.set(i, tokens[0] + "==" + as.get(i));
+            }
+        }
+        
+        
+        //////////////////////////local////////////////////////////////////
+
+    }
+    
+    public static void addURLs_Old(ArrayList<String> temps, String baseURL) throws IOException{
         Document doc = Jsoup.connect(baseURL).timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
         //////////////////////////////the same anchor-global/////////////////////////////////////
         ArrayList<String> links = null;
@@ -185,13 +202,20 @@ public class SchoolNav{
         } else return;
     }
     
-    public static ArrayList<String> dedup(ArrayList<String> dups, String baseURL) {
-        /*
+    public static ArrayList<String> dedup(ArrayList<Combo> combos, ArrayList<String> dups, String baseURL) {
+        for (int i=0; i<dups.size(); i++) {
+            String[] pairs = dups.get(i).split("==");
+            if (pairs.length!=2) continue;
+            if (pairs[1].contains("#")) {
+                dups.set(i, pairs[0]+"==null");
+            }
+        }
+        
         try {
             addURLs(dups,baseURL);
         } catch (IOException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
-        }*/
+        }
         ArrayList<String> urls = new ArrayList<String>();
         ArrayList<String> dedups = new ArrayList<String>();
         for (String dup: dups) {
@@ -257,6 +281,7 @@ public class SchoolNav{
             }
         } catch (IOException ex) {
             Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+            return schoolLinks;
         }
         return schoolLinks;
     }
@@ -311,6 +336,7 @@ public class SchoolNav{
             }
         } catch (IOException ex) {
             Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+            return schoolLinks;
         }
         return schoolLinks;
     }

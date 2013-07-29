@@ -452,7 +452,7 @@ public class Utility {
     
     public static HashMap<String,ArrayList<Combo>> vertical(ArrayList<Combo> combos) {
         HashMap<String,ArrayList<Combo>> sets = new HashMap<String,ArrayList<Combo>>();
-        HashMap<String,ArrayList<Combo>> result = new HashMap<String,ArrayList<Combo>>();
+        //HashMap<String,ArrayList<Combo>> result = new HashMap<String,ArrayList<Combo>>();
         for (Combo c: combos) {
             if (c.text.trim().length()!=0) {
                 String key = c.x + "" + c.height + ""+ c.style;
@@ -466,6 +466,7 @@ public class Utility {
                 }
             }
         }
+        /*
         for (String key: sets.keySet()) {
             ArrayList<Combo> current = sets.get(key);
             boolean hasTitle = false;
@@ -498,9 +499,36 @@ public class Utility {
                 }
                 result.put(key+""+current.size(), temp);
             }
-        }
-        return result;
+        }*/
+        return sets;
     }
+    
+    public static HashMap<String,ArrayList<Combo>> verticalURL(ArrayList<Combo> combos) {
+        ArrayList<Combo> urlCombos = new ArrayList<Combo>();
+        for (Combo c: combos) {
+            if (c.url != null && !c.url.contains("#")) {
+                urlCombos.add(c);
+            }
+        }
+        HashMap<String,ArrayList<Combo>> sets = new HashMap<String,ArrayList<Combo>>();
+        //HashMap<String,ArrayList<Combo>> result = new HashMap<String,ArrayList<Combo>>();
+        for (Combo c: urlCombos) {
+            if (c.text.trim().length()!=0) {
+                String key = c.x + "" + c.height + ""+ c.style;
+                //if (c.text.equals("School of Business")) System.out.println(c);
+                if (sets.keySet().contains(key)) {
+                    sets.get(key).add(c);
+                } else {
+                    ArrayList<Combo> empty = new ArrayList<Combo>();
+                    empty.add(c);
+                    sets.put(key, empty);
+                }
+            }
+        }
+        
+        return sets;
+    }
+    
     
     public static HashMap<String,ArrayList<Combo>> verticalNames(ArrayList<Combo> combos) {
         HashMap<String,ArrayList<Combo>> sets = new HashMap<String,ArrayList<Combo>>();

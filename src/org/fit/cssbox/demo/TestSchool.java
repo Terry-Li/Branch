@@ -20,7 +20,7 @@ public class TestSchool {
     public static void main(String[] args) throws MalformedURLException, IOException {
         //Document doc = Jsoup.connect("http://www.capella.edu/").timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
         Link l = new Link();
-        l.url = "http://www.virginia.edu/";
+        l.url = "http://contacts.ucalgary.ca/directory/faculties";
         l.context = new ArrayList<String>();
         ArrayList<String> positives = Utility.getKeywords("Group/schools.txt");
         ArrayList<String> negatives = Utility.getKeywords("Group/Negatives.txt");
