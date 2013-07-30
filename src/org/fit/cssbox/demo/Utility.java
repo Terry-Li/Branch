@@ -67,7 +67,7 @@ public class Utility {
             return true;
         } else {
             url = url.toLowerCase();
-            if (!url.contains(".com") && !url.contains(".org") && !FILTERS.matcher(url).matches()) {
+            if (!FILTERS.matcher(url).matches()) { //!url.contains(".com") && !url.contains(".org") && (.com matches www.communication.edu)
                 return true;
             } else {
                 return false;

@@ -181,8 +181,10 @@ public class CSSModel {
                 c.parent = "a";
             }
         } */
+        combos.get(0).index = 0;
         for (int i=1;i<combos.size();i++) {
             combos.get(i).previous = combos.get(i-1);
+            combos.get(i).index = i;
         }
         return combos;
 

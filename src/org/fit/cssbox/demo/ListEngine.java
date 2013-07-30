@@ -119,8 +119,7 @@ public class ListEngine {
     
     public ArrayList<String> getNames(String url, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
+        ArrayList<Integer> index = new ArrayList<Integer>();
         resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.verticalNames(combos);
         for (String key: verticals.keySet()) {
@@ -131,25 +130,22 @@ public class ListEngine {
                     //System.out.println(c.text);
                     if (c.url != null && !c.url.startsWith("http")) {
                         output.add(c.text + "==" + new URL(new URL(url), c.url).toString());
+                        index.add(c.index);
                     } else {
                         output.add(c.text + "==" + c.url);
+                        index.add(c.index);
                     }
                 }
                 //break;
                 //System.out.println("=========================================");
             }
         }
-        return SchoolNav.dedup(output, url);
+        return SchoolNav.dedup(combos, output, index, url);
     }
     
     public ArrayList<Integer> getNameCombos(String url, ArrayList<Combo> combos) throws IOException {
         ArrayList<Integer> output = new ArrayList<Integer>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
         resetCombo(combos);
-        for (int i=0;i<combos.size();i++) {
-            combos.get(i).index = i;
-        }
         HashMap<String,ArrayList<Combo>> verticals =  Utility.verticalNames(combos);
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);
@@ -250,8 +246,7 @@ public class ListEngine {
     
     public SemanticList vertical(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
+        ArrayList<Integer> index = new ArrayList<Integer>();
         resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.vertical(combos);
         int height = 0;
@@ -282,6 +277,7 @@ public class ListEngine {
                 height = current.get(0).height;
                 xvalue = current.get(0).x;
                 output = new ArrayList<String>();
+                index = new ArrayList<Integer>();
                 needHead = true;
                 for (Combo c : current) {
                     if (needHead) {
@@ -293,14 +289,16 @@ public class ListEngine {
                     }
                     if (c.url == null || c.url.startsWith("http")) {
                         output.add(c.text + "==" + c.url);
+                        index.add(c.index);
                     } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
                         output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                        index.add(c.index);
                     }
                 }
             }
         }
         
-        output = SchoolNav.dedup(output, link.url);
+        output = SchoolNav.dedup(combos, output, index, link.url);
         if (output.size() < 3) {
             return null;
         } else {
@@ -315,8 +313,7 @@ public class ListEngine {
     
     public SemanticList horizontal(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
+        ArrayList<Integer> index = new ArrayList<Integer>();
         resetCombo(combos);
         HashMap<String,ArrayList<Combo>> horizontals =  Utility.horizontal(combos);
         int height = 0;
@@ -332,6 +329,7 @@ public class ListEngine {
                     height = current.get(0).height;
                     yvalue = current.get(0).y;
                     output = new ArrayList<String>();
+                    index = new ArrayList<Integer>();
                     needHead = true;
                     for (Combo c : current) {
                         if (needHead) {
@@ -343,14 +341,16 @@ public class ListEngine {
                         }
                         if (c.url == null || c.url.startsWith("http")) {
                             output.add(c.text + "==" + c.url);
+                            index.add(c.index);
                         } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
                             output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                            index.add(c.index);
                         }
                     }
                 }
             } 
         }
-        output = SchoolNav.dedup(output, link.url);
+        output = SchoolNav.dedup(combos, output, index, link.url);
         if (output.size() < 3) {
             return null;
         } else {
@@ -366,8 +366,7 @@ public class ListEngine {
     
     public SemanticList nestedVertical(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
+        ArrayList<Integer> index = new ArrayList<Integer>();
         resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.vertical(combos);
         int height = 0;
@@ -388,6 +387,7 @@ public class ListEngine {
                     height = current.get(0).height;
                     xvalue = current.get(0).x;
                     output = new ArrayList<String>();
+                    index = new ArrayList<Integer>();
                     needHead = true;
                     for (Combo c : current) {
                         if (needHead) {
@@ -399,14 +399,16 @@ public class ListEngine {
                         }
                         if (c.url == null || c.url.startsWith("http")) {
                             output.add(c.text + "==" + c.url);
+                            index.add(c.index);
                         } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
                             output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                            index.add(c.index);
                         }
                     }
                 } 
             } 
         }
-        output = SchoolNav.dedup(output, link.url);
+        output = SchoolNav.dedup(combos, output, index, link.url);
         if (output.size() < 3) {
             return null;
         } else {
@@ -421,8 +423,7 @@ public class ListEngine {
     
     public SemanticList nestedTiled(Link link, ArrayList<Combo> combos) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
+        ArrayList<Integer> index = new ArrayList<Integer>();
         resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.tiled(combos);
         HashMap<String,ArrayList<Combo>> tileds = new HashMap<String,ArrayList<Combo>>();
@@ -433,15 +434,15 @@ public class ListEngine {
         for (String key: verticals.keySet()) {
             ArrayList<Combo> current = verticals.get(key);
             if (current.size() > 1) {
-                String index = current.get(0).y + "";
-                if (tileds.keySet().contains(index)) {
-                    tileds.get(index).addAll(current);
-                    counts.put(index, counts.get(index)+1);
+                String subKey = current.get(0).y + "";
+                if (tileds.keySet().contains(subKey)) {
+                    tileds.get(subKey).addAll(current);
+                    counts.put(subKey, counts.get(subKey)+1);
                 } else {
                     ArrayList<Combo> empty = new ArrayList<Combo>();
                     empty.addAll(current);
-                    tileds.put(index, empty);
-                    counts.put(index, 1);
+                    tileds.put(subKey, empty);
+                    counts.put(subKey, 1);
                 }
             } 
         }
@@ -452,6 +453,7 @@ public class ListEngine {
             if (counts.get(key) > 1 && validCombo(current) && current.get(0).height > height) {
                 height = current.get(0).height;
                 output = new ArrayList<String>();
+                index = new ArrayList<Integer>();
                 needHead = true;
                 for (Combo c : current) {
                     if (needHead) {
@@ -463,13 +465,15 @@ public class ListEngine {
                     }
                     if (c.url == null || c.url.startsWith("http")) {
                         output.add(c.text + "==" + c.url);
+                        index.add(c.index);
                     } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")){
                         output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                        index.add(c.index);
                     }
                 }
             }
         }
-        output = SchoolNav.dedup(output, link.url);
+        output = SchoolNav.dedup(combos, output, index, link.url);
         if (output.size() < 3) {
             return null;
         } else {
@@ -484,8 +488,7 @@ public class ListEngine {
     
     public SemanticList tiled(Link link, ArrayList<Combo> combos, int grouptype) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
+        ArrayList<Integer> index = new ArrayList<Integer>();
         resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.tiled(combos, grouptype);
         for (Combo c: combos){
@@ -515,15 +518,15 @@ public class ListEngine {
                     }
                 }
                 if (!hasTitle) {
-                    String index = current.get(0).y + "";
-                    if (tileds.keySet().contains(index)) {
-                        tileds.get(index).addAll(current);
-                        counts.put(index, counts.get(index) + 1);
+                    String subKey = current.get(0).y + "";
+                    if (tileds.keySet().contains(subKey)) {
+                        tileds.get(subKey).addAll(current);
+                        counts.put(subKey, counts.get(subKey) + 1);
                     } else {
                         ArrayList<Combo> empty = new ArrayList<Combo>();
                         empty.addAll(current);
-                        tileds.put(index, empty);
-                        counts.put(index, 1);
+                        tileds.put(subKey, empty);
+                        counts.put(subKey, 1);
                     }
                 } else {
                     //to be implemented
@@ -537,6 +540,7 @@ public class ListEngine {
             if (counts.get(key) > 1 && validCombo(current) && current.get(0).height > height) {
                 height = current.get(0).height;
                 output = new ArrayList<String>();
+                index = new ArrayList<Integer>();
                 needHead = true;
                 for (Combo c : current) {
                     //System.out.println(c);
@@ -550,14 +554,16 @@ public class ListEngine {
                     //System.out.println("----------------"+c.url+"--------------------");
                     if (c.url == null || c.url.startsWith("http")) {
                         output.add(c.text + "==" + c.url);
+                        index.add(c.index);
                     } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")){
                         output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                        index.add(c.index);
                     } 
                 }
                 //System.out.println("----------------------------");
             }
         }
-        output = SchoolNav.dedup(output, link.url);
+        output = SchoolNav.dedup(combos, output, index, link.url);
         if (output.size() < 3) {
             return null;
         } else {
@@ -572,8 +578,7 @@ public class ListEngine {
     
     public SemanticList indexed(Link link, ArrayList<Combo> combos, int grouptype) throws IOException {
         ArrayList<String> output = new ArrayList<String>();
-        //ArrayList<Combo> combos = new ArrayList<Combo>();
-        //resetCombo(combos, original);
+        ArrayList<Integer> index = new ArrayList<Integer>();
         resetCombo(combos);
         HashMap<String,ArrayList<Combo>> verticals =  Utility.arithmetic(combos, grouptype);
         boolean needHead = true;
@@ -603,8 +608,10 @@ public class ListEngine {
 
                 if (c.url == null || c.url.startsWith("http")) {
                     output.add(c.text + "==" + c.url);
+                    index.add(c.index);
                 } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
                     output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                    index.add(c.index);
                 }
             }
         } else if (candidates.size() > 1) {
@@ -628,8 +635,10 @@ public class ListEngine {
 
                         if (c.url == null || c.url.startsWith("http")) {
                             output.add(c.text + "==" + c.url);
+                            index.add(c.index);
                         } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
                             output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                            index.add(c.index);
                         }
                     }
                 }
@@ -649,8 +658,10 @@ public class ListEngine {
 
                             if (c.url == null || c.url.startsWith("http")) {
                                 output.add(c.text + "==" + c.url);
+                                index.add(c.index);
                             } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
                                 output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                                index.add(c.index);
                             }
                         }
                         success = true;
@@ -669,14 +680,16 @@ public class ListEngine {
 
                         if (c.url == null || c.url.startsWith("http")) {
                             output.add(c.text + "==" + c.url);
+                            index.add(c.index);
                         } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
                             output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
+                            index.add(c.index);
                         }
                     }
                 }
             }
         }
-        output = SchoolNav.dedup(output, link.url);
+        output = SchoolNav.dedup(combos, output, index, link.url);
         if (output.size() < 3) {
             return null;
         } else {
@@ -726,8 +739,8 @@ public class ListEngine {
         //System.out.println(combos.size());
         //FileWriter writer = new FileWriter("96 Results/log.txt", true);
         for (Combo c: combos) {
-            if (true) {
-                //System.out.println(c);
+            if (c.url !=null && c.text.toLowerCase().contains("site")) {
+                System.out.println(c);
                 //writer.write(c.toString()+"\n");
                 //System.out.println(c.style);
             }

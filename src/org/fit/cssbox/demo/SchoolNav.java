@@ -100,109 +100,63 @@ public class SchoolNav{
         return links;
     } 
     
-    public static void addURLs(ArrayList<String> temps, String baseURL) throws IOException{
-        if (!needURLStrong(temps)) return;
-        ///////////////////////////parallel local/////////////////////////
+    public static void addURLs(ArrayList<Combo> combos, ArrayList<String> temps, ArrayList<Integer> index, String baseURL) throws IOException{
+        if (!needURLStrong(temps)) return; //|| temps.size() != index.size()
 
-        ArrayList<String> as = GetDepartmentURL.parallelLinks(baseURL, temps.size());
+        ArrayList<String> as = GetDepartmentURL.parallelLinks(combos, baseURL, temps.size());
         if (as.size() != 0) {
             for (int i = 0; i < temps.size(); i++) {
                 String[] tokens = temps.get(i).split("==");
                 temps.set(i, tokens[0] + "==" + as.get(i));
             }
+        } else {
+            for (int i=0; i<index.size()-1; i++) {
+                for (int j=index.get(i)+1; j<index.get(i+1); j++) {
+                    String url = combos.get(j).url;
+                    String anchor = combos.get(j).text.toLowerCase();
+                    if (url != null && !url.contains("#") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
+                        String[] tokens = temps.get(i).split("==");
+                        temps.set(i, tokens[0] + "==" + url);
+                        break;
+                    }
+                }
+            }
+            for (int j = index.get(index.size()-1) + 1; j < combos.size(); j++) {
+                String url = combos.get(j).url;
+                String anchor = combos.get(j).text.toLowerCase();
+                if (url != null && !url.contains("#") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
+                    String[] tokens = temps.get(index.size()-1).split("==");
+                    temps.set(index.size()-1, tokens[0] + "==" + url);
+                    break;
+                }
+            }
+            if (needURLStrong(temps)) {
+                for (int i = 0; i < index.size() - 1; i++) {
+                    for (int j = index.get(i) + 1; j < index.get(i + 1); j++) {
+                        String url = combos.get(j).url;
+                        if (url != null && !url.contains("#")) {
+                            String[] tokens = temps.get(i).split("==");
+                            temps.set(i, tokens[0] + "==" + url);
+                            break;
+                        }
+                    }
+                }
+                for (int j = index.get(index.size() - 1) + 1; j < combos.size(); j++) {
+                    String url = combos.get(j).url;
+                    if (url != null && !url.contains("#")) {
+                        String[] tokens = temps.get(index.size() - 1).split("==");
+                        temps.set(index.size() - 1, tokens[0] + "==" + url);
+                        break;
+                    }
+                }
+            }
         }
-        
-        
-        //////////////////////////local////////////////////////////////////
 
     }
     
-    public static void addURLs_Old(ArrayList<String> temps, String baseURL) throws IOException{
-        Document doc = Jsoup.connect(baseURL).timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
-        //////////////////////////////the same anchor-global/////////////////////////////////////
-        ArrayList<String> links = null;
-        
-        if (needURL(temps)) {  
-            //for (String temp: temps) System.out.println(temp);
-            links = getLinks(doc);
-            for (int i=0; i< temps.size(); i++){
-                //System.out.println(temps.get(i));
-                String[] tokens = temps.get(i).split("==");
-                if (tokens[1].equals("null")) {
-                    //System.out.println(tokens[0]);
-                    for (String link: links) {
-                        String[] pair = link.split("==");
-                        if (pair[0].equalsIgnoreCase(tokens[0]) && !pair[1].contains("#")){
-                            temps.set(i,tokens[0]+"=="+pair[1]);
-                            break;
-                        }
-                    }
-                }
-            }
-        } else return; 
-        
-        /////////////////////////////similar global////////////////////
-        if (needURL(temps)) {
-            for (int i=0; i< temps.size(); i++){
-                //System.out.println(temps.get(i));
-                String[] tokens = temps.get(i).split("==");
-                if (tokens[1].equals("null")) {
-                    //System.out.println(tokens[0]);
-                    for (String link: links) {
-                        
-                        String[] pair = link.split("==");
-                        String anchor = pair[0].replaceAll(".*\\s+of\\s+", "").replaceAll("&", "and").replaceAll(":", "").trim();
-                        String abbrevation = tokens[0].replaceAll(".*\\s+of\\s+", "").replaceAll("&", "and").replaceAll(":", "").trim();
-                        if (anchor.endsWith("of")) {
-                            anchor = anchor.split(",")[0];
-                        }
-                        //System.out.println(anchor);
-                        if (anchor.equalsIgnoreCase(abbrevation) && !pair[1].contains("#")){
-                            temps.set(i,tokens[0]+"=="+pair[1]);
-                            break;
-                        }
-                        /*
-                        if (GetDepartmentURL.similar(anchor,abbrevation) && !pair[1].contains("#")){
-                            temps.set(i,tokens[0]+"=="+pair[1]);
-                            break;
-                        }*/
-                    }
-                }
-            }
-        } else return;
-        
-        //for (String temp: temps) System.out.println(temp);
-        ///////////////////////////parallel local/////////////////////////
-        if (needURLStrong(temps)) {          
-            //System.out.println(temps.size());
-            ArrayList<String> as = GetDepartmentURL.parallelLinks(baseURL, temps.size());
-            if (as.size() != 0){
-                //System.out.println("strong....");
-                for (int i=0; i< temps.size(); i++){
-                    String[] tokens = temps.get(i).split("==");
-                    temps.set(i,tokens[0]+"=="+as.get(i));
-                }
-            }
-        } //remove return part
-        
-        //////////////////////////local////////////////////////////////////
-        //for (String temp: temps) System.out.println(temp);
-        GetDepartmentURL departmentUrl = new GetDepartmentURL();
-        if (needURL(temps)) {
-            for (int i=0; i< temps.size(); i++){
-                String[] tokens = temps.get(i).split("==");
-                if (tokens[1].equals("null")) {
-                    String match = departmentUrl.getDepartmentURL(doc,tokens[0]);
-                    if (match != null) {
-                        temps.set(i,tokens[0]+"=="+match);
-                        //System.out.println(temps.get(i));
-                    }
-                }
-            }
-        } else return;
-    }
     
-    public static ArrayList<String> dedup(ArrayList<Combo> combos, ArrayList<String> dups, String baseURL) {
+    public static ArrayList<String> dedup(ArrayList<Combo> combos, ArrayList<String> dups, ArrayList<Integer> index, String baseURL) {
+        if (index.size()==0) return new ArrayList<String>();
         for (int i=0; i<dups.size(); i++) {
             String[] pairs = dups.get(i).split("==");
             if (pairs.length!=2) continue;
@@ -212,7 +166,7 @@ public class SchoolNav{
         }
         
         try {
-            addURLs(dups,baseURL);
+            addURLs(combos,dups,index,baseURL);
         } catch (IOException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
         }

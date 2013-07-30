@@ -314,59 +314,57 @@ public class GetDepartmentURL {
             
         }
         
-        public static ArrayList<String> parallelLinks(String url, int count){
+        public static ArrayList<String> parallelLinks(ArrayList<Combo> combos, String url, int count){
             ArrayList<ArrayList<Combo>> candidates = new ArrayList<ArrayList<Combo>>();
             ArrayList<String> links = new ArrayList<String>();
-            try {
-                ArrayList<Combo> combos = CSSModel.getCombos(url);
-                for (Combo c : combos) {
-                    //System.out.println(c);
-                }
-
-                HashMap<String,ArrayList<Combo>> list = Utility.verticalURL(combos);
-                for (String key: list.keySet()) {
-                    ArrayList<Combo> current = list.get(key);
-                    for (Combo c: current) {
-                        //if (c.x == 140)
-                        //System.out.println(c.url);
-                    }
-                    //System.out.println("---------------------------");
-                    if (current.size() == count) {
-                        candidates.add(current);
-                    } 
-                }
-                if (candidates.size() == 1) {
-                    for (Combo c : candidates.get(0)) {
-                        links.add(c.url);
-                    }
-                    return links;
-                } else if (candidates.size() > 1) {
-                    for (ArrayList<Combo> current: candidates) {
-                        if (hasPriority(current)) {
-                            for (Combo c : current) {
-                                links.add(c.url);
-                            }
-                            return links;
-                        }
-                    }
-                    for (ArrayList<Combo> current: candidates) {
-                        if (true) {
-                            for (Combo c : current) {
-                                links.add(c.url);
-                            }
-                            return links;
-                        }
-                    }
-                }
-            } catch (MalformedURLException ex) {
-                Logger.getLogger(GetDepartmentURL.class.getName()).log(Level.SEVERE, null, ex);
-                return links;
+            
+            for (Combo c : combos) {
+                //System.out.println(c);
             }
+
+            HashMap<String, ArrayList<Combo>> list = Utility.verticalURL(combos);
+            for (String key : list.keySet()) {
+                ArrayList<Combo> current = list.get(key);
+                for (Combo c : current) {
+                    //if (c.x == 140)
+                    //System.out.println(c.url);
+                }
+                //System.out.println("---------------------------");
+                if (current.size() == count) {
+                    candidates.add(current);
+                }
+            }
+            if (candidates.size() == 1) {
+                for (Combo c : candidates.get(0)) {
+                    links.add(c.url);
+                }
+                return links;
+            } else if (candidates.size() > 1) {
+                for (ArrayList<Combo> current : candidates) {
+                    if (hasPriority(current)) {
+                        for (Combo c : current) {
+                            links.add(c.url);
+                        }
+                        return links;
+                    }
+                }
+                for (ArrayList<Combo> current : candidates) {
+                    if (true) {
+                        for (Combo c : current) {
+                            links.add(c.url);
+                        }
+                        return links;
+                    }
+                }
+            }
+
             return links;
         }
 	
-        public static void main(String[] args) {
-            ArrayList<String> links = parallelLinks("http://www.mcgill.ca/faculties/",13);// 14, 20, 11, 19, 12, 8, 13
+        public static void main(String[] args) throws MalformedURLException {
+            String url = "";
+            ArrayList<Combo> combos = CSSModel.getCombos(url);
+            ArrayList<String> links = parallelLinks(combos, url, 13);// 14, 20, 11, 19, 12, 8, 13
             for (String link: links) {
                 System.out.println(link);
             }
