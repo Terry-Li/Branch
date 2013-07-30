@@ -287,13 +287,10 @@ public class ListEngine {
                             head = c.previous.text;
                         }
                     }
-                    if (c.url == null || c.url.startsWith("http")) {
-                        output.add(c.text + "==" + c.url);
-                        index.add(c.index);
-                    } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                        output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                        index.add(c.index);
-                    }
+                    
+                    output.add(c.text + "==" + c.url);
+                    index.add(c.index);
+                    
                 }
             }
         }
@@ -339,13 +336,10 @@ public class ListEngine {
                                 head = c.previous.text;
                             }
                         }
-                        if (c.url == null || c.url.startsWith("http")) {
-                            output.add(c.text + "==" + c.url);
-                            index.add(c.index);
-                        } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                            output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                            index.add(c.index);
-                        }
+                        
+                        output.add(c.text + "==" + c.url);
+                        index.add(c.index);
+                        
                     }
                 }
             } 
@@ -397,13 +391,10 @@ public class ListEngine {
                                 head = c.previous.text;
                             }
                         }
-                        if (c.url == null || c.url.startsWith("http")) {
-                            output.add(c.text + "==" + c.url);
-                            index.add(c.index);
-                        } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                            output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                            index.add(c.index);
-                        }
+                        
+                        output.add(c.text + "==" + c.url);
+                        index.add(c.index);
+                        
                     }
                 } 
             } 
@@ -463,13 +454,10 @@ public class ListEngine {
                             head = c.previous.text;
                         }
                     }
-                    if (c.url == null || c.url.startsWith("http")) {
-                        output.add(c.text + "==" + c.url);
-                        index.add(c.index);
-                    } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")){
-                        output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                        index.add(c.index);
-                    }
+                    
+                    output.add(c.text + "==" + c.url);
+                    index.add(c.index);
+                    
                 }
             }
         }
@@ -552,13 +540,10 @@ public class ListEngine {
                         }
                     }
                     //System.out.println("----------------"+c.url+"--------------------");
-                    if (c.url == null || c.url.startsWith("http")) {
-                        output.add(c.text + "==" + c.url);
-                        index.add(c.index);
-                    } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")){
-                        output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                        index.add(c.index);
-                    } 
+                    
+                    output.add(c.text + "==" + c.url);
+                    index.add(c.index);
+                    
                 }
                 //System.out.println("----------------------------");
             }
@@ -606,13 +591,10 @@ public class ListEngine {
                     }
                 }
 
-                if (c.url == null || c.url.startsWith("http")) {
-                    output.add(c.text + "==" + c.url);
-                    index.add(c.index);
-                } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                    output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                    index.add(c.index);
-                }
+                
+                output.add(c.text + "==" + c.url);
+                index.add(c.index);
+                
             }
         } else if (candidates.size() > 1) {
             boolean isConsistent = true;
@@ -633,13 +615,10 @@ public class ListEngine {
                             }
                         }
 
-                        if (c.url == null || c.url.startsWith("http")) {
-                            output.add(c.text + "==" + c.url);
-                            index.add(c.index);
-                        } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                            output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                            index.add(c.index);
-                        }
+                        
+                        output.add(c.text + "==" + c.url);
+                        index.add(c.index);
+                        
                     }
                 }
             } else {
@@ -656,13 +635,10 @@ public class ListEngine {
                                 }
                             }
 
-                            if (c.url == null || c.url.startsWith("http")) {
-                                output.add(c.text + "==" + c.url);
-                                index.add(c.index);
-                            } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                                output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                                index.add(c.index);
-                            }
+                            
+                            output.add(c.text + "==" + c.url);
+                            index.add(c.index);
+                            
                         }
                         success = true;
                         break;
@@ -678,13 +654,10 @@ public class ListEngine {
                             }
                         }
 
-                        if (c.url == null || c.url.startsWith("http")) {
-                            output.add(c.text + "==" + c.url);
-                            index.add(c.index);
-                        } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                            output.add(c.text + "==" + new URL(new URL(link.url), c.url).toString());
-                            index.add(c.index);
-                        }
+                        
+                        output.add(c.text + "==" + c.url);
+                        index.add(c.index);
+                        
                     }
                 }
             }
@@ -702,45 +675,68 @@ public class ListEngine {
         }
     }
     
-    public static boolean hasSchoolKeyword(SemanticList list) {
+    public static boolean hasSchoolKeyword(SemanticList list, int type) {
         int count = 0;
         boolean headStatus = false;
         String head = list.head;
         String title = list.title;
-        if (head!=null && (head.toLowerCase().contains("colleges")||head.toLowerCase().contains("faculties"))) {
-            headStatus = true;
-        } else if (title!=null && (title.toLowerCase().contains("colleges")||title.toLowerCase().contains("faculties"))){
-            headStatus = true;
-        }
-        for (String str: list.list) {
-            String anchor = str.toLowerCase().split("==")[0];
-            if (anchor.contains("faculty") || anchor.contains("college")){ //||anchor.contains("school")
-                count++;
+        if (type == 1) {
+            if (head != null && (head.toLowerCase().contains("colleges") || head.toLowerCase().contains("faculties"))) {
+                headStatus = true;
+            } else if (title != null && (title.toLowerCase().contains("colleges") || title.toLowerCase().contains("faculties"))) {
+                headStatus = true;
+            }
+            for (String str : list.list) {
+                String anchor = str.toLowerCase().split("==")[0];
+                if (anchor.contains("faculty") || anchor.contains("college")) { //||anchor.contains("school")
+                    count++;
+                }
+            }
+        } else if (type == 2) {
+            if (head != null && (head.toLowerCase().contains("departments"))) {
+                headStatus = true;
+            } else if (title != null && (title.toLowerCase().contains("departments"))) {
+                headStatus = true;
+            }
+            for (String str : list.list) {
+                String anchor = str.toLowerCase().split("==")[0];
+                if (anchor.contains("department")) { 
+                    count++;
+                }
             }
         }
         return count > 1 && headStatus;
     }
     
-    public static boolean hasSchoolKeyword2(SemanticList list) {
+    public static boolean hasSchoolKeyword2(SemanticList list, int type) {
         int count = 0;
-        for (String str: list.list) {
-            String anchor = str.toLowerCase().split("==")[0];
-            if (anchor.contains("faculty") || anchor.contains("college")){ //||anchor.contains("school")
-                count++;
+        if (type == 1) {
+            for (String str : list.list) {
+                String anchor = str.toLowerCase().split("==")[0];
+                if (anchor.contains("faculty") || anchor.contains("college")) { //||anchor.contains("school")
+                    count++;
+                }
+            }
+        } else if (type == 2) {
+            for (String str : list.list) {
+                String anchor = str.toLowerCase().split("==")[0];
+                if (anchor.contains("department")) { 
+                    count++;
+                }
             }
         }
         return count > 1;
     }
     
     
-    public SemanticList getSchools(Link link) throws IOException {
+    public SemanticList getSchools(Link link, int type) throws IOException {
         //System.out.println("Why:...");
         ArrayList<Combo> combos = CSSModel.getCombos(link.url);
         //System.out.println(combos.size());
         //FileWriter writer = new FileWriter("96 Results/log.txt", true);
         for (Combo c: combos) {
-            if (c.url !=null && c.text.toLowerCase().contains("site")) {
-                System.out.println(c);
+            if (true) {
+                //System.out.println(c);
                 //writer.write(c.toString()+"\n");
                 //System.out.println(c.style);
             }
@@ -799,13 +795,13 @@ public class ListEngine {
             return null;
         } else {
             for (int i=0;i<candidates.size();i++) {
-                if (hasSchoolKeyword(candidates.get(i))) {
+                if (hasSchoolKeyword(candidates.get(i),type)) {
                     System.out.println(i);
                     return candidates.get(i);
                 }
             }
             for (int i=0;i<candidates.size();i++) {
-                if (hasSchoolKeyword2(candidates.get(i))) {
+                if (hasSchoolKeyword2(candidates.get(i),type)) {
                     System.out.println(i);
                     return candidates.get(i);
                 }

@@ -1,5 +1,0 @@
-13==http://www.sfu.ca/
-School==Faculty of Education==null
-School==Faculty of Environment==null
-School==Faculty of Health Sciences==null
-School==Faculty of Science==null

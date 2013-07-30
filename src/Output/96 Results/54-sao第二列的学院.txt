@@ -1,8 +1,0 @@
-54==http://www.virginia.edu/
-School==School of Architecture==http://www.arch.virginia.edu/
-School==College and Graduate School of Arts & Sciences==http://artsandsciences.virginia.edu/
-School==School of Continuing & Professional Studies==http://www.scps.virginia.edu/
-School==Darden School of Business==http://www.darden.virginia.edu/
-School==Curry School of Education==http://curry.virginia.edu/
-School==School of Engineering and Applied Science==http://www.seas.virginia.edu/
-School==Frank Batten School of Leadership and Public Policy==http://batten.virginia.edu/

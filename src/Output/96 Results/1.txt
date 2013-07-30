@@ -1,8 +1,0 @@
-1==http://www.mcgill.ca/
-School==Career and Professional Development Education==http://www.mcgill.ca/continuingstudies/programs-and-courses/courses-workshops
-School==Education==http://www.mcgill.ca/continuingstudies/about-scs/academic-areas/education
-School==Faculty Partnerships and Summer Studies==http://www.mcgill.ca/continuingstudies/about-scs/academic-areas/faculty-partnerships-and-summer-studies
-School==Language and Intercultural Communication==http://www.mcgill.ca/continuingstudies/about-scs/academic-areas/language-and-intercultural-communication
-School==McGill Community for Lifelong Learning==http://www.mcgill.ca/continuingstudies/about-scs/academic-areas/mcgill-community-lifelong-learning-0
-School==Summer Studies==http://www.mcgill.ca/summer/
-School==Translation & Written Communication==http://www.mcgill.ca/continuingstudies/about-scs/academic-areas/translation-written-communication

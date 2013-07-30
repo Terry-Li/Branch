@@ -1,7 +1,0 @@
-28==http://web.mit.edu/
-School==School of Architecture and Planning==http://sap.mit.edu
-School==School of Engineering==http://engineering.mit.edu/
-School==School of Humanities, Arts, and Social Sciences==http://shass.mit.edu/
-School==Sloan School of Management==http://mitsloan.mit.edu/
-School==School of Science==http://web.mit.edu/science/
-School==Whitaker College of Health Sciences and Technology==http://hst.mit.edu/

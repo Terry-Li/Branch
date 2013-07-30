@@ -1,5 +1,0 @@
-43==http://www.columbia.edu/
-School==Architecture, Planning & Preservation ?==http://www.arch.columbia.edu/school/admissions
-School==Arts ?==http://arts.columbia.edu/apply
-School==Graduate School of Arts & Sciences ?==http://gsas.columbia.edu
-School==Barnard College ?==http://www.barnard.edu/admiss

@@ -51,21 +51,23 @@ public class SUSE implements Runnable{
                 for (String school:schools) {
                     //String schoolFac = FacultyNav.getFacultyURL(school.split("==")[1], visited);
                     sb.append("School=="+school+"\n");  
-                    /*
+                    
                     String schoolURL = school.split("==")[1];
                     if (!schoolURL.equals("null")) {
                         Link schoolLink = new Link();
                         schoolLink.url = schoolURL;
+                        schoolLink.context = new ArrayList<String>();
                         SemanticList deptList = DepartmentNav.getDeptsResult(schoolLink, visited, schools);
                         if (deptList != null) {
                             ArrayList<String> departments = deptList.list;
                             for (String dept: departments) {
-                                String deptFac = FacultyNav.getFacultyURL(dept.split("==")[1], visited);
-                                sb.append("Dept=="+dept+"("+deptFac+")\n");
+                                sb.append("Dept=="+dept+"\n");
+                                //String deptFac = FacultyNav.getFacultyURL(dept.split("==")[1], visited);
+                                //sb.append("Dept=="+dept+"("+deptFac+")\n");
                             }
                         }
-                    } */               
-                    //sb.append("\n");
+                    }                
+                    sb.append("\n");
                 }
                 
             }
@@ -81,7 +83,7 @@ public class SUSE implements Runnable{
      */
     public static void main(String[] args) throws IOException, InterruptedException {
         List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
-        ExecutorService executor = Executors.newFixedThreadPool(50);
+        ExecutorService executor = Executors.newFixedThreadPool(20);
         for (int i=0; i<lines.size(); i++) {
             Runnable task = new SUSE(i+1+"",lines.get(i).split("==")[1]);
             executor.execute(task);

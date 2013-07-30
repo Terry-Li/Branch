@@ -1,7 +1,0 @@
-36==http://www.gatech.edu/
-School==College of Architecture==http://www.coa.gatech.edu
-School==College of Computing==http://www.cc.gatech.edu
-School==College of Engineering==http://www.coe.gatech.edu
-School==Ivan Allen College of Liberal Arts==http://www.iac.gatech.edu
-School==Ernest Scheller Jr. College of Business==http://mgt.gatech.edu
-School==College of Sciences==http://www.cos.gatech.edu

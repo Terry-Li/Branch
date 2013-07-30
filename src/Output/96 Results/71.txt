@@ -1,9 +1,0 @@
-71==http://www.vt.edu/
-School==Agriculture and Life Sciences==http://www.cals.vt.edu/
-School==Architecture and Urban Studies==http://www.caus.vt.edu/
-School==Pamplin College of Business==http://www.pamplin.vt.edu/
-School==Engineering==http://www.eng.vt.edu/
-School==Liberal Arts & Human Sciences==http://www.clahs.vt.edu/
-School==Natural Resources and Environment==http://cnre.vt.edu/
-School==Science==http://www.science.vt.edu/
-School==Veterinary Medicine==http://www.vetmed.vt.edu/

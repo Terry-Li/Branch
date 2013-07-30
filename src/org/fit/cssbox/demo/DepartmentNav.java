@@ -50,47 +50,6 @@ public class DepartmentNav{
     }
     
     
-    public static String getLink(String url, String keyword) {
-        String link = null;
-        try {
-            Document doc = Jsoup.connect(url).timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
-            Elements result = doc.select("a");
-            for (Element e: result) {
-                String anchor = e.text().trim();
-                String href = e.attr("abs:href").trim();
-                if (anchor.contains(keyword) && !href.equals("")) {
-                    link = href;
-                    break;
-                }
-            }
-        } catch (IOException ex) {
-            Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        return link;
-    }
-    
-    
-    
-    public static ArrayList<SemanticList> getDepts(Link url, Set<String> visited, ArrayList<String> parents) {
-        ArrayList<SemanticList> candidates = new ArrayList<SemanticList>();
-        SemanticList schools = null;
-        ArrayList<Link> deptLinks = Utility.getDeptLinks(url, visited);
-        //System.out.println(deptLinks.size());
-        for (Link link : deptLinks) {
-            try {
-                System.out.println(link);
-                schools = engine.getSchools(link);
-                if (schools != null && !contains(schools.list, parents)) {
-                    candidates.add(schools);
-                }
-            } catch (IOException ex) {
-                Logger.getLogger(DepartmentNav.class.getName()).log(Level.SEVERE, null, ex);
-                return new ArrayList<SemanticList>();
-            }
-        }
-        return candidates;
-    }
-    
     public static SemanticList getDeptsResult(Link url, Set<String> visited, ArrayList<String> parents) {
         ArrayList<SemanticList> lists = new ArrayList<SemanticList>();
         SemanticList schools = null;
@@ -99,7 +58,7 @@ public class DepartmentNav{
         for (Link link : deptLinks) {
             try {
                 System.out.println(link.url);
-                schools = engine.getSchools(link);
+                schools = engine.getSchools(link,2);
                 if (schools != null && !contains(schools.list, parents)) {
                     lists.add(schools);
                 }

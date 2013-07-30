@@ -1,7 +1,0 @@
-18==http://www.carleton.ca/
-School==Arts and Social Sciences==http://www.carleton.ca/fass/
-School==Engineering and Design==http://www.carleton.ca/engineering
-School==Graduate & Postdoctoral Affairs==http://www.carleton.ca/fgpa
-School==Public Affairs==http://www.carleton.ca/fpa
-School==Science==http://www.carleton.ca/science
-School==The Sprott School of Business==http://www.carleton.ca/sprott

@@ -151,7 +151,7 @@ public class SchoolNav{
                 }
             }
         }
-
+        
     }
     
     
@@ -327,7 +327,7 @@ public class SchoolNav{
         //System.out.println(toSchedule.size());
         for (int i=0;i<toSchedule.size();i++){
             //System.out.println(l.url);
-            schools = engine.getSchools(toSchedule.get(i));
+            schools = engine.getSchools(toSchedule.get(i),1);
             visited.addAll(Utility.getVisited(toSchedule.get(i).url));
             if (schools != null) {
                 //System.out.println("oh yeah");

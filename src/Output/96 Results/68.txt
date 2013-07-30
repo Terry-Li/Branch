@@ -1,8 +1,0 @@
-68==http://wustl.edu/
-School==Arts & Sciences==http://artsci.wustl.edu/
-School==George Warren Brown School of Social Work==http://brownschool.wustl.edu
-School==School of Engineering & Applied Science==http://engineering.wustl.edu
-School==Sam Fox School of Design & Visual Arts==http://samfoxschool.wustl.edu
-School==School of Law==http://law.wustl.edu
-School==School of Medicine==http://medicine.wustl.edu/
-School==Olin Business School==http://www.olin.wustl.edu/Pages/default.aspx

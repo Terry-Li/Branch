@@ -1,9 +1,0 @@
-56==http://www.rutgers.edu/
-School==Robert Wood Johnson Medical School?s==http://rwjms.rutgers.edu
-School==Rutgers Business School?Newark and New Brunswick==http://business.rutgers.edu/
-School==New Jersey Medical School==http://njms.rutgers.edu
-School==Rutgers School of Dental Medicine==http://sdm.rutgers.edu
-School==School of Health Related Professions==http://shrp.rutgers.edu/
-School==School of Public Health==http://sph.rutgers.edu
-School==Rutgers Business School?Newark and New Brunswick==http://business.rutgers.edu
-School==University College?Newark==http://www.ncas.rutgers.edu

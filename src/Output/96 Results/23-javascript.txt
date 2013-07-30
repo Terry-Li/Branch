@@ -1,5 +1,0 @@
-23==http://www.wlu.ca/
-School==Business & Economics==http://www.wlu.ca/homepage.php?grp_id=31
-School==Libraries==http://www.wlu.ca/homepage.php?grp_id=66
-School==Science==http://www.wlu.ca/homepage.php?grp_id=1
-School==Social Work==http://www.wlu.ca/homepage.php?grp_id=30

@@ -181,10 +181,19 @@ public class CSSModel {
                 c.parent = "a";
             }
         } */
-        combos.get(0).index = 0;
-        for (int i=1;i<combos.size();i++) {
-            combos.get(i).previous = combos.get(i-1);
+        for (int i=0;i<combos.size();i++) {
+            if (i > 0) {
+                combos.get(i).previous = combos.get(i - 1);
+            }
             combos.get(i).index = i;
+            Combo c = combos.get(i);
+            if (c.url == null || c.url.startsWith("http")) {
+                
+            } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
+                c.url = new URL(new URL(url), c.url).toString();
+            } else {
+                c.url = null;
+            }
         }
         return combos;
 
