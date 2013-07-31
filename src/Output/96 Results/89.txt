@@ -1,0 +1,114 @@
+89==http://www.syr.edu/
+School==School of Architecture==http://soa.syr.edu
+
+School==The College of Arts and Sciences==http://thecollege.syr.edu
+Dept==Pan African Studies==http://aas.syr.edu/graduate/academics.html
+Dept==Applied Statistics==http://thecollege.syr.edu/students/undergraduate/interdisciplinary/applied-statistics/index.html
+Dept==Art History==http://amh.syr.edu/graduate/index.html
+Dept==Art History and Museum Studies==http://amh.syr.edu/graduate/ConcurrentMA.html
+Dept==Arts Leadership==http://artandmusichistories.syr.edu/graduate/JanklowArts.html
+Dept==Florence Graduate Program in Renaissance Art==http://amh.syr.edu/graduate/FlorenceProgram.html
+Dept==Audiology==http://csd.syr.edu/academics/Grad-Programs.html
+Dept==Biology==http://biology.syr.edu/grad/graduate.htm
+Dept==Structural Biology, Biochemistry, and Biophysics==http://sb3.syr.edu
+Dept==Chemistry==http://chemistry.syr.edu/graduate/programs.html
+Dept==Composition and Cultural Rhetoric==http://ccr.syr.edu
+Dept==Computational Linguistics==http://complinguistics.syr.edu
+Dept==College Science Teaching==http://sciteach.syr.edu/graduate/PhD-ColSci.html
+Dept==Creative Writing==http://english.syr.edu/creative_writing/index.html
+Dept==Earth Sciences==http://earthsciences.syr.edu/graduate/index.html
+Dept==English==http://english.syr.edu/graduate/MAPhDEng/index.html
+Dept==Forensic Science==http://as-cascade.syr.edu/students/undergraduate/interdisciplinary/forensics/graduate_studies.html
+Dept==French and Francophone Studies==http://lang.syr.edu/academics/French/MA-French.html
+Dept==Language Teaching==http://lang.syr.edu/academics/CAS-TESOL-TLOTE/Teaching-Certificate-Linguistics.html
+Dept==Linguistic Studies==http://lang.syr.edu/academics/Linguistics/MA-Linguistics.html
+Dept==Mathematics==http://math.syr.edu/GradDegrees.htm
+Dept==Mathematics Education==http://soe.syr.edu/academic/teaching_and_leadership/graduate/masters/mathematics_education/default.aspx
+Dept==Philosophy==http://philosophy.syr.edu/graduate/index.html
+Dept==Physics==http://web.physics.syr.edu/graduate/index.html
+Dept==Religion==http://religion.syr.edu/Graduate/GraduateIndex.html
+Dept==Science Education==http://sciteach.syr.edu/graduate/MScertification.html
+Dept==Science Education==http://sciteach.syr.edu/graduate/PhD-SciEd.html
+Dept==Spanish Language, Literature, and Culture==http://lang.syr.edu/academics/Spanish/MA-Spanish.html
+Dept==Women's and Gender Studies==http://wgs.syr.edu/graduate/index.html
+
+School==School of Education==http://soeweb.syr.edu
+Dept==Instructional Design Devel. & Eval.==http://soe.syr.edu/academic/Instructional_Design_Development_and_Evaluation/default.aspx
+Dept==Counseling and Human Services==http://soe.syr.edu/academic/counseling_and_human_services/default.aspx
+Dept==Cultural Foundations of Education==http://soe.syr.edu/academic/cultural_foundations_of_education/default.aspx
+Dept==Exercise Science==http://soe.syr.edu/academic/exercise_science/default.aspx
+Dept==Higher Education==http://soe.syr.edu/academic/higher_education/default.aspx
+Dept==Reading and Language Arts==http://soe.syr.edu/academic/reading_language_arts/default.aspx
+Dept==Teaching and Leadership==http://soe.syr.edu/academic/teaching_and_leadership/default.aspx
+
+School==L.C. Smith College of Engineering and Computer Science==http://lcs.syr.edu
+
+School==Graduate School==http://gradsch.syr.edu
+Dept==School of Information Studies==http://ischool.syr.edu/future/cas/infosecurity.aspx
+Dept==School of Information Studies==http://ischool.syr.edu/future/cas/infotel.aspx
+Dept==School of Education - Instructional Design, Development, & Evaluation==http://soe.syr.edu/academic/Instructional_Design_Development_and_Evaluation/default.aspx
+Dept==School of Educationn==http://soeweb.syr.edu/academic/Instructional_Design_Development_and_Evaluation/graduate/masters/instructional_technology/default.aspx
+Dept==The Maxwell School - International Relations==http://www.maxwell.syr.edu/pa.aspx?id=6442451190
+Dept==College of Visual and Performing Arts - Department of Art==http://vpa.syr.edu/art-design/art/graduate/jewelry-and-metalsmithing
+Dept==College of Arts and Sciences - Language, Literature, & Linguistics Department==http://lang.syr.edu/academics/CAS-TESOL-TLOTE/Teaching-Certificate-Linguistics.html
+Dept==The Maxwell School of Citizenship and Public Affairs==http://www.maxwell.syr.edu/deans.aspx?id=346
+Dept==The Maxwell School of Citizenship and Public Affairs==http://www.maxwell.syr.edu/exed/certificates/Leadership_of_International_and_Non-Government_Organizations
+Dept==School of Information Studies==http://ischool.syr.edu/future/grad/lis.aspx
+Dept==School of Information Studies==http://ischool.syr.edu/future/grad/lisSchoolMedia.aspx
+Dept==College of Arts and Sciences - Language, Literature, & Linguistics Department==http://lang.syr.edu
+Dept==School of Education - Literacy Education==http://soe.syr.edu/academic/reading_language_arts/graduate/masters/literacy_ed_birth_6/default.aspx
+Dept==School of Education - Literacy Education==http://soe.syr.edu/academic/reading_language_arts/graduate/masters/literacy_ed_5_12/default.aspx
+Dept==School of Education==http://soeweb.syr.edu/future/degree_programs/doctoral_degrees.aspx
+Dept==Newhouse School of Public Communications==http://newhouse.syr.edu/Academics/Magazine_Newspaper_Online/Graduate/overview.cfm
+Dept==David B. Falk College of Sport and Human Dynamics==http://falk.syr.edu/MarriageFamilyTherapy/Programs.aspx
+Dept==Newhouse School of Public Communications==http://newhouse.syr.edu/Academics/Mass_Communications/Doctoral/overview.cfm
+
+School==David B. Falk College of Sport and Human Dynamics==http://falk.syr.edu/
+Dept==Child & Family Studies==http://falk.syr.edu/ChildFamilyStudies/Default.aspx
+Dept==Marriage & Family Therapy==http://falk.syr.edu/MarriageFamilyTherapy/Default.aspx
+Dept==Public Health, Food Studies & Nutrition==http://falk.syr.edu/HealthFoodNutrition/Default.aspx
+Dept==School of Social Work==http://falk.syr.edu/SocialWork/Default.aspx
+Dept==Sport Management==http://falk.syr.edu/SportManagement/Default.aspx
+
+School==School of Information Studies==http://ischool.syr.edu
+
+School==College of Law==http://law.syr.edu
+
+School==The Martin J. Whitman School of Management==http://whitman.syr.edu
+
+School==Maxwell School of Citizenship and Public Affairs==http://maxwell.syr.edu/
+Dept==Anthropology==http://www.maxwell.syr.edu/anthro/default.asp
+Dept==Citizenship & Civic Engagement==http://www.maxwell.syr.edu/citizenship/
+Dept==Economics==http://www.maxwell.syr.edu/econ/default.aspx
+Dept==Executive Education==http://www.maxwell.syr.edu/exed/
+Dept==Geography==http://www.maxwell.syr.edu/geo/
+Dept==History==http://www.maxwell.syr.edu/hist/
+Dept==International Relations==http://www.maxwell.syr.edu/ir/
+Dept==Political Science==http://www.maxwell.syr.edu/psc/
+Dept==Public Administration and International Affairs==http://www.maxwell.syr.edu/pa/
+Dept==Public Affairs==http://www.maxwell.syr.edu/paf/
+Dept==Social Science==http://www.maxwell.syr.edu/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=739
+Dept==Social Science==http://www.maxwell.syr.edu/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=6442452000
+Dept==Sociology==http://www.maxwell.syr.edu/soc/
+
+School==S.I. Newhouse School of Public Communications==http://newhouse.syr.edu
+Dept==TELEVISION, RADIO & FILM==http://newhouse.syr.edu/academics/degrees/bachelors/television-radio-and-film
+Dept==COMMUNICATIONS MANAGEMENT==http://newhouse.syr.edu/academics/degrees/masters/communications-management
+Dept==DOCUMENTARY FILM & HISTORY==http://newhouse.syr.edu/academics/degrees/masters/documentary-film-and-history
+
+School==College of Visual and Performing Arts==http://vpa.syr.edu/
+Dept==College Administration==http://vpa.syr.edu/faculty-staff/offices
+Dept==Art==http://vpa.syr.edu/art
+Dept==Communication and Rhetorical Studies==http://vpa.syr.edu/crs
+Dept==Design==http://vpa.syr.edu/design
+Dept==Drama==http://vpa.syr.edu/drama
+Dept==Setnor School of Music==http://vpa.syr.edu/music
+Dept==Transmedia==http://vpa.syr.edu/transmedia
+
+School==University College==http://suce.syr.edu
+
+School==Summer at Syracuse==http://summeratsyracuse.syr.edu/
+Dept==Onondaga County Parks==http://onondagacountyparks.com
+Dept==Syracuse City Parks & Recreation==http://www.syracuse.ny.us/Parks/index.html
+Dept==SU Recreation Services==http://recreationservices.syr.edu/
+

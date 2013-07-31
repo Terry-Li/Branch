@@ -70,7 +70,7 @@ public class DepartmentNav{
             for (SemanticList list : lists) {
                 String head = list.head;
                 String title = list.title;
-                if (head.toLowerCase().contains("departments") || title.toLowerCase().contains("departments")) {
+                if ((head != null &&head.toLowerCase().contains("departments")) || (title !=null && title.toLowerCase().contains("departments"))) {
                     return list;
                 }
             }

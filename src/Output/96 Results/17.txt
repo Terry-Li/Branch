@@ -1,0 +1,42 @@
+17==http://www.uoguelph.ca/
+School==College of Arts==http://www.uoguelph.ca/arts
+
+School==College of Biological Science==http://www.uoguelph.ca/cbs/
+Dept==Integrative Biology==http://www.uoguelph.ca/ib/
+Dept==Human Health and Nutritional Sciences==http://www.uoguelph.ca/hhns/
+Dept==Molecular and Cellular Biology==http://www.uoguelph.ca/mcb/
+Dept==Associate Dean of Research Office==http://www.uoguelph.ca/adr-cbs/index.shtml
+
+School==College of Management & Economics==http://www.uoguelph.ca/cme/
+Dept==Department of Business==http://www.business.uoguelph.ca/
+Dept==Department of Economics and Finance==http://www.uoguelph.ca/economics/
+Dept==Department of Marketing and Consumer Studies==http://www.uoguelph.ca/mcs/
+
+School==College of Physical & Engineering Science==http://www.uoguelph.ca/cpes/
+Dept==Department of Chemistry==http://www.chemistry.uoguelph.ca
+Dept==Department of Mathematics & Statistics==http://www.mathstat.uoguelph.ca/
+Dept==Department of Physics==http://www.physics.uoguelph.ca
+Dept==School of Computer Science==http://www.socs.uoguelph.ca
+Dept==School of Engineering==http://www.uoguelph.ca/engineering/
+
+School==College of Social & Applied Human Sciences==http://www.csahs.uoguelph.ca/
+Dept==Department of Family Relations and Applied Nutrition==http://www.uoguelph.ca/family/
+Dept==Department of Geography==http://www.uoguelph.ca/geography
+Dept==Department of Political Science==http://www.uoguelph.ca/polisci/
+Dept==Department of Psychology==http://www.psychology.uoguelph.ca/
+Dept==Department of Sociology and Anthropology==http://www.uoguelph.ca/socioanthro/
+
+School==Ontario Agricultural College==http://www.oac.uoguelph.ca/
+Dept==Agriculture==null
+Dept==Business & Economics==null
+Dept==Plant Science==null
+Dept==Animal Science==https://www.uoguelph.ca/oac/academics/undergraduate-degrees
+
+School==Ontario Veterinary College==http://www.ovc.uoguelph.ca/
+Dept==Office of the Dean==null
+Dept==Biomedical Sciences==null
+Dept==Clinical Studies==null
+Dept==Pathobiology==null
+Dept==Population Medicine==null
+Dept==HSC Administration==http://www.ovc.uoguelph.ca/committees/
+

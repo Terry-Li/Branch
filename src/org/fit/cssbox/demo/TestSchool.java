@@ -66,6 +66,7 @@ public class TestSchool {
     }
     
     public static void main(String[] args) throws MalformedURLException, IOException {
-        testDepartment("http://www.virginia.edu/");
+        testDepartment("http://www.uwo.ca/");
+        //testSchool("http://www.mcgill.ca/faculties/");
     }
 }

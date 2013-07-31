@@ -24,7 +24,8 @@ public class SUSE implements Runnable{
     public static final String[] gateway = {"academics","academic units","schools","colleges","divisions", "faculties",
         "departments","department list","programs","faculty","directory","people","staff"};
     public Set<String> visited = new HashSet<String>();
-    public static String[] NoUrls = {"0","7","23","43","54","60","68","77"};
+    public static String[] NoUrls = {"1","8","24","44","55","61","69","78"};
+    public static String[] NoResult = {"11"};
 
 
     public SUSE(String univName, String univURL) {
@@ -83,9 +84,23 @@ public class SUSE implements Runnable{
      */
     public static void main(String[] args) throws IOException, InterruptedException {
         List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
-        ExecutorService executor = Executors.newFixedThreadPool(20);
+        ExecutorService executor = Executors.newFixedThreadPool(6);
+        /*
         for (int i=0; i<lines.size(); i++) {
-            Runnable task = new SUSE(i+1+"",lines.get(i).split("==")[1]);
+            String filename = (i+1)+"";
+            if (i+1 < 10) {
+                filename = "0"+filename;
+            }
+            Runnable task = new SUSE(filename,lines.get(i).split("==")[1]);
+            executor.execute(task);
+        }*/
+        for (String index: NoResult) {
+            String filename = index;
+            int i = Integer.parseInt(index);
+            if (i<10) {
+                filename = "0"+filename;
+            }
+            Runnable task = new SUSE(filename,lines.get(i-1).split("==")[1]);
             executor.execute(task);
         }
         executor.shutdown();
@@ -93,11 +108,15 @@ public class SUSE implements Runnable{
         }
         ArrayList<String> fails = new ArrayList<String>();
         for (int j=0; j<lines.size(); j++) {
-            if (!new File(dataCenter+(j+1)+".txt").exists()) {
+            String filename = (j+1)+"";
+            if (j+1 < 10) {
+                filename = "0"+filename;
+            }
+            if (!new File(dataCenter+filename+".txt").exists()) {
                 fails.add((j+1)+"");
             }
         }
-        FileUtils.writeStringToFile(new File("log.txt"), fails.toString());
+        FileUtils.writeStringToFile(new File(dataCenter+"log.txt"), fails.toString());
         System.out.println("Finished all threads");
     }
 }

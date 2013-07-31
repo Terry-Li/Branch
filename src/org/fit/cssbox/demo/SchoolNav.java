@@ -103,7 +103,7 @@ public class SchoolNav{
     public static void addURLs(ArrayList<Combo> combos, ArrayList<String> temps, ArrayList<Integer> index, String baseURL) throws IOException{
         if (!needURLStrong(temps)) return; //|| temps.size() != index.size()
 
-        ArrayList<String> as = GetDepartmentURL.parallelLinks(combos, baseURL, temps.size());
+        ArrayList<String> as = GetDepartmentURL.parallelLinks(combos, index, baseURL, temps.size());
         if (as.size() != 0) {
             for (int i = 0; i < temps.size(); i++) {
                 String[] tokens = temps.get(i).split("==");

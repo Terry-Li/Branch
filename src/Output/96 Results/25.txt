@@ -1,0 +1,50 @@
+25==http://www.concordia.ca/
+School==Faculty of Arts and Science==http://artsandscience.concordia.ca/
+Dept==BIOLOGY==http://biology.concordia.ca/
+Dept==CHEMISTRY AND BIOCHEMISTRY==http://chem.concordia.ca/
+Dept==EXERCISE SCIENCE==http://excsci.concordia.ca/
+Dept==MATHEMATICS AND STATISTICS==http://www.mathstat.concordia.ca/
+Dept==PHYSICS==http://physics.concordia.ca/
+Dept==PSYCHOLOGY==http://psychology.concordia.ca/
+Dept==SCIENCE COLLEGE==http://scicol.concordia.ca/
+
+School==Faculty of Engineering and Computer Science==http://encs.concordia.ca/
+Dept==Building, Civil and Environmental Engineering==http://encs.concordia.ca/bce/
+Dept==Centre for Engineering in Society==http://encs.concordia.ca/ces
+Dept==Computer Science and Software Engineering==http://www.cse.concordia.ca/
+Dept==Concordia Institute of Aerospace Design and Innovation==http://ciadi.concordia.ca/
+Dept==Concordia Institute for Information Systems Engineering==http://www.ciise.concordia.ca/
+Dept==Electrical and Computer Engineering==http://www.ece.concordia.ca/
+Dept==Mechanical and Industrial Engineering==http://www.me.concordia.ca/
+
+School==Faculty of Fine Arts==http://finearts.concordia.ca/
+Dept==Art Education==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/arteducation/
+Dept==Art History==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/arthistory/
+Dept==Contemporary Dance==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/contemporarydance/
+Dept==Creative Arts Therapies==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/creativeartstherapies/
+Dept==Design and Computation Arts==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/designandcomputationarts/
+Dept==Mel Hoppenheim School of Cinema==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/melhoppenheimschoolofcinema/
+Dept==Music==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/music/
+Dept==Studio Arts==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/studioarts/
+Dept==Theatre==http://finearts.concordia.ca/programsanddepartments/fineartsdepartments/theatre/
+
+School==John Molson School of Business==http://johnmolson.concordia.ca/
+Dept==Academic Relations==http://johnmolson.concordia.ca/en/about/academic-relations
+Dept==Accountancy==http://johnmolson.concordia.ca/en/faculty-research/departments/accountancy
+Dept==Supply Chain and Business Technology Management==http://johnmolson.concordia.ca/en/faculty-research/departments/supply-chain-btm
+Dept==Finance==http://johnmolson.concordia.ca/en/faculty-research/departments/finance
+Dept==International Business==http://johnmolson.concordia.ca/en/undergrad/bachelor-degrees/1524-international-business
+Dept==Management==http://johnmolson.concordia.ca/en/faculty-research/departments/management
+Dept==Marketing==http://johnmolson.concordia.ca/en/faculty-research/departments/marketing
+Dept==Career Management Services==http://johnmolson.concordia.ca/en/career-services
+Dept==Executive Education==http://johnmolson.concordia.ca/en/executive-education
+Dept==Student Life==http://johnmolson.concordia.ca/en/community-a-alumni/student-life
+
+School==School of Graduate Studies==http://graduatestudies.concordia.ca/
+
+School==School of Extended Learning==http://www.concordia.ca/extended-learning/
+
+School==Colleges, Institutes & Departments==http://www.concordia.ca/programs-and-courses/academic-units/
+
+School==Libraries==http://library.concordia.ca/
+

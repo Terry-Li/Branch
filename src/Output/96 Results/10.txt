@@ -1,0 +1,77 @@
+10==http://www.uottawa.ca/welcome.html
+School==Arts==http://www.arts.uottawa.ca/eng/
+Dept==Classics and Religious Studies==http://www.cla-srs.uottawa.ca/eng/index.html
+Dept==Communication==http://www.communication.uottawa.ca/eng/
+Dept==English==http://www.english.uottawa.ca/
+Dept==Geography==http://www.geography.uottawa.ca/
+Dept==History==http://www.history.uottawa.ca/
+Dept==Linguistics==http://www.linguistics.uottawa.ca/
+Dept==Modern Languages and Literatures==http://www.modernlanguages.uottawa.ca/
+Dept==Philosophy==http://www.philosophy.uottawa.ca/
+Dept==Theatre==http://www.theatre.uottawa.ca/eng
+Dept==Visual Arts==http://www.visualarts.uottawa.ca/
+Dept==Canadian Studies==http://www.canada.uottawa.ca/eng/
+Dept==Official Languages and Bilingualism==http://www.olbi.uottawa.ca/en/index.php
+Dept==Science, Society, and Policy==http://www.issp.uottawa.ca/eng/
+Dept==Information Studies==http://www.sis.uottawa.ca/
+Dept==Music==http://www.music.uottawa.ca/
+Dept==Translation and Interpretation==http://www.translation.uottawa.ca/
+Dept==Aboriginal Studies==http://www.arts.uottawa.ca/eng/programs/aboriginalstudies.html
+Dept==Arts Administration==http://www.arts.uottawa.ca/eng/programs/artsadmin.html
+Dept==General BA==http://www.arts.uottawa.ca/eng/programs/bageneral.html
+Dept==Medieval and Renaissance Studies==http://www.arts.uottawa.ca/eng/programs/medieval-stud.html
+Dept==Second Language Teaching==http://www.arts.uottawa.ca/eng/programs/slt.html
+Dept==Vered Jewish Canadian Studies==http://www.arts.uottawa.ca/eng/programs/vered.html
+Dept==Centre for Research on French Canadian Culture==http://www.crccf.uottawa.ca/presentation/overview.html
+
+School==Civil Law==http://www.droitcivil.uottawa.ca/index.php?option=com_content&task=blogcategory&id=0&Itemid=165&lang=fr&lang=en
+
+School==Common Law==http://www.commonlaw.uottawa.ca/index.php?lang=en
+Dept==Dispute Resolution and Professionalism==http://www.commonlaw.uottawa.ca/en/programs/dispute-resolution-and-professionalism/dispute-resolution-and-professionalism.html
+Dept==Environmental Law at uOttawa==http://www.commonlaw.uottawa.ca/celgs
+Dept==Law and Social Justice==http://www.commonlaw.uottawa.ca/en/programs/social-justice/law-and-social-justice.html
+Dept==International Law at uOttawa==http://www.commonlaw.uottawa.ca/en/programs/international-law/news.html
+
+School==Education==http://www.education.uottawa.ca/welcome.html
+
+School==Engineering==http://www.engineering.uottawa.ca/
+Dept==BASc in Chemical Engineering==null
+Dept==BASc in Chemical Engineering==null
+Dept== (biotechnology) / ==null
+Dept== (biotechnology) / ==https://web9.uottawa.ca/services/ccs/feedback/
+
+School==Graduate and Postdoctoral Studies==http://www.grad.uottawa.ca/Default.aspx?tabid=1406
+
+School==Health Sciences==http://www.health.uottawa.ca/
+Dept==Interdisciplinary School of Health Sciences==http://www.health.uottawa.ca/healthsciences/
+Dept==School of Human Kinetics==http://www.health.uottawa.ca/shk/
+Dept==School of Nursing==http://www.health.uottawa.ca/sn/
+Dept==School of Rehabilitation Sciences==http://www.health.uottawa.ca/sr/
+
+School==Medicine==http://www.medecine.uottawa.ca/eng/
+
+School==Science==http://www.science.uottawa.ca/fac/welcome.html
+Dept==Department of Biology==http://www.biology.uottawa.ca/bio/research-groups.html
+Dept==Department of Chemistry==http://www.chemistry.uottawa.ca/chm/professors.html
+Dept==Department of Mathematics and Statistics==http://137.122.43.51/cgi-bin/mat/people/create_groups?langue=English
+Dept==Department of Physics==http://www.physics.uottawa.ca/phy/research-areas.html
+Dept==Department of Earth Sciences==http://www.earth.uottawa.ca/research_groups.html
+
+School==Social Sciences==http://www.socialsciences.uottawa.ca/
+Dept==Criminology==http://www.socialsciences.uottawa.ca/crm
+Dept==Economics==http://www.socialsciences.uottawa.ca/eco
+Dept==International Development and Global Studies==http://www.socialsciences.uottawa.ca/dvm
+Dept==Political Studies==http://www.socialsciences.uottawa.ca/pol
+Dept==Psychology==http://www.socialsciences.uottawa.ca/psy
+Dept==Public and International Affairs==http://www.socialsciences.uottawa.ca/api
+Dept==Social Work==http://www.socialsciences.uottawa.ca/svs
+Dept==Sociology and Anthropology==http://www.socialsciences.uottawa.ca/soc-ant
+Dept==Women's Studies==http://www.socialsciences.uottawa.ca/fem
+
+School==Telfer School of Management==http://www.telfer.uottawa.ca/en/
+Dept==Engineering Management Program (MEng)==http://www.engineering.uottawa.ca/en/departments/mechanical_engineering/
+Dept==E-Business==http://www.etudesup.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=591
+Dept==E-Commerce==http://www.etudesup.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=594
+Dept==Information Technology Project Management==http://www.etudesup.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=636
+Dept==Systems Science==http://www.mathstat.uottawa.ca/welcome.html
+

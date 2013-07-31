@@ -1,0 +1,154 @@
+82==http://www.pitt.edu/
+School==Libraries Overview ?==http://www.pitt.edu/taxonomy/term/765
+
+School==Search PITTCat ?==http://pitt.summon.serialssolutions.com
+
+School==Library Hours ?==http://www.library.pitt.edu/libraries/hours/all.html
+
+School==Computing Services ?==http://www.technology.pitt.edu
+
+School==Help Desk ?==http://technology.pitt.edu/help.html
+
+School==Education Services ?==http://www.cidde.pitt.edu
+
+School==Arts & Sciences ?==http://www.as.pitt.edu
+Dept==Africana Studies==http://www.africanastudies.pitt.edu/
+Dept==Anthropology==http://www.anthropology.pitt.edu/
+Dept==Architectural Studies==http://www.arch.pitt.edu/
+Dept==Bioethics==http://www.bioethics.pitt.edu/
+Dept==Biological Sciences==http://www.biology.pitt.edu/
+Dept==Chemistry==http://www.chem.pitt.edu/
+Dept==Children's Literature==http://www.childrenslit.pitt.edu/
+Dept==Classics==http://www.classics.pitt.edu/
+Dept==Classics, Philosophy, and Ancient Science==http://www.classics.pitt.edu/classics-philosophy/
+Dept==Communication==http://www.comm.pitt.edu/
+Dept==Computational Biology==http://www.ccbb.pitt.edu/cms/index.php
+Dept==Computer Engineering==http://www.engineering.pitt.edu/computer/
+Dept==Computer Science==http://www.cs.pitt.edu/
+Dept==Cultural Studies==http://www.pitt.edu/~cultural/
+Dept==East Asian Languages and Literatures==http://www.pitt.edu/~deall/
+Dept==Economics==http://www.econ.pitt.edu/
+Dept==English==http://www.english.pitt.edu/
+Dept==Environmental Studies==http://www.pitt.edu/~esweb/
+Dept==Film Studies==http://www.filmstudies.pitt.edu/
+Dept==French and Italian Languages and Literatures==http://www.frenchanditalian.pitt.edu/
+Dept==Geology and Planetary Science==http://www.geology.pitt.edu/
+Dept==German==http://www.german.pitt.edu/
+Dept==Hispanic Languages and Literatures==http://www.hispanic.pitt.edu/
+Dept==History==http://www.history.pitt.edu/
+Dept==History and Philosophy of Science==http://www.pitt.edu/~hpsdept/
+Dept==History of Art and Architecture==http://www.haa.pitt.edu/
+Dept==Integrative Molecular Biology==http://www.pimb.pitt.edu/
+Dept==Intelligent Systems==http://www.isp.pitt.edu/
+Dept==Jewish Studies==http://www.jewishstudies.pitt.edu//
+Dept==Linguistics==http://www.linguistics.pitt.edu/
+Dept==Mathematics==http://www.mathematics.pitt.edu/
+Dept==Medieval and Renaissance Studies==http://www.medren.pitt.edu/
+Dept==Molecular Biophysics and Structural Biology==http://www.mbsb.pitt.edu/
+Dept==Music==http://www.music.pitt.edu/
+Dept==Neuroscience==http://www.neuroscience.pitt.edu/
+Dept==Philosophy==http://www.philosophy.pitt.edu/
+Dept==Physics and Astronomy==http://www.physicsandastronomy.pitt.edu/
+Dept==Political Science==http://www.polisci.pitt.edu/
+Dept==Psychology==http://www.psychology.pitt.edu/
+Dept==Religious Studies==http://www.religiousstudies.pitt.edu/
+Dept==Slavic Languages and Literatures==http://www.slavic.pitt.edu/
+Dept==Sociology==http://www.sociology.pitt.edu/
+Dept==Statistics==http://www.stat.pitt.edu/
+Dept==Studio Arts==http://www.studioarts.pitt.edu/
+Dept==Theatre Arts==http://www.play.pitt.edu/
+Dept==Urban Studies==http://www.urbanstudies.pitt.edu/
+Dept==Women's Studies==http://www.wstudies.pitt.edu/
+Dept==Borges Center==http://www.borges.pitt.edu/
+Dept==Center for Comparative Archaeology==http://www.comparch.pitt.edu/
+Dept==Humanities Center==http://www.humcenter.pitt.edu/
+Dept==World History Center==http://www.worldhistory.pitt.edu/
+
+School==Business ?==http://www.business.pitt.edu
+
+School==Dental Medicine ?==http://www.dental.pitt.edu
+Dept==Advanced Fixed Prosthodontics;==null
+Dept==Advanced Removable Prosthodontics;==null
+Dept==Biomaterials;==null
+Dept==Implant Surgery and Prosthodontics;==null
+Dept==Implant Dentistry Literature Review;==null
+Dept==Fixed and Removable Literature Review;==null
+Dept==Maxillofacial Prosthetics;==null
+Dept==Prosthodontic Treatment Planning;==null
+Dept==Multidisciplinary Treatment Planning;==null
+Dept==Occlusion and Management of TMD;==null
+Dept==Prosthodontic Conferences and Board Reviews.==http://www.ir.pitt.edu/tuition/index.html
+
+School==Education ?==http://www.education.pitt.edu
+Dept==Administrative and Policy Studies (ADMPS)==http://www.education.pitt.edu/AcademicDepartments/AdministrativePolicyStudies.aspx
+Dept==Health and Physical Activity (HPA)==http://www.education.pitt.edu/AcademicDepartments/HealthPhysicalActivity.aspx
+Dept==Instruction and Learning (IL)==http://www.education.pitt.edu/AcademicDepartments/InstructionLearning.aspx
+Dept==Learning Sciences and Policy (LSAP)==http://www.education.pitt.edu/AcademicDepartments/LearningSciencesPolicy.aspx
+Dept==Psychology in Education (PSYED)==http://www.education.pitt.edu/AcademicDepartments/PsychologyinEducation.aspx
+
+School==Engineering ?==http://www.engineering.pitt.edu
+Dept==Department of Bioengineering==http://www.engineering.pitt.edu/bioengineering/
+Dept==Department of Chemical & Petroleum Engineering==http://www.engineering.pitt.edu/chemical/
+Dept==Department of Civil & Environmental Engineering==http://www.engineering.pitt.edu/civil/
+Dept==Department of Electrical & Computer Engineering==http://www.engineering.pitt.edu/ECE/
+Dept==Department of Industrial Engineering==http://www.engineering.pitt.edu/industrial/
+Dept==Department of Mechanical Engineering & Materials Science==http://www.engineering.pitt.edu/mems/
+
+School==General Studies ?==http://www.cgs.pitt.edu
+Dept==Accounting==http://www.cgs.pitt.edu/academics/certificates/accounting
+Dept==Communication==http://www.cgs.pitt.edu/academics/certificates/communication
+Dept==Community Health Assessment==http://www.cgs.pitt.edu/academics/certificates/community-health-assessment
+Dept==Corporate/Community Relations==http://www.cgs.pitt.edu/academics/certificates/corporatecommunity-relations
+Dept==Digital Media==http://www.cgs.pitt.edu/academics/certificates/digital-media
+Dept==Information System Design==http://www.cgs.pitt.edu/academics/certificates/information-system-design
+Dept==Leadership==http://www.cgs.pitt.edu/academics/certificates/leadership
+Dept==Managing Health Services Programs and Projects==http://www.cgs.pitt.edu/academics/certificates/managing-health-services-programs-and-projects
+Dept==National Preparedness and Homeland Security==http://www.cgs.pitt.edu/academics/certificates/national-preparedness-and-homeland-security
+Dept==Nonprofit Management==http://www.cgs.pitt.edu/academics/certificates/nonprofit-management
+Dept==Women's Studies==http://www.cgs.pitt.edu/academics/certificates/women%27s-studies
+Dept==Writing==http://www.cgs.pitt.edu/academics/certificates/writing
+Dept==Writing for the Professions==http://www.cgs.pitt.edu/academics/certificates/writing-professions
+Dept==Administration of Justice==http://www.cgs.pitt.edu/academics/minors/administration-justice
+Dept==Legal Studies==http://www.cgs.pitt.edu/academics/minors/legal-studies
+Dept==Public Service==http://www.cgs.pitt.edu/academics/minors/public-service
+
+School==Health & Rehab ?==http://www.shrs.pitt.edu
+Dept==Athletic Training & Sports Medicine==http://www.shrs.pitt.edu/SMN/
+Dept==Audiology & Speech Language Pathology==http://www.shrs.pitt.edu/CSD/
+Dept==Emergency Medicine==http://www.shrs.pitt.edu/em/
+Dept==Health Information Management==http://www.shrs.pitt.edu/HIM/
+Dept==Occupational Therapy==http://www.shrs.pitt.edu/OTPrograms
+Dept==PhD in Rehabilitation Science==http://www.shrs.pitt.edu/PHDRS/
+Dept==Physical Therapy==http://www.shrs.pitt.edu/PTPrograms/
+Dept==Physician Assistant Studies==http://www.shrs.pitt.edu/pa/
+Dept==Prosthetics & Orthotics==http://www.shrs.pitt.edu/po/
+Dept==Rehabilitation Counseling==null
+Dept==Rehabilitation Technology==http://www.shrs.pitt.edu/RST/
+Dept==Undergraduate Program in Rehabilitation Science==http://www.shrs.pitt.edu/rsbs/
+
+School==Honors College ?==http://www.honorscollege.pitt.edu
+
+School==Law ?==http://www.law.pitt.edu
+Dept==Public and International Affairs==http://www.law.pitt.edu/academics/juris-doctor/joint-programs/gspia
+Dept==Business==http://www.law.pitt.edu/academics/juris-doctor/joint-programs/jdmba
+Dept==Public Health==http://www.law.pitt.edu/academics/juris-doctor/joint-programs/publichealth
+Dept==Social Work==http://www.law.pitt.edu/academics/juris-doctor/joint-programs/socialwork
+Dept==Bioethics==http://www.law.pitt.edu/academics/juris-doctor/joint-programs/bioethics
+Dept==Public Policy==http://www.law.pitt.edu/academics/juris-doctor/joint-programs/publicpolicy
+Dept==Arts Management==http://www.law.pitt.edu/academics/juris-doctor/joint-programs/artsmanagement
+
+School==Information Sciences ?==http://www.ischool.pitt.edu
+Dept==Information Science ==http://www.ischool.pitt.edu/bsis/
+Dept==Information Science & Technology ==http://www.ischool.pitt.edu/ist/
+Dept==Library & Information Science ==http://www.ischool.pitt.edu/lis/
+Dept==Telecommunications & Networking ==http://www.ischool.pitt.edu/tele/
+
+School==Medicine ?==http://www.medschool.pitt.edu
+Dept==Biomedical Informatics==http://www.dbmi.pitt.edu/content/degrees
+Dept==Clinical and Translational Science==http://www.icre.pitt.edu/phd/index.html
+Dept==Computational Biology==http://www.compbio.pitt.edu/
+Dept==Integrative Molecular Biology==http://www.pimb.pitt.edu/
+Dept==Interdisciplinary Biomedical Graduate Program==http://www.gradbiomed.pitt.edu/
+Dept==Molecular Biophysics and Structural Biology==http://www.mbsb.pitt.edu/
+Dept==Neurobiology/Neuroscience==http://cnup.neurobio.pitt.edu/index.aspx
+

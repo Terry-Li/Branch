@@ -1,0 +1,174 @@
+85==http://www.msu.edu/
+School==Agriculture and Natural Resources==http://www.canr.msu.edu/
+Dept==Agricultural, Food and Resource Economics==http://www.afre.msu.edu/
+Dept==Animal Science==http://www.ans.msu.edu/
+Dept==Biosystems & Agricultural Engineering==http://www.egr.msu.edu/bae/
+Dept==Community Sustainability==http://www.csus.msu.edu/
+Dept==Crop and Soil Sciences==http://www.css.msu.edu/
+Dept==Entomology==http://www.ent.msu.edu/
+Dept==Fisheries and Wildlife==http://www.fw.msu.edu/
+Dept==Food Science and Human Nutrition==http://www.fshn.msu.edu/
+Dept==Forestry==http://www.for.msu.edu/
+Dept==Horticulture==http://www.hrt.msu.edu/
+Dept==Plant Pathology==http://www.plantpathology.msu.edu/
+Dept==School of Packaging==http://www.packaging.msu.edu/
+Dept==School of Planning, Design and Construction==http://www.spdc.msu.edu/
+Dept==W.K. Kellogg Biological Station==http://www.kbs.msu.edu
+
+School==Arts and Letters==http://www.cal.msu.edu/
+Dept==Art, Art History, and Design (AAHD)==http://www.art.msu.edu/
+Dept==English (ENG)==http://www.english.msu.edu/
+Dept==Linguistics and Germanic, Slavic, Asian, and African Languages (L&L)==http://linglang.msu.edu/
+Dept==Philosophy (PHIL)==http://www.philosophy.msu.edu/
+Dept==Religious Studies (REL)==http://www.religiousstudies.msu.edu/
+Dept==Romance and Classical Studies (RCS)==http://www.rcs.msu.edu/
+Dept==Theatre (THR)==http://theatre.msu.edu/
+Dept==Writing, Rhetoric, and American Cultures (WRAC)==http://wrac.msu.edu/
+Dept==African American and African Studies==https://www.msu.edu/~aaas/AAAS/Home.html
+Dept==Digital Humanities==http://dh.cal.msu.edu/
+Dept==Film Studies==http://filmstudies.cal.msu.edu/
+Dept==Global Studies in the Arts and Humanities==http://globalstudies.msu.edu/
+Dept==Second Language Studies (SLS)==http://sls.msu.edu/
+Dept==Jewish Studies?==http://jsp.msu.edu/
+Dept==Women's and Gender Studies==http://gencen.isp.msu.edu/
+Dept==American Indian Studies==http://aisp.msu.edu/
+Dept==Cognitive Science Program==http://www.cogsci.msu.edu/
+Dept==Museum Studies==http://museumstudies.msu.edu/
+
+School==Communication Arts and Sciences==http://cas.msu.edu/
+Dept==Advertising==http://cas.msu.edu/departments/aprr/graduate-ph-d/masters-in-advertising
+Dept==Communication==http://cas.msu.edu/departments/communication/academic-programs/masters-in-communication/master-s-in-comm-home
+Dept==Communicative Sciences & Disorders==http://cas.msu.edu/departments/csd/academic-programs/masters-in-communicative-sciences-disorders/master-s-in-csd-home
+Dept==Health & Risk Communication==http://cas.msu.edu/programs/masters-in-health-and-risk-communication
+Dept==Journalism==http://cas.msu.edu/departments/school-of-journalism/academics/masters-in-journalism/master-s-in-journalism-home
+Dept==Public Relations==http://cas.msu.edu/departments/aprr/graduate-ph-d/masters-in-public-relations
+Dept==Telecommunication, Information Studies, and Media==http://cas.msu.edu/programs/masters-in-telecommunication-information-studies-media
+Dept==Advertising==http://cas.msu.edu/departments/aprr/undergraduate-programs/bachelors-in-advertising
+Dept==Communication==http://cas.msu.edu/departments/communication/academic-programs/bachelor-s-in-communication/bachelor-s-in-com-home
+Dept==Journalism==http://cas.msu.edu/departments/school-of-journalism/academics/bachelors-in-journalism
+Dept==Media and Information==http://cas.msu.edu/programs/bachelors-in-media-and-information
+Dept==Communication==http://cas.msu.edu/departments/communication/academic-programs/phd-in-communication/ph-d-in-comm-home
+Dept==Communicative Sciences and Disorders==http://www.cas.msu.edu/departments/csd/academic-programs/2012-08-17-15-11-31/ph-d-in-csd-home
+Dept==Media & Information Studies==http://cas.msu.edu/programs/phdinmis/ph-d-in-mis-home
+
+School==Education==http://www.educ.msu.edu/
+Dept==Department of Counseling, Educational Psychology and Special Education==http://education.msu.edu/cepse/default.asp
+Dept==Department of Educational Administration==http://education.msu.edu/ead/
+Dept==Department of Kinesiology==http://education.msu.edu/kin/
+Dept==Department of Teacher Education==http://education.msu.edu/te
+
+School==Eli Broad College of Business and The Eli Broad Graduate School of Management==http://www.bus.msu.edu/
+Dept==Accounting & Information Systems==http://accounting.broad.msu.edu/
+Dept==Finance==http://finance.broad.msu.edu/
+Dept==Management==http://management.broad.msu.edu/
+Dept==Marketing==http://marketing.broad.msu.edu/
+Dept==Supply Chain Management==http://supplychain.broad.msu.edu/
+
+School==Engineering==http://www.egr.msu.edu/egr/
+Dept==Applied Engineering Sciences==http://aes.egr.msu.edu/
+Dept==Biosystems & Agricultural Engineering==http://www.egr.msu.edu/bae/
+Dept==Chem Engineering & Materials Science==http://www.chems.msu.edu/
+Dept==Civil & Environmental Engineering==http://www.egr.msu.edu/cee/
+Dept==Computer Science & Engineering==http://www.cse.msu.edu/
+Dept==Electrical & Computer Engineering==http://www.egr.msu.edu/ece/
+Dept==Mechanical Engineering==http://www.egr.msu.edu/me/
+
+School==Honors College==http://honorscollege.msu.edu/
+
+School==Human Medicine==http://humanmedicine.msu.edu/
+Dept==Biochemistry and Molecular Biology==http://humanmedicine.msu.edu/units/biochem.php
+Dept==Center for Ethics and Humanities in the Life Sciences==http://humanmedicine.msu.edu/units/ethics.php
+Dept==Dermatology and Cutaneous Sciences==http://humanmedicine.msu.edu/units/derma.php
+Dept==Epidemiology==http://humanmedicine.msu.edu/units/epidemiology.php
+Dept==Family Medicine==http://humanmedicine.msu.edu/units/family.php
+Dept==Human Anatomy Division==http://anatomy.msu.edu/
+Dept==Human Pathology Division==http://humanmedicine.msu.edu/units/pathology.php
+Dept==Medicine==http://humanmedicine.msu.edu/units/med.php
+Dept==Microbiology and Molecular Genetics==http://humanmedicine.msu.edu/units/micro.php
+Dept==Neurology and Ophthalmology==http://humanmedicine.msu.edu/units/neurology.php
+Dept==Neuroscience Program==http://humanmedicine.msu.edu/units/neuro.php
+Dept==Obstetrics, Gynecology, and Reproductive Biology==http://humanmedicine.msu.edu/units/ogr.php
+Dept==Occupational and Environmental Medicine==http://humanmedicine.msu.edu/units/occupational.php
+Dept==Pediatrics and Human Development==http://humanmedicine.msu.edu/units/pediatrics.php
+Dept==Pharmacology and Toxicology==http://humanmedicine.msu.edu/units/pharmacology.php
+Dept==Physiology==http://humanmedicine.msu.edu/units/physiology.php
+Dept==Psychiatry==http://humanmedicine.msu.edu/units/psychiatry.php
+Dept==Radiology==http://humanmedicine.msu.edu/units/radiology.php
+Dept==Surgery==http://humanmedicine.msu.edu/units/surgery.php
+Dept==Emergency Medicine Division==http://humanmedicine.msu.edu/units/EMERGENCYMEDICINE.php
+Dept==Translational Science & Molecular Medicine Division==http://humanmedicine.msu.edu/units/TRANSLATIONALMEDICINE.php
+Dept==Center of Excellence in Minority Medical Education==http://humanmedicine.msu.edu/units/minority.php
+Dept==Faculty Affairs and Development==http://humanmedicine.msu.edu/units/affairs.php
+Dept==Institute for Health Care Studies==http://humanmedicine.msu.edu/units/care.php
+Dept==Office of Medical Education Research And Development (OMERAD)==http://humanmedicine.msu.edu/units/omerad.php
+Dept==Office of College Wide Assessment==http://humanmedicine.msu.edu/units/OFFICEOFCOLLEGEWIDEASSESSMENTCOLLEGEOFHUMANMEDICINEMICHIGANSTATEUNIVERSITY.php
+Dept==Cell and Molecular Biology Graduate Program==http://humanmedicine.msu.edu/units/cell.php
+Dept==Genetics Graduate Program==http://humanmedicine.msu.edu/units/genetics.php
+
+School==James Madison College==http://www.jmc.msu.edu/
+
+School==Law==http://www.law.msu.edu/
+
+School==Lyman Briggs College==http://www.lymanbriggs.msu.edu/
+
+School==Music==http://www.music.msu.edu/
+
+School==Natural Science==http://www.ns.msu.edu/
+Dept==Dept. of Biochemistry & Molecular Biology (BMB)==http://www.bch.msu.edu/
+Dept==Biological Sciences Program (BioSci)==http://biosci.msu.edu/
+Dept==Biomedical Laboratory Diagnostics Program (BLD)==http://medtech.cls.msu.edu/
+Dept==Cell & Molecular Biology Program (CMB)==http://cmb.msu.edu/
+Dept==Dept. of Chemistry==http://www.chemistry.msu.edu/
+Dept==Deans Office ? College of Natural Science==http://ns.msu.edu/index.php/about-cns/cns-dean-staff-directory/
+Dept==Charles Drew Science Scholars Program==http://drewlab.msu.edu/
+Dept==Ecology, Evolutionary Biology & Behavior Program (EEBB)==http://eebb.msu.edu/
+Dept==Dept. of Entomology==http://www.ent.msu.edu/
+Dept==Environmental Science and Public Policy Program==http://environment.msu.edu/
+Dept==Genetics Program==http://genetics.msu.edu/
+Dept==Dept. of Geological Sciences==http://geology.msu.edu/
+Dept==Human Biology Program==http://ns.msu.edu/index.php/departments/human-biology-program/
+Dept==Integrative Studies in General Science==http://cisgs.msu.edu
+Dept==Kellogg Biological Station (KBS)==http://www.kbs.msu.edu/
+Dept==Dept. of Mathematics==http://www.mth.msu.edu/
+Dept==Program for Mathematics Education (PRIME)==http://prime.msu.edu
+Dept==Dept. of Microbiology & Molecular Genetics (MMG)==http://mmg.msu.edu/index.htm
+Dept==Neuroscience Program==http://neuroscience.msu.edu/
+Dept==Dept. of Physics & Astronomy (PA)==http://www.pa.msu.edu/
+Dept==Dept. of Physiology (PSL)==http://www.psl.msu.edu/
+Dept==Dept. of Plant Biology==http://www.plantbiology.msu.edu/
+Dept==Plant Research Laboratory (PRL)==http://www.prl.msu.edu/
+Dept==Quantitative Biology Program==http://www.biomodel.msu.edu
+Dept==Residen==http://ns.msu.edu/index.php/students/rise/
+Dept==Dept. of Statistics & Probability==http://www.stt.msu.edu/
+Dept==Dept. of Zoology==http://www.zoology.msu.edu/
+
+School==Nursing==http://nursing.msu.edu/
+
+School==Osteopathic Medicine==http://com.msu.edu/
+Dept==Development==http://com.msu.edu/Donate/index.htm
+Dept==Faculty Development, Learning, and Leadership==http://com.msu.edu/FDLL/FDLL_Index.htm
+Dept==Family and Community Medicine==http://com.msu.edu/FCM/index.htm
+
+School==Residential College in the Arts and Humanities==http://www.rcah.msu.edu
+
+School==Social Science==http://www.socialscience.msu.edu/
+Dept==Human Resources & Labor Relations==http://www.socialscience.msu.edu/degree/hrlr.html
+Dept==Interdisciplinary Studies in Social Science==http://www.socialscience.msu.edu/degree/iss.html
+Dept==Political Science==http://www.socialscience.msu.edu/degree/political_science.html
+Dept==Psychology==http://www.socialscience.msu.edu/degree/psychology.html
+Dept==Social Work==http://www.socialscience.msu.edu/degree/social_work.html
+Dept==Sociology==http://www.socialscience.msu.edu/degree/sociology.html
+Dept==Urban & Regional Planning==http://www.socialscience.msu.edu/degree/planning.html
+Dept==? 2012 Michigan State University Board of Trustees. ? College of Social Science==null
+Dept==509 East Circle Drive, Berkey Hall ? East Lansing, Michigan 48824-1111==null
+
+School==Undergraduate University Division==https://www.msu.edu/%7euud/
+
+School==Veterinary Medicine==http://cvm.msu.edu/
+Dept==Large Animal Clinical Sciences==http://cvm.msu.edu/departments/large-animal-clinical-sciences
+Dept==Small Animal Clinical Sciences==http://cvm.msu.edu/departments/small-animal-clinical-sciences
+Dept==Pathobiology and Diagnostic Investigation==http://cvm.msu.edu/departments/department-of-pathobiology-and-diagnostic-investigation
+Dept==Microbiology and Molecular Genetics==http://cvm.msu.edu/departments/department-of-microbiology-and-molecular-genetics
+Dept==Physiology==http://cvm.msu.edu/departments/department-of-physiology
+Dept==Pharmacology and Toxicology==http://cvm.msu.edu/departments/department-of-pharmacology-and-toxicology
+

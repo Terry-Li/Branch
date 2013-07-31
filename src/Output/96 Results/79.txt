@@ -1,0 +1,51 @@
+79==http://www.ucr.edu/
+School==Bourns College of Engineering (BCOE)==http://www.engr.ucr.edu/
+Dept==Bioengineering==null
+Dept==Biochemical Engineering==null
+Dept==Chemical Engineering==null
+Dept==Nanotechnology==null
+Dept==Air Pollution Control==null
+Dept==Water Pollution Control==null
+Dept==Materials and Structures==null
+Dept==Energy and Environment==null
+Dept==Design and Manufacturing==null
+Dept==General Mechanical Engineering==http://library.ucr.edu/
+
+School==College of Humanities, Arts, & Social Sciences (CHASS)==http://www.chass.ucr.edu/
+Dept==Anthropology==http://anthropology.ucr.edu/
+Dept==Art?==http://art.ucr.edu/
+Dept==Art History==http://arthistory.ucr.edu/
+Dept==Comparative Literature & Foreign Languages==http://complitforlang.ucr.edu/
+Dept==Creative Writing==http://creativewriting.ucr.edu/
+Dept==Dance==http://dance.ucr.edu/
+Dept==Economics==http://economics.ucr.edu/
+Dept==English==http://english.ucr.edu/
+Dept==Ethnic Studies==http://ethnicstudies.ucr.edu/
+Dept==Hispanic Studies==http://hispanicstudies.ucr.edu/
+Dept==History==http://history.ucr.edu/
+Dept==Media and Cultural Studies==http://mediaandculturalstudies.ucr.edu/
+Dept==Music==http://music.ucr.edu/
+Dept==Philosophy==http://philosophy.ucr.edu/
+Dept==Political Science==http://politicalscience.ucr.edu/
+Dept==Psychology==http://psych.ucr.edu/
+Dept==Religious Studies==http://religiousstudies.ucr.edu/
+Dept==Sociology==http://sociology.ucr.edu/
+Dept==Theatre==http://theatre.ucr.edu/
+Dept==Women's Studies==http://womensstudies.ucr.edu/
+
+School==College of Natural & Agricultural Sciences (CNAS)==http://www.cnas.ucr.edu/
+
+School==School of Business Administration (SoBA)==http://soba.ucr.edu/
+
+School==Graduate School of Education (GSOE)==http://www.education.ucr.edu/
+Dept==Education, Society, and Culture==http://education.ucr.edu/degreeprograms/grad-escma.html
+Dept==Educational Psychology==http://education.ucr.edu/degreeprograms/maep.html
+Dept==Special Education==http://education.ucr.edu/degreeprograms/mase.html
+Dept==Education, Society, and Culture==http://education.ucr.edu/degreeprograms/grad-escphd.html
+Dept==Educational Psychology==http://education.ucr.edu/degreeprograms/phdep.html
+Dept==Higher Education Administration and Policy==http://education.ucr.edu/degreeprograms/grad-hedphd.html
+Dept==School Psychology==http://education.ucr.edu/schoolpsych/schpsychmain.html
+Dept==Special Education==http://education.ucr.edu/degreeprograms/grad-sephd.html
+
+School==School of Medicine==http://medschool.ucr.edu/
+

@@ -1,0 +1,41 @@
+36==http://www.gatech.edu/
+School==College of Architecture==http://www.coa.gatech.edu
+Dept==CITY & REGIONAL PLANNING==http://www.planning.gatech.edu
+Dept==INDUSTRIAL DESIGN==http://www.id.gatech.edu
+Dept==MUSIC==http://www.music.gatech.edu
+Dept==STUDY ABROAD==http://www.coa.gatech.edu/schools/international
+
+School==College of Computing==http://www.cc.gatech.edu
+Dept==School of Computer Science==http://www.scs.gatech.edu
+Dept==School of Interactive Computing==http://www.sic.gatech.edu
+Dept==School of Computational Science & Engineering==http://www.cse.gatech.edu
+
+School==College of Engineering==http://www.coe.gatech.edu
+Dept==Aerospace Engineering==http://www.coe.gatech.edu/content/daniel-guggenheim-school-aerospace-engineering
+Dept==Biomedical Engineering==http://coe.gatech.edu/schools/bme
+Dept==Chemical and Biomolecular Engineering==http://www.coe.gatech.edu/content/school-chemical-and-biomolecular-engineering
+Dept==Civil and Environmental Engineering==http://www.ce.gatech.edu
+Dept==Electrical and Computer Engineering==http://coe.gatech.edu/schools/ece
+Dept==Industrial and Systems Engineering==http://coe.gatech.edu/schools/isye
+Dept==Materials Science and Engineering==http://coe.gatech.edu/schools/mse
+Dept==Mechanical Engineering==http://coe.gatech.edu/schools/me
+Dept==Nuclear and Radiological Engineering==http://www.nre.gatech.edu/
+
+School==Ivan Allen College of Liberal Arts==http://www.iac.gatech.edu
+Dept==School of Economics==http://www.iac.gatech.edu/academics/schools/econ
+Dept==School of History, Technology, and Society==http://www.iac.gatech.edu/academics/schools/hts
+Dept==The Sam Nunn School of International Affairs==http://www.iac.gatech.edu/academics/schools/inta
+Dept==School of Literature, Media, and Communication==http://www.iac.gatech.edu/academics/schools/lcc
+Dept==School of Modern Languages==http://www.iac.gatech.edu/academics/schools/modlangs
+Dept==School of Public Policy==http://www.iac.gatech.edu/academics/schools/spp
+
+School==Ernest Scheller Jr. College of Business==http://mgt.gatech.edu
+
+School==College of Sciences==http://www.cos.gatech.edu
+Dept==Biology==http://www.biology.gatech.edu
+Dept==Chemistry & Biochemistry==http://www.chemistry.gatech.edu
+Dept==Earth and Atmospheric Sciences==http://www.eas.gatech.edu
+Dept==Mathematics==http://www.math.gatech.edu
+Dept==Physics==http://www.physics.gatech.edu
+Dept==Psychology==http://www.psychology.gatech.edu
+

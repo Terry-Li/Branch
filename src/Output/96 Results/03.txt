@@ -1,0 +1,159 @@
+03==http://www.utoronto.ca/
+School==Applied Science and Engineering, Faculty of==http://www.engineering.utoronto.ca/
+Dept==Undergraduate Studies==http://www.engineering.utoronto.ca/Future_Students/Undergraduate_Studies.htm
+Dept==Graduate Studies==http://gradstudies.engineering.utoronto.ca
+Dept==Engineering Continuing Studies==http://www.engineering.utoronto.ca/Future_Students/Engineering_Continuing_Studies.htm
+
+School==Architecture, Landscape, and Design, John H. Daniels Faculty of==http://www.daniels.utoronto.ca/
+
+School==Arts and Science, Faculty of==http://www.artsci.utoronto.ca/
+Dept==Anthropology==http://www.chass.utoronto.ca/anthropology
+Dept==Art==http://www.art.utoronto.ca
+Dept==Astronomy & Astrophysics==http://www.astro.utoronto.ca
+Dept==Cell & Systems Biology==http://www.csb.utoronto.ca
+Dept==Chemistry==http://www.chem.utoronto.ca
+Dept==Classics==http://www.chass.utoronto.ca/classics
+Dept==Computer Science==http://www.cs.utoronto.ca
+Dept==Earth Sciences==http://www.geology.utoronto.ca/
+Dept==East Asian Studies==http://www.chass.utoronto.ca/eas
+Dept==Ecology & Evolutionary Biology==http://www.eeb.utoronto.ca
+Dept==Economics==http://www.economics.utoronto.ca
+Dept==English==http://www.utoronto.ca/english
+Dept==French==http://french.utoronto.ca/
+Dept==Geography==http://www.geog.utoronto.ca
+Dept==German==http://www.chass.utoronto.ca/german
+Dept==History==http://www.chass.utoronto.ca/history
+Dept==Italian==http://www.utoronto.ca/italian
+Dept==Linguistics==http://www.chass.utoronto.ca/linguistics
+Dept==Mathematics==http://www.math.utoronto.ca
+Dept==Near & Middle Eastern Civilizations==http://www.utoronto.ca/nmc
+Dept==Philosophy==http://philosophy.utoronto.ca/
+Dept==Physics==http://www.physics.utoronto.ca
+Dept==Political Science==http://politics.utoronto.ca/
+Dept==Psychology==http://www.psych.utoronto.ca
+Dept==Study of Religion==http://www.religion.utoronto.ca
+Dept==Slavic Languages & Literatures==http://www.utoronto.ca/slavic
+Dept==Sociology==http://sociology.utoronto.ca/Page4.aspx
+Dept==Spanish & Portuguese==http://www.chass.utoronto.ca/spanish_portuguese
+Dept==Statistical Sciences==http://www.utstat.utoronto.ca
+
+School==Continuing Studies, School of==http://learn.utoronto.ca/
+Dept==Fees & Tax Information==http://learn.utoronto.ca/how-to-register/fees-tax-information
+Dept==Textbooks & Materials==http://learn.utoronto.ca/student-resources/textbooks-and-materials
+Dept==Part-Time English Language Courses==http://learn.utoronto.ca/international-professionals/english-language-courses
+Dept==Get Involved==http://learn.utoronto.ca/about/get-involved
+
+School==Dentistry, Faculty of==http://www.dentistry.utoronto.ca/
+
+School==Education, Ontario Institute for Studies in==http://www.oise.utoronto.ca/
+Dept==Applied Psychology and Human Development==http://www.oise.utoronto.ca/aphd/Prospective_Students/Programs/School_Clinical_Child_Psychology/index.html
+Dept==Curriculum, Teaching and Learning==http://www.oise.utoronto.ca/ctl/Home/index.html
+Dept==Humanities, Social Sciences and Social Justice Education==http://www.oise.utoronto.ca/hsssje/index.html
+Dept==Leadership, Higher and Adult Education==http://www.oise.utoronto.ca/lhae/Home/index.html
+
+School==Forestry, Faculty of==http://www.forestry.utoronto.ca/
+Dept==Forest Conservation Science==null
+Dept==Forest Conservation Arts==null
+Dept==Forest Biomaterials Science==http://www.artsandscience.utoronto.ca/ofr/calendar/crs_for.htm
+
+School==Graduate Studies, School of==http://www.sgs.utoronto.ca/
+Dept==Applied Psychology and Human Development, Department of==mailto:l.stermac@utoronto.ca
+Dept==Dynamics of Global Change (Collaborative Program)==mailto:mga@utoronto.ca
+Dept==Educational Policy (Collaborative Program)==mailto:nina.bascia@utoronto.ca
+Dept==Humanities, Social Sciences and Social Justice Education, Department of==mailto:roland.coloma@utoronto.ca
+Dept==Leadership, Higher and Adult Education, Department of==mailto:tony.chambers@utoronto.ca
+Dept==OISE/UT, Ontario Institute for Studies in Education==mailto:dorothy.carr@utoronto.ca
+Dept==Resuscitation Sciences (Collaborative Program)==mailto:morrisonl@smh.ca
+
+School==Information, Faculty of==http://www.ischool.utoronto.ca/
+Dept==Culture & Technology==http://www.ischool.utoronto.ca/c&t
+Dept==Information Systems & Design==http://www.ischool.utoronto.ca/isd
+Dept==Knowledge Mgt. & Information Mgt.==http://www.ischool.utoronto.ca/kmim
+Dept==Knowledge Media Design==http://www.ischool.utoronto.ca/kmd
+Dept==PhD in Information Studies==http://www.ischool.utoronto.ca/phd
+
+School==Kinesiology and Physical Education, Faculty of==http://www.utoronto.ca/physical
+
+School==Law, Faculty of==http://www.law.utoronto.ca/
+Dept==Aboriginal Law==http://www.law.utoronto.ca/focus-area/aboriginal-law
+Dept==Business Law==http://www.law.utoronto.ca/focus-area/business-law
+Dept==Constitutional Law==http://www.law.utoronto.ca/focus-area/constitutional-law
+Dept==Criminal Law==http://www.law.utoronto.ca/focus-area/criminal-law
+Dept==Environmental Law==http://www.law.utoronto.ca/focus-area/environmental-law
+Dept==Health Law and Policy==http://www.law.utoronto.ca/focus-area/health-law-and-policy
+Dept==International Law and Policy==http://www.law.utoronto.ca/focus-area/international-law-and-policy
+Dept==Law and Literature==http://www.law.utoronto.ca/focus-area/law-and-literature
+Dept==Law and Philosophy==http://www.law.utoronto.ca/focus-area/law-and-philosophy
+Dept==Public Interest and Diversity==http://www.law.utoronto.ca/focus-area/public-interest-and-diversity
+Dept==Women in Law and Social Change==http://www.law.utoronto.ca/focus-area/women-law-and-social-change
+
+School==Management, Joseph L. Rotman School of==http://www.rotman.utoronto.ca/index.html
+
+School==Medicine, Faculty of==http://medicine.utoronto.ca/
+Dept==Anesthesia==http://www.anesthesia.utoronto.ca/
+Dept==Banting and Best Department of Medical Research==http://www.utoronto.ca/bandb/
+Dept==Biochemistry==http://biochemistry.utoronto.ca/
+Dept==Biomaterials and Biomedical Engineering (Institute of)==http://www.ibbme.utoronto.ca/
+Dept==Dalla Lana School of Public Health==http://www.dlsph.utoronto.ca/
+Dept==Family and Community Medicine==http://dfcm.utoronto.ca
+Dept==Fraser Mustard Institute for Human Development==http://www.humandevelopment.utoronto.ca
+Dept==Global Health Equity and Innovation (Institute of)==http://boundless.utoronto.ca/initiatives/institute-of-global-health-equity-and-innovation/
+Dept==Graduate Department of Rehabilitation Science==http://www.gdrs.utoronto.ca/
+Dept==Health Policy, Management and Evaluation (Institute of)==http://www.ihpme.utoronto.ca/
+Dept==Immunology==http://www.immunology.utoronto.ca/
+Dept==Laboratory Medicine and Pathobiology==http://www.lmp.facmed.utoronto.ca
+Dept==Medical Biophysics==http://medbio.utoronto.ca/
+Dept==Medical Imaging==http://medical-imaging.utoronto.ca/site5.aspx
+Dept==Medical Science (Institute of)==http://www.ims.utoronto.ca/site3.aspx
+Dept==Medicine==http://www.deptmedicine.utoronto.ca
+Dept==Molecular Genetics==http://www.moleculargenetics.utoronto.ca/
+Dept==Nutritional Sciences==http://www.utoronto.ca/nutrisci/
+Dept==Obstetrics and Gynaecology==http://www.obgyn.utoronto.ca/
+Dept==Occupational Science and Occupational Therapy==http://www.ot.utoronto.ca/index.asp
+Dept==Ophthalmology and Vision Sciences==http://www.utoronto.ca/ophthalmology/
+Dept==Otolaryngology - Head and Neck Surgery==http://www.otolaryngology.utoronto.ca/
+Dept==Paediatrics==http://www.paeds.utoronto.ca
+Dept==Pharmacology and Toxicology==http://www.pharmtox.utoronto.ca/site3.aspx
+Dept==Physical Therapy==http://www.physicaltherapy.utoronto.ca/Page4.aspx
+Dept==Physician Assistant Professional Degree Program==http://www.facmed.utoronto.ca/programs/healthscience/PAEducation.htm
+Dept==Physiology==http://www.physiology.utoronto.ca/
+Dept==Psychiatry==http://www.utpsychiatry.ca/
+Dept==Radiation Oncology==http://www.radonc.utoronto.ca/
+Dept==Speech- Language Pathology==http://www.slp.utoronto.ca/
+Dept==Surgery==http://surgery.utoronto.ca/Page4.aspx
+Dept==Terrence Donnelly Centre for Cellular and Biomolecular Research==http://tdccbr.med.utoronto.ca/
+
+School==Music, Faculty of==http://www.music.utoronto.ca/
+
+School==Nursing, Lawrence S. Bloomberg Faculty of==http://www.nursing.utoronto.ca/
+
+School==Pharmacy, Leslie L. Dan Faculty of==http://www.utoronto.ca/pharmacy/
+
+School==Social Work, Factor-Inwentash Faculty of==http://www.socialwork.utoronto.ca/
+Dept==Collaborative Graduate Program in Addiction Studies==http://www.utoronto.ca/lifecourse/program
+Dept==Collaborative Program in Bioethics==http://www.utoronto.ca/ethnicstudies
+Dept==Collaborative Graduate Program In Health Services and Policy Research==http://www.hctp.utoronto.ca/
+Dept==Collaborative Graduate Program in Women's Health==http://www.wgsi.utoronto.ca/
+
+School==University of Toronto Mississauga==http://www.utm.utoronto.ca/
+Dept==ANTHROPOLOGY==null
+Dept==BIOLOGY==null
+Dept==CHEMICAL & PHYSICAL SCIENCES==null
+Dept==ECONOMICS==null
+Dept==ENGLISH & DRAMA==null
+Dept==GEOGRAPHY==null
+Dept==HISTORICAL STUDIES==null
+Dept==INSTITUTE OF COMMUNICATION,?CULTURE & INFORMATION TECHNOLOGY?(ICC&IT)==null
+Dept==LANGUAGE STUDIES==null
+Dept==MANAGEMENT==null
+Dept==MATHEMATICAL & COMPUTATIONAL SCIENCES==null
+Dept==PHILOSOPHY==null
+Dept==POLITICAL SCIENCE==null
+Dept==PSYCHOLOGY==null
+Dept==SOCIOLOGY==null
+Dept==VISUAL STUDIES==null
+Dept==ARTS==null
+Dept==SCIENCE==http://family.utoronto.ca/
+
+School==University of Toronto Scarborough==http://www.utsc.utoronto.ca/
+

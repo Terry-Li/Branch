@@ -1,0 +1,175 @@
+38==http://www.wisc.edu/
+School==Agricultural and Life Sciences, College of==http://www.cals.wisc.edu/
+Dept==Agricultural and Applied Economics==http://www.aae.wisc.edu/
+Dept==Agronomy==http://agronomy.wisc.edu/
+Dept==Animal Sciences==http://www.ansci.wisc.edu/
+Dept==Bacteriology==http://www.bact.wisc.edu/
+Dept==Biochemistry==http://www.biochem.wisc.edu/
+Dept==Biological Systems Engineering==http://bse.wisc.edu/
+Dept==Community and Environmental Sociology==http://www.dces.wisc.edu/
+Dept==Dairy Science==http://dysci.wisc.edu/
+Dept==Entomology==http://www.entomology.wisc.edu/
+Dept==Food Science==http://foodsci.wisc.edu/
+Dept==Forest and Wildlife Ecology==http://forestandwildlifeecology.wisc.edu/
+Dept==Genetics==http://www.genetics.wisc.edu/
+Dept==Horticulture==http://www.horticulture.wisc.edu/
+Dept==Landscape Architecture==http://www.la.wisc.edu/
+Dept==Life Sciences Communication==http://lsc.wisc.edu/
+Dept==Nutritional Sciences==http://www.nutrisci.wisc.edu/
+Dept==Plant Pathology==http://www.plantpath.wisc.edu/index.php
+Dept==Soil Science==http://www.soils.wisc.edu/soils/index.php
+Dept==Urban and Regional Planning==http://urpl.wisc.edu/
+
+School==Arts==http://arts.wisc.edu/artsinstitute/academics.html
+Dept==College of the Arts Initiative==http://arts.wisc.edu/artsinstitute/cota/
+Dept==Arts on Campus Website==http://arts.wisc.edu/
+Dept==Interdisciplinary Arts Residency Program==http://arts.wisc.edu/artsinstitute/IAR/
+Dept==Creative Arts and Design Learning Community==http://www.housing.wisc.edu/cadc
+Dept==Arts Outreach==http://artsoutreach.wisc.edu/
+Dept==CD Recording Project==http://apps.music.wisc.edu/cdstore/
+Dept==Arts Awards==http://arts.wisc.edu/artsinstitute/awards/index.html
+Dept==Wisconsin Film Festival==http://www.wifilmfest.org/
+Dept==Year of the Arts==http://www.yearofthearts.wisc.edu/
+
+School==Business, Wisconsin School of==http://www.bus.wisc.edu/
+Dept==Accounting?and Information Systems==http://bus.wisc.edu/knowledge-expertise/academic-departments/accounting
+Dept==Actuarial Science, Risk Management,?and Insurance==http://bus.wisc.edu/knowledge-expertise/academic-departments/actuarial-science-risk-management-insurance
+Dept==Executive Education==http://exed.wisc.edu/
+Dept==Finance, Investment,?and Banking==http://bus.wisc.edu/knowledge-expertise/academic-departments/finance
+Dept==Management?and Human Resources==http://bus.wisc.edu/knowledge-expertise/academic-departments/management-human-resources
+Dept==Marketing==http://bus.wisc.edu/knowledge-expertise/academic-departments/marketing
+Dept==Operations?and Information Management==http://bus.wisc.edu/knowledge-expertise/academic-departments/operations-information-management
+Dept==Real Estate?and Urban Land Economics==http://bus.wisc.edu/knowledge-expertise/academic-departments/real-estate
+
+School==Continuing Studies, Division of==http://www.dcs.wisc.edu/
+Dept==Executive Education==http://exed.wisc.edu/Certificates
+Dept==Engineering==http://epdweb.engr.wisc.edu/certificates/index.lasso
+Dept==Veterinary Medicine==http://ce.vetmed.wisc.edu/Courses
+Dept==School of Pharmacy==http://www.pharmacy.wisc.edu/zeeh-pharmaceutical-experiment-station/continuing-education
+
+School==Education, School of==http://www.education.wisc.edu/
+Dept==Art Department==http://art.wisc.edu/
+Dept==Department of Counseling Psychology==http://counselingpsych.education.wisc.edu/
+Dept==Department of Educational Policy Studies==http://eps.education.wisc.edu/
+Dept==Department of Educational Psychology==http://edpsych.education.wisc.edu/
+Dept==Department of Kinesiology==http://kinesiology.education.wisc.edu/
+Dept==Department of Rehabilitation Psychology and Special Education==http://rpse.education.wisc.edu/
+
+School==Engineering, College of==http://www.engr.wisc.edu/
+Dept==Computing resources==http://www.cae.wisc.edu/
+Dept==Learning technology==https://ecow2.engr.wisc.edu/about.html
+Dept==Wendt Commons==http://wendt.engr.wisc.edu/
+Dept==Engineering Beyond Boundaries==http://www.engr.wisc.edu/eb2.html
+
+School==Environmental Studies, Nelson Institute for==http://www.nelson.wisc.edu/
+Dept==WISCONSIN ECOLOGY==http://www.nelson.wisc.edu/wisconsin_ecology/index.php
+Dept==CAMPUS SUSTAINABILITY INITIATIVE==http://sustainability.wisc.edu/
+Dept==EARTH SCIENCE WOMEN'S NETWORK==http://www.eswnonline.org/
+Dept==WISCONSIN INITIATIVE ON CLIMATE CHANGE IMPACTS==http://www.wicci.wisc.edu/index.php
+Dept==WATER RESOURCES MANAGEMENT==http://www.nelson.wisc.edu/graduate_degrees/wrm/index.php
+Dept==COMMUNITY ENVIRONMENTAL SCHOLARS PROGRAM==http://www.nelson.wisc.edu/undergraduate/cesp/index.php
+Dept==COMMUNITY FELLOWS PROGRAM==http://www.nelson.wisc.edu/partnerships/fellow_bios.php
+
+School==Graduate School==http://www.grad.wisc.edu/
+Dept==English Linguistics (==https://www.gradsch.wisc.edu/education/academic_programs/detail.html?pID=G405
+Dept==Entrepreneurial Management (Admissions Suspended) (==https://www.gradsch.wisc.edu/education/academic_programs/detail.html?pID=G623
+Dept==Epidemiology (==https://www.gradsch.wisc.edu/education/academic_programs/detail.html?pID=G807
+
+School==Human Ecology, School of==http://www.sohe.wisc.edu
+Dept==Consumer Science==http://sohe.wisc.edu/cs
+Dept==Human Development & Family Studies==http://sohe.wisc.edu/hdfs
+Dept==Design Studies==http://sohe.wisc.edu/etd
+Dept==Interdisciplinary Studies==http://sohe.wisc.edu/is
+
+School==International Studies, Division of==http://www.international.wisc.edu/
+
+School==Journalism and Mass Communication, School of==http://www.journalism.wisc.edu/
+
+School==Law School==http://www.law.wisc.edu/
+Dept==Consumer Law Clinic==http://www.law.wisc.edu/fjr/eji/clc/
+Dept==Family Court Clinic==http://www.law.wisc.edu/fjr/eji/familycourt/index.html
+Dept==Mediation Clinic==http://www.law.wisc.edu/fjr/eji/mediation/index.html
+Dept==Neighborhood Law Clinic==http://www.law.wisc.edu/eji/index.html
+
+School==Letters & Science, College of==http://www.ls.wisc.edu/
+Dept==Abrahamic Religions, Lubar Institute for the Study of the==http://lisar.lss.wisc.edu/
+Dept==African Languages & Literature, Department of==http://african.lss.wisc.edu
+Dept==African Studies Program==http://africa.wisc.edu/
+Dept==Afro-American Studies, Department of==http://afroamericanstudies.wisc.edu/
+Dept==Aging, Institute on==http://aging.wisc.edu/
+Dept==American Constitution, Center for the Study of the==http://history.wisc.edu/csac/csac.htm
+Dept==American Indian Studies Program==null
+Dept==Anthropology, Department of==http://www.anthropology.wisc.edu/index.php
+Dept==Art History, Department of==http://www.arthistory.wisc.edu/index.html
+Dept==Arts Institute==http://www.arts.wisc.edu/artsinstitute/index.html
+Dept==Asian American Studies Program==http://polyglot.lss.wisc.edu/aasp/
+Dept==Astronomy, Department of==http://www.astro.wisc.edu/
+Dept==Atmospheric and Oceanic Sciences, Department of==http://www.aos.wisc.edu/
+Dept==Biological Aspects of Conservation==http://www.biology.wisc.edu/Academic_Programs/BAC/index.asp
+Dept==Biological Psychology, Harlow Center for==http://psych.wisc.edu/primatelab/primatelabhome.html
+Dept==Biology Core Curriculum==http://www.biocore.wisc.edu/
+Dept==Biology Education, Institute for==http://www.biology.wisc.edu/
+Dept==Biology Major==http://www.biology.wisc.edu/Academic_Programs/Biology/
+Dept==Botany, Department of==http://www.botany.wisc.edu/
+Dept==Cartography Project, History of==http://www.geography.wisc.edu/histcart/
+Dept==Chazen Museum of Art==http://www.chazen.wisc.edu/
+Dept==Chemical Education, Institute for==http://ice.chem.wisc.edu/
+Dept==Chemistry Learning Center==http://www.chem.wisc.edu/areas/CLC/index.htm
+Dept==Chemistry, Department of==http://www.chem.wisc.edu/
+Dept==Chican@ and Latin@ Studies Program==http://www.chicla.wisc.edu/
+Dept==Child Welfare Policy and Practice, Center on==http://ccwpp.wisc.edu/
+Dept==Classics, Department of==http://classics.lss.wisc.edu/
+Dept==Communication and Democracy, Center for==null
+Dept==Communication Arts Instructional Media Center==http://commarts.wisc.edu/imc/
+Dept==Communication Arts, Department of==http://commarts.wisc.edu/info/
+Dept==Communication Research, Center for==http://ccr.commarts.wisc.edu/
+Dept==Communication Sciences and Disorders, Department of==http://www.comdis.wisc.edu/index.htm
+Dept==Comparative Literature and Folklore, Department of==http://complit.lss.wisc.edu/
+Dept==Computer Sciences, Department of==http://www.cs.wisc.edu/
+Dept==Contemporary History, Harvey Goldberg Center for the Study of==http://history.wisc.edu/goldberg/goldberg.htm
+Dept==COWS (Center on Wisconsin Strategy)==http://www.cows.org
+
+School==Library and Information Studies, School of==http://polyglot.lss.wisc.edu/slis/
+
+School==Medicine and Public Health, School of==http://www.med.wisc.edu/
+Dept==Anesthesiology==http://www.anesthesia.wisc.edu
+Dept==Dermatology==http://www.dermatology.wisc.edu
+Dept==Family Medicine==http://www.fammed.wisc.edu
+Dept==Human Oncology==http://www.humonc.wisc.edu/index.php/Main_Page
+Dept==Medicine==http://www.med.wisc.edu/departments/medicine/282
+Dept==Neurological Surgery==http://www.neurosurgery.wisc.edu/
+Dept==Neurology==http://www.med.wisc.edu/departments/neurology/286
+Dept==Obstetrics and Gynecology==http://www.med.wisc.edu/departments/obstetrics-gynecology/289
+Dept==Ophthalmology and Visual Sciences==http://www.med.wisc.edu/departments/ophthalmology-visual-sciences/330
+Dept==Orthopedics and Rehabilitation==http://www.ortho.wisc.edu
+Dept==Pathology and Laboratory Medicine==http://www.pathology.wisc.edu
+Dept==Pediatrics==http://www.pediatrics.wisc.edu/
+Dept==Psychiatry==http://www.med.wisc.edu/departments/psychiatry/300
+Dept==Radiology==http://www.radiology.wisc.edu
+Dept==Surgery==http://www.surgery.wisc.edu
+Dept==Urology==http://www.urology.wisc.edu/
+
+School==Music, School of==http://www.music.wisc.edu
+
+School==Nursing, School of==http://www.son.wisc.edu/
+
+School==Pharmacy, School of==http://www.pharmacy.wisc.edu/
+
+School==Public Affairs, Robert M. La Follette School of==http://www.lafollette.wisc.edu/
+Dept==Energy Analysis and Policy==http://www.lafollette.wisc.edu/degreeprograms/joint/eap.html
+Dept==Urban Planning and Public Affairs==http://www.lafollette.wisc.edu/degreeprograms/joint/urban.html
+Dept==Law and Public Policy==http://www.lafollette.wisc.edu/degreeprograms/joint/law.html
+
+School==Social Work, School of==http://socwork.wisc.edu
+Dept==Studies on Child Maltreatment, Child Development, and Public Policies==http://socwork.wisc.edu/studies-child-maltreatment
+Dept==End-of-Life Care Studies==http://socwork.wisc.edu/end-life-care-studies
+Dept==Studies on Child Support==http://socwork.wisc.edu/studies-child-support
+Dept==Studies on Developmental Disabilities==http://socwork.wisc.edu/studies-developmental-disabilities
+
+School==Veterinary Medicine, School of==http://www.vetmed.wisc.edu/
+Dept==Comparative Biosciences==http://www.vetmed.wisc.edu/departments/comparative-biosciences/
+Dept==Medical Sciences==http://www.vetmed.wisc.edu/departments/medical-sciences/
+Dept==Pathobiological Sciences==http://www.vetmed.wisc.edu/departments/pathobiological-sciences/
+Dept==Surgical Sciences==http://www.vetmed.wisc.edu/departments/surgical-sciences/
+Dept==Research and Service Centers and Labs==http://www.vetmed.wisc.edu/departments/research-and-service/
+

@@ -1,0 +1,46 @@
+13==http://www.sfu.ca/
+School==Faculty of Education==http://www.educ.sfu.ca
+Dept==Undergraduate Studies==http://www.educ.sfu.ca/undergrad.html
+Dept==Teacher Education==http://www.educ.sfu.ca/teachersed.html
+Dept==Graduate Studies==http://www.educ.sfu.ca/gs.html
+
+School==Faculty of Environment==http://www.fenv.sfu.ca/
+Dept==Archaeology==http://www.sfu.ca/archaeology/undergraduate.html
+Dept==Geography==http://www.sfu.ca/geography/undergraduate-program/human-geography-sfu
+Dept==Geography ? Environmental Specialty==http://students.sfu.ca/calendar/geography/geog-enviro-specialty-maj.html
+Dept==Double Minor==null
+Dept==Environmental Science==http://www.sfu.ca/evsc
+Dept==Physical Geography==http://www.sfu.ca/geography/undergraduate-program/physical-geography-sfu
+Dept==Geographic Information Science (with Applied Sciences)==http://students.sfu.ca/calendar/2013/fall/programs/geographic-information-science/major/bachelor-of-science.html
+Dept==Geography (Minor and Extended Minor)==http://students.sfu.ca/calendar/geography/geog-min.html
+Dept==Physical Geography Minor==http://students.sfu.ca/calendar/geography/phys-geog-min.html
+Dept==Archaeology (Minor and Extended Minor)==http://www.sfu.ca/archaeology/undergraduate/minor.html
+Dept==Development and Sustainability==http://www.sfu.ca/devsprogram.html
+Dept==Archaeology (MA, PhD)==http://www.sfu.ca/archaeology/graduate/index.html
+Dept==Geography (MA, MSc, PhD)==http://www.sfu.ca/geography/graduate-programs
+Dept==Resource and Environmental Management (MRM, MRM (Planning), PhD)==http://www.rem.sfu.ca/
+Dept==Environmental Literacy Certificate==http://students.sfu.ca/calendar/environment/environmental-literacy-cert.html
+Dept==Cultural Resource Management==http://www.sfu.ca/archaeology/undergraduate/crmcert.html
+Dept==Spatial Information Systems==https://students.sfu.ca/calendar/geography/spatial-info-systems-cert.html
+Dept==Sustainable Community Development==http://www.sfu.ca/cscd/academic-programs/undergraduate-certificate.html
+Dept==Urban Studies==http://students.sfu.ca/calendar/geography/urban-studies-cert.html
+Dept==NEW! Corporate Environmental and Social Sustainability==https://students.sfu.ca/calendar/2013/fall/programs/corporate-environmental-and-social-sustainability/certificate.html
+Dept==Sustainable Community Development==http://www.sfu.ca/cscd/academic-programs/post-baccalaureate-diploma.html
+Dept==Development and Sustainability==http://www.sfu.ca/devgroup/
+Dept==Quantitative Methods in Fisheries Management==http://www.rem.sfu.ca/fishgrp/grad.html
+
+School==Faculty of Health Sciences==http://www.sfu.ca/fhs.html
+
+School==Faculty of Science==http://www.sfu.ca/science
+Dept==Biological Sciences==http://biology.sfu.ca
+Dept==Biomedical Physiology & Kinesiology==http://www.sfu.ca/bpk/
+Dept==Chemistry==http://chemistry.sfu.ca
+Dept==Earth Sciences==http://www.sfu.ca/earth-sciences/
+Dept==Mathematics==http://www.math.sfu.ca/
+Dept==Molecular Biology & Biochemistry==http://www.sfu.ca/mbb/
+Dept==Physics==http://www.physics.sfu.ca/
+Dept==Statistics & Actuarial Science==http://www.stat.sfu.ca/
+Dept==General Science==http://www.sfu.ca/undergrad/programs/generalscience
+Dept==Management & Systems Science==http://www.students.surrey.sfu.ca/science/mssc
+Dept==Surrey Science Programs==http://www.students.surrey.sfu.ca/science/
+

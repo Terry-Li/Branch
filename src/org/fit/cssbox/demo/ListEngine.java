@@ -226,7 +226,10 @@ public class ListEngine {
         ArrayList<Combo> previous = null;
         for (Iterator<ArrayList<Combo>> it = candidates.iterator(); it.hasNext();) {
             previous = it.next();
-            String head = previous.get(0).previous.text.toLowerCase();
+            String head = "";
+            if (previous.get(0).previous != null) {
+                head = previous.get(0).previous.text.toLowerCase();
+            }
             if (head.contains("faculties") || head.contains("colleges")) {
                 break;
             }

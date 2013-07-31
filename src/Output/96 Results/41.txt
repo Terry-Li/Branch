@@ -1,0 +1,213 @@
+41==http://www.umd.edu/
+School==College of Agriculture and Natural Resources==http://agnr.umd.edu/
+Dept==Animal and Avian Sciences (ANSC)==http://ansc.umd.edu/
+Dept==Agricultural and Resource Economics (AREC)==http://arec.umd.edu/
+Dept==Environmental Science and Policy (ENSP)==http://www.ensp.umd.edu
+Dept==Environmental Science and Technology (ENST)==http://enst.umd.edu
+Dept==Nutrition and Food Science (NFSC)==http://nfsc.umd.edu/
+Dept==Plant Science & Landscape Architecture (PSLA)==http://www.psla.umd.edu/
+Dept==Veterinary Medicine (VTMD)==http://vetmed.umd.edu
+Dept==Institute of Applied Agriculture (IAA)==http://iaa.umd.edu
+Dept==Virginia-Maryland Regional College of Veterinary Medicine (VMRCVM)==http://www.vetmed.vt.edu/
+
+School==School of Architecture, Planning, and Preservation==http://www.arch.umd.edu/
+
+School==College of Arts and Humanities==http://www.arhu.umd.edu/
+Dept==ARHU Administration==http://www.arhu.umd.edu/facultystaff/administration
+Dept==Faculty Resources==http://www.arhu.umd.edu/facultystaff/resources
+Dept==Research==http://www.arhu.umd.edu/facultystaff/research
+Dept==Technology Services==http://www.arhu.umd.edu/tech
+Dept==Campus Resources==http://www.arhu.umd.edu/facultystaff/campusresources
+
+School==College of Behavioral and Social Sciences==http://www.bsos.umd.edu/
+Dept==African American Studies==http://www.aasd.umd.edu
+Dept==Anthropology==http://www.anth.umd.edu
+Dept==Criminology & Criminal Justice==http://www.ccjs.umd.edu
+Dept==Economics==http://www.econ.umd.edu
+Dept==Geographical Sciences==http://www.geog.umd.edu
+Dept==Government & Politics==http://www.gvpt.umd.edu
+Dept==Hearing & Speech Sciences==http://www.hesp.umd.edu
+Dept==Joint Program in Survey Methodology==http://www.jpsm.umd.edu
+Dept==Psychology==http://www.psychology.umd.edu
+Dept==Sociology==http://www.socy.umd.edu
+Dept==Research Centers==http://www.bsos.umd.edu/about-us/research-centers
+
+School==Robert H. Smith School of Business==http://www.smith.umd.edu/
+Dept==Accounting & Information Assurance==http://www.rhsmith.umd.edu/accounting
+Dept==Decision, Operations & Information Technologies==http://www.rhsmith.umd.edu/doit
+Dept==Finance==http://www.rhsmith.umd.edu/finance
+Dept==Logistics, Business & Public Policy==http://www.rhsmith.umd.edu/lbpp
+Dept==Management & Organization==http://www.rhsmith.umd.edu/management
+Dept==Marketing==http://www.rhsmith.umd.edu/marketing
+
+School==College of Computer, Mathematical and Natural Sciences==http://www.cmns.umd.edu/
+Dept==Atmospheric and Oceanic Science==http://www.atmos.umd.edu/
+Dept==Cell Biology & Molecular Genetics==http://cbmg.umd.edu
+Dept==Computer Science==http://www.cs.umd.edu
+Dept==Geology==http://www.geol.umd.edu
+Dept==Physics==http://umdphysics.umd.edu
+Dept==Astronomy==http://www.astro.umd.edu/
+Dept==Biology==http://biology.umd.edu
+Dept==Chemistry and Biochemistry==http://www.chem.umd.edu
+Dept==Entomology==http://entomology.umd.edu
+Dept==Mathematics==http://www.math.umd.edu
+
+School==College of Education==http://www.education.umd.edu/
+Dept==Counseling, Higher Education,==http://www.education.umd.edu/CHSE/
+Dept==Human Development==http://www.education.umd.edu/HDQM/
+Dept==Teaching, Learning, Policy,==http://www.education.umd.edu/TLPL/
+
+School==A. James Clark School of Engineering==http://www.engr.umd.edu/
+Dept==Aerospace Engineering==http://www.aero.umd.edu/
+Dept==Bioengineering==http://www.bioe.umd.edu
+Dept==Chemical and Biomolecular Engineering==http://www.chbe.umd.edu/
+Dept==Civil and Environmental Engineering==http://www.civil.umd.edu/
+Dept==Electrical and Computer Engineering==http://www.ece.umd.edu/
+Dept==Fire Protection Engineering==http://www.fpe.umd.edu/
+Dept==Materials Science and Engineering==http://www.mse.umd.edu/
+Dept==Mechanical Engineering==http://www.enme.umd.edu/
+
+School==The Graduate School==http://www.gradschool.umd.edu/
+Dept==Agricultural and Resource Economics ==http://www.gradschool.umd.edu/catalog/programs/arec.htm
+Dept==American Studies ==http://www.gradschool.umd.edu/catalog/programs/amst.htm
+Dept==Animal Sciences ==http://www.gradschool.umd.edu/catalog/programs/ansc.htm
+Dept==Anthropology ==http://www.gradschool.umd.edu/catalog/programs/anth.htm
+Dept==Applied Mathematics & Statistics, and Scientific Computation ==http://www.gradschool.umd.edu/catalog/programs/amsc.htm
+Dept==Architecture ==http://www.gradschool.umd.edu/catalog/programs/arch.htm
+Dept==Architecture and Real Estate Development ==http://www.gradschool.umd.edu/catalog/programs/ardv.htm
+Dept==Art History and Archaeology ==http://www.gradschool.umd.edu/catalog/programs/arth.htm
+Dept==Art Studio ==http://www.gradschool.umd.edu/catalog/programs/artt.htm
+Dept==Astronomy ==http://www.gradschool.umd.edu/catalog/programs/astr.htm
+Dept==Atmospheric and Oceanic Science ==http://www.gradschool.umd.edu/catalog/programs/aosc.htm
+Dept==Biochemistry ==http://www.gradschool.umd.edu/catalog/programs/bchm.htm
+Dept==Biological Sciences ==http://www.gradschool.umd.edu/catalog/programs/bisi.htm
+Dept==Biophysics ==http://www.gradschool.umd.edu/catalog/programs/biph.htm
+Dept==Business and Management ==http://www.gradschool.umd.edu/catalog/programs/bmgt.htm
+Dept==Business and Management:Doctoral Programs ==http://www.gradschool.umd.edu/catalog/programs/bphd.htm
+Dept==Chemical Physics ==http://www.gradschool.umd.edu/catalog/programs/chph.htm
+Dept==Chemistry ==http://www.gradschool.umd.edu/catalog/programs/chem.htm
+Dept==Classics ==http://www.gradschool.umd.edu/catalog/programs/clas.htm
+Dept==Clinical Audiology ==http://www.gradschool.umd.edu/catalog/programs/caud.htm
+Dept==Communication ==http://www.gradschool.umd.edu/catalog/programs/comm.htm
+Dept==Comparative Literature ==http://www.gradschool.umd.edu/catalog/programs/cmlt.htm
+Dept==Computer Science ==http://www.gradschool.umd.edu/catalog/programs/cmsc.htm
+Dept==Creative Writing ==http://www.gradschool.umd.edu/catalog/programs/crwr.htm
+Dept==Criminology and Criminal Justice ==http://www.gradschool.umd.edu/catalog/programs/crim.htm
+Dept==Dance ==http://www.gradschool.umd.edu/catalog/programs/danc.htm
+Dept==Doctor of Veterinary Medicine (DVM) Program ==http://www.gradschool.umd.edu/catalog/programs/vmed.htm
+Dept==Economics ==http://www.gradschool.umd.edu/catalog/programs/econ.htm
+Dept==Education: Curriculum and Instruction ==http://www.gradschool.umd.edu/catalog/programs/edci.htm
+Dept==Education: Measurement, Statistics and Evaluation ==http://www.gradschool.umd.edu/catalog/programs/edms.htm
+Dept==Education: Policy Studies and Organizational Leadership ==http://www.gradschool.umd.edu/catalog/programs/edps.htm
+Dept==Education: Counseling Psychology, School Psychology, and Counselor Education ==http://www.gradschool.umd.edu/catalog/programs/edcp.htm
+Dept==Education: Human Development ==http://www.gradschool.umd.edu/catalog/programs/edhd.htm
+Dept==Education: Special Education ==http://www.gradschool.umd.edu/catalog/programs/edsp.htm
+Dept==Engineering: Aerospace Engineering ==http://www.gradschool.umd.edu/catalog/programs/enae.htm
+Dept==Engineering: Bioengineering ==http://www.gradschool.umd.edu/catalog/programs/bioe.htm
+Dept==Engineering: Chemical Engineering ==http://www.gradschool.umd.edu/catalog/programs/ench.htm
+Dept==Engineering: Civil and Environmental Engineering ==http://www.gradschool.umd.edu/catalog/programs/ence.htm
+Dept==Engineering: Electrical & Computer Engineering ==http://www.gradschool.umd.edu/catalog/programs/enee.htm
+Dept==Engineering: Fire Protection Engineering ==http://www.gradschool.umd.edu/catalog/programs/enfp.htm
+Dept==Engineering: Materials Science and Engineering ==http://www.gradschool.umd.edu/catalog/programs/enma.htm
+Dept==Engineering: Mechanical Engineering ==http://www.gradschool.umd.edu/catalog/programs/enme.htm
+Dept==Engineering: Professional Master of Engineering ==http://www.gradschool.umd.edu/catalog/programs/enpm.htm
+Dept==Engineering: Reliability Engineering ==http://www.gradschool.umd.edu/catalog/programs/enre.htm
+Dept==Engineering: Systems Engineering ==http://www.gradschool.umd.edu/catalog/programs/ense.htm
+Dept==Engineering: Telecommunications ==http://www.gradschool.umd.edu/catalog/programs/ents.htm
+Dept==English Language and Literature ==http://www.gradschool.umd.edu/catalog/programs/engl.htm
+Dept==Entomology ==http://www.gradschool.umd.edu/catalog/programs/entm.htm
+Dept==Enviromental Science and Technology ==http://www.gradschool.umd.edu/catalog/programs/enst.htm
+Dept==Family Science ==http://www.gradschool.umd.edu/catalog/programs/fmsc.htm
+Dept==Food Science ==http://www.gradschool.umd.edu/catalog/programs/fdsc.htm
+Dept==French Modern Studies ==http://www.gradschool.umd.edu/catalog/programs/frms.htm
+Dept==French Studies ==http://www.gradschool.umd.edu/catalog/programs/frit.htm
+Dept==Geographical Sciences ==http://www.gradschool.umd.edu/catalog/programs/geog.htm
+Dept==Geology ==http://www.gradschool.umd.edu/catalog/programs/geol.htm
+Dept==Geospatial Information Sciences ==http://www.gradschool.umd.edu/catalog/programs/mpsg.htm
+Dept==German Literature and Language ==http://www.gradschool.umd.edu/catalog/programs/germ.htm
+Dept==Government and Politics ==http://www.gradschool.umd.edu/catalog/programs/gvpt.htm
+Dept==Graduate Certificate of Professional Studies -- Real Estate Development ==http://www.gradschool.umd.edu/catalog/programs/z029.htm
+Dept==Graduate Certificate: Neuroscience and Cognitive Science ==http://www.gradschool.umd.edu/catalog/programs/z037.htm
+Dept==Graduate Certificate: Terrorism Analysis ==http://www.gradschool.umd.edu/catalog/programs/z039.htm
+Dept==Graduate Certificate: Literacy Coaching ==http://www.gradschool.umd.edu/catalog/programs/z038.htm
+Dept==Hearing and Speech Sciences ==http://www.gradschool.umd.edu/catalog/programs/hesp.htm
+Dept==Higher Education, Student Affairs and International Education Policy ==http://www.gradschool.umd.edu/catalog/programs/hesi.htm
+Dept==Historic Preservation ==http://www.gradschool.umd.edu/catalog/programs/hisp.htm
+Dept==Historic Preservation and Real Estate Development ==http://www.gradschool.umd.edu/catalog/programs/hpdv.htm
+Dept==History ==http://www.gradschool.umd.edu/catalog/programs/hist.htm
+Dept==History/Library Science ==http://www.gradschool.umd.edu/catalog/programs/hils.htm
+Dept==Human-Computer Interaction ==http://www.gradschool.umd.edu/catalog/programs/hcim.htm
+Dept==Information Management ==http://www.gradschool.umd.edu/catalog/programs/infm.htm
+Dept==Information Studies ==http://www.gradschool.umd.edu/catalog/programs/infs.htm
+Dept==Jewish Studies ==http://www.gradschool.umd.edu/catalog/programs/jwst.htm
+Dept==Journalism ==http://www.gradschool.umd.edu/catalog/programs/jour.htm
+Dept==Kinesiology ==http://www.gradschool.umd.edu/catalog/programs/knes.htm
+Dept==Landscape Architecture ==http://www.gradschool.umd.edu/catalog/programs/larc.htm
+Dept==Library Science ==http://www.gradschool.umd.edu/catalog/programs/lbsc.htm
+Dept==Linguistics ==http://www.gradschool.umd.edu/catalog/programs/ling.htm
+Dept==Marine-Estuarine-Environmental Sciences ==http://www.gradschool.umd.edu/catalog/programs/mees.htm
+Dept==Masters of Chemical and Life Sciences ==http://www.gradschool.umd.edu/catalog/programs/clfs.htm
+Dept==Mathematical Statistics ==http://www.gradschool.umd.edu/catalog/programs/stat.htm
+Dept==Mathematics ==http://www.gradschool.umd.edu/catalog/programs/math.htm
+Dept==Mathematics of Advanced Industrial Technology ==http://www.gradschool.umd.edu/catalog/programs/mait.htm
+Dept==Music ==http://www.gradschool.umd.edu/catalog/programs/musc.htm
+Dept==Neuroscience and Cognitive Science ==http://www.gradschool.umd.edu/catalog/programs/nacs.htm
+Dept==Nutrition ==http://www.gradschool.umd.edu/catalog/programs/nutr.htm
+Dept==Philosophy ==http://www.gradschool.umd.edu/catalog/programs/phil.htm
+Dept==Physics ==http://www.gradschool.umd.edu/catalog/programs/phys.htm
+Dept==Plant Science ==http://www.gradschool.umd.edu/catalog/programs/plsc.htm
+Dept==Psychology ==http://www.gradschool.umd.edu/catalog/programs/psyc.htm
+Dept==Public Health: Health Services Ph.D. ==http://www.gradschool.umd.edu/catalog/programs/phhs.htm
+Dept==Public Health: Master of Public Health--Behavioral and Community Health ==http://www.gradschool.umd.edu/catalog/programs/mbch.htm
+Dept==Public Health: Master of Public Health--Biostatistics ==http://www.gradschool.umd.edu/catalog/programs/bios.htm
+Dept==Public Health: Master of Public Health--Environmental Health Sciences ==http://www.gradschool.umd.edu/catalog/programs/mieh.htm
+Dept==Public Health: Master of Public Health--Epidemiology ==http://www.gradschool.umd.edu/catalog/programs/epdm.htm
+Dept==Public Health: Maternal and Child Health Ph.D. ==http://www.gradschool.umd.edu/catalog/programs/mchs.htm
+Dept==Public Health: Behavioral and Community Health Ph.D. ==http://www.gradschool.umd.edu/catalog/programs/bchl.htm
+Dept==Public Health: Epidemiology Ph.D. ==http://www.gradschool.umd.edu/catalog/programs/epid.htm
+Dept==Public Health: Master of Health Administration ==http://www.gradschool.umd.edu/catalog/programs/hlsa.htm
+Dept==Public Policy: PhD Policy Studies ==http://www.gradschool.umd.edu/catalog/programs/posi.htm
+Dept==Public Policy: Masters Programs ==http://www.gradschool.umd.edu/catalog/programs/puaf.htm
+Dept==Real Estate Development ==http://www.gradschool.umd.edu/catalog/programs/rdev.htm
+Dept==Second Language Acquisition-MA & Certificate ==http://www.gradschool.umd.edu/catalog/programs/slma.htm
+Dept==Second Language Acquisition-Ph.D. ==http://www.gradschool.umd.edu/catalog/programs/slph.htm
+Dept==Sociology ==http://www.gradschool.umd.edu/catalog/programs/socy.htm
+Dept==Spanish and Portuguese Languages and Literatures ==http://www.gradschool.umd.edu/catalog/programs/spap.htm
+Dept==Speech-Language Pathology ==http://www.gradschool.umd.edu/catalog/programs/spla.htm
+Dept==Survey Methodology ==http://www.gradschool.umd.edu/catalog/programs/surv.htm
+Dept==Sustainable Development and Conservation Biology ==http://www.gradschool.umd.edu/catalog/programs/cons.htm
+Dept==Theatre ==http://www.gradschool.umd.edu/catalog/programs/thet.htm
+Dept==Toxicology ==http://www.gradschool.umd.edu/catalog/programs/toxi.htm
+Dept==Urban Studies and Planning ==http://www.gradschool.umd.edu/catalog/programs/cmpl.htm
+Dept==Urban and Regional Planning and Design ==http://www.gradschool.umd.edu/catalog/programs/urpd.htm
+Dept==Veterinary Medical Sciences ==http://www.gradschool.umd.edu/catalog/programs/vmsc.htm
+Dept==Women's Studies ==http://www.gradschool.umd.edu/catalog/programs/wmst.htm
+
+School==Philip Merrill College of Journalism==http://www.journalism.umd.edu
+
+School==College of Information Studies==http://www.ischool.umd.edu/
+
+School==School of Public Health==http://www.sph.umd.edu/
+Dept==School of Public Health==http://www.sph.umd.edu/research/research_resources_sph.cfm
+Dept==University of Maryland Research Resources and Sites==http://www.sph.umd.edu/research/research_resources_umd.cfm
+Dept==External Resources and Sites==http://www.sph.umd.edu/research/research_resources_external.cfm
+Dept==Behavioral and Community Health==http://www.sph.umd.edu/bch/
+Dept==Epidemiology and Biostatistics==http://www.sph.umd.edu/epib/
+Dept==Family Science==http://www.sph.umd.edu/fmsc/
+Dept==Health Services Administration==http://www.sph.umd.edu/hlsa/
+Dept==Kinesiology==http://www.sph.umd.edu/knes/
+Dept==Maryland Institute for Applied Environmental Health==http://www.sph.umd.edu/miaeh/
+Dept==Public Health Science at Shady Grove==http://www.sph.umd.edu/phs/
+Dept==Cognitive Motor Behavior Lab==http://www.sph.umd.edu/KNES/research/cmb.html
+Dept==Curriculum and Instruction==http://www.sph.umd.edu/KNES/research/curric.html
+Dept==Exercise Physiology==http://www.sph.umd.edu/KNES/research/exphys.html
+Dept==Sport Commerce and Culture Centers==http://www.sph.umd.edu/KNES/research/sportstud.html
+
+School==School of Public Policy==http://www.publicpolicy.umd.edu/
+
+School==Office of Undergraduate Studies==http://www.ugst.umd.edu/
+Dept==Air Force ROTC==http://www.afrotc.umd.edu
+Dept==Asian American Studies==http://www.aast.umd.edu
+Dept==Global Semester in Washington, D.C.==http://www.globalsemesterdc.umd.edu
+Dept==LGBT Studies==http://www.lgbts.umd.edu
+

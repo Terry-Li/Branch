@@ -116,7 +116,7 @@ public class CSSModel {
     /**
      * main method
      */
-    public static ArrayList<Combo> getCombos(String url) throws MalformedURLException
+    public static ArrayList<Combo> getCombos(String url)
     {   
         try {
             Thread.sleep(1000);
@@ -190,7 +190,13 @@ public class CSSModel {
             if (c.url == null || c.url.startsWith("http")) {
                 
             } else if (!c.url.contains("://") && !c.url.toLowerCase().contains("javascript")) {
-                c.url = new URL(new URL(url), c.url).toString();
+                try {
+                    c.url = new URL(new URL(url), c.url).toString();
+                } catch (MalformedURLException ex) {
+                    System.out.println(c.url+" is getting unknown protocol exception...");
+                    c.url = null;
+                    Logger.getLogger(CSSModel.class.getName()).log(Level.SEVERE, null, ex);
+                }
             } else {
                 c.url = null;
             }

@@ -1,0 +1,102 @@
+40==http://ucsd.edu/
+School==Arts & Humanities==http://dah.ucsd.edu/
+Dept==HISTORY==http://history.ucsd.edu/
+Dept==LITERATURE==http://literature.ucsd.edu/
+Dept==MUSIC==http://music.ucsd.edu/home/
+Dept==PHILOSOPHY==http://philosophy.ucsd.edu/
+Dept==THEATRE & DANCE==http://theatre.ucsd.edu/
+Dept==VISUAL ARTS==http://visarts.ucsd.edu/
+Dept==African-American Studies==http://dah.ucsd.edu/af-amstudies/
+Dept==African Studies==http://infopath.ucsd.edu/catalog/curric/AFRI.html
+Dept==Basic Writing Program==http://subjecta.ucsd.edu/
+Dept==Chicano/a and Latino/a Arts and Humanities==http://literature.ucsd.edu/affiliated-programs/clah/index.html
+Dept==Chinese Studies==http://chinesestudies.ucsd.edu/
+Dept==Classical Studies==http://caesar.ucsd.edu/classical/index.html
+Dept==Environmental Studies==http://muir.ucsd.edu/minor/envir-studies/index.html
+Dept==European Studies==http://caesar.ucsd.edu/european/index.html
+Dept==Film Studies==http://muir.ucsd.edu/minor/film/index.html
+Dept==German Studies==http://caesar.ucsd.edu/german/index.html
+Dept==Italian Studies==http://caesar.ucsd.edu/italian/index.html
+Dept==Japanese Studies==http://japan.ucsd.edu/
+Dept==Judaic Studies==http://judaicstudies.ucsd.edu/
+Dept==Middle East Studies==http://caesar.ucsd.edu/middle-east/
+Dept==Program for the Study of Religion==http://religion.ucsd.edu/
+Dept==Russian and Soviet Studies==http://caesar.ucsd.edu/russia/index.html
+Dept==Science Studies==http://sciencestudies.ucsd.edu/
+Dept==Third World Studies==http://tws.ucsd.edu/
+Dept==Center for the Humanities==http://www.humctr.ucsd.edu/
+Dept==Arthur C. Clarke Center for Human Imagination==http://imagination.ucsd.edu/
+Dept==University Art Gallery==http://universityartgallery.ucsd.edu/
+
+School==Biological Sciences==http://biology.ucsd.edu/
+Dept==Institute for Industrial Biotech Education==http://extension.ucsd.edu/
+Dept==Institute for the Advancement of Science Teachers==http://biology.ucsd.edu/faculty/french.html
+Dept==Institute for Chronobiology Education & Outreach==http://ccb.ucsd.edu/
+
+School==Jacobs School of Engineering==http://www.jacobsschool.ucsd.edu/
+
+School==Physical Sciences==http://physicalsciences.ucsd.edu/
+Dept==CalTeach Science and Math==http://physicalsciences.ucsd.edu/programs/cal-teach/index.html
+Dept==Environmental Systems==http://physicalsciences.ucsd.edu/programs/esys/index.html
+Dept==Chemistry==http://www-chem.ucsd.edu/undergraduate/majors-minor/index.html
+Dept==Physics==http://www.ucsd.edu/catalog/curric/PHYS-ug.html
+Dept==Mathematics==http://math.ucsd.edu/programs/undergraduate/
+Dept==Chemistry and Biochemistry==http://www-chem.ucsd.edu/
+Dept==Mathematics==http://math.ucsd.edu/
+Dept==Physics==http://physics.ucsd.edu/
+Dept==Directory==http://physicalsciences.ucsd.edu/about/contact.html
+Dept==Map and Directions==http://physicalsciences.ucsd.edu/about/map.html
+Dept==Meeting Spaces==http://physicalsciences.ucsd.edu/about/meetingspaces/index.html
+
+School==Rady School of Management==http://rady.ucsd.edu/
+
+School==School of International Relations and Pacific Studies==http://irps.ucsd.edu/
+
+School==School of Medicine==http://som.ucsd.edu/
+Dept==Anesthesiology==http://anes-som.ucsd.edu/
+Dept==Cancer Center==http://cancer.ucsd.edu/Pages/default.aspx
+Dept==Cellular and Molecular Medicine==http://cmm.ucsd.edu/
+Dept==Emergency Medicine==http://emergencymed.ucsd.edu
+Dept==Family and Preventive Medicine==http://famprevmed.ucsd.edu/
+Dept==Medicine==http://med.ucsd.edu/
+Dept==Neurosciences==http://neurosciences.ucsd.edu/
+Dept==Ophthalmology==http://eyesite.ucsd.edu/
+Dept==Orthopaedic Surgery==http://ortho.ucsd.edu
+Dept==Pathology==http://pathology.ucsd.edu
+Dept==Pediatrics==http://www-pediatrics.ucsd.edu/
+Dept==Pharmacology==http://pharmacology.ucsd.edu
+Dept==Psychiatry==http://psychiatry.ucsd.edu/
+Dept==Radiation Oncology==http://radonc.ucsd.edu/
+Dept==Radiology==http://radiology.ucsd.edu/
+Dept==Reproductive Medicine==http://repromed.ucsd.edu/
+Dept==Surgery==http://surgery.ucsd.edu/Pages/default.aspx
+
+School==Scripps Institution of Oceanography==http://www.sio.ucsd.edu/
+Dept==Applied Ocean Science==http://scripps.ucsd.edu/doctoral/program-areas/applied-ocean-science-aos
+Dept==Climate Sciences==http://scripps.ucsd.edu/doctoral/program-areas/climate-sciences-cs
+Dept==Physical Oceanography==http://scripps.ucsd.edu/doctoral/program-areas/physical-oceanography-po
+Dept==Geophysics==http://scripps.ucsd.edu/doctoral/program-areas/geophysics-gp
+Dept==Geosciences==http://scripps.ucsd.edu/doctoral/program-areas/geosciences-gs
+Dept==Marine Chemistry and Geochemistry==http://scripps.ucsd.edu/doctoral/program-areas/marine-chemistry-geochemistry-mcg
+Dept==Biological Oceanography==http://scripps.ucsd.edu/doctoral/program-areas/biological-oceanography-bo
+Dept==Marine Biology==http://scripps.ucsd.edu/doctoral/program-areas/marine-biology-mb
+
+School==Skaggs School of Pharmacy & Pharmaceutical Sciences==http://pharmacy.ucsd.edu/index.shtml
+
+School==Social Sciences==http://socialsciences.ucsd.edu/
+Dept==Critical Gender Studies==http://cgs.ucsd.edu/
+Dept==Human Development Program==http://hdp.ucsd.edu/
+Dept==International Studies==http://isp.ucsd.edu/
+Dept==Latin American Studies==http://cilas.ucsd.edu/
+Dept==Urban Studies and Planning==http://usp.ucsd.edu/
+Dept==Anthropology==http://anthro.ucsd.edu/
+Dept==Cognitive Science==http://www.cogsci.ucsd.edu/
+Dept==Communication==http://communication.ucsd.edu/
+Dept==Economics==http://economics.ucsd.edu/
+Dept==Education Studies==http://www-tep.ucsd.edu/
+Dept==Ethnic Studies==http://www.ethnicstudies.ucsd.edu/
+Dept==Linguistics==http://ling.ucsd.edu/
+Dept==Political Science==http://polisci.ucsd.edu/
+Dept==Psychology==http://psy.ucsd.edu/
+Dept==Sociology==http://sociology.ucsd.edu/
+

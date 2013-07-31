@@ -1,0 +1,258 @@
+73==http://www.ncsu.edu/
+School==College of Agriculture and Life Sciences==http://harvest.cals.ncsu.edu/indexmain.cfm
+Dept==Agricultural and Resource Economics==http://poole.ncsu.edu/gradecon/
+Dept==Agricultural Education *==http://www.cals.ncsu.edu/agexed/grad/grad.html
+Dept==Animal Science==http://www.cals.ncsu.edu/an_sci/grad/
+Dept==Animal Science and Poultry Science: Poultry Science Concentration==http://www.cals.ncsu.edu/poultry/graduate-study.php
+Dept==Biochemistry==http://biochem.ncsu.edu/graduate.php
+Dept==Bioinformatics==http://genomics.ncsu.edu/BI.html
+Dept==Biological and Agricultural Engineering *==http://www.bae.ncsu.edu/grad/
+Dept==Biomathematics==http://www.ncsu.edu/biomath/
+Dept==Crop Science==http://www.cropsci.ncsu.edu/cropsci/academics/graduate.html
+Dept==Entomology==http://www.cals.ncsu.edu/entomology/students
+Dept==Environmental Assessment *==http://harvest.cals.ncsu.edu/ea/
+Dept==Family Life & Youth Development==http://www.ces.ncsu.edu/depts/4hfcs/academics/Dale/MS%20in%20FYD.html
+Dept==Financial Mathematics==http://www.math.ncsu.edu/finmath/
+Dept==Fisheries, Wildlife and Conservation Biology==http://www.cnr.ncsu.edu/fer/grads/degprogs.html
+Dept==Food Science==http://www.ncsu.edu/foodscience/degree_programs.htm
+Dept==Functional Genomics==http://genomics.ncsu.edu/FG.html
+Dept==Genetics==http://cals.ncsu.edu/genetics/index.php/graduate/c/graduate-program-home/
+Dept==Horticultural Science *==http://cals.ncsu.edu/hort_sci/teaching/degrees/grad-programs/index.php
+Dept==Immunology==http://www.cvm.ncsu.edu/ed/immunology/
+Dept==Microbial Biotechnology==http://harvest.cals.ncsu.edu/mmbprogram/
+Dept==Microbiology==http://www.microbiology.ncsu.edu/graduate/index.html
+Dept==Nutrition==http://www.cals.ncsu.edu/food_science/acdprg/
+Dept==Physiology==http://www.cals.ncsu.edu/physiology/
+Dept==Plant Biology==http://www.cals.ncsu.edu/plantbiology/gradprograms.html
+Dept==Plant Pathology==http://www.cals.ncsu.edu/plantpath/academics/graduate/
+Dept==Plant Pathology: Evolutionary Ecology & Population Biology Concentration==http://www.cals.ncsu.edu/plantpath/academics/graduate/degrees.html
+Dept==Soil Science *==http://www.soil.ncsu.edu/future-students/graduate-degree-programs.php
+Dept==Toxicology==http://service004.hpc.ncsu.edu/toxicology/graduate/index.htm
+Dept==Toxicology: Environmental Toxicology Concentration==http://service004.hpc.ncsu.edu/toxicology/graduate/phd_env.htm
+Dept==Toxicology: Molecular and Cellular Toxicology Concentration==http://service004.hpc.ncsu.edu/toxicology/graduate/phd_m&c.htm
+Dept==Zoology==http://harvest.cals.ncsu.edu/biology/index.cfm?pageID=1508
+
+School==College of Design==http://design.ncsu.edu/
+
+School==College of Education==http://ced.ncsu.edu/
+Dept==ELEMENTARY EDUCATION==http://ced.ncsu.edu/elm
+Dept==SCIENCE, TECHNOLOGY, ENGINEERING, AND MATHEMATICS EDUCATION==http://ced.ncsu.edu/stem
+Dept==CURRICULUM, INSTRUCTION, AND COUNSELOR EDUCATION==http://ced.ncsu.edu/cice
+Dept==LEADERSHIP, POLICY AND ADULT AND HIGHER EDUCATION==http://ced.ncsu.edu/lpahe
+
+School==College of Engineering==http://www.engr.ncsu.edu/
+Dept==Biological and Agricultural Engineering (BAE)==http://www.engr.ncsu.edu/academics/departments/bae
+Dept==Biomedical Engineering (BME)==http://www.engr.ncsu.edu/academics/departments/bme
+Dept==Biomanufacturing Training and Education Center (BTEC)==http://www.engr.ncsu.edu/academics/departments/btec
+Dept==Chemical and Biomolecular Engineering (CBE)==http://www.engr.ncsu.edu/academics/departments/cbe
+Dept==Civil, Construction, and Environmental Engineering (CCEE)==http://www.engr.ncsu.edu/academics/departments/ccee
+Dept==Computer Science (CSC)==http://www.engr.ncsu.edu/academics/departments/csc
+Dept==Electrical and Computer Engineering (ECE)==http://www.engr.ncsu.edu/academics/departments/ece
+Dept==Edward P. Fitts Industrial and Systems Engineering (ISE)==http://www.engr.ncsu.edu/academics/departments/ise
+Dept==Forest Biomaterials (FB)==http://www.engr.ncsu.edu/academics/departments/fb
+Dept==Integrated Manufacturing Systems Engineering Institute (IMSEI)==http://www.engr.ncsu.edu/academics/departments/imsei
+Dept==Materials Science and Engineering (MSE)==http://www.engr.ncsu.edu/academics/departments/mse
+Dept==Mechanical and Aerospace Engineering (MAE)==http://www.engr.ncsu.edu/academics/departments/mae
+Dept==Nuclear Engineering (NE)==http://www.engr.ncsu.edu/academics/departments/ne
+Dept==Operations Research (OR)==http://www.engr.ncsu.edu/academics/departments/or
+Dept==Textile Engineering, Chemistry and Science (TECS)==http://www.engr.ncsu.edu/academics/departments/tecs
+
+School==College of Humanities and Social Sciences==http://www.chass.ncsu.edu/index.php
+Dept==Developmental Psychology==null
+Dept==Ergonomics & Experimental Psychology==null
+Dept==Industrial/Organizational Psychology==null
+Dept==Psychology in the Public Interest==null
+Dept==School Psychology==null
+Dept==Doctor of Philosophy==null
+Dept==Master of Science in Sociology==null
+Dept==Master of Sociology==null
+Dept==Bioarchaeology==null
+Dept==Cultural Anthropology==null
+Dept==Environmental Anthropology==http://www.chass.ncsu.edu/sitemap.php
+
+School==College of Natural Resources==http://natural-resources.ncsu.edu/
+Dept==Forest Biomaterials==http://cnr.ncsu.edu/fb
+Dept==Forestry & Environmental Resources==http://cnr.ncsu.edu/fer
+Dept==Parks, Recreation & Tourism Management==http://cnr.ncsu.edu/prtm
+
+School==Poole College of Management==http://www.mgt.ncsu.edu/index.php
+Dept==Accounting==http://poole.ncsu.edu/index-exp.php/accounting/
+Dept==Business Management==http://poole.ncsu.edu/index-exp.php/business-management/
+Dept==Management, Innovation & Entrepreneurship==http://poole.ncsu.edu/index-exp.php/mie/
+Dept==Economics==http://poole.ncsu.edu/index-exp.php/economics/
+
+School==College of Sciences==http://sciences.ncsu.edu/
+Dept==Mathematics==null
+Dept==Physics==null
+Dept==Statistics==null
+Dept==Biological Sciences==null
+Dept==Chemistry==http://www.ncsu.edu/about-site/
+
+School==College of Textiles==http://www.tx.ncsu.edu/
+
+School==College of Veterinary Medicine==http://www.cvm.ncsu.edu/
+Dept==Clinical Sciences==http://cvm.ncsu.edu/docs
+Dept==Molecular and Biomedical Sciences==http://cvm.ncsu.edu/mbs
+Dept==Population Health and Pathobiology==http://cvm.ncsu.edu/dphp
+
+School==The Graduate School==http://www.ncsu.edu/grad/
+Dept==Adult and Community College Education==http://www.ncsu.edu/grad/programs/program-profile?id=d2
+Dept==Aerospace Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d70
+Dept==Agricultural and Extension Education==http://www.ncsu.edu/grad/programs/program-profile?id=d142
+Dept==Animal Science & Poultry Science==http://www.ncsu.edu/grad/programs/program-profile?id=d139
+Dept==Applied Mathematics==http://www.ncsu.edu/grad/programs/program-profile?id=d5
+Dept==Biochemistry==http://www.ncsu.edu/grad/programs/program-profile?id=d8
+Dept==Bioinformatics==http://www.ncsu.edu/grad/programs/program-profile?id=d87
+Dept==Biological and Agricultural Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d7
+Dept==Biomathematics==http://www.ncsu.edu/grad/programs/program-profile?id=d9
+Dept==Biomedical Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d92
+Dept==Chemical Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d11
+Dept==Chemistry==http://www.ncsu.edu/grad/programs/program-profile?id=d12
+Dept==Civil Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d13
+Dept==Communication Rhetoric and Digital Media==http://www.ncsu.edu/grad/programs/program-profile?id=d141
+Dept==Comparative Biomedical Sciences==http://www.ncsu.edu/grad/programs/program-profile?id=d14
+Dept==Computer Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d71
+Dept==Computer Science==http://www.ncsu.edu/grad/programs/program-profile?id=d15
+Dept==Counseling and Counselor Education==http://www.ncsu.edu/grad/programs/program-profile?id=d158
+Dept==Crop Science==http://www.ncsu.edu/grad/programs/program-profile?id=d17
+Dept==Curriculum and Instruction==http://www.ncsu.edu/grad/programs/program-profile?id=d18
+Dept==Design==http://www.ncsu.edu/grad/programs/program-profile?id=d69
+Dept==Economics==http://www.ncsu.edu/grad/programs/program-profile?id=d19
+Dept==Educational Administration and Supervision==http://www.ncsu.edu/grad/programs/program-profile?id=d68
+Dept==Educational Research and Policy Analysis==http://www.ncsu.edu/grad/programs/program-profile?id=d20
+Dept==Electrical Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d21
+Dept==Entomology==http://www.ncsu.edu/grad/programs/program-profile?id=d24
+Dept==Fiber and Polymer Science==http://www.ncsu.edu/grad/programs/program-profile?id=d25
+Dept==Fisheries, Wildlife, and Conservation Biology==http://www.ncsu.edu/grad/programs/program-profile?id=d72
+Dept==Food Science==http://www.ncsu.edu/grad/programs/program-profile?id=d26
+Dept==Forest Biomaterials==http://www.ncsu.edu/grad/programs/program-profile?id=d65
+Dept==Forestry and Environmental Resources==http://www.ncsu.edu/grad/programs/program-profile?id=d27
+Dept==Functional Genomics==http://www.ncsu.edu/grad/programs/program-profile?id=d86
+Dept==Genetics==http://www.ncsu.edu/grad/programs/program-profile?id=d28
+Dept==Higher Education Administration==http://www.ncsu.edu/grad/programs/program-profile?id=d79
+Dept==Horticultural Science==http://www.ncsu.edu/grad/programs/program-profile?id=d31
+Dept==Immunology==http://www.ncsu.edu/grad/programs/program-profile?id=d32
+Dept==Industrial Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d34
+Dept==Marine, Earth, and Atmospheric Sciences==http://www.ncsu.edu/grad/programs/program-profile?id=d40
+Dept==Materials Science and Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d41
+Dept==Mathematics==http://www.ncsu.edu/grad/programs/program-profile?id=d43
+Dept==Mathematics Education==http://www.ncsu.edu/grad/programs/program-profile?id=d42
+Dept==Mechanical Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d44
+Dept==Microbiology==http://www.ncsu.edu/grad/programs/program-profile?id=d45
+Dept==Nuclear Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d46
+Dept==Nutrition==http://www.ncsu.edu/grad/programs/program-profile?id=d81
+Dept==Operations Research==http://www.ncsu.edu/grad/programs/program-profile?id=d48
+Dept==Parks, Recreation, and Tourism Management==http://www.ncsu.edu/grad/programs/program-profile?id=d49
+Dept==Physics==http://www.ncsu.edu/grad/programs/program-profile?id=d50
+Dept==Physiology==http://www.ncsu.edu/grad/programs/program-profile?id=d51
+Dept==Plant Biology==http://www.ncsu.edu/grad/programs/program-profile?id=d149
+Dept==Plant Pathology==http://www.ncsu.edu/grad/programs/program-profile?id=d52
+Dept==Psychology==http://www.ncsu.edu/grad/programs/program-profile?id=d55
+Dept==Public Administration==http://www.ncsu.edu/grad/programs/program-profile?id=d56
+Dept==Public History==http://www.ncsu.edu/grad/programs/program-profile?id=d82
+Dept==Science Education==http://www.ncsu.edu/grad/programs/program-profile?id=d57
+Dept==Sociology==http://www.ncsu.edu/grad/programs/program-profile?id=d58
+Dept==Soil Science==http://www.ncsu.edu/grad/programs/program-profile?id=d59
+Dept==Statistics==http://www.ncsu.edu/grad/programs/program-profile?id=d60
+Dept==Technology Education==http://www.ncsu.edu/grad/programs/program-profile?id=d75
+Dept==Textile Technology Management==http://www.ncsu.edu/grad/programs/program-profile?id=d63
+Dept==Toxicology==http://www.ncsu.edu/grad/programs/program-profile?id=d64
+Dept==Zoology==http://www.ncsu.edu/grad/programs/program-profile?id=d66
+Dept==Administration and Leadership - Family and Youth Programs==http://www.ncsu.edu/grad/programs/program-profile?id=c21
+Dept==Agricultural Education==http://www.ncsu.edu/grad/programs/program-profile?id=c1
+Dept==City Design==http://www.ncsu.edu/grad/programs/program-profile?id=c29
+Dept==Community College Teaching==http://www.ncsu.edu/grad/programs/program-profile?id=c2
+Dept==Consumer Textile Product Design and Development==http://www.ncsu.edu/grad/programs/program-profile?id=c16
+Dept==Counselor Education==http://www.ncsu.edu/grad/programs/program-profile?id=c14
+Dept==Design and Analysis of Environmental Systems: Watershed Assessment and Restoration==http://www.ncsu.edu/grad/programs/program-profile?id=c3
+Dept==E-Learning==http://www.ncsu.edu/grad/programs/program-profile?id=c12
+Dept==Energy and Technology in Architecture==http://www.ncsu.edu/grad/programs/program-profile?id=c30
+Dept==Environmental Assessment==http://www.ncsu.edu/grad/programs/program-profile?id=c22
+Dept==Family Life and Parent Education==http://www.ncsu.edu/grad/programs/program-profile?id=c23
+Dept==Family Life Coaching==http://www.ncsu.edu/grad/programs/program-profile?id=c24
+Dept==Feed Science==http://www.ncsu.edu/grad/programs/program-profile?id=c20
+Dept==Geographic Information Systems==http://www.ncsu.edu/grad/programs/program-profile?id=c4
+Dept==Gerontology==http://www.ncsu.edu/grad/programs/program-profile?id=c25
+Dept==Horticultural Science==http://www.ncsu.edu/grad/programs/program-profile?id=c5
+Dept==Mathematics==http://www.ncsu.edu/grad/programs/program-profile?id=c28
+Dept==Medical Devices==http://www.ncsu.edu/grad/programs/program-profile?id=c13
+Dept==Molecular Biotechnology==http://www.ncsu.edu/grad/programs/program-profile?id=c6
+Dept==Nonprofit Management==http://www.ncsu.edu/grad/programs/program-profile?id=c7
+Dept==Nonwovens Science and Technology==http://www.ncsu.edu/grad/programs/program-profile?id=c9
+Dept==Program Development in Family Life Education==http://www.ncsu.edu/grad/programs/program-profile?id=c10
+Dept==Public Policy==http://www.ncsu.edu/grad/programs/program-profile?id=c11
+Dept==Renewable Electric Energy Systems==http://www.ncsu.edu/grad/programs/program-profile?id=c15
+Dept==Technology Entrepreneurship and Commercialization==http://www.ncsu.edu/grad/programs/program-profile?id=c17
+Dept==Textile Brand Management and Marketing==http://www.ncsu.edu/grad/programs/program-profile?id=c18
+Dept==Textile Supply Chain Management==http://www.ncsu.edu/grad/programs/program-profile?id=c19
+Dept==Training and Development==http://www.ncsu.edu/grad/programs/program-profile?id=c8
+Dept==Volunteer Management and Administration==http://www.ncsu.edu/grad/programs/program-profile?id=c26
+Dept==Youth Development and Leadership==http://www.ncsu.edu/grad/programs/program-profile?id=c27
+Dept==Agricultural Sciences==http://www.ncsu.edu/grad/programs/search/?s=1
+Dept==Architecture & Design==http://www.ncsu.edu/grad/programs/search/?s=2
+Dept==Biological, Life & Health Sciences==http://www.ncsu.edu/grad/programs/search/?s=3
+Dept==Business Management==http://www.ncsu.edu/grad/programs/search/?s=4
+Dept==Communication==http://www.ncsu.edu/grad/programs/search/?s=5
+Dept==Computer & Information Sciences==http://www.ncsu.edu/grad/programs/search/?s=6
+Dept==Education==http://www.ncsu.edu/grad/programs/search/?s=7
+Dept==Engineering==http://www.ncsu.edu/grad/programs/search/?s=8
+Dept==Humanities==http://www.ncsu.edu/grad/programs/search/?s=9
+Dept==Mathematical Sciences==http://www.ncsu.edu/grad/programs/search/?s=A
+Dept==Natural Resources==http://www.ncsu.edu/grad/programs/search/?s=B
+Dept==Physical Sciences==http://www.ncsu.edu/grad/programs/search/?s=C
+Dept==Professional Science Master's==http://www.ncsu.edu/grad/programs/search/?s=F
+Dept==Social Sciences==http://www.ncsu.edu/grad/programs/search/?s=D
+Dept==Textiles==http://www.ncsu.edu/grad/programs/search/?s=E
+Dept==Accounting==http://www.ncsu.edu/grad/programs/program-profile?id=d1
+Dept==Agricultural and Resource Economics==http://www.ncsu.edu/grad/programs/program-profile?id=d77
+Dept==Agricultural Education==http://www.ncsu.edu/grad/programs/program-profile?id=d102
+Dept==Analytics==http://www.ncsu.edu/grad/programs/program-profile?id=d148
+Dept==Animal Science==http://www.ncsu.edu/grad/programs/program-profile?id=d4
+Dept==Anthropology==http://www.ncsu.edu/grad/programs/program-profile?id=d146
+Dept==Architecture==http://www.ncsu.edu/grad/programs/program-profile?id=d6
+Dept==Art and Design==http://www.ncsu.edu/grad/programs/program-profile?id=d137
+Dept==Biomanufacturing==http://www.ncsu.edu/grad/programs/program-profile?id=d156
+Dept==Business Administration==http://www.ncsu.edu/grad/programs/program-profile?id=d130
+Dept==Climate Change and Society==http://www.ncsu.edu/grad/programs/program-profile?id=d159
+Dept==Clinical Mental Health Counseling==http://www.ncsu.edu/grad/programs/program-profile?id=d103
+Dept==College Counseling and Student Development==http://www.ncsu.edu/grad/programs/program-profile?id=d140
+Dept==Communication==http://www.ncsu.edu/grad/programs/program-profile?id=d119
+Dept==Computer Networking==http://www.ncsu.edu/grad/programs/program-profile?id=d88
+Dept==Creative Writing==http://www.ncsu.edu/grad/programs/program-profile?id=d136
+Dept==Electric Power Systems Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d157
+Dept==Elementary Education==http://www.ncsu.edu/grad/programs/program-profile?id=d112
+Dept==Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d22
+Dept==English==http://www.ncsu.edu/grad/programs/program-profile?id=d23
+Dept==Environmental Assessment==http://www.ncsu.edu/grad/programs/program-profile?id=d154
+Dept==Environmental Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d155
+Dept==Extension Education==http://www.ncsu.edu/grad/programs/program-profile?id=d3
+Dept==Family Life and Youth Development==http://www.ncsu.edu/grad/programs/program-profile?id=d145
+Dept==Financial Mathematics==http://www.ncsu.edu/grad/programs/program-profile?id=d131
+Dept==Foreign Languages and Literature==http://www.ncsu.edu/grad/programs/program-profile?id=d121
+Dept==Geospatial Information Science and Technology==http://www.ncsu.edu/grad/programs/program-profile?id=d153
+Dept==Global Innovation Management==http://www.ncsu.edu/grad/programs/program-profile?id=d150
+Dept==Graphic Design==http://www.ncsu.edu/grad/programs/program-profile?id=d29
+Dept==History==http://www.ncsu.edu/grad/programs/program-profile?id=d30
+Dept==Human Resource Development==http://www.ncsu.edu/grad/programs/program-profile?id=d151
+Dept==Industrial Design==http://www.ncsu.edu/grad/programs/program-profile?id=d33
+Dept==Instructional Technology==http://www.ncsu.edu/grad/programs/program-profile?id=d104
+Dept==Integrated Manufacturing Systems Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d35
+Dept==International Studies==http://www.ncsu.edu/grad/programs/program-profile?id=d36
+Dept==Landscape Architecture==http://www.ncsu.edu/grad/programs/program-profile?id=d37
+Dept==Liberal Studies==http://www.ncsu.edu/grad/programs/program-profile?id=d38
+Dept==Microbial Biotechnology==http://www.ncsu.edu/grad/programs/program-profile?id=d135
+Dept==Nanoengineering==http://www.ncsu.edu/grad/programs/program-profile?id=d160
+Dept==Natural Resources==http://www.ncsu.edu/grad/programs/program-profile?id=d80
+Dept==Poultry Science==http://www.ncsu.edu/grad/programs/program-profile?id=d54
+Dept==School Administration==http://www.ncsu.edu/grad/programs/program-profile?id=d67
+Dept==School Counseling==http://www.ncsu.edu/grad/programs/program-profile?id=d16
+Dept==Social Work==http://www.ncsu.edu/grad/programs/program-profile?id=d143
+Dept==Special Education==http://www.ncsu.edu/grad/programs/program-profile?id=d74
+Dept==Specialized Veterinary Medicine==http://www.ncsu.edu/grad/programs/program-profile?id=d89
+Dept==Teaching==http://www.ncsu.edu/grad/programs/program-profile?id=d152
+Dept==Technical Communication==http://www.ncsu.edu/grad/programs/program-profile?id=d83
+Dept==Textile Chemistry==http://www.ncsu.edu/grad/programs/program-profile?id=d61
+Dept==Textile Engineering==http://www.ncsu.edu/grad/programs/program-profile?id=d76
+Dept==Textiles==http://www.ncsu.edu/grad/programs/program-profile?id=d62
+Dept==Training and Development==http://www.ncsu.edu/grad/programs/program-profile?id=d84
+

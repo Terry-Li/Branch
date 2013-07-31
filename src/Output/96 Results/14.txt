@@ -1,0 +1,119 @@
+14==http://www.uvic.ca/
+School==Peter B. Gustavson School of Business==http://www.uvic.ca/gustavson/index.php
+
+School==Division of Continuing Studies==http://www.uvcs.uvic.ca/
+Dept==Arts==http://www.uvcs.uvic.ca/arts/
+Dept==Business, Management==http://www.uvcs.uvic.ca/business/
+Dept==Career Planning and Skills Upgrading==http://www.uvcs.uvic.ca/career-skills/
+Dept==Computing, Technology==http://www.uvcs.uvic.ca/computing/
+Dept==English Language Programs (ESL)==http://www.uvcs.uvic.ca/elc/
+Dept==Free Lectures==http://www.uvcs.uvic.ca/lectures/
+Dept==Health, Wellness, Safety==http://www.uvcs.uvic.ca/health/
+Dept==Heritage, Culture, Museums==http://www.uvcs.uvic.ca/cultural/
+Dept==Humanities, History, Contemporary Issues==http://www.uvcs.uvic.ca/humanities/
+Dept==Independent Study Resources==http://www.uvcs.uvic.ca/independent/
+Dept==Indigenous Language and Culture==http://www.uvcs.uvic.ca/aboriginal/
+Dept==Intercultural Education and Training==http://www.uvcs.uvic.ca/intercultural/
+Dept==In Your Community==http://www.uvcs.uvic.ca/community/
+Dept==Languages==http://www.uvcs.uvic.ca/languages/
+Dept==Population Health Data==http://www.uvcs.uvic.ca/population/
+Dept==Public Relations==http://www.uvcs.uvic.ca/publicrelations/
+Dept==Science, Nature==http://www.uvcs.uvic.ca/science/
+Dept==Social Justice==http://www.uvcs.uvic.ca/socialjustice/
+Dept==Sustainability, Environment==http://www.uvcs.uvic.ca/sustainability/
+Dept==Teacher Professional Development==http://www.uvcs.uvic.ca/prod/
+Dept==Training and Adult Education==http://www.uvcs.uvic.ca/training/
+Dept==Travel Study==http://www.uvcs.uvic.ca/travel/
+
+School==Faculty of Education==http://www.uvic.ca/education/index.php
+Dept==Teacher education==http://www.uvic.ca/education/prospective/teacher/index.php
+Dept==Kinesiology, recreation & health education==http://www.uvic.ca/education/prospective/kinesiology/index.php
+Dept==Professional development==http://www.uvic.ca/education/prospective/professional/index.php
+
+School==Faculty of Engineering==http://www.uvic.ca/engineering/index.php
+Dept==Biomedical Engineering==http://www.uvic.ca/engineering/undergrad/programs/details/biomedical-engineering.php
+Dept==Civil Engineering==http://www.uvic.ca/engineering/undergrad/programs/details/civil-engineering.php
+Dept==Computer Science==http://www.uvic.ca/engineering/undergrad/programs/details/computer-science.php
+Dept==Electrical Engineering==http://www.uvic.ca/engineering/undergrad/programs/details/electrical-engineering.php
+Dept==Computer Engineering==http://www.uvic.ca/engineering/undergrad/programs/details/computer-engineering.php
+Dept==Mechanical Engineering==http://www.uvic.ca/engineering/undergrad/programs/details/mechanical-engineering.php
+Dept==Software Engineering==http://www.uvic.ca/engineering/undergrad/programs/details/software-engineering.php
+Dept==Computer Science==http://www.csc.uvic.ca
+Dept==Electrical and Computer Engineering==http://www.ece.uvic.ca
+Dept==Mechanical Engineering==http://www.me.uvic.ca
+
+School==Faculty of Fine Arts==http://finearts.uvic.ca/
+Dept==Fine Arts==http://finearts.uvic.ca/sim/jobs/
+Dept==History in Art==http://finearts.uvic.ca/historyinart/jobpostings/
+Dept==School of Music==http://finearts.uvic.ca/music/jobpostings/
+Dept==Theatre Department==http://finearts.uvic.ca/theatre/jobpostings/
+Dept==Writing Department==http://finearts.uvic.ca/writing/jobs/
+Dept==Visual Arts Department==http://finearts.uvic.ca/visualarts/jobs/
+
+School==Faculty of Graduate Studies==http://www.uvic.ca/graduatestudies/index.php
+
+School==Faculty of Human and Social Development==http://www.uvic.ca/hsd/index.php
+Dept==Child & Youth Care==http://www.uvic.ca/hsd/home/home/cyc.php
+Dept==Health Information Science==http://www.uvic.ca/hsd/home/home/his.php
+Dept==Nursing==http://www.uvic.ca/hsd/home/home/nurs.php
+Dept==Public Administration==http://www.uvic.ca/hsd/home/home/padm.php
+Dept==Public Health & Social Policy==http://www.uvic.ca/hsd/home/home/phsp.php
+Dept==Social Work==http://www.uvic.ca/hsd/home/home/socw.php
+Dept==Indigenous Governance==http://www.uvic.ca/hsd/home/home/igov.php
+Dept==Studies in Policy & Practice==http://www.uvic.ca/hsd/home/home/spp.php
+
+School==Faculty of Humanities==http://web.uvic.ca/humanities/aboutus/index.php
+Dept==English==http://english.uvic.ca/
+Dept==French==http://web.uvic.ca/french/
+Dept==Germanic and Slavic Studies==http://web.uvic.ca/geru/
+Dept==Greek & Roman Studies==http://web.uvic.ca/grs/
+Dept==Hispanic and Italian Studies==http://web.uvic.ca/hispanital/
+Dept==History==http://web.uvic.ca/history/
+Dept==Linguistics==http://web.uvic.ca/ling/
+Dept==Pacific and Asian Studies==http://web.uvic.ca/pacificasia/
+Dept==Philosophy==http://web.uvic.ca/philosophy/web_pages/index.php
+Dept==Women's Studies==http://web.uvic.ca/women/
+Dept==Applied Ethics==http://web.uvic.ca/humanities/applied_ethics/applied_ethics.htm
+Dept==Arts of Canada Program==http://www.uvic.ca/calendar/FACS/InPr/AoCaP.html
+Dept==Cultural, Social and Political Thought Program==http://web.uvic.ca/~csptweb/
+Dept==European Studies Program==http://web.uvic.ca/~europe/
+Dept==Film Studies Program==http://finearts.uvic.ca/filmstudies/
+Dept==Indigenous Studies Program==http://web.uvic.ca/isminor/index.php
+Dept==Latin American Studies==http://web.uvic.ca/latinamerican/
+Dept==Medieval Studies Program==http://web.uvic.ca/medieval/
+Dept==Mediterranean Studies==http://www.uvic.ca/humanities/hispanicitalian/undergraduate/mediterranean/index.php
+Dept==Professional Writing==http://www.uvic.ca/humanities/english/professionalwriting/index.php
+Dept==Religious Studies==http://web.uvic.ca/rels
+Dept==Social Justice Studies==http://web.uvic.ca/socialjustice/
+
+School==Faculty of Law==http://www.law.uvic.ca
+
+School==Division of Medical Sciences==http://www.uvic.ca/medsci/index.php
+
+School==Faculty of Science==http://www.uvic.ca/science/index.php
+Dept==Biochemistry & Microbiology==http://web.uvic.ca/biochem/
+Dept==Biology==http://web.uvic.ca/biology/
+Dept==Chemistry==http://chemistry.uvic.ca/
+Dept==Earth & Ocean Sciences==http://seos.uvic.ca/
+Dept==Mathematics & Statistics==http://www.math.uvic.ca/
+Dept==Physics & Astronomy==http://www.phys.uvic.ca/
+
+School==Faculty of Social Sciences==http://socialsciences.uvic.ca/
+Dept==Anthropology==http://uvic.ca/anth
+Dept==Economics==http://uvic.ca/econ
+Dept==Environmental Studies==http://web.uvic.ca/enweb/
+Dept==Geography==http://geog.uvic.ca/
+Dept==Political Science==http://web.uvic.ca/polisci/
+Dept==Psychology==http://web.uvic.ca/psyc/
+Dept==Sociology==http://web.uvic.ca/soci/
+
+School==Registration==null
+
+School==My courses==https://www.uvic.ca/mypage/render.userLayoutRootNode.uP?uP_fname=mycourses
+
+School==Grades==null
+
+School==Transcripts==null
+
+School==Tuition account summary==null
+

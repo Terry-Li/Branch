@@ -1,0 +1,150 @@
+50==http://www.usc.edu/
+School==Garage==http://academics.usc.edu/artstechbusiness/
+
+School==Dancers==http://academics.usc.edu/dance/
+
+School==engineering==http://academics.usc.edu/engineering/
+Dept==Department of Aerospace and Mechanical Engineering==http://ame-www.usc.edu/
+Dept==Department of Astronautical Engineering==http://astronautics.usc.edu/
+Dept==Department of Biomedical Engineering==http://www.usc.edu/dept/biomed/
+Dept==Mork Family Department of Chemical Engineering and Materials Science==http://chems.usc.edu/
+Dept==Sonny Astani Department of Civil and Environmental Engineering==http://www.usc.edu/dept/civil_eng/dept/
+Dept==Computer Science Department==http://www.cs.usc.edu/
+Dept==Ming Hsieh Department of Electrical Engineering==http://ee.usc.edu/
+Dept==Daniel J. Epstein Department of Industrial and Systems Engineering==http://www.usc.edu/dept/ise/
+
+School==medicine==http://academics.usc.edu/medicine/
+Dept==Anesthesiology==null
+Dept==Biochemistry and Molecular Biology==null
+Dept==Cell and Neurobiology==null
+Dept==Dermatology==null
+Dept==Emergency Medicine==null
+Dept==Family Medicine==null
+Dept==Medicine==null
+Dept==Molecular Microbiology and Immunology==null
+Dept==Neurological Surgery==null
+Dept==Neurology==null
+Dept==Obstetrics and Gynecology==null
+Dept==Ophthalmology==null
+Dept==Orthopaedic Surgery==null
+Dept==Otolaryngology ? Head and Neck Surgery==null
+Dept==Pathology==null
+Dept==Pediatrics==null
+Dept==Physiology and Biophysics==null
+Dept==Preventive Medicine==null
+Dept==Psychiatry and Behavioral Sciences==null
+Dept==Radiation Oncology==null
+Dept==Radiology==null
+Dept==Surgery==null
+Dept==Urology==http://undergrad.usc.edu/
+
+School==physicaltherapy==http://academics.usc.edu/physical-therapy/
+
+School==las==http://academics.usc.edu/letters-arts-and-sciences/
+Dept==History==http://dornsife.usc.edu/hist/
+Dept==Interdisciplinary Studies Program==http://dornsife.usc.edu/interdisciplinary-studies/
+Dept==International Relations==http://dornsife.usc.edu/sir/
+Dept==Linguistics==http://dornsife.usc.edu/ling/
+Dept==Master of Liberal Studies Program==http://www.usc.edu/schools/college/mls/
+Dept==Master of Professional Writing Program==http://dornsife.usc.edu/mpw/
+Dept==Mathematics==http://dornsife.usc.edu/mathematics/
+Dept==Middle East Studies==https://dornsife.usc.edu/mesp/
+Dept==Narrative Studies Program==http://dornsife.usc.edu/narrativestudies/
+Dept==Philosophy==http://dornsife.usc.edu/phil/
+Dept==Physics and Astronomy==http://dornsife.usc.edu/physics/
+Dept==Political Science==http://dornsife.usc.edu/politicalscience/
+Dept==Psychology==http://dornsife.usc.edu/psyc/
+Dept==Religion==http://dornsife.usc.edu/religion/
+Dept==Slavic Languages and Literatures==http://dornsife.usc.edu/sll/
+Dept==Sociology==http://dornsife.usc.edu/soci/
+Dept==Spanish and Portuguese==http://dornsife.usc.edu/spanish/
+Dept==Spatial Sciences Institute==http://spatial.usc.edu
+Dept==American Studies and Ethnicity==http://dornsife.usc.edu/ase/
+Dept==Anthropology==http://dornsife.usc.edu/anth/
+Dept==Art History==http://dornsife.usc.edu/ahis/
+Dept==Biological Sciences==http://dornsife.usc.edu/bisc/
+Dept==Chemistry==http://chem.usc.edu/
+Dept==Classics==http://dornsife.usc.edu/clas/
+Dept==Comparative Literature==http://dornsife.usc.edu/colt/
+Dept==Comparative Studies in Literature and Culture==http://dornsife.usc.edu/cslc
+Dept==Dornsife Neuroscience==http://www.usc.edu/programs/neuroscience/
+Dept==Earth Sciences==http://dornsife.usc.edu/earth/
+Dept==East Asian Area Studies Program==http://dornsife.usc.edu/easc
+Dept==East Asian Languages and Cultures==http://dornsife.usc.edu/ealc/
+Dept==Economics==http://dornsife.usc.edu/econ/
+Dept==English==http://dornsife.usc.edu/engl/
+Dept==Environmental Studies Program==http://dornsife.usc.edu/enviro/
+Dept==French and Italian==http://dornsife.usc.edu/fren-ital/
+Dept==Gender Studies Program==https://dornsifecms.usc.edu/genderstudies/
+Dept==Geographic Information Science and Technology Program==http://gis.usc.edu
+Dept==German Studies Program==http://dornsife.usc.edu/usc-german-studies-program
+
+School==business==http://academics.usc.edu/business/
+
+School==dentistry==http://academics.usc.edu/dentistry/
+Dept==Advanced Education in Endodontics==null
+Dept==Advanced Education in Pediatric Dentistry==null
+Dept==Advanced Education in Periodontics==null
+Dept==Advanced Education in Prosthodontics==null
+Dept==Advanced Education in Oral and Maxillofacial Surgery*==null
+Dept==Advanced Education in Orthodontics**==null
+Dept==Oral Medicine with an emphasis on Orofacial Pain==null
+Dept==General Practice Residency==http://undergrad.usc.edu/
+
+School==finearts==http://academics.usc.edu/fine-arts/
+
+School==music==http://academics.usc.edu/music/
+Dept==Choral and Sacred Music==null
+Dept==Classical Guitar==null
+Dept==Composition==null
+Dept==Early Music Performance==null
+Dept==Jazz Studies==null
+Dept==Keyboard Studies and Keyboard Collaborative Arts==null
+Dept==Music Education==null
+Dept==Music History and Literature==null
+Dept==Music Industry==null
+Dept==Organ Studies==null
+Dept==Popular Music==null
+Dept==Scoring for Motion Pictures and Television==null
+Dept==Strings==null
+Dept==Studio/Jazz Guitar==null
+Dept==Vocal Arts and Opera==null
+Dept==Winds and Percussion==http://undergrad.usc.edu/
+
+School==public-policy==http://academics.usc.edu/publicpolicy-planning-and-development/
+Dept==Health Management and Policy==null
+Dept==International Public Policy and Management==null
+Dept==Public Administration/Public Management==null
+Dept==Public Policy==null
+Dept==Real Estate Development==null
+Dept==Urban and Regional Planning==http://undergrad.usc.edu/
+
+School==architecture==http://academics.usc.edu/architecture/
+
+School==communication==http://academics.usc.edu/communication-journalism/
+
+School==education==http://academics.usc.edu/education/
+
+School==law==http://academics.usc.edu/law/
+
+School==pharmacy==http://academics.usc.edu/pharmacy/
+
+School==accounting==http://academics.usc.edu/accounting/
+
+School==cinema==http://academics.usc.edu/cinematic-arts/
+Dept==Critical Studies==null
+Dept==Film & Television Production==null
+Dept==John C. Hench Division of Animation & Digital Arts==null
+Dept==Interactive Media==null
+Dept==Writing for Screen & Television==null
+Dept==Peter Stark Producing Program==null
+Dept==Media Arts + Practice==http://undergrad.usc.edu/
+
+School==theater==http://academics.usc.edu/theatre/
+
+School==gerontology==http://academics.usc.edu/gerontology/
+
+School==Occupational Therapy==http://academics.usc.edu/occupational-therapy/
+
+School==socialwork==http://academics.usc.edu/social-work/
+

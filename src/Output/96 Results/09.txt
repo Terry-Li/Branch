@@ -1,0 +1,154 @@
+09==http://www.usask.ca/
+School==Agriculture and Bioresources==http://www.agbio.usask.ca/
+Dept==Animal and Poultry Science==http://www.agbio.usask.ca/departments/animal-poultry-science/index.php
+Dept==Bioresource Policy, Business and Economics==http://www.agbio.usask.ca/departments/bioresource-policy-business-and-economics/index.php
+Dept==Plant Sciences==http://www.agbio.usask.ca/departments/plant-sciences/index.php
+Dept==Soil Science==http://www.agbio.usask.ca/departments/soil-science/index.php
+Dept==Food and Bioproduct Sciences==http://www.agbio.usask.ca/departments/food-bioproduct-sciences/index.php
+
+School==Arts and Science==http://artsandscience.usask.ca/
+Dept==Humanities==http://artsandscience.usask.ca/arts-science/humanities-finearts.php
+Dept==Social Sciences==http://artsandscience.usask.ca/arts-science/socialsciences.php
+Dept==Science==http://artsandscience.usask.ca/arts-science/naturalsciences.php
+
+School==Edwards School of Business==http://www.edwards.usask.ca/
+Dept==Department of Accounting==http://www.edwards.usask.ca/departments/accounting/index.html
+Dept==Department of Finance and Management Science==http://www.edwards.usask.ca/departments/finance/index.html
+Dept==Department of Human Resources and Organizational Behaviour==http://www.edwards.usask.ca/departments/hrob/index.html
+Dept==Department of Management and Marketing==http://www.edwards.usask.ca/departments/marketing/index.html
+
+School==Centre for Continuing & Distance Education (CCDE)==http://ccde.usask.ca/
+Dept==Leadership Development Program==http://ccde.usask.ca/blp/ldp
+Dept==Additional Leadership Offerings:==http://ccde.usask.ca/blp/leadership
+Dept==Training & Coaching==http://ccde.usask.ca/blp/training-coaching
+Dept==Communication: ==http://ccde.usask.ca/blp/communications
+Dept==Business Essentials:==http://ccde.usask.ca/blp/essentials
+Dept==Supply Management:==http://ccde.usask.ca/blp/operations-management
+
+School==Dentistry==http://www.usask.ca/dentistry/
+
+School==Education==http://www.usask.ca/education
+Dept==(ECUR) Curriculum Studies==http://www.usask.ca/education/ecur/index.php
+Dept==(EADM) Educational Administration==http://www.usask.ca/education/eadm/
+Dept==(EFDT) Educational Foundations==http://www.usask.ca/education/efdt/
+Dept==(EPSE) Educational Psychology and Special Education==http://www.usask.ca/education/epse/
+
+School==Engineering==http://www.engr.usask.ca/
+Dept==Electrical & Computer==http://www.ece.usask.ca/
+Dept==Mechanical Engineering==http://www.engr.usask.ca/departments/mee/index.php
+Dept==Engineering Physics==http://www.engr.usask.ca/departments/ep/index.php
+Dept==Biomedical Engineering==http://www.engr.usask.ca/departments/biomedical/index.php
+Dept==Environmental Engineering==http://www.engr.usask.ca/departments/environmental/index.php
+Dept==Mechanical Engineering==http://www.engr.usask.ca/ourfaculty/mechanical.php
+Dept==Electrical & Computer==http://www.engr.usask.ca/ourfaculty/electrical.php
+Dept==Canada Research Chairs==http://www.engr.usask.ca/ourfaculty/crc.php
+
+School==School of Environment and Sustainability==http://www.usask.ca/sens/
+
+School==Graduate Studies and Research==http://www.usask.ca/cgsr
+Dept==Agricultural Economics==http://www.usask.ca/cgsr/grad_programs/programs/AGEC.php
+Dept==Anatomy & Cell Biology==http://www.usask.ca/cgsr/grad_programs/programs/ANAT.php
+Dept==Animal & Poultry Science==http://www.usask.ca/cgsr/grad_programs/programs/ANSC.php
+Dept==Applied Microbiology==http://www.usask.ca/cgsr/grad_programs/programs/APMC.php
+Dept==Biochemistry==http://www.usask.ca/cgsr/grad_programs/programs/BIOC.php
+Dept==Biological Engineering==http://www.usask.ca/cgsr/grad_programs/programs/ABE.php
+Dept==Biological Psychiatry==http://www.usask.ca/cgsr/grad_programs/programs/PSIA.php
+Dept==Biology==http://www.usask.ca/cgsr/grad_programs/programs/BIOL.php
+Dept==Biomedical Engineering==http://www.usask.ca/cgsr/grad_programs/programs/BIOE.php
+Dept==Biostatistics==http://www.usask.ca/cgsr/grad_programs/programs/BIOS.php
+Dept==Chemical Engineering==http://www.usask.ca/cgsr/grad_programs/programs/CHE.php
+Dept==Chemistry==http://www.usask.ca/cgsr/grad_programs/programs/CHEM.php
+Dept==Civil & Geological Engineering==http://www.usask.ca/cgsr/grad_programs/programs/CE.php
+Dept==Community and Population Health Sciences==http://www.usask.ca/cgsr/grad_programs/programs/CHEP.php
+Dept==Computer Science==http://www.usask.ca/cgsr/grad_programs/programs/CMPT.php
+Dept==Educational Administration==http://www.usask.ca/cgsr/grad_programs/programs/EADM.php
+Dept==Electrical & Computer Engineering==http://www.usask.ca/cgsr/grad_programs/programs/ECE.php
+Dept==English==http://www.usask.ca/cgsr/grad_programs/programs/ENG.php
+Dept==Environment & Sustainability==http://www.usask.ca/cgsr/grad_programs/programs/ENVS.php
+Dept==Environmental Engineering==http://www.usask.ca/cgsr/grad_programs/programs/ENVE.php
+Dept==Epidemiology==http://www.usask.ca/cgsr/grad_programs/programs/MPH2.php
+Dept==Food Science==http://www.usask.ca/cgsr/grad_programs/programs/FDSC.php
+Dept==Geography==http://www.usask.ca/cgsr/grad_programs/programs/GEOG.php
+Dept==Geological Sciences==http://www.usask.ca/cgsr/grad_programs/programs/GEOL.php
+Dept==Health Sciences==http://www.usask.ca/cgsr/grad_programs/programs/HLTH.php
+Dept==History==http://www.usask.ca/cgsr/grad_programs/programs/HIST.php
+Dept==Interdisciplinary Studies==http://www.usask.ca/cgsr/grad_programs/programs/INTERD.php
+Dept==Kinesiology==http://www.usask.ca/cgsr/grad_programs/programs/KIN.php
+Dept==Large Animal Clinical Sciences==http://www.usask.ca/cgsr/grad_programs/programs/VLAC.php
+Dept==Mathematics==http://www.usask.ca/cgsr/grad_programs/programs/MATH.php
+Dept==Mechanical Engineering==http://www.usask.ca/cgsr/grad_programs/programs/ME.php
+Dept==Microbiology & Immunology==http://www.usask.ca/cgsr/grad_programs/programs/MCIM.php
+Dept==Nursing==http://www.usask.ca/cgsr/grad_programs/programs/NURS.php
+Dept==Nutrition==http://www.usask.ca/cgsr/grad_programs/programs/NUTR.php
+Dept==Pharmacology==http://www.usask.ca/cgsr/grad_programs/programs/PCOL.php
+Dept==Pharmacy==http://www.usask.ca/cgsr/grad_programs/programs/PHAR.php
+Dept==Physics & Engineering Physics==http://www.usask.ca/cgsr/grad_programs/programs/PHYS.php
+Dept==Physiology==http://www.usask.ca/cgsr/grad_programs/programs/PHSI.php
+Dept==Plant Sciences==http://www.usask.ca/cgsr/grad_programs/programs/PLSC.php
+Dept==Psychology==http://www.usask.ca/cgsr/grad_programs/programs/PSY.php
+Dept==Public Policy==http://www.usask.ca/cgsr/grad_programs/programs/MPP.php
+Dept==Small Animal Clinical Sciences==http://www.usask.ca/cgsr/grad_programs/programs/VSAC.php
+Dept==Sociology==http://www.usask.ca/cgsr/grad_programs/programs/SOC.php
+Dept==Soil Science==http://www.usask.ca/cgsr/grad_programs/programs/SLSC.php
+Dept==Toxicology==http://www.usask.ca/cgsr/grad_programs/programs/TOX.php
+Dept==Vaccinology & Immunotherapeutics==http://www.usask.ca/cgsr/grad_programs/programs/VACC.php
+Dept==Veterinary Microbiology==http://www.usask.ca/cgsr/grad_programs/programs/VTMC.php
+Dept==Veterinary Pathology==http://www.usask.ca/cgsr/grad_programs/programs/VPA.php
+
+School==Kinesiology==http://kinesiology.usask.ca/academics/about/
+
+School==Law==http://www.usask.ca/law/
+
+School==Medicine==http://www.medicine.usask.ca/
+Dept==Anatomy & Cell Biology==http://www.medicine.usask.ca/acb/index.php
+Dept==Anesthesiology==http://www.medicine.usask.ca/anesthesiology/
+Dept==Biochemistry==http://www.medicine.usask.ca/biochem/
+Dept==Community Health and Epidemiology==http://www.medicine.usask.ca/che/index.html
+Dept==Family Medicine==http://www.medicine.usask.ca/family/index.html
+Dept==Medical Imaging==http://www.medicine.usask.ca/medical-imaging/
+Dept==Medicine (Department of)==http://www.medicine.usask.ca/medicine/index.html
+Dept==Microbiology & Immunology==http://www.medicine.usask.ca/microbiologyandimmunology/index.php
+Dept==Obstetrics & Gynecology==http://www.medicine.usask.ca/obgyn/index.html
+Dept==Ophthalmology==http://www.medicine.usask.ca/ophthalmology/index.html
+Dept==Pediatrics==http://www.medicine.usask.ca/pediatrics/index.html
+Dept==Pharmacology==null
+Dept==Physiology==http://www.medicine.usask.ca/physiology
+Dept==Physical Medicine and Rehabilitation==http://www.medicine.usask.ca/pmr-new/index.php
+Dept==Psychiatry==http://www.medicine.usask.ca/psychiatry/index.html
+Dept==School of Physical Therapy==http://www.medicine.usask.ca/pt/index.html
+Dept==Surgery==http://www.medicine.usask.ca/surgery/index.html
+Dept==Biomedical Sciences==http://www.medicine.usask.ca/education/biomedical/index.php
+Dept==Respirology, Critical Care and Sleep Medicine==http://www.medicine.usask.ca/medicine/divisions/respirology/index.html
+Dept==Centre for Integrative Medicine==http://www.medicine.usask.ca/integrativemedicine/index.html
+Dept==Clinical Research Support Unit (CRSU)==http://www.medicine.usask.ca/research/crsu/index.html
+Dept==Continuing Professional Learning==http://www.usask.ca/cme
+Dept==Emergency Medicine==null
+Dept==Information Technology Unit==http://www.medicine.usask.ca/academic-units/support-units/itu/index.html
+Dept==Saskatchewan Cancer Agency Center Research Unit==http://www.saskcancer.ca/Default.aspx?DN=1bfa9e91-deb9-4e4e-9237-b2ce47b356c9
+Dept==Saskatchewan Stroke Research Centre==http://www.usask.ca/medicine/ssrc
+Dept==Saskatchewan Neuroscience Network(SNN)==http://www.usask.ca/snn/
+
+School==Nursing==http://www.usask.ca/nursing/
+
+School==Pharmacy and Nutrition==http://www.usask.ca/pharmacy-nutrition/
+Dept==General Information==http://www.usask.ca/pharmacy-nutrition/programs-graduate/index.php
+Dept==Choosing the U of S==http://www.usask.ca/pharmacy-nutrition/programs-graduate/choosing-uofs.php
+Dept==Graduate Program in Pharmacy==http://www.usask.ca/pharmacy-nutrition/programs-graduate/graduate_programs_pharmacy.php
+Dept==Graduate Program in Nutrition==http://www.usask.ca/pharmacy-nutrition/programs-graduate/graduate_programs_nutrition.php
+Dept==Graduate Studies Opportunities==http://www.usask.ca/pharmacy-nutrition/programs-graduate/grad_studies_opportunities.php
+
+School==School of Physical Therapy==http://www.medicine.usask.ca/pt
+
+School==School of Public Health==http://www.usask.ca/sph/
+
+School==Johnson Shoyama Graduate School of Public Policy==http://www.jsgspp.ca/
+
+School==Veterinary Medicine==http://www.usask.ca/wcvm/
+Dept==WCVM Dean's Office==http://www.usask.ca/wcvm/college/dean_office.php
+Dept==Large Animal Clinical Sciences==http://www.usask.ca/wcvm/departments/large_animal/index.php
+Dept==Small Animal Clinical Sciences==http://www.usask.ca/wcvm/departments/small_animal/index.php
+Dept==Veterinary Biomedical Sciences==http://www.usask.ca/wcvm/departments/biomedical/index.php
+Dept==Veterinary Microbiology==http://www.usask.ca/wcvm/departments/microbiology/index.php
+Dept==Veterinary Pathology==http://www.usask.ca/wcvm/departments/pathology/index.php
+Dept==WCVM Veterinary Medical Centre==http://www.wcvm.com/vth
+

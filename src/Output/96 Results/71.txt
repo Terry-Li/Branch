@@ -1,0 +1,82 @@
+71==http://www.vt.edu/
+School==Agriculture and Life Sciences==http://www.cals.vt.edu/
+Dept==Agricultural and Applied Economics==http://www.aaec.vt.edu/
+Dept==Agricultural and Extension Education==http://www.aee.vt.edu/
+Dept==Agricultural Technology Program==http://www.cals.vt.edu/agtech/index.html
+Dept==Animal and Poultry Sciences==http://www.apsc.vt.edu/
+Dept==Biochemistry==http://www.biochem.vt.edu/
+Dept==Biological Systems Engineering==http://www.bse.vt.edu/
+Dept==Crop and Soil Environmental Sciences==http://www.cses.vt.edu/
+Dept==Dairy Science==http://www.dasc.vt.edu/
+Dept==Entomology==http://www.ento.vt.edu/index.html
+Dept==Food Science and Technology==http://www.fst.vt.edu/
+Dept==Horticulture==http://www.hort.vt.edu/
+Dept==Human Nutrition, Foods and Exercise==http://www.hnfe.vt.edu/
+Dept==Plant Pathology, Physiology, and Weed Science==http://www.ppws.vt.edu/
+
+School==Architecture and Urban Studies==http://www.caus.vt.edu/
+Dept==CONSTRUCTION==http://www.mlsoc.vt.edu/
+Dept==PUBLIC & INTERNATIONAL AFFAIRS==http://www.spia.vt.edu/
+Dept==ARCHITECTURE + DESIGN==http://archdesign.vt.edu/
+Dept==VISUAL ARTS==http://www.sova.vt.edu/
+
+School==Pamplin College of Business==http://www.pamplin.vt.edu/
+Dept==Accounting & Information Systems==http://www.acis.pamplin.vt.edu/
+Dept==Business Information Technology==http://www.bit.vt.edu/
+Dept==Hospitality & Tourism Management==http://www.htm.pamplin.vt.edu/
+Dept==Finance==http://www.finance.pamplin.vt.edu/
+Dept==Management==http://www.management.pamplin.vt.edu/
+Dept==Marketing==http://www.marketing.pamplin.vt.edu/index.php
+Dept==Economics==http://www.econ.vt.edu/
+
+School==Engineering==http://www.eng.vt.edu/
+Dept==Department of Aerospace and Ocean Engineering==http://www.aoe.vt.edu/
+Dept==Department of Biological Systems Engineering==http://www.bse.vt.edu/
+Dept==Charles E. Via, Jr. Department of Civil and Environmental Engineering==http://www.cee.vt.edu/
+Dept==Myers-Lawson School of Construction==http://www.mlsoc.vt.edu/
+
+School==Liberal Arts & Human Sciences==http://www.clahs.vt.edu/
+Dept==Air Force ROTC==http://www.af.vt.edu/
+Dept==Apparel, Housing & Resource Management==http://www.ahrm.vt.edu/
+Dept==Army ROTC==http://www.armyrotc.vt.edu/
+Dept==ASPECT==http://www.aspect.vt.edu/
+Dept==Center for 21st Century Studies==http://www.c21s.clahs.vt.edu/
+Dept==Communication==http://www.comm.vt.edu/
+Dept==English==http://www.english.vt.edu/
+Dept==Foreign Languages and Literatures==http://www.fll.vt.edu/
+Dept==History==http://www.history.vt.edu/
+Dept==Human Development==http://www.humandevelopment.vt.edu/
+Dept==International Studies==http://www.psci.vt.edu/internationalstudies
+Dept==Music==http://www.music.vt.edu/
+Dept==Naval ROTC==http://www.usnavy.vt.edu
+Dept==Philosophy==http://www.phil.vt.edu/
+Dept==Political Science==http://www.psci.vt.edu
+Dept==Religion and Culture==http://www.rc.vt.edu/
+Dept==School of Education==http://www.soe.vt.edu/
+Dept==School of Performing Arts & Cinema==http://www.sopac.vt.edu/
+Dept==Science and Technology in Society==http://www.sts.vt.edu/
+Dept==Sociology==http://www.sociology.vt.edu
+Dept==Theatre & Cinema==http://www.theatrecinema.vt.edu/
+
+School==Natural Resources and Environment==http://cnre.vt.edu/
+Dept==Sustainable Biomaterials==http://sbio.vt.edu
+Dept==Fish and Wildlife Conservation==http://fishwild.vt.edu/
+Dept==Geography==http://geography.vt.edu/
+Dept==Forest Resources and Environmental Conservation==http://frec.vt.edu/
+
+School==Science==http://www.science.vt.edu/
+Dept==Biological Sciences==http://www.biol.vt.edu/
+Dept==Chemistry==http://www.chem.vt.edu/
+Dept==Economics==http://www.econ.vt.edu
+Dept==Geosciences==http://www.geos.vt.edu/
+Dept==Mathematics==http://www.math.vt.edu/
+Dept==Physics==http://www.phys.vt.edu/
+Dept==Psychology==http://www.psyc.vt.edu/
+Dept==Statistics==http://www.stat.vt.edu/
+Dept==Biochemistry==http://www.biochem.vt.edu/
+
+School==Veterinary Medicine==http://www.vetmed.vt.edu/
+Dept==Dept of Small Animal Clinical Sciences (DSACS)==http://www.vetmed.vt.edu/org/dsacs/index.asp
+Dept==Dept of Large Animal Clinical Sciences (DLACS)==http://www.vetmed.vt.edu/org/dlacs/index.asp
+Dept==Dept of Population Health Sciences (DPHS)==http://www.vetmed.vt.edu/org/dphs/index.asp
+

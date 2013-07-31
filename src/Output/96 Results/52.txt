@@ -1,0 +1,200 @@
+52==http://www.unc.edu/index.htm
+School==College of Arts and Sciences==http://artsandsci.unc.edu/
+Dept==Aerospace Studies==http://afrotc.unc.edu/
+Dept==African, African American, and Diaspora Studies==http://aaad.unc.edu
+Dept==American Studies==http://amerstud.unc.edu/
+Dept==Anthropology==http://www.unc.edu/depts/anthro/
+Dept==Applied Physical Sciences==http://apsc.unc.edu/
+Dept==Archaeology==http://archaeology.unc.edu/
+Dept==Art==http://www.unc.edu/depts/art/
+Dept==Asian Studies==http://www.unc.edu/depts/asia/
+Dept==Biology==http://www.bio.unc.edu/
+Dept==Biomedical Engineering ==http://www.bme.ncsu.edu/
+Dept==Chemistry==http://www.unc.edu/depts/chemistry/
+Dept==City and Regional Planning==http://www.unc.edu/depts/dcrpweb/
+Dept==Classics==http://www.classics.unc.edu/
+Dept==Communication Studies==http://www.unc.edu/depts/comm/
+Dept==Computer Science==http://www.cs.unc.edu/
+Dept==Contemporary European Studies==http://www.unc.edu/depts/europe/academicprograms/euromajor.htm
+Dept==Dramatic Art==http://drama.unc.edu/
+Dept==Economics==http://www.unc.edu/depts/econ/
+Dept==English and Comparative Literature==http://english.unc.edu/
+Dept==Environment &? Ecology, Curriculum for==http://www.cee.unc.edu/
+Dept==Exercise and Sport Science==http://www.unc.edu/depts/exercise/
+Dept==Geography==http://www.unc.edu/depts/geog/
+Dept==Geological Sciences==http://www.geosci.unc.edu/
+Dept==Germanic and Slavic Languages and Literatures ==http://gsll.unc.edu/
+Dept==Global Studies==http://www.unc.edu/depts/ints/
+Dept==History==http://www.unc.edu/depts/history/
+Dept==Latin American Studies==http://isa.unc.edu/
+Dept==Linguistics==http://www.unc.edu/depts/ling/
+Dept==Marine Sciences==http://www.marine.unc.edu/
+Dept==Mathematics==http://www.math.unc.edu/
+Dept==Military Science==http://armyrotc.unc.edu/
+Dept==Music==http://www.unc.edu/depts/music/index.html
+Dept==Naval Science ==http://studentorgs.unc.edu/nrotc/
+Dept==Peace, War, and Defense==http://www.unc.edu/depts/pwad/
+Dept==Philosophy==http://www.unc.edu/depts/phildept/phil.htm
+Dept==Physics and Astronomy==http://www.physics.unc.edu/
+Dept==Political Science==http://www.unc.edu/depts/polisci/
+Dept==Psychology==http://www.unc.edu/depts/psychweb/
+Dept==Public Policy==http://www.unc.edu/depts/pubpol/
+Dept==Religious Studies==http://www.unc.edu/depts/rel_stud/
+Dept==Romance Languages and Literatures==http://www.unc.edu/depts/roml/
+Dept==Russian and East European Studies==http://www.unc.edu/depts/slavic/programs/programs.htm
+Dept==Sociology==http://www.unc.edu/depts/soc/
+Dept==Statistics and Operations Research==http://www.stat-or.unc.edu/
+Dept==Women?s and Gender Studies==http://www.unc.edu/depts/wmst/
+
+School==Dentistry==http://www.dentistry.unc.edu/
+
+School==Education==http://soe.unc.edu/
+Dept==Grades 9-12: English, Latin, and Social Studies==http://soe.unc.edu/academics/med_exp/
+Dept==Early Childhood Intervention and Family Support==null
+Dept==Literacy==null
+Dept==Mathematics==null
+Dept==Science==null
+Dept==Social Studies==null
+Dept==Special Education==null
+Dept==Technology==http://soe.unc.edu/academics/med_int/index.php
+
+School==Eshelman School of Pharmacy==http://www.pharmacy.unc.edu/
+Dept==Chemical Biology and Medicinal Chemistry==http://pharmacy.unc.edu/divisions/chemical-biology-and-medicinal-chemistry
+Dept==Molecular Pharmaceutics==http://pharmacy.unc.edu/divisions/molecular-pharmaceutics
+Dept==Pharmacotherapy and Experimental Therapeutics==http://pharmacy.unc.edu/divisions/pharmacotherapy-and-experimental-therapeutics
+Dept==Pharmaceutical Outcomes and Policy==http://pharmacy.unc.edu/divisions/pharmaceutical-outcomes-and-policy
+Dept==Practice Advancement and Clinical Education==http://pharmacy.unc.edu/divisions/pace
+
+School==Friday Center for Continuing Education==http://www.fridaycenter.unc.edu/
+Dept==Infection Control Part I==http://www.fridaycenter.unc.edu/pdep/ici/index.htm
+Dept==Carolina Business Institute==http://www.fridaycenter.unc.edu/pdep/cbi/index.htm
+Dept==Program Planning Services==http://www.fridaycenter.unc.edu/pdep/programplanning.htm
+Dept==Directions to the Center==http://www.fridaycenter.unc.edu/directions/index.htm
+
+School==General College==http://advising.unc.edu/
+
+School==Gillings School of Global Public Health==http://www.sph.unc.edu/
+Dept==Biostatistics==http://sph.unc.edu/department-pages/biostatistics/
+Dept==Environmental Sciences and Engineering==http://sph.unc.edu/department-pages/environmental-sciences-and-engineering/
+Dept==Epidemiology==http://sph.unc.edu/department-pages/epidemiology/
+Dept==Health Behavior==http://sph.unc.edu/department-pages/health-behavior/
+Dept==Health Policy and Management==http://sph.unc.edu/department-pages/health-policy-management/
+Dept==Maternal and Child Health==http://sph.unc.edu/department-pages/maternal-and-child-health/
+Dept==Nutrition==http://sph.unc.edu/department-pages/nutrition/
+Dept==Public Health Leadership Program==http://sph.unc.edu/department-pages/public-health-leadership-program/
+
+School==Government==http://www.sog.unc.edu/
+Dept==Coates' Canons: NC Local Government Law==http://canons.sog.unc.edu/
+Dept==Community and Economic Development==http://ced.sog.unc.edu/
+Dept==Community-Campus Partnership==http://sogweb.sog.unc.edu/blogs/ced/?cat=4
+Dept==North Carolina Criminal Law==http://sogweb.sog.unc.edu/blogs/ncclaw/
+
+School==Graduate School==http://gradschool.unc.edu/
+Dept==American Studies==null
+Dept==Art==null
+Dept==Dentistry==null
+Dept==Education==null
+Dept==English & Comparative Literature==null
+Dept==Epidemiology==null
+Dept==Germanic & Slavic Languages & Literatures==null
+Dept==Journalism & Mass Communication==null
+Dept==Political Science==null
+Dept==Environmental Sciences & Engineering==http://gradschool.sites.unc.edu/environmental-sciences-and-engineering/
+Dept==Exercise & Sport Science==http://gradschool.sites.unc.edu/exercise-and-sports-science/
+Dept==Geography==http://gradschool.sites.unc.edu/geography/
+Dept==Geological Sciences==http://gradschool.sites.unc.edu/geological-sciences/
+Dept==Global Studies==http://gradschool.sites.unc.edu/global-studies/
+Dept==Health Behavior==http://gradschool.sites.unc.edu/health-behavior-and-health-education/
+Dept==Health Policy & Management==http://gradschool.sites.unc.edu/health-policy-and-management/
+Dept==History==http://gradschool.sites.unc.edu/history/
+Dept==Human Movement Science==http://gradschool.sites.unc.edu/human-movement-science/
+Dept==Information & Library Science==http://gradschool.sites.unc.edu/information-and-library-science/
+Dept==Linguistics==http://gradschool.sites.unc.edu/linguistics/
+Dept==Marine Sciences==http://gradschool.sites.unc.edu/marine-sciences/
+Dept==Materials Science==http://gradschool.sites.unc.edu/materials-science/
+Dept==Maternal & Child Health==http://gradschool.sites.unc.edu/maternal-and-child-health/
+Dept==Mathematics==http://gradschool.sites.unc.edu/mathematics/
+Dept==Musicology==http://gradschool.sites.unc.edu/musicology/
+Dept==Nursing==http://gradschool.sites.unc.edu/nursing/
+Dept==Nutrition==http://gradschool.sites.unc.edu/nutrition/
+Dept==Occupational Therapy==http://gradschool.sites.unc.edu/occupational-therapy/
+Dept==Occupational Science==http://gradschool.sites.unc.edu/occupational-sciences/
+Dept==Pharmaceutical Sciences==http://gradschool.sites.unc.edu/pharmaceutical-sciences/
+Dept==Philosophy==http://gradschool.sites.unc.edu/philosophy/
+Dept==Physics & Astronomy==http://gradschool.sites.unc.edu/physics-and-astronomy/
+Dept==Psychology==http://gradschool.sites.unc.edu/psychology/
+Dept==Public Administration==http://gradschool.sites.unc.edu/public-administration/
+Dept==Public Health Leadership==http://gradschool.sites.unc.edu/public-health-leadership/
+Dept==Public Health Nursing==http://gradschool.sites.unc.edu/public-health-nursing/
+Dept==Public Policy==http://gradschool.sites.unc.edu/public-policy/
+Dept==Rehabilitation Counseling & Psychology==http://gradschool.sites.unc.edu/rehabilitation-counseling-and-psychology/
+Dept==Religious Studies==http://gradschool.sites.unc.edu/religious-studies/
+Dept==Romance Languages & Literatures==http://gradschool.sites.unc.edu/romance-languages-and-literatures/
+Dept==Social Work==http://gradschool.sites.unc.edu/social-work/
+Dept==Sociology==http://gradschool.sites.unc.edu/sociology/
+Dept==Speech & Hearing Sciences==http://gradschool.sites.unc.edu/speech-and-hearing-sciences/
+Dept==Statistics & Operations Research==http://gradschool.sites.unc.edu/statistics-and-operations-research/
+Dept==Anthropology==http://gradschool.sites.unc.edu/anthropology/
+Dept==Biology==http://gradschool.sites.unc.edu/biology/
+Dept==Biological & Biomedical Sciences==http://gradschool.sites.unc.edu/biological-and-biomedical-sciences/
+Dept==Biomedical Engineering==http://gradschool.sites.unc.edu/biomedical-engineering/
+Dept==Biostatistics==http://gradschool.sites.unc.edu/biostatistics/
+Dept==Business Administration==http://gradschool.sites.unc.edu/business-administration/
+Dept==Chemistry==http://gradschool.sites.unc.edu/chemistry/
+Dept==City & Regional Planning==http://gradschool.sites.unc.edu/city-and-regional-planning/
+Dept==Classics==http://gradschool.sites.unc.edu/classics/
+Dept==Communication Studies==http://gradschool.sites.unc.edu/communication-studies/
+Dept==Computer Science==http://gradschool.sites.unc.edu/computer-science/
+Dept==Dramatic Art==http://gradschool.sites.unc.edu/dramatic-art/
+Dept==Ecology==http://gradschool.sites.unc.edu/ecology/
+Dept==Economics==http://gradschool.sites.unc.edu/economics/
+
+School==Information and Library Science==http://sils.unc.edu/
+
+School==Journalism & Mass Communication==http://www.jomc.unc.edu/
+
+School==Kenan-Flagler Business School==http://www.kenan-flagler.unc.edu/
+
+School==Law==http://www.law.unc.edu/
+
+School==Medicine==http://www.med.unc.edu/
+Dept==Allied Health Sciences (AHS)==http://www.med.unc.edu/ahs/
+Dept==Biochemistry and Biophysics==http://www.med.unc.edu/biochem/
+Dept==Biomedical Engineering==http://www.bme.unc.edu/
+Dept==Cell Biology and Physiology==http://www.med.unc.edu/cellbiophysio
+Dept==Genetics==http://genetics.unc.edu/
+Dept==Microbiology and Immunology==http://www.med.unc.edu/microimm/
+Dept==Pathology and Laboratory Medicine==http://www.med.unc.edu/pathology
+Dept==Pharmacology==http://www.med.unc.edu/pharm/
+Dept==Social Medicine==http://www.med.unc.edu/socialmed
+Dept==Anesthesiology==http://www.aims.unc.edu/
+Dept==Dermatology==http://www.med.unc.edu/derm/
+Dept==Emergency Medicine==http://www.med.unc.edu/emergmed
+Dept==Family Medicine==http://www.fammed.unc.edu/
+Dept==Medicine==http://medicine.med.unc.edu/
+Dept==Neurology==http://www.med.unc.edu/neurology
+Dept==Neurosurgery==http://www.med.unc.edu/neurosurgery
+Dept==Nutrition==http://www.sph.unc.edu/nutr/
+Dept==Obstetrics and Gynecology==http://www.med.unc.edu/obgyn/
+Dept==Ophthalmology==http://www.med.unc.edu/ophth/
+Dept==Orthopaedics==http://www.med.unc.edu/ortho/
+Dept==Otolaryngology/Head & Neck Surgery==http://www.med.unc.edu/ent
+Dept==Pathology and Laboratory Medicine==http://www.med.unc.edu/pathology/
+Dept==Pediatrics==http://pediatrics.med.unc.edu/
+Dept==Physical Medicine and Rehabilitation==http://www.med.unc.edu/phyrehab/
+Dept==Psychiatry==http://www.psychiatry.unc.edu/
+Dept==Radiation Oncology==http://www.med.unc.edu/radonc/
+Dept==Radiology==http://www.med.unc.edu/radiology
+Dept==Surgery==http://www.med.unc.edu/surgery
+Dept==Urology==http://www.med.unc.edu/urology/
+
+School==Nursing==http://nursing.unc.edu/
+
+School==Social Work==http://ssw.unc.edu/
+Dept==SW and Divinity==http://ssw.unc.edu/programs/masters/dual%20degree
+Dept==SW and Public Admin==http://ssw.unc.edu/programs/masters/dual%20degree/admin
+Dept==SW and Law==http://ssw.unc.edu/programs/masters/dual%20degree/law
+Dept==SW and Public Health==http://ssw.unc.edu/programs/masters/dual%20degree/health
+
+School==Summer School==http://summer.unc.edu/
+

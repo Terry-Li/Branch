@@ -1,0 +1,122 @@
+61==http://www.northwestern.edu/
+School==WEINBERG COLLEGE OF ARTS AND SCIENCES==http://www.weinberg.northwestern.edu/
+Dept==African American Studies==http://www.afam.northwestern.edu/
+Dept==Asian Languages and Cultures==http://www.alc.northwestern.edu/
+Dept==American Studies==http://www.amstp.northwestern.edu/
+Dept==Anthropology==http://www.anthropology.northwestern.edu/
+Dept==Applied Physics==http://www.appliedphysics.northwestern.edu/
+Dept==Art History==http://www.wcas.northwestern.edu/arthistory/
+Dept==Art Theory and Practice==http://www.art.northwestern.edu/
+Dept==Asian American Studies==http://www.asianamerican.northwestern.edu/
+Dept==Asian Studies==http://www.asian-studies.northwestern.edu/
+Dept==Astronomy==http://www.astro.northwestern.edu/
+Dept==Biological Sciences==http://www.biosci.northwestern.edu/
+Dept==Brady Scholars Program in Ethics and Civic Life==http://www.bradyprogram.northwestern.edu/
+Dept==Business Institutions==http://www.wcas.northwestern.edu/bip/
+Dept==Chemistry==http://www.chem.northwestern.edu/
+Dept==Chicago Field Studies==http://www.wcas.northwestern.edu/cfs/
+Dept==Classics==http://www.classics.northwestern.edu/
+Dept==Cognitive Science==http://www.cogsci.northwestern.edu/
+Dept==Comparative Literary Studies==http://www.complit.northwestern.edu/
+Dept==Computer Science==http://eecs.northwestern.edu/academics/computerscience.html
+Dept==Critical Theory==http://www.wcas.northwestern.edu/criticaltheory/
+Dept==Earth & Planetary Sciences==http://www.earth.northwestern.edu/
+Dept==Economics==http://www.econ.northwestern.edu/
+Dept==English==http://www.english.northwestern.edu/
+Dept==Environmental Policy and Culture==http://www.wcas.northwestern.edu/epc/
+Dept==Environmental Sciences==http://www.wcas.northwestern.edu/esep/
+Dept==French and Italian==http://www.frenchanditalian.northwestern.edu/
+Dept==Gender and Sexuality Studies==http://www.genderstudies.northwestern.edu
+Dept==Geography==http://www.wcas.northwestern.edu/geography/
+Dept==German Language and Literature==http://www.german.northwestern.edu/
+Dept==Global Health==http://www.wcas.northwestern.edu/globalhealth/
+Dept==History==http://www.history.northwestern.edu/
+Dept==Honors Program in Medical Education (HPME)==http://www.feinberg.northwestern.edu/hpme/
+Dept==Integrated Science Program==http://www.isp.northwestern.edu/
+Dept==Interdepartmental Biological Sciences Program (IBiS)==http://www.biochem.northwestern.edu/ibis/
+Dept==International and Area Studies==http://www.ias.northwestern.edu/
+Dept==International Studies==http://www.internationalstudies.northwestern.edu/
+Dept==Jewish and Israel Studies==http://www.wcas.northwestern.edu/jewish-studies/
+Dept==Latin American and Caribbean Studies==http://www.wcas.northwestern.edu/lacs/
+Dept==Latina/o Studies==http://www.latinostudies.northwestern.edu/
+Dept==Legal Studies==http://www.northwestern.edu/legalstudies/
+Dept==Linguistics==http://www.linguistics.northwestern.edu/
+Dept==Materials Science==http://www.matsci.northwestern.edu/
+Dept==Mathematical Experience for Northwestern Undergrads (MENU)==http://www.math.northwestern.edu/undergraduate/menu.html
+Dept==Mathematical Methods in the Social Sciences (MMSS)==http://www.mmss.northwestern.edu/
+Dept==Mathematics==http://www.math.northwestern.edu/
+Dept==Middle East and North African Studies==http://www.mena.northwestern.edu/
+Dept==Molecular Biosciences==http://www.molbiosci.northwestern.edu/
+Dept==Neurobiology and Physiology==http://www.northwestern.edu/neurobiology/
+Dept==Northwestern University Interdepartmental Neuroscience Program (NUIN)==http://nuin.northwestern.edu/
+Dept==Philosophy==http://www.philosophy.northwestern.edu/
+Dept==Physics and Astronomy==http://www.physics.northwestern.edu/
+Dept==Plant Biology and Conservation==http://www.plantbiology.northwestern.edu/
+Dept==Political Science==http://www.polisci.northwestern.edu/
+Dept==Psychology==http://www.wcas.northwestern.edu/psych/
+Dept==Religious Studies==http://www.religion.northwestern.edu/
+Dept==Science in Human Culture==http://www2.mmlc.northwestern.edu/shc/
+Dept==Slavic Languages and Literatures==http://www.slavic.northwestern.edu/
+Dept==Sociology==http://www.sociology.northwestern.edu/
+Dept==Spanish and Portuguese==http://www.spanish-portuguese.northwestern.edu/
+Dept==Statistics==http://www.statistics.northwestern.edu/
+Dept==Urban Studies==http://www.urbanstudies.northwestern.edu/
+Dept==Writing Program==http://www.writingprogram.northwestern.edu/
+
+School==SCHOOL OF COMMUNICATION==http://www.communication.northwestern.edu/
+Dept==Northwestern Home==http://www.northwestern.edu/
+Dept==Northwestern Calendar: Plan-It-Purple==http://planitpurple.northwestern.edu/
+Dept==Northwestern Search==http://search.northwestern.edu/
+
+School==SCHOOL OF CONTINUING STUDIES==http://www.scs.northwestern.edu/
+Dept==Advanced Accounting==http://www.scs.northwestern.edu/program-areas/post-baccalaureate/advanced-accounting/index.php
+Dept==CPA Preparation==http://www.scs.northwestern.edu/program-areas/post-baccalaureate/cpa-prep/index.php
+Dept==Fundamentals of Accounting==http://www.scs.northwestern.edu/program-areas/post-baccalaureate/fundamentals-accounting/index.php
+Dept==Museum Studies==http://www.scs.northwestern.edu/program-areas/professional-development/museum-studies/index.php
+
+School==SCHOOL OF EDUCATION AND SOCIAL POLICY==http://www.sesp.northwestern.edu/
+
+School==MCCORMICK SCHOOL OF ENGINEERING AND APPLIED SCIENCE==http://www.mccormick.northwestern.edu/
+Dept==Biomedical Engineering==http://www.bme.northwestern.edu
+Dept==Chemical and Biological Engineering==http://www.chem-biol-eng.northwestern.edu
+Dept==Civil and Environmental Engineering==http://www.civil.northwestern.edu
+Dept==Electrical Engineering and Computer Science==http://www.eecs.northwestern.edu
+Dept==Engineering Sciences and Applied Mathematics==http://www.esam.northwestern.edu
+Dept==Industrial Engineering and Management Sciences==http://www.iems.northwestern.edu/
+Dept==Materials Science and Engineering==http://www.matsci.northwestern.edu
+Dept==Mechanical Engineering==http://www.mech.northwestern.edu
+
+School==THE GRADUATE SCHOOL==http://www.tgs.northwestern.edu/index.html
+
+School==MEDILL SCHOOL OF JOURNALISM, MEDIA, INTEGRATED MARKETING COMMUNICATIONS==http://www.medill.northwestern.edu/
+
+School==SCHOOL OF LAW==http://www.law.northwestern.edu/index.cfm
+
+School==KELLOGG SCHOOL OF MANAGEMENT==http://www.kellogg.northwestern.edu/
+Dept==Architectures of Collaboration==http://www.kellogg.northwestern.edu/Faculty/Academics/kaci.aspx
+Dept==Innovation & Entrepreneurship==http://www.kellogg.northwestern.edu/Faculty/Academics/kiei.aspx
+Dept==Markets & Customers==http://www.kellogg.northwestern.edu/Faculty/Academics/kmci.aspx
+Dept==Public-Private Interface==http://www.kellogg.northwestern.edu/Faculty/Academics/kppi.aspx
+
+School==FEINBERG SCHOOL OF MEDICINE==http://www.feinberg.northwestern.edu/
+Dept==Northwestern Home==http://www.northwestern.edu/
+Dept==Northwestern Calendar: Plan-It Purple==http://planitpurple.northwestern.edu/
+Dept==Northwestern Search==http://googlesearch.northwestern.edu/
+
+School==BIENEN SCHOOL OF MUSIC==http://www.music.northwestern.edu/
+Dept==Brass==http://www.music.northwestern.edu/academics/areas-of-study/brass.html
+Dept==Conducting==http://www.music.northwestern.edu/academics/areas-of-study/conducting.html
+Dept==Jazz Studies==http://www.music.northwestern.edu/academics/areas-of-study/jazz-studies.html
+Dept==Music Composition==http://www.music.northwestern.edu/academics/areas-of-study/music-composition.html
+Dept==Music Education==http://www.music.northwestern.edu/academics/areas-of-study/music-education.html
+Dept==Musicology==http://www.music.northwestern.edu/academics/areas-of-study/musicology/index.html
+Dept==Music Theory & Cognition==http://www.music.northwestern.edu/academics/areas-of-study/music-theory-and-cognition/index.html
+Dept==Percussion==http://www.music.northwestern.edu/academics/areas-of-study/percussion.html
+Dept==Piano==http://www.music.northwestern.edu/academics/areas-of-study/piano.html
+Dept==Piano Pedagogy==http://www.music.northwestern.edu/academics/areas-of-study/piano-pedagogy.html
+Dept==Strings==http://www.music.northwestern.edu/academics/areas-of-study/strings.html
+Dept==Voice & Opera==http://www.music.northwestern.edu/academics/areas-of-study/voice-opera.html
+Dept==Woodwinds==http://www.music.northwestern.edu/academics/areas-of-study/woodwinds.html
+
+School==NORTHWESTERN UNIVERSITY IN QATAR==http://www.qatar.northwestern.edu/index.html
+

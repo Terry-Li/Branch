@@ -1,0 +1,119 @@
+12==http://umanitoba.ca/
+School==Faculty of Agricultural and Food Sciences==http://umanitoba.ca/afs/
+Dept==Animal Science==http://www.umanitoba.ca/afs/animal_science/
+Dept==Biosystems Engineering==http://www.umanitoba.ca/afs/biosystems_engineering/index.html
+Dept==Entomology==http://www.umanitoba.ca/afs/entomology/
+Dept==Food Science==http://www.umanitoba.ca/afs/food_science/
+Dept==Plant Science==http://www.umanitoba.ca/afs/plant_science/
+
+School==School of Agriculture==http://umanitoba.ca/afs/school/
+
+School==Faculty of Architecture==http://umanitoba.ca/faculties/architecture/
+
+School==School of Art==http://umanitoba.ca/schools/art/
+
+School==Faculty of Arts==http://umanitoba.ca/faculties/arts/
+Dept==Graduate Studies > Anthropology in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/anthropology.asp
+Dept==Graduate Studies >?Economics in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/economics.asp
+Dept==Graduate Studies >?English in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/english.asp
+Dept==Graduate Studies >?French, Spanish & Italian?in ==http://crscalprod1.cc.umanitoba.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=60&chapterid=686&loaduseredits=False
+Dept==Email: ==mailto:jaeger@umanitoba.ca
+Dept==Graduate Studies > German & Slavic Studies in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/german_slavic.asp
+Dept==Email: ==mailto:Sarah.Elvins@ad.umanitoba.ca
+Dept==Graduate Studies >?History in ==http://crscalprod1.cc.umanitoba.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=60&chapterid=690&loaduseredits=False
+Dept==Graduate Studies >?Icelandic in ==http://crscalprod1.cc.umanitoba.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=60&chapterid=693&loaduseredits=False
+Dept==Graduate Studies >?Linguistics in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/linguistics.asp
+Dept==Graduate Studies >?Native Studies?in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/native_studies.asp
+Dept==Graduate Studies >?Philosphy in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/philosphy.asp
+Dept==(204) 474-8777==mailto:bailisds@cc.umanitoba.ca
+Dept==Graduate Studies >?Psychology in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/psychology.asp
+Dept==Graduate Studies >?Religion in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/religion.asp
+Dept==Graduate Studies >?Sociology in ==http://webapps.cc.umanitoba.ca/calendar/graduate_studies/programs/sociology.asp
+
+School==Asper School of Business (Faculty of Management)==http://umanitoba.ca/management/
+Dept==Accounting and Finance==http://umanitoba.ca/faculties/management/academic_depts_centres/dept/accounting_finance/index.html
+Dept==Actuarial==http://umanitoba.ca/faculties/management/academic_depts_centres/centres_institutes/warren/index.html
+Dept==Business Administration==http://umanitoba.ca/faculties/management/academic_depts_centres/dept/bus_admin/index.html
+Dept==Marketing==http://umanitoba.ca/faculties/management/academic_depts_centres/dept/marketing/index.html
+Dept==Supply Chain Management==http://umanitoba.ca/faculties/management/academic_depts_centres/dept/supplychain/index.html
+
+School==School of Dental Hygiene==http://umanitoba.ca/faculties/dentistry/dentalhygiene/dh_index.html
+Dept==Interprofessional Education Initiative==http://umanitoba.ca/faculties/dentistry/student_resources/ipe_introDen_DH.html
+Dept==Continuing Dental Education==http://umanitoba.ca/faculties/dentistry/dentalhygiene/dh_cde.html
+Dept==Canadian Dental Hygienists Association==http://www.cdha.ca/AM/Template.cfm?Section=Home
+Dept==Manitoba Dental Hygienists Association==http://home.mdha.ca/
+
+School==Faculty of Dentistry==http://umanitoba.ca/faculties/dentistry/
+Dept==Dean's Office==http://umanitoba.ca/faculties/dentistry/staff/staffDent_DO.html
+Dept==School of Dental Hygiene==http://umanitoba.ca/faculties/dentistry/dentalhygiene/DH_staff.html
+Dept==Clinical Support Services==http://umanitoba.ca/faculties/dentistry/staff/dent_clinics.html
+Dept==Dental Diagnostic & Surgical Sciences==http://umanitoba.ca/faculties/dentistry/ddss/dent_DDSS.html
+Dept==Oral Biology==http://umanitoba.ca/faculties/dentistry/oral_biology/758.html
+Dept==Preventive Dental Science==http://umanitoba.ca/faculties/dentistry/pds/facStaff.html
+Dept==Restorative Dentistry==http://umanitoba.ca/faculties/dentistry/rds/index.html
+
+School==Faculty of Education==http://umanitoba.ca/faculties/education/
+
+School==Faculty of Engineering==http://umanitoba.ca/faculties/engineering/
+Dept==Biosystems==http://umanitoba.ca/faculties/engineering/departments/biosystems/index.html
+Dept==Civil==http://umanitoba.ca/faculties/engineering/departments/civil/index.html
+Dept==Electrical & Computer==http://umanitoba.ca/faculties/engineering/departments/ece/index.html
+Dept==Mechanical &?Manufacturing==http://umanitoba.ca/faculties/engineering/departments/mechanical/index.html
+
+School==Clayton H. Riddell Faculty of Environment, Earth, and Resources==http://umanitoba.ca/faculties/environment/
+Dept==Geography==http://crscalprod1.cc.umanitoba.ca/~/Catalog/ViewCatalog.aspx?htmllink=true&pageid=viewcatalog&catalogid=240&topicid=837466&topicgroupid=13605&loaduseredits=true
+Dept==Physical Geography==http://crscalprod1.cc.umanitoba.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&catalogid=240&chapterid=2144&topicgroupid=13638&loaduseredits=True
+Dept==Environmental Science==http://crscalprod1.cc.umanitoba.ca/~/Catalog/ViewCatalog.aspx?htmllink=true&pageid=viewcatalog&catalogid=240&topicid=837473&topicgroupid=13622&loaduseredits=true
+Dept==Geological Sciences==http://crscalprod1.cc.umanitoba.ca/~/Catalog/ViewCatalog.aspx?htmllink=true&pageid=viewcatalog&catalogid=240&topicid=837486&topicgroupid=13642&loaduseredits=true
+
+School==Faculty of Graduate Studies==http://umanitoba.ca/graduate_studies/
+
+School==Faculty of Human Ecology==http://umanitoba.ca/faculties/human_ecology/
+Dept==Family Social Sciences==http://umanitoba.ca/faculties/human_ecology/departments/fss/index.html
+Dept==Interdisciplinary Health==http://umanitoba.ca/faculties/human_ecology/programs/idh/index.html
+Dept==Human Nutritional Sci==http://umanitoba.ca/faculties/human_ecology/departments/hns/index.html
+Dept==Textile Sciences==http://umanitoba.ca/faculties/human_ecology/departments/ts/index.html
+
+School==Faculty of Kinesiology and Recreation Management==http://umanitoba.ca/faculties/kinrec/
+
+School==Faculty of Law==http://law.robsonhall.ca/
+
+School==School of Medical Rehabilitation==http://umanitoba.ca/faculties/medicine/units/medrehab/
+Dept==Overview of Programs==http://umanitoba.ca/faculties/medicine/units/medrehab/overview.html
+Dept==Occupational Therapy==http://umanitoba.ca/faculties/medicine/units/medrehab/ot/index.html
+Dept==Physical Therapy==http://umanitoba.ca/faculties/medicine/units/medrehab/pt/index.html
+Dept==Respiratory Therapy==http://umanitoba.ca/faculties/medicine/units/medrehab/rt_index.html
+
+School==Faculty of Medicine==http://umanitoba.ca/faculties/medicine/
+Dept==International Medical Graduate Program==http://umanitoba.ca/faculties/medicine/education/imgp/index.html
+Dept==Continuing?Professional Development?==http://umanitoba.ca/faculties/medicine/education/cpd/index.html
+Dept==Department of Medical Education==http://umanitoba.ca/faculties/medicine/education/ed_dev/index.php
+
+School==Marcel A. Desautels Faculty of Music==http://umanitoba.ca/faculties/music/
+Dept==Brass==http://umanitoba.ca/faculties/music/applied_studies/brass/404.html
+Dept==Piano==http://umanitoba.ca/faculties/music/applied_studies/piano/409.html
+Dept==Guitar==http://umanitoba.ca/faculties/music/applied_studies/guitar/407.html
+Dept==Strings==http://umanitoba.ca/faculties/music/applied_studies/strings/408.html
+Dept==Composition==http://umanitoba.ca/faculties/music/applied_studies/composition/452.html
+
+School==Faculty of Nursing==http://umanitoba.ca/faculties/nursing/
+
+School==Faculty of Pharmacy==http://umanitoba.ca/faculties/pharmacy/
+
+School==Faculty of Science==http://umanitoba.ca/science/
+Dept==What is Science?==http://umanitoba.ca/faculties/science/about/1213.html
+Dept==Why Science Matters?==http://umanitoba.ca/faculties/science/about/1214.html
+Dept==How Science and Scientists Contribute?==http://umanitoba.ca/faculties/science/about/1216.html
+
+School==Faculty of Social Work==http://umanitoba.ca/faculties/social_work/
+
+School==Division of Extended Education==http://umanitoba.ca/coned/
+
+School==University 1==http://umanitoba.ca/u1/
+
+School==St. Andrew's College==http://umanitoba.ca/colleges/st_andrews/
+
+School==St. John's College==http://umanitoba.ca/colleges/st_johns/
+
+School==St. Paul's College==http://umanitoba.ca/colleges/st_pauls/
+

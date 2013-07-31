@@ -1,0 +1,73 @@
+58==http://www.jhu.edu/
+School==Advanced International Studies==http://webapps.jhu.edu/jhuniverse/academics/schools/school_of_advanced_international_studies/
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Arts & Sciences==http://webapps.jhu.edu/jhuniverse/academics/schools/krieger_school_of_arts_and_sciences/
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Carey Business School==http://webapps.jhu.edu/jhuniverse/academics/schools/carey_business_school/
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Education==http://webapps.jhu.edu/jhuniverse/academics/schools/school_of_education/
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Engineering==http://webapps.jhu.edu/jhuniverse/academics/schools/whiting_school_of_engineering
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Medicine==http://webapps.jhu.edu/jhuniverse/academics/schools/school_of_medicine/
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Nursing==http://webapps.jhu.edu/jhuniverse/academics/schools/school_of_nursing/
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Peabody Institute==http://webapps.jhu.edu/jhuniverse/academics/schools/peabody_institute
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+
+School==Public Health==http://webapps.jhu.edu/jhuniverse/academics/schools/bloomberg_school_of_public_health
+Dept==Campus Bookstores==http://webapps.jhu.edu/jhuniverse/admissions/bookstores/
+Dept==Diversity Resources==http://equitycivilityrespect.jhu.edu/
+Dept==Campus Security==http://webapps.jhu.edu/jhuniverse/administration/emergency_weather_security_information/
+Dept==Information Technology==http://webapps.jhu.edu/jhuniverse/information_technology/
+Dept==Homewood Arts Programs==http://web.jhu.edu/studentprograms/homewood_arts/
+Dept==Hopkins Interactive==http://apply.jhu.edu/hi/
+

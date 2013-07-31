@@ -1,0 +1,94 @@
+08==http://www.ucalgary.ca/
+School==Arts==http://arts.ucalgary.ca/
+Dept==Anthropology==http://anth.ucalgary.ca
+Dept==Archaeology==http://arky.ucalgary.ca/
+Dept==Philosophy==http://phil.ucalgary.ca
+Dept==Political Science==http://poli.ucalgary.ca
+Dept==Psychology==http://psych.ucalgary.ca
+Dept==Religious Studies==http://rels.ucalgary.ca
+Dept==Sociology==http://soci.ucalgary.ca
+Dept==Environmental Science Program==http://www.ucalgary.ca/ensc
+
+School==Education==http://educ.ucalgary.ca/
+Dept==Dennis Sumara reappointed Dean of Education==null
+Dept==Education graduate no stranger to new beginnings==null
+Dept==Faculty of Education 2013 award winners==null
+Dept==Orientation Program: Undergraduate Programs in Education==http://www.ucalgary.ca/it/gettingstarted/student
+
+School==Environmental Design==http://evds.ucalgary.ca/
+Dept==Architecture==http://evds.ucalgary.ca/node/14
+Dept==Environmental Design==http://evds.ucalgary.ca/node/15
+Dept==Planning==http://evds.ucalgary.ca/node/16
+
+School==Graduate Studies==http://grad.ucalgary.ca/
+Dept==Submit your thesis to the Vault==null
+Dept==Graduate Studies==null
+Dept==Graduate Studies==null
+Dept==Graduate Studies==http://grad.ucalgary.ca/home
+
+School==Haskayne School of Business==http://haskayne.ucalgary.ca/
+
+School==Kinesiology==http://www.ucalgary.ca/knes
+
+School==Law==http://www.ucalgary.ca/law
+
+School==Medicine==http://medicine.ucalgary.ca/
+Dept==Biochemistry and Molecular Biology==http://www.ucalgary.ca/bmb
+Dept==Cardiac Sciences==http://www.libin.ucalgary.ca/
+Dept==Cell Biology and Anatomy==http://www.cell.ucalgary.ca/
+Dept==Clinical Neurosciences==http://www.ucalgary.ca/dcns/
+Dept==Community Health Sciences==http://www.ucalgary.ca/communityhealthsciences
+Dept==Critical Care Medicine==http://www.albertahealthservices.ca/5135.asp
+Dept==Family Medicine==http://www.ucalgary.ca/familymedicine/
+Dept==Medicine==http://www.departmentofmedicine.com
+Dept==Medical Genetics==http://www.medicalgenetics.ca
+Dept==Microbiology, Immunology and Infectious Diseases==http://www.ucalgary.ca/microinfect/
+Dept==Obstetrics and Gynaecology==http://www.obgyn.ucalgary.ca/
+Dept==Oncology==http://departmentofoncology.com
+Dept==Paediatrics==http://www.ucalgary.ca/paed/
+Dept==Pathology and Laboratory Medicine==http://www.ucalgary.ca/uofc/faculties/medicine/PATH/
+Dept==Physiology and Pharmacology==http://www.ucalgary.ca/pp/
+Dept==Psychiatry==http://www.ucalgary.ca/psychiatry/
+Dept==Radiology==http://www.ucalgary.ca/radiology
+Dept==Surgery==http://www.albertahealthservices.ca/4430.asp
+Dept==Undergraduate Medical Education==http://www.ucalgary.ca/mdprogram/
+Dept==Bachelor of Health Sciences==http://www.ucalgary.ca/bhsc/
+Dept==Graduate Science Education==http://medicine.ucalgary.ca/graduate
+Dept==Postgraduate Medical Education==http://medicine.ucalgary.ca/postgrad
+Dept==Continuing Medical Education==http://medicine.ucalgary.ca/physicians/cme
+Dept==Basic Research==http://medicine.ucalgary.ca/research
+Dept==Equity and Teacher-Learner Relations==http://medicine.ucalgary.ca/ETLR
+Dept==Faculty Development==http://www.ucalgary.ca/ofd/
+Dept==Global Health and International Partnerships==http://www.ucalgary.ca/ghealth/
+Dept==Rural Medicine==http://ucalgary.ca/ruralmedicine/
+
+School==Nursing==http://nursing.ucalgary.ca/
+
+School==Nursing (Qatar) Faculty==http://www.ucalgary.edu.qa/
+
+School==Schulich School of Engineering==http://schulich.ucalgary.ca/
+Dept==Department of Chemical and Petroleum Engineering==http://schulich.ucalgary.ca/chemical
+Dept==Department of Civil Engineering==http://schulich.ucalgary.ca/civil
+Dept==Department of Electrical and Computer Engineering==http://enel.ucalgary.ca/
+Dept==Department of Geomatics Engineering==http://schulich.ucalgary.ca/geomatics
+Dept==Department of Mechanical and Manufacturing Engineering==http://schulich.ucalgary.ca/mechanical
+Dept==Chemical Engineering==http://www.schulich.ucalgary.ca/chemical
+Dept==Civil Engineering==http://www.schulich.ucalgary.ca/Civil/
+Dept==Computer Engineering==http://enel.ucalgary.ca
+Dept==Geomatics Engineering==http://www.geomatics.ucalgary.ca
+Dept==Mechanical Engineering==http://www.schulich.ucalgary.ca/mechanical
+Dept==Biomedical Specialization==http://www.ucalgary.ca/biomedical
+Dept==Energy and Environment Specialization==http://www.schulich.ucalgary.ca/ceere
+Dept==Project Management Specialization ==http://www.ucalgary.ca/projectmanagement
+Dept==Master of Science (MSc) in Sustainable Energy Development==http://www.ucalgary.ca/sustainableenergy/
+Dept==Global Energy Executive MBA Program==http://www.energyemba.com/
+
+School==Science==http://science.ucalgary.ca/
+
+School==Social Work==http://fsw.ucalgary.ca/
+
+School==Veterinary Medicine==http://vet.ucalgary.ca/
+Dept==Department of Ecosystem and Public Health==http://vet.ucalgary.ca/vet/ecosystem_amp_public_health
+Dept==Department of Comparative Biology and Experimental Medicine==http://vet.ucalgary.ca/vet/comparative_biology_amp_experimental_medicine
+Dept==Department of Veterinary Clinical and Diagnostic Sciences==http://vet.ucalgary.ca/vet/veterinary_clinical_amp_diagnostic_sciences
+
