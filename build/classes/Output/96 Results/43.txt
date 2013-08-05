@@ -1,0 +1,237 @@
+43==http://www.columbia.edu/
+School==Architecture, Planning & Preservation ?==http://www.arch.columbia.edu
+Dept==ARCHITECTURE==http://www.arch.columbia.edu/programs/architecture
+Dept==URBAN DESIGN==http://www.arch.columbia.edu/programs/urban-design
+Dept==URBAN PLANNING==http://www.arch.columbia.edu/programs/urban-planning
+Dept==HISTORIC PRESERVATION==http://www.arch.columbia.edu/programs/historic-preservation
+Dept==REAL ESTATE DEVELOPMENT==http://www.arch.columbia.edu/programs/real-estate-development
+Dept==CRITICAL, CURATORIAL, AND CONCEPTUAL PRACTICES IN ARCHITECTURE==http://www.arch.columbia.edu/programs/critical-curatorial-conceptual-practices
+Dept==PH.D IN ARCHITECTURE==http://www.arch.columbia.edu/programs/phd-architecture
+Dept==PH.D IN URBAN PLANNING==http://www.arch.columbia.edu/programs/phd-urban-planning
+Dept==NEW YORK / PARIS==http://www.arch.columbia.edu/programs/new-york-paris
+Dept==INTRODUCTION TO ARCHITECTURE==http://www.arch.columbia.edu/programs/introduction-architecture
+
+School==Arts ?==http://arts.columbia.edu
+Dept==FILM==http://arts.columbia.edu/film
+Dept==THEATRE==http://arts.columbia.edu/theatre-arts
+Dept==VISUAL ARTS==http://arts.columbia.edu/visual-arts
+Dept==WRITING==http://arts.columbia.edu/writing
+Dept==MILLER THEATRE==http://arts.columbia.edu/miller-theatre-0
+Dept==ARTS INITIATIVE==http://arts.columbia.edu/arts-initiative
+Dept==THE LEROY NEIMAN CENTER & GALLERY==http://www.columbia.edu/cu/arts/neiman/
+
+School==Graduate School of Arts & Sciences ?==http://gsas.columbia.edu
+Dept==Anthropology==http://gsas.columbia.edu/content/academic-programs/anthropology-phd
+Dept==Applied Physics and Applied Mathematics==http://gsas.columbia.edu/content/academic-programs/applied-physics-and-applied-mathematics
+Dept==Architecture (History and Theory)==http://gsas.columbia.edu/content/academic-programs/architecture-history-and-theory
+Dept==Art History and Archaeology==http://gsas.columbia.edu/content/academic-programs/art-history-and-archaeology-phd
+Dept==Astronomy==http://gsas.columbia.edu/content/academic-programs/astronomy
+Dept==Biochemistry and Molecular Biophysics==http://gsas.columbia.edu/content/academic-programs/biochemistry-and-molecular-biophysics
+Dept==Biological Sciences==http://gsas.columbia.edu/content/academic-programs/biological-sciences
+Dept==Biomedical Engineering==http://gsas.columbia.edu/content/academic-programs/biomedical-engineering
+Dept==Biomedical Informatics==http://gsas.columbia.edu/content/academic-programs/biomedical-informatics-phd
+Dept==Biostatistics==http://gsas.columbia.edu/content/academic-programs/biostatistics
+Dept==Business==http://gsas.columbia.edu/content/academic-programs/business
+Dept==Cell Biology==http://gsas.columbia.edu/content/academic-programs/cell-biology
+Dept==Cellular Physiology and Biophysics==http://gsas.columbia.edu/content/academic-programs/cellular-physiology-and-biophysics
+Dept==Cellular, Molecular and Biomedical Studies==http://gsas.columbia.edu/content/academic-programs/cellular-molecular-and-biomedical-studies-integrated-program
+Dept==Chemical Engineering==http://gsas.columbia.edu/content/academic-programs/chemical-engineering
+Dept==Chemical Physics==http://gsas.columbia.edu/content/academic-programs/chemical-physics-phd
+Dept==Chemistry==http://gsas.columbia.edu/content/academic-programs/chemistry
+Dept==Civil Engineering and Engineering Mechanics==http://gsas.columbia.edu/content/academic-programs/civil-engineering-and-engineering-mechanics
+Dept==Classical Studies==http://gsas.columbia.edu/content/academic-programs/classical-studies-phd
+Dept==Classics==http://gsas.columbia.edu/content/academic-programs/classics-phd
+Dept==Communications==http://gsas.columbia.edu/content/academic-programs/communications
+Dept==Computer Science==http://gsas.columbia.edu/content/academic-programs/computer-science
+Dept==Earth and Environmental Engineering==http://gsas.columbia.edu/content/academic-programs/earth-and-environmental-engineering
+Dept==Earth and Environmental Sciences==http://gsas.columbia.edu/content/academic-programs/earth-and-environmental-sciences
+Dept==East Asian Languages and Cultures==http://gsas.columbia.edu/content/academic-programs/east-asian-languages-and-cultures-phd
+Dept==Ecology, Evolution and Environmental Biology==http://gsas.columbia.edu/content/academic-programs/ecology-evolution-and-environmental-biology
+Dept==Economics==http://gsas.columbia.edu/content/academic-programs/economics
+Dept==Education==http://gsas.columbia.edu/content/academic-programs/education
+Dept==Electrical Engineering==http://gsas.columbia.edu/content/academic-programs/electrical-engineering
+Dept==English and Comparative Literature==http://gsas.columbia.edu/content/academic-programs/english-and-comparative-literature-phd
+Dept==Environmental Health Sciences==http://gsas.columbia.edu/content/academic-programs/environmental-health-sciences
+Dept==Epidemiology==http://gsas.columbia.edu/content/academic-programs/epidemiology
+Dept==French and Romance Philology==http://gsas.columbia.edu/content/academic-programs/french-and-romance-philology-phd
+Dept==Genetics and Development==http://gsas.columbia.edu/content/academic-programs/genetics-and-development
+Dept==Germanic Languages==http://gsas.columbia.edu/content/academic-programs/germanic-languages-phd
+Dept==History==http://gsas.columbia.edu/content/academic-programs/history-phd
+Dept==Industrial Engineering and Operations Research==http://gsas.columbia.edu/content/academic-programs/industrial-engineering-and-operations-research
+Dept==Italian==http://gsas.columbia.edu/content/academic-programs/italian-phd
+Dept==Latin American and Iberian Cultures==http://gsas.columbia.edu/content/academic-programs/latin-american-and-iberian-cultures-phd
+Dept==Mathematics==http://gsas.columbia.edu/content/academic-programs/mathematics
+Dept==Mechanical Engineering==http://gsas.columbia.edu/content/academic-programs/mechanical-engineering
+Dept==Microbiology, Immunology and Infection==http://gsas.columbia.edu/content/academic-programs/microbiology-immunology-and-infection
+Dept==Middle Eastern, South Asian and African Studies==http://gsas.columbia.edu/content/academic-programs/middle-eastern-south-asian-and-african-studies-phd
+Dept==Music==http://gsas.columbia.edu/content/academic-programs/music
+Dept==Neurobiology and Behavior==http://gsas.columbia.edu/content/academic-programs/neurobiology-and-behavior
+Dept==Nursing==http://gsas.columbia.edu/content/academic-programs/nursing
+Dept==Nutritional and Metabolic Biology==http://gsas.columbia.edu/content/academic-programs/nutritional-and-metabolic-biology-phd
+Dept==Pathology and Molecular Medicine==http://gsas.columbia.edu/content/academic-programs/pathobiology-and-molecular-medicine
+Dept==Pharmacology and Molecular Signaling==http://gsas.columbia.edu/content/academic-programs/pharmacology-and-molecular-signaling
+Dept==Philosophy==http://gsas.columbia.edu/content/academic-programs/philosophy-phd
+Dept==Physics==http://gsas.columbia.edu/content/academic-programs/physics
+Dept==Political Science==http://gsas.columbia.edu/content/academic-programs/political-science-phd
+Dept==Psychology==http://gsas.columbia.edu/content/academic-programs/psychology
+Dept==Religion==http://gsas.columbia.edu/content/academic-programs/religion-phd
+Dept==Slavic Languages==http://gsas.columbia.edu/content/academic-programs/slavic-languages-phd
+Dept==Social Work==http://gsas.columbia.edu/content/academic-programs/social-work
+Dept==Sociology==http://gsas.columbia.edu/content/academic-programs/sociology-phd
+Dept==Sociomedical Sciences==http://gsas.columbia.edu/content/academic-programs/sociomedical-sciences
+Dept==Statistics==http://gsas.columbia.edu/content/academic-programs/statistics-phd
+Dept==Sustainable Development==http://gsas.columbia.edu/content/academic-programs/sustainable-development
+Dept==Theatre==http://gsas.columbia.edu/content/academic-programs/theatre
+Dept==Urban Planning==http://gsas.columbia.edu/content/academic-programs/urban-planning
+
+School==Barnard College ?==http://www.barnard.edu/
+Dept==Anthropology==http://anthropology.barnard.edu/department-anthropology
+Dept==Architecture==http://www.columbia.edu/cu/archprogram
+Dept==Art History==http://arthistory.barnard.edu/department-art-history
+Dept==Asian and Middle Eastern Cultures==http://amec.barnard.edu/node/705
+Dept==Africana Studies==http://africana.barnard.edu/africana-studies
+Dept==American Studies==http://americanstudies.barnard.edu/american-studies
+Dept==Athena Leadership Studies==http://athenacenter.barnard.edu/scholars-program
+Dept==Consortium of Critical Interdisciplinary Studies==http://ccis.barnard.edu/ccis
+
+School==Business ?==http://www4.gsb.columbia.edu/
+Dept==Accounting Division==http://www4.gsb.columbia.edu/accounting
+Dept==Management Division==http://www4.gsb.columbia.edu/management
+Dept==Competitive Strategy==http://www4.gsb.columbia.edu/strategy
+Dept==The Individual, Business, and Society Curriculum==http://www4.gsb.columbia.edu/leadership/curriculum
+Dept==Program on Social Intelligence==http://www4.gsb.columbia.edu/psi
+Dept==Decision, Risk, and Operations==http://www4.gsb.columbia.edu/dro
+Dept==Entrepreneurship==http://www4.gsb.columbia.edu/entrepreneurship
+Dept==Finance and Economics==http://www4.gsb.columbia.edu/finance
+Dept==Healthcare and Pharmaceutical Management==http://www4.gsb.columbia.edu/healthcare
+Dept==Executives in Residence Program==http://www4.gsb.columbia.edu/executives
+Dept==Program for Financial Studies==http://www4.gsb.columbia.edu/financialstudies
+Dept==Social Enterprise==http://www4.gsb.columbia.edu/socialenterprise
+Dept==Value Investing==http://www4.gsb.columbia.edu/valueinvesting
+Dept==Marketing Division==http://www4.gsb.columbia.edu/marketing
+Dept==Decision Making and Negotiations==http://www4.gsb.columbia.edu/decision-negotiation
+Dept==Master Classes==http://www4.gsb.columbia.edu/masterclasses
+Dept==Special Concentration in Business Management==http://www4.gsb.columbia.edu/undergraduate
+Dept==Media==http://www4.gsb.columbia.edu/media
+Dept==Private Equity==http://www4.gsb.columbia.edu/privateequity
+Dept==Real Estate==http://www4.gsb.columbia.edu/realestate
+
+School==Columbia College ?==http://www.college.columbia.edu/
+Dept==African Studies, Institute of==http://www.ias.columbia.edu/
+Dept==African-American Studies, Institute for Research in==http://www.columbia.edu/cu/iraas/
+Dept==American Studies Program==http://www.columbia.edu/cu/amstudies/
+Dept==Anthropology Department==http://www.columbia.edu/cu/anthropology/
+Dept==Architecture Department==http://www.columbia.edu/cu/archprogram/
+Dept==Art History and Archaeology Department==http://www.columbia.edu/cu/arthistory/
+Dept==Astronomy and Astrophysics Department==http://www.astro.columbia.edu/
+Dept==Biological Sciences Department==http://www.columbia.edu/cu/biology/
+Dept==Chemistry Department==http://www.columbia.edu/cu/chemistry/
+Dept==Classics Department==http://www.columbia.edu/cu/classics/
+Dept==Comparative Ethnic Studies==http://www.columbia.edu/cu/cser/
+Dept==Comparative Literature and Society, Institute for==http://www.columbia.edu/cu/icls/
+Dept==Computer Science Department==http://www.cs.columbia.edu/
+Dept==Earth and Environmental Sciences Department==http://eesc.columbia.edu/
+Dept==East Asian Languages and Cultures Department==http://www.columbia.edu/cu/ealac/
+Dept==Ecology, Evolution and Environmental Biology Department==http://www.columbia.edu/cu/e3b/
+Dept==Economics Department==http://www.columbia.edu/cu/economics/
+Dept==Education Program==http://education.barnard.edu/
+Dept==English and Comparative Literature Department==http://www.columbia.edu/cu/english/
+Dept==Film Division==http://arts.columbia.edu/film
+Dept==French and Romance Philology Department==http://www.columbia.edu/cu/french/
+Dept==Germanic Languages Department==http://www.columbia.edu/cu/german/
+Dept==History Department==http://www.columbia.edu/cu/history/
+Dept==Italian Department==http://www.columbia.edu/cu/italian/
+Dept==Latin American and Iberian Cultures Department==http://www.columbia.edu/cu/spanish/
+Dept==Mathematics Department==http://www.math.columbia.edu/
+Dept==Middle Eastern, South Asian, and African Studies Department==http://www.columbia.edu/cu/mesaas/
+Dept==Music Department==http://www.music.columbia.edu/
+Dept==Philosophy Department==http://www.columbia.edu/cu/philosophy/
+Dept==Physics Department==http://www.columbia.edu/cu/physics/
+Dept==Political Science Department==http://www.columbia.edu/cu/polisci/
+Dept==Psychology Department==http://www.columbia.edu/cu/psychology/
+Dept==Religion Department==http://www.columbia.edu/cu/religion/
+Dept==Slavic Languages Department==http://www.columbia.edu/cu/slavic/
+Dept==Sociology Department==http://www.sociology.columbia.edu/
+Dept==Statistics Department==http://www.stat.columbia.edu/
+Dept==Theatre Arts Division==http://arts.columbia.edu/theatre
+Dept==Urban Studies Program==http://www.barnard.edu/urban/
+Dept==Visual Arts Division==http://arts.columbia.edu/visual_arts
+Dept==Writing Division==http://arts.columbia.edu/writing
+
+School==Continuing Education ?==http://ce.columbia.edu/
+Dept==Postbaccalaureate Studies==http://ce.columbia.edu/postbaccalaureate-studies/information-sessions/08-08-13
+Dept==Sustainability Management==http://ce.columbia.edu/sustainability-management/information-sessions/08-13-13
+Dept==Negotiation and Conflict Resolution==http://ce.columbia.edu/negotiation-and-conflict-resolution/information-sessions/08-20-13
+Dept==Bioethics==http://ce.columbia.edu/bioethics/information-sessions/09-09-13
+Dept==Information and Knowledge Strategy==http://ce.columbia.edu/information-and-knowledge-strategy/information-sessions/09-10-13
+Dept==Sustainability Management==http://ce.columbia.edu/sustainability-management/information-sessions/09-10-13
+Dept==Sustainability Management==http://ce.columbia.edu/sustainability-management/information-sessions/09-16-13
+Dept==Strategic Communications==http://ce.columbia.edu/strategic-communications/information-sessions/09-17-13
+
+School==Dental Medicine ?==http://dental.columbia.edu/
+Dept==Section of Adult Dentistry==http://dental.columbia.edu/section/section-adult-dentistry
+Dept==Section of Growth and Development==http://dental.columbia.edu/section/section-growth-and-development
+Dept==Section of Hospital Dentistry==http://dental.columbia.edu/section/section-hospital-dentistry
+Dept==Section of Oral and Diagnostic Sciences==http://dental.columbia.edu/section/section-oral-and-diagnostic-sciences
+Dept==Social and Behavioral Sciences==http://dental.columbia.edu/section/section-social-and-behavioral-sciences
+
+School==Engineering ?==http://www.engineering.columbia.edu/
+Dept==Applied Physics and Applied Mathematics==http://apam.columbia.edu/doctoral-and-masters-programs
+Dept==Biomedical Engineering==http://bme.columbia.edu/graduate-studies
+Dept==Chemical Engineering==http://cheme.columbia.edu/graduate-program
+Dept==Civil Engineering and Engineering Mechanics==http://www.civil.columbia.edu/pages/academics/masters/index.html
+Dept==Computer Engineering Program==http://bulletin.engineering.columbia.edu/graduate-program-0
+Dept==Computer Science==http://www.cs.columbia.edu/education/ms
+Dept==Earth and Environmental Engineering==http://www.eee.columbia.edu/pages/academics/graduateprogram/index.html
+Dept==Electrical Engineering==http://www.ee.columbia.edu/pages/academics/graduate/index.html
+Dept==Industrial Engineering and Operations Research==http://ieor.columbia.edu/graduate-3
+Dept==Materials Science and Engineering Program==http://matsci.columbia.edu/materials-science-and-engineering-doctoral-and-masters-program_6657
+Dept==Mechanical Engineering==http://me.columbia.edu/graduate-programs
+
+School==Faculty of Arts & Sciences ?==http://www.columbia.edu/cu/vpas/
+
+School==General Studies ?==http://www.gs.columbia.edu/
+
+School==International & Public Affairs ?==http://sipa.columbia.edu/index.html
+Dept==Gender and Public Policy==http://sipa.columbia.edu/news-center/article/sipa-s-new-specialization-gender-and-public-policy
+Dept==Fixing India's Economy==http://ow.ly/nmmJi
+Dept==A Vital Asset==http://sipa.columbia.edu/experience-sipa/about-sipa/sipa-and-new-york-city
+Dept==Int?l Finance and Economic Policy==http://sipa.columbia.edu/academics/concentrations/international-finance-and-economic-policy
+
+School==Jewish Theological Seminary ?==http://www.jtsa.edu
+
+School==Journalism ?==http://www.journalism.columbia.edu
+Dept==Journalism & Business==null
+Dept==Journalism & Computer Science==null
+Dept==Journalism & International and Public Affairs==null
+Dept==Journalism & Law==null
+Dept==Journalism & Religion==http://www.journalism.columbia.edu/site_map
+
+School==Law ?==http://www.law.columbia.edu
+
+School==Nursing ?==http://cpmcnet.columbia.edu/dept/nursing/index.html
+
+School==Public Health ?==http://www.mailman.columbia.edu/
+Dept==ENVIRONMENTAL HEALTH SCIENCES==http://www.mailman.columbia.edu/academic-departments/environmental-health-sciences
+Dept==THE HEILBRUNN DEPARTMENT OF POPULATION & FAMILY HEALTH==http://www.mailman.columbia.edu/academic-departments/population-family-health
+Dept==EPIDEMIOLOGY==http://www.mailman.columbia.edu/academic-departments/epidemiology
+Dept==SOCIOMEDICAL SCIENCES==http://www.mailman.columbia.edu/academic-departments/sociomedical-sciences
+Dept==BIOSTATISTICS==http://www.mailman.columbia.edu/academic-departments/biostatistics
+Dept==HEALTH POLICY & MANAGEMENT==http://www.mailman.columbia.edu/academic-departments/health-policy-management
+
+School==Social Work ?==http://www.columbia.edu/cu/ssw/
+
+School==Teachers College ?==http://www.tc.columbia.edu/
+Dept==Arts & Humanities==mailto:ahofc@tc.columbia.edu
+Dept==Biobehavioral Sciences==mailto:ss928@columbia.edu
+Dept==Counseling & Clinical Psychology==mailto:tcinfo@tc.columbia.edu
+Dept==Curriculum & Teaching==mailto:smart-williams@tc.columbia.edu
+Dept==Education Policy and Social Analysis==mailto:epsa@tc.columbia.edu
+Dept==Health & Behavior Studies==mailto:stp4@columbia.edu
+Dept==Human Development==mailto:hud1@tc.columbia.edu
+Dept==International & Transcultural Studies==mailto:mowen@tc.columbia.edu
+Dept==Mathematics, Science, & Technology==mailto:tcmst@tc.columbia.edu
+Dept==Organization & Leadership==mailto:org&leadership@tc.edu
+
+School==Union Theological Seminary ?==http://www.utsnyc.edu/
+

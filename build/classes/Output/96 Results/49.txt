@@ -1,0 +1,94 @@
+49==http://www.purdue.edu/
+School==College of Agriculture==http://www.agriculture.purdue.edu
+
+School==College of Education==http://www.education.purdue.edu/
+Dept==Department of Curriculum & Instruction==http://www.edci.purdue.edu/
+Dept==Department of Educational Studies==http://www.edst.purdue.edu/
+Dept==Distance Education==null
+
+School==College of Engineering==https://engineering.purdue.edu/Engr/
+Dept==School of Aeronautics and Astronautics==https://engineering.purdue.edu/AAE/
+Dept==School of Agricultural and Biological Engineering==https://engineering.purdue.edu/ABE/
+Dept==Weldon School of Biomedical Engineering==https://engineering.purdue.edu/BME/
+Dept==School of Chemical Engineering==https://engineering.purdue.edu/ChE/
+Dept==School of Civil Engineering==https://engineering.purdue.edu/CE/
+Dept==Division of Construction Engineering and Management==https://engineering.purdue.edu/CEM/
+Dept==School of Electrical and Computer Engineering==https://engineering.purdue.edu/ECE/
+Dept==School of Engineering Education==https://engineering.purdue.edu/ENE/
+Dept==School of Industrial Engineering==https://engineering.purdue.edu/IE/
+Dept==School of Materials Engineering==https://engineering.purdue.edu/MSE/
+Dept==School of Mechanical Engineering==https://engineering.purdue.edu/ME/
+Dept==School of Nuclear Engineering==https://engineering.purdue.edu/NE/
+
+School==College of Health and Human Sciences==http://www.purdue.edu/hhs
+Dept==Consumer Science==http://www.purdue.edu/hhs/csr/graduate/index.php
+Dept==Health and Kinesiology==http://www.cla.purdue.edu/hk/graduate/
+Dept==Health Sciences==http://www.healthsciences.purdue.edu/academics/graduate/
+Dept==Hospitality and Tourism Management==http://www.cfs.purdue.edu/HTM/graduate/index.html
+Dept==Human Development and Family Studies==http://www.purdue.edu/hhs/hdfs/graduate/index.php
+Dept==Nursing==http://www.nursing.purdue.edu/academics/graduate/
+Dept==Nutrition Science==http://www.cfs.purdue.edu/gradnutrition/index.html
+Dept==Psychological Sciences==http://www.purdue.edu/hhs/psy/graduate/index.php
+Dept==Speech, Language, and Hearing Sciences==http://www.cla.purdue.edu/slhs/graduate/
+
+School==College of Liberal Arts==http://www.cla.purdue.edu
+Dept==African American Studies==http://www.cla.purdue.edu/african-american
+Dept==American Studies==http://www.cla.purdue.edu/american-studies
+Dept==Asian Studies==http://www.cla.purdue.edu/asian-studies
+Dept==Asian American Studies==http://www.cla.purdue.edu/asian-american
+Dept==Comparative Literature==http://www.cla.purdue.edu/complit
+Dept==Film and Video Studies==http://www.cla.purdue.edu/film-studies
+Dept==Global Studies==http://www.cla.purdue.edu/global-studies
+Dept==Jewish Studies==http://www.cla.purdue.edu/jewish-studies
+Dept==Latin American and Latino Studies==http://www.cla.purdue.edu/latin-american
+Dept==Linguistics==http://www.cla.purdue.edu/linguistics
+Dept==Medieval and Renaissance Studies==http://www.cla.purdue.edu/medieval-studies
+Dept==Peace Studies==http://www.cla.purdue.edu/peace-studies
+Dept==Philosophy and Literature==http://www.cla.purdue.edu/phil-lit
+Dept==Religious Studies==http://www.cla.purdue.edu/religious-studies
+Dept==Women's Studies==http://www.cla.purdue.edu/womens-studies
+
+School==Krannert School of Management==http://www.krannert.purdue.edu
+
+School==College of Pharmacy==http://www.pharmacy.purdue.edu/
+Dept==Department of Industrial and Physical Pharmacy==http://www.ipph.purdue.edu/
+Dept==Dept. of Medicinal Chemistry and Molecular Pharmacology==http://www.mcmp.purdue.edu/
+Dept==Department of Pharmacy Practice==http://www.phpr.purdue.edu/
+
+School==College of Science==http://www.science.purdue.edu
+Dept==Biological Sciences==http://www.bio.purdue.edu/about/index.htm
+Dept==Chemistry==http://www.chem.purdue.edu/about_us/index.asp
+Dept==Computer Sciences==http://www.cs.purdue.edu/about_us/welcome/
+Dept==Earth & Atmospheric Sciences==http://www.eas.purdue.edu/about/index.php
+Dept==Mathematics==http://www.math.purdue.edu/about/
+Dept==Physics==http://www.physics.purdue.edu/about_us/
+Dept==Statistics==http://www.stat.purdue.edu/about_us/
+
+School==College of Technology==http://www.tech.purdue.edu/
+
+School==College of Veterinary Medicine==http://www.vet.purdue.edu
+Dept==Basic Medical Sciences==http://www.vet.purdue.edu/bms/index.php
+Dept==Comparative Pathobiology==http://www.vet.purdue.edu/cpb/index.php
+Dept==Veterinary Clinical Sciences==http://www.vet.purdue.edu/vcs/index.php
+
+School==The Graduate School==http://www.gradschool.purdue.edu/
+Dept==Minority Engineering Program==https://engineering.purdue.edu/MEP/about/staff
+Dept==MANRRS-Purdue==http://www.agriculture.purdue.edu/manrrs
+Dept==Women in Physics==http://www.physics.purdue.edu/wip/why.shtml
+Dept==Diversity in Computer Science==http://www.cs.purdue.edu/about_us/diversity/
+
+School==Undergraduate Studies Program==http://www.purdue.edu/usp
+
+School==Honors College==http://www.purdue.edu/honorscollege
+Dept==College of Agriculture==http://www.agriculture.purdue.edu/oap/honorsprograms.asp
+Dept==College of Engineering==https://engineering.purdue.edu/ENE/SpecialPrograms/FirstYear/honors
+Dept==College of Liberal Arts==http://www.cla.purdue.edu/academics/honors/
+Dept==College of Science==http://www.science.purdue.edu/current_students/your_degree/honors_program.asp
+
+School==Pre-Medical and Other Pre-Professional Programs==http://www.purdue.edu/prehealth/
+
+School==IU School of Medicine ? Lafayette==http://lafayette.medicine.iu.edu/
+Dept==Other?degree-granting programs at the IU School of Medicine==http://grad.medicine.iu.edu/
+Dept==Other health-related schools at Indiana University==http://www.shrs.iupui.edu/
+Dept==Academic Resources==http://cme.medicine.iu.edu/
+

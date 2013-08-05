@@ -1,0 +1,62 @@
+80==http://www.asu.edu/
+School==Business==http://wpcarey.asu.edu/
+Dept==Accountancy==http://wpcarey.asu.edu/accounting/index.cfm
+Dept==Economics==http://wpcarey.asu.edu/economics-degree/index.cfm
+Dept==Finance==http://wpcarey.asu.edu/finance/index.cfm
+Dept==Information Systems==http://wpcarey.asu.edu/information-systems/index.cfm
+Dept==Management==http://wpcarey.asu.edu/management-degree/index.cfm
+Dept==Marketing==http://wpcarey.asu.edu/marketing/index.cfm
+Dept==Supply Chain Management==http://wpcarey.asu.edu/supply-chain-management/index.cfm
+
+School==Design and the Arts==http://herbergerinstitute.asu.edu
+Dept==Music==http://design.asu.edu
+Dept==Architecture + Landscape Architecture==http://art.asu.edu
+Dept==ASU Art Museum==http://gallery.digitalculture.asu.edu/
+Dept==Digital Culture==null
+Dept==X-square==http://www.asu.edu/copyright/
+
+School==Education==http://education.asu.edu/
+
+School==Engineering==http://engineer.asu.edu/
+
+School==Graduate==http://graduate.asu.edu
+
+School==Health Solutions==https://chs.asu.edu/
+
+School==Honors==http://honors.asu.edu/
+
+School==Journalism==http://cronkite.asu.edu
+
+School==Law==http://www.law.asu.edu/
+
+School==Nursing and Health Innovation==http://nursingandhealth.asu.edu/
+
+School==Public Programs==http://copp.asu.edu
+Dept==Urban & Metropolitan Studies, B.A.\B.S.==http://spa.asu.edu/programs/undergraduate/ums
+Dept==Public Service and Public Policy, B.S. (new!)==http://spa.asu.edu/programs/undergraduate/pspp/pspp/
+Dept==Tourism Development & Management==http://scrd.asu.edu/programs/undergraduate-programs-1/tourism-development-and-management/tdm-minor
+Dept==Special Events Management==http://scrd.asu.edu/programs/undergraduate-programs-1/parks-recreation-management-prm/special-event-management-minor
+Dept==Criminology & Criminal Justice==http://ccj.asu.edu
+Dept==Urban & Metropolitan Studies==http://spa.asu.edu/programs/undergraduate/ums/minor
+Dept==Social Welfare==https://webapp4.asu.edu/programs/t5/majorinfo/ASU00/LASSWMIN/undergrad/true
+Dept==Urban & Metropolitan Studies==http://spa.asu.edu/programs/undergraduate/ums/bis_concentration
+
+School==Sustainability==http://schoolofsustainability.asu.edu
+Dept==Complex Adaptive Systems==null
+Dept==Business==null
+Dept==Environmental Design and Planning==null
+Dept==Urban and Environmental Planning==null
+Dept==Designing the Built Environment==null
+Dept==Engineering==null
+Dept==Applied Ethics and the Professions==null
+Dept==Environmental Social Sciences==null
+Dept==Environmental Humanities==null
+Dept==Community Development==null
+Dept==Public Affairs==null
+Dept==Law==null
+Dept==Social Justice==mailto:bryan.barker@asu.edu?subject=GIOS Webmaster email
+
+School==Technology and Innovation==http://technology.poly.asu.edu/
+
+School==University (Exploratory)==http://uc.asu.edu/
+

@@ -1,0 +1,110 @@
+54==http://www.virginia.edu/
+School==School of Architecture==http://www.arch.virginia.edu/
+Dept==Architecture==http://www.arch.virginia.edu/academics/disciplines/architecture
+Dept==Architectural History==http://www.arch.virginia.edu/academics/disciplines/history
+Dept==Landscape Architecture ==http://www.arch.virginia.edu/academics/disciplines/landscape
+Dept==Urban and Environmental Planning==http://www.arch.virginia.edu/academics/disciplines/planning
+
+School==College and Graduate School of Arts & Sciences==http://artsandsciences.virginia.edu/
+Dept==African American & African Studies==http://www.virginia.edu/woodson/
+Dept==American Studies==http://www.virginia.edu/americanstudies/
+Dept==Anthropology==http://www.virginia.edu/anthropology/
+Dept==Art & Architectural History==http://www.virginia.edu/art/artarch/
+Dept==Art History==http://www.virginia.edu/art/arthistory/
+Dept==Art, Studio==http://www.virginia.edu/art/studio/
+Dept==Asian Pacific American Studies==http://www.virginia.edu/americanstudies/apas/
+Dept==Astronomy==http://www.astro.virginia.edu/
+Dept==Astronomy-Physics==null
+Dept==Bioethics==http://www.healthsystem.virginia.edu/internet/bio-ethics/
+Dept==Bioethics==http://bioethics.virginia.edu/
+Dept==Biology==http://www.virginia.edu/biology/
+Dept==Biomedical Sciences==http://www.healthsystem.virginia.edu/internet/bims/
+Dept==Chemistry==http://www.virginia.edu/chem/
+Dept==Classics==http://www.virginia.edu/classics/
+Dept==Clinical Research==http://www.healthsystem.virginia.edu/internet/phs/ms/mshome.cfm
+Dept==Cognitive Science==http://www.virginia.edu/cognitivescience/
+Dept==Comparative Literature==http://www.virginia.edu/complit/
+Dept==Computer Science==http://www.cs.virginia.edu/ba/
+Dept==Creative Writing==http://www.engl.virginia.edu/creativewriting/
+Dept==Dance==http://www.virginia.edu/drama/danceminor.htm
+Dept==Drama==http://www.virginia.edu/drama/
+Dept==East Asian Languages and Literatures==http://www.virginia.edu/deallc/
+Dept==Echols Scholars Program==http://artsandsciences.virginia.edu/echols/
+Dept==Economics==http://artsandsciences.virginia.edu/economics/
+Dept==English==http://www.engl.virginia.edu/
+Dept==Environmental Sciences==http://www.evsc.virginia.edu/
+Dept==Environmental Thought & Practice==http://www.virginia.edu/etp/
+Dept==Film Studies==http://www.virginia.edu/mediastudies/
+Dept==French Language & Literature==http://www.virginia.edu/french/
+Dept==German Languages & Literatures==http://www.virginia.edu/german/
+Dept==Global Culture and Commerce==http://www.virginia.edu/anthropology/minorcom.html
+Dept==Global Development Studies==http://artsandsciences.virginia.edu/globaldevelopment/
+Dept==Global Public Health==http://www.healthsystem.virginia.edu/internet/phs/phpp/globalpublichealthminor.cfm
+Dept==History==http://www.virginia.edu/history/
+Dept==Human Biology==http://www.virginia.edu/humanbiology/
+Dept==Interdisciplinary Major Program==http://artsandsciences.virginia.edu/college/imp/
+Dept==Italian==http://spanitalport.virginia.edu/italian-program
+Dept==Jewish Studies==http://www.virginia.edu/jewishstudies/
+Dept==Latin American Studies==http://www.virginia.edu/latinamerican/
+Dept==Linguistics==http://artsandsciences.virginia.edu/linguistics/
+Dept==Mathematics==http://www.math.virginia.edu/
+Dept==Media Studies==http://mediastudies.virginia.edu
+Dept==Medieval Studies==http://www.virginia.edu/medievalstudies/
+Dept==Middle Eastern and South Asian Languages and Cultures==http://www.virginia.edu/mesa/
+Dept==Music==http://www.virginia.edu/music/
+Dept==Neuroscience==http://www.faculty.virginia.edu/neuroscience/
+Dept==Nursing==http://www.nursing.virginia.edu/programs/
+Dept==Philosophy==http://www.virginia.edu/philosophy/
+Dept==Physics==http://www.phys.virginia.edu/
+Dept==Political & Social Thought==http://www.virginia.edu/pst/
+Dept==Political Philosophy, Policy, & Law==http://www.virginia.edu/ppl/
+Dept==Politics==http://www.virginia.edu/politics/
+Dept==Portuguese==http://www.virginia.edu/span-ital-port/portuguese/index
+Dept==Psychology==http://www.virginia.edu/psychology/
+Dept==Public Health==http://www.healthsystem.virginia.edu/internet/phs/mph/mphprogramdescription.cfm
+Dept==Religious Studies==http://www.virginia.edu/religiousstudies/
+Dept==Slavic Languages & Literatures==http://www.virginia.edu/slavic/
+Dept==Sociology==http://www.virginia.edu/sociology/
+Dept==Spanish==http://www.virginia.edu/span-ital-port/spanish/index
+Dept==Statistics==http://www.stat.virginia.edu/
+Dept==Women, Gender & Sexuality==http://www.virginia.edu/womenstudies/
+Dept==Teacher Education BA/MT, BS/MT Program==http://artsandsciences.virginia.edu/college/teachered/
+
+School==McIntire School of Commerce==http://www.commerce.virginia.edu/
+
+School==School of Continuing & Professional Studies==http://www.scps.virginia.edu/
+Dept==Arts & Sciences==http://www.scps.virginia.edu/interests/c-interest-arts-sciences
+Dept==Business & Management==http://www.scps.virginia.edu/interests/c-interest-business
+Dept==Communications==http://www.scps.virginia.edu/interests/c-interest-communications
+Dept==Criminal Justice==http://www.scps.virginia.edu/interests/c-interest-criminal-justice
+Dept==Engineering & Applied Science==http://www.scps.virginia.edu/interests/c-interest-engineering
+Dept==Foreign Language==http://www.scps.virginia.edu/interests/c-interest-language
+Dept==Information Technology==http://www.scps.virginia.edu/interests/c-interest-technology
+Dept==K-12 Teacher & Adult Education==http://www.scps.virginia.edu/interests/c-interest-education
+Dept==Pre-Health Sciences==http://www.scps.virginia.edu/interests/c-interest-health
+Dept==Social Sciences==http://www.scps.virginia.edu/interests/c-interest-social-sciences
+
+School==Darden School of Business==http://www.darden.virginia.edu/
+Dept==Leadership and Change==http://www.darden.virginia.edu/web/Executive-Education/Open-Enrollment-Program/Leadership-and-Change/Home/
+Dept==General Management==http://www.darden.virginia.edu/web/Executive-Education/Open-Enrollment-Program/General-Management/Home/
+Dept==Decision Making==http://www.darden.virginia.edu/web/Executive-Education/Open-Enrollment-Program/Decision-Making/Home/
+Dept==Financial Management==http://www.darden.virginia.edu/web/Executive-Education/Open-Enrollment-Program/Finance/Home/
+Dept==Marketing and Sales==http://www.darden.virginia.edu/web/Executive-Education/Open-Enrollment-Program/Marketing-and-Sales/Home/
+Dept==Negotiation==http://www.darden.virginia.edu/web/Executive-Education/Open-Enrollment-Program/Negotiation/Home/
+Dept==Strategy==http://www.darden.virginia.edu/web/Executive-Education/Open-Enrollment-Program/Strategy/Home/
+
+School==Curry School of Education==http://curry.virginia.edu/
+
+School==School of Engineering and Applied Science==http://www.seas.virginia.edu/
+Dept==Biomedical==http://bme.virginia.edu/
+Dept==Chemical==http://www.che.virginia.edu/
+Dept==Civil & Environmental==http://ce.virginia.edu/
+Dept==Computer Science==http://www.cs.virginia.edu/
+Dept==Electrical & Computer==http://www.ee.virginia.edu/
+Dept==Engineering and Society==http://www.eands.virginia.edu/eands/
+Dept==Materials Science & Engineering==http://www.virginia.edu/ms/
+Dept==Mechanical & Aerospace==http://www.mae.virginia.edu/
+Dept==Systems & Information==http://www.sys.virginia.edu/
+
+School==Frank Batten School of Leadership and Public Policy==http://batten.virginia.edu/
+

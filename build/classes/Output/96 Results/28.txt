@@ -1,0 +1,46 @@
+28==http://web.mit.edu/
+School==School of Architecture and Planning==http://sap.mit.edu
+
+School==School of Engineering==http://engineering.mit.edu/
+Dept==Aeronautics and Astronautics==http://engineering.mit.edu/research/departments/aeroastro.php
+Dept==Biological Engineering==http://engineering.mit.edu/research/departments/be.php
+Dept==Chemical Engineering==http://engineering.mit.edu/research/departments/cheme.php
+Dept==Civil and Environmental Engineering==http://engineering.mit.edu/research/departments/cee.php
+Dept==Electrical Engineering and Computer Science==http://engineering.mit.edu/research/departments/eecs.php
+Dept==Engineering Systems Division==http://engineering.mit.edu/research/departments/esd.php
+Dept==Materials Science and Engineering==http://engineering.mit.edu/research/departments/dmse.php
+Dept==Mechanical Engineering==http://engineering.mit.edu/research/departments/meche.php
+Dept==Nuclear Science and Engineering==http://engineering.mit.edu/research/departments/nse.php
+Dept==Flexible Degree Program==http://engineering.mit.edu/education/engineeringdegree.php
+Dept==Aeronautics and Astronautics==http://engineering.mit.edu/education/undergraduate/aeroastro.php
+Dept==Biological Engineering==http://engineering.mit.edu/education/undergraduate/be.php
+Dept==Chemical Engineering==http://engineering.mit.edu/education/undergraduate/cheme.php
+Dept==Civil and Environmental Engineering==http://engineering.mit.edu/education/undergraduate/cee.php
+Dept==Electrical Engineering and Computer Science==http://engineering.mit.edu/education/undergraduate/eecs.php
+Dept==Materials Science and Engineering==http://engineering.mit.edu/education/undergraduate/dmse.php
+Dept==Mechanical Engineering==http://engineering.mit.edu/education/undergraduate/meche.php
+Dept==Nuclear Science and Engineering==http://engineering.mit.edu/education/undergraduate/nse.php
+Dept==Aeronautics and Astronautics==http://engineering.mit.edu/education/graduate/aeroastro.php
+Dept==Biological Engineering==http://engineering.mit.edu/education/graduate/be.php
+Dept==Chemical Engineering==http://engineering.mit.edu/education/graduate/cheme.php
+Dept==Civil and Environmental Engineering==http://engineering.mit.edu/education/graduate/cee.php
+Dept==Computation for Design and Optimization==http://engineering.mit.edu/education/graduate/cdo.php
+Dept==Computational and Systems Biology==http://engineering.mit.edu/education/graduate/csb.php
+Dept==Electrical Engineering and Computer Science==http://engineering.mit.edu/education/graduate/eecs.php
+Dept==Engineering Systems==http://engineering.mit.edu/education/graduate/esd.php
+Dept==Health Sciences and Technology==http://engineering.mit.edu/education/graduate/hst.php
+Dept==Leaders for Global Operations==http://engineering.mit.edu/education/graduate/lgo.php
+Dept==Materials Science and Engineering==http://engineering.mit.edu/education/graduate/dmse.php
+Dept==Mechanical Engineering==http://engineering.mit.edu/education/graduate/meche.php
+Dept==Nuclear Science and Engineering==http://engineering.mit.edu/education/graduate/nse.php
+Dept==Polymer Science and Technology==http://engineering.mit.edu/education/graduate/pst.php
+Dept==System Design and Management==http://engineering.mit.edu/education/graduate/sdm.php
+
+School==School of Humanities, Arts, and Social Sciences==http://shass.mit.edu/
+
+School==Sloan School of Management==http://mitsloan.mit.edu/
+
+School==School of Science==http://web.mit.edu/science/
+
+School==Whitaker College of Health Sciences and Technology==http://hst.mit.edu/
+

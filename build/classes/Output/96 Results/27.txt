@@ -1,0 +1,62 @@
+27==http://www.cmu.edu/index.shtml
+School==Carnegie Institute of Technology (College of Engineering)==http://www.cit.cmu.edu/
+Dept==Biomedical Engineering==http://www.bme.cmu.edu/
+Dept==Carnegie Mellon University in Rwanda==http://www.cmu.edu/rwanda
+Dept==Carnegie Mellon Silicon Valley==http://www.cmu.edu/silicon-valley/
+Dept==Chemical Engineering==http://www.cheme.cmu.edu/
+Dept==Civil & Environmental Engineering==http://www.ce.cmu.edu/
+Dept==Electrical & Computer Engineering==http://www.ece.cmu.edu/
+Dept==Engineering & Public Policy==http://www.epp.cmu.edu/
+Dept==Information Networking Institute==http://www.ini.cmu.edu/
+Dept==Institute for Complex Engineered Systems==http://www.ices.cmu.edu/
+Dept==Materials Science & Engineering==http://www.materials.cmu.edu/
+Dept==Mechanical Engineering==http://www.cmu.edu/me/
+
+School==College of Fine Arts==http://www.cfa.cmu.edu/
+
+School==Dietrich College of Humanities and Social Sciences==http://www.hss.cmu.edu/
+Dept==Dean's Office==http://www.hss.cmu.edu/hssdeansoffice.html
+Dept==Economics==http://www.tepper.cmu.edu/undergraduate-economics/index.aspx
+Dept==English==http://english.cmu.edu/
+Dept==History==http://www.hss.cmu.edu/departments/history/
+Dept==Modern Languages==http://ml.hss.cmu.edu/ml/
+Dept==Philosophy==http://www.hss.cmu.edu/philosophy/
+Dept==Psychology==http://www.psy.cmu.edu/
+Dept==Social and Decision Sciences==http://www.hss.cmu.edu/departments/sds/
+Dept==Statistics==http://www.stat.cmu.edu/
+Dept==African and African American Studies==http://www.history.cmu.edu/aaas/
+Dept==Bachelor of Humanities and Arts (BHA)==http://www.cmu.edu/interdisciplinary/
+Dept==Economics and Statistics==http://www.tepper.cmu.edu/undergraduate-economics/curricula/majors-in-economics/bs-in-economics-and-statistics/index.aspx
+Dept==Environmental Policy==http://education.andrew.cmu.edu/environment/View%20Majors%20And%20Minors.php
+Dept==Ethics, History and Public Policy==http://www.cmu.edu/hss/ehpp/
+Dept==European Studies==http://ml.hss.cmu.edu/ml/undergrad-eurostudies.html
+Dept==Global Studies==http://www.cmu.edu/hss/globalstudies/
+Dept==Humanities Scholars Program==http://www.hss.cmu.edu/hsp/
+Dept==Information Systems==http://is.hss.cmu.edu/
+Dept==International Relations and Politics Program==http://www.cmu.edu/ir/
+Dept==Linguistics==http://www.hss.cmu.edu/philosophy/undergraduate-linguistics.php
+Dept==Office of Undergraduate Studies==http://hss.cmu.edu/officeundergradstudies.html
+Dept==Quantitative Social Science Scholars Program==http://www.hss.cmu.edu/qsss/
+Dept==Russian Studies==http://ml.hss.cmu.edu/ml/undergrad-russianstudies.html
+Dept==Science and Humanities Scholars Program==http://www.cmu.edu/shs/
+
+School==Tepper School of Business==http://www.tepper.cmu.edu/
+
+School==H. John Heinz III College (Public Policy & Information Systems)==http://www.heinz.cmu.edu
+
+School==Mellon College of Science==http://www.cmu.edu/mcs
+Dept==Department of Biological Sciences==http://www.cmu.edu/bio/
+Dept==Department of Chemistry==http://www.chem.cmu.edu/
+Dept==Department of Mathematical Sciences==http://www.math.cmu.edu/
+Dept==Department of Physics==http://www.cmu.edu/physics
+
+School==School of Computer Science==http://www.scs.cmu.edu/
+Dept==Computer Science Department==http://www.csd.cs.cmu.edu/
+Dept==Human-Computer Interaction Inst==http://www.hcii.cs.cmu.edu/
+Dept==Institute for Software Research==http://www.isri.cmu.edu/
+Dept==Lane Ctr for Computational Biology==http://lane.compbio.cmu.edu/
+Dept==Language Technologies Institute==http://www.lti.cs.cmu.edu/
+Dept==Machine Learning Department==http://www.ml.cmu.edu/
+Dept==Robotics Institute==http://www.ri.cmu.edu/
+Dept==Entertainment Technology Center==http://www.etc.cmu.edu/
+

@@ -1,0 +1,82 @@
+62==http://www1.umn.edu/twincities/index.html
+School==Allied Health Programs==http://www.cahp.umn.edu/
+
+School==Biological Sciences==http://www.cbs.umn.edu/
+Dept==Biochemistry, Molecular Biology and Biophysics (BMBB)==http://www.cbs.umn.edu/BMBB
+Dept==Biology Program==http://www.cbs.umn.edu/bioprog
+Dept==BioTechnology Institute==http://www.bti.umn.edu/
+Dept==Genetics, Cell Biology and Development (GCD)==http://www.gcd.umn.edu/
+Dept==Ecology, Evolution and Behavior (EEB)==http://www.cbs.umn.edu/eeb
+Dept==Microbiology==http://www.microbiology.med.umn.edu/
+Dept==Neuroscience==http://www.neurosci.umn.edu/
+Dept==Plant Biology (PBIO)==http://www.cbs.umn.edu/plantbio
+
+School==Continuing Education==http://www.cce.umn.edu/index.html
+
+School==Dentistry==http://www.dentistry.umn.edu/
+
+School==Design==http://www.design.umn.edu/
+Dept==Product Design==http://product.design.umn.edu/
+Dept==Museum Studies==http://design.umn.edu/prospective_students/programs/museumstudies.html
+Dept==Architecture==http://www.design.umn.edu/prospective_students/programs/arch_minor.html
+Dept==Design==http://www.design.umn.edu/prospective_students/programs/designminor.html
+Dept==Fashion Studies==http://www.design.umn.edu/prospective_students/programs/fashionstudiesminor.html
+Dept==Housing Studies==http://www.design.umn.edu/prospective_students/programs/housingminor.html
+Dept==Landscape Design & Planning==http://www.design.umn.edu/prospective_students/programs/envtminor.html
+Dept==Product Design==http://www.design.umn.edu/prospective_students/programs/productdesign_ug.html
+Dept==Retail Merchandising==http://www.design.umn.edu/prospective_students/programs/retailminor.html
+
+School==Education and Human Development==http://www.cehd.umn.edu/
+Dept==Curriculum and Instruction==http://www.cehd.umn.edu/CI/
+Dept==Educational Psychology==http://www.cehd.umn.edu/EdPsych/
+Dept==Family Social Science==http://www.cehd.umn.edu/FSoS/
+Dept==Institute of Child Development==http://www.cehd.umn.edu/icd/
+Dept==Kinesiology==http://www.cehd.umn.edu/Kin/
+Dept==Organizational Leadership, Policy, and Development==http://www.cehd.umn.edu/olpd/
+Dept==Postsecondary Teaching and Learning==http://www.cehd.umn.edu/PSTL/
+Dept==Social Work==http://www.cehd.umn.edu/SSW/
+
+School==Extension==http://www.extension.umn.edu/
+
+School==Food, Agricultural and Natural Resource Sciences==http://www.cfans.umn.edu/
+
+School==Graduate School==http://www.grad.umn.edu/
+
+School==Academic Health Center==http://www.ahc.umn.edu/research/
+
+School==Biological Sciences==http://www.cbs.umn.edu/facres
+Dept==Biochemistry Molecular Biology, and Biophysics==http://www.cbs.umn.edu/bmbb/about/faculty
+Dept==Biology==http://www.cbs.umn.edu/bioprog/contact
+Dept==Ecology Evolution, and Behavior==http://www.cbs.umn.edu/eeb/faculty-research/directory
+Dept==Genetics, Cell Biology and Development==http://www.gcd.umn.edu/html/faculty.html
+Dept==Plant Biology==http://www.cbs.umn.edu/plantbio/faculty
+Dept==Microbiology==http://www.med.umn.edu/microbiology/faculty/home.html
+Dept==Neuroscience==http://www.neurosci.umn.edu/faculty.html
+
+School==Design==http://www.design.umn.edu/outreach/
+Dept==Sustainability and social justice==null
+Dept==Digital design and fabrication==null
+Dept==Urban, rural, metropolitan, and regional design==null
+Dept==Heritage conservation and preservation==null
+Dept==Design and health==null
+Dept==Product and innovation design==http://www.design.umn.edu/about/news/from_dean_fisher/index.html
+
+School==Education and Human Development==http://www.cehd.umn.edu/research/default.html
+Dept==Early Education & Development==http://www.cehd.umn.edu/professional-development/ceed.html
+Dept==Education Policy & Administration==http://www.cehd.umn.edu/professional-development/policyadmin.html
+Dept==K-12 Educators==http://www.cehd.umn.edu/professional-development/edrc.html
+Dept==Social Work==http://www.cehd.umn.edu/professional-development/socialwork.html
+Dept==Urban Leadership Academy==http://www.cehd.umn.edu/professional-development/ula.html
+Dept==Summer Professional Development==http://www.cehd.umn.edu/professional-development/summer.html
+
+School==Commercialize technology==http://www.research.umn.edu/techcomm/
+Dept==Agriculture & Horticulture==http://www.research.umn.edu/techcomm/agriculture-horticulture.html
+Dept==Engineering & Physical Sciences==http://www.research.umn.edu/techcomm/engineering-physical-sciences.html
+Dept==Life Sciences==http://www.research.umn.edu/techcomm/life-sciences.html
+Dept==Software & Information Technology==http://www.research.umn.edu/techcomm/software-information-technology.html
+Dept==Venture Center (start-ups)==http://www.research.umn.edu/techcomm/venture-center.html
+
+School==Find a research center, institute, or program==http://www1.umn.edu/twincities/centers/index.html
+
+School==Office of the Vice President for Research==http://www.research.umn.edu/
+

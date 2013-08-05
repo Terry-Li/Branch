@@ -1,0 +1,103 @@
+35==http://www.utexas.edu/
+School==Cockrell School of Engineering==http://www.engr.utexas.edu
+Dept==Aerospace Engineering & Engineering Mechanics==http://www.engr.utexas.edu/programs/aerospace
+Dept==Biomedical Engineering==http://www.engr.utexas.edu/programs/biomedical
+Dept==Chemical Engineering==http://www.engr.utexas.edu/programs/chemical
+Dept==Civil, Architectural & Environmental Engineering==http://www.engr.utexas.edu/programs/civil
+Dept==Electrical & Computer Engineering==http://www.engr.utexas.edu/programs/electrical
+Dept==Mechanical Engineering==http://www.engr.utexas.edu/programs/mechanical
+Dept==Petroleum & Geosystems Engineering==http://www.engr.utexas.edu/programs/petroleum
+
+School==College of Communication==http://communication.utexas.edu
+Dept==Advertising and Public Relations==http://advertising.utexas.edu
+Dept==Communication Sciences and Disorders==http://csd.utexas.edu
+Dept==Communication Studies==http://commstudies.utexas.edu
+Dept==Journalism==http://journalism.utexas.edu
+Dept==Radio-Television-Film==http://rtf.utexas.edu
+
+School==College of Education==http://www.edb.utexas.edu/education/
+Dept==Curriculum and Instruction==http://www.edb.utexas.edu/education/departments/ci/
+Dept==Educational Psychology==http://www.edb.utexas.edu/education/departments/edp/
+Dept==Educational Administration==http://www.edb.utexas.edu/education/departments/eda/
+Dept==Kinesiology and Health Education==http://www.edb.utexas.edu/education/departments/khe/
+Dept==Special Education==http://www.edb.utexas.edu/education/departments/sped/
+Dept==Undergraduate Programs==http://www.edb.utexas.edu/education/departments/undergrad/
+
+School==College of Fine Arts==http://www.utexas.edu/finearts/
+Dept==Department of Art & Art History==http://www.utexas.edu/finearts/aah
+Dept==Butler School of Music==http://www.music.utexas.edu/
+Dept==Department of Theatre & Dance==http://www.utexas.edu/finearts/tad
+Dept==Texas Performing Arts==http://www.texasperformingarts.org
+Dept==Landmarks==http://landmarks.utexas.edu/
+
+School==College of Liberal Arts==http://www.utexas.edu/cola/
+Dept==Children & Society==null
+Dept==Cultural Studies==null
+Dept==Digital Arts & Media==null
+Dept==Environment==null
+Dept==Ethics & Leadership==null
+Dept==Film Studies==null
+Dept==Human Rights & Social Justice==null
+Dept==Innovation, Creativity, and Entrepreneurship==null
+Dept==International Studies==null
+Dept==Social Entrepreneurship & Non-profits==null
+Dept==Social Inequality, Health, & Policy==http://www.utexas.edu/cola/student-affairs/undergrad/urprograms/Undergraduate-Research-Apprenticeship-Program.php
+
+School==College of Natural Sciences==http://www.cns.utexas.edu
+Dept==Astronomy==http://www.as.utexas.edu/
+Dept==Biological Sciences==http://www.biosci.utexas.edu/
+Dept==Chemistry & Biochemistry==http://www.cm.utexas.edu/
+Dept==Computer Science==http://www.cs.utexas.edu/
+Dept==Human Ecology==http://www.he.utexas.edu
+Dept==Marine Science==http://www.utmsi.utexas.edu/
+Dept==Mathematics==http://www.ma.utexas.edu
+Dept==Physics==http://www.ph.utexas.edu/
+Dept==Statistics & Scientific Computation==http://ssc.utexas.edu/
+
+School==College of Pharmacy==http://www.utexas.edu/pharmacy/
+
+School==Dell Medical School==http://www.utexas.edu/dell-medical-school
+
+School==Graduate School==http://www.utexas.edu/ogs/
+
+School==Jackson School of Geosciences==http://www.jsg.utexas.edu
+
+School==Lyndon B. Johnson School of Public Affairs==http://www.utexas.edu/lbj/
+
+School==McCombs School of Business==http://www.mccombs.utexas.edu
+Dept==Accounting==http://www.mccombs.utexas.edu/Departments/Accounting.aspx
+Dept==Business, Government & Society==http://www.mccombs.utexas.edu/Departments/BGS.aspx
+Dept==Finance==http://www.mccombs.utexas.edu/Departments/Finance.aspx
+Dept==Information, Risk, & Operations Management==http://www.mccombs.utexas.edu/Departments/IROM.aspx
+Dept==Management==http://www.mccombs.utexas.edu/Departments/Management.aspx
+Dept==Marketing==http://www.mccombs.utexas.edu/Departments/Marketing.aspx
+
+School==School of Architecture==http://www.soa.utexas.edu
+
+School==School of Information==http://www.ischool.utexas.edu
+
+School==School of Law==http://www.utexas.edu/law/
+Dept==Business==http://www.utexas.edu/law/academics/degrees/llm/concentration/business.php
+Dept==Global Energy, International Arbitration, and Environmental Law==http://www.utexas.edu/law/academics/degrees/llm/concentration/energy_arbitration_environment.php
+Dept==Intellectual Property==http://www.utexas.edu/law/academics/degrees/llm/concentration/intellectual_property.php
+Dept==Latin America and International Law==http://www.utexas.edu/law/academics/degrees/llm/concentration/latin_america_international_law.php
+Dept==U.S. Law for Foreign Lawyers==http://www.utexas.edu/law/academics/degrees/llm/concentration/us_law.php
+
+School==School of Nursing==http://www.utexas.edu/nursing/
+
+School==School of Social Work==http://www.utexas.edu/ssw/
+
+School==School of Undergraduate Studies==http://www.utexas.edu/ugs/
+Dept==Children & Society==http://www.utexas.edu/ugs/bdp/programs/cs
+Dept==Conflict Resolution & Peace Studies==http://www.utexas.edu/ugs/bdp/programs/crps
+Dept==Cultural Studies==http://www.utexas.edu/ugs/bdp/programs/cul
+Dept==Digital Arts & Media==http://www.utexas.edu/ugs/bdp/programs/dam
+Dept==Environment==http://www.utexas.edu/ugs/bdp/programs/env
+Dept==Ethics & Leadership==http://www.utexas.edu/ugs/bdp/programs/el
+Dept==Film Studies==http://www.utexas.edu/ugs/bdp/programs/fs
+Dept==Global Studies==http://www.utexas.edu/ugs/bdp/programs/gs
+Dept==Human Rights & Social Justice==http://www.utexas.edu/ugs/bdp/programs/hrsj
+Dept==Innovation, Creativity, & Entrepreneurship==http://www.utexas.edu/ugs/bdp/programs/ice
+Dept==Social Entrepreneurship & Non-Profits==http://www.utexas.edu/ugs/bdp/programs/sen
+Dept==Social Inequality, Health & Policy==http://www.utexas.edu/ugs/bdp/programs/sihp
+

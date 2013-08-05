@@ -1,0 +1,141 @@
+53==http://www.duke.edu/
+School==Trinity College of Arts & Sciences==http://trinity.duke.edu/
+Dept==Communications==http://trinity.duke.edu/communications
+Dept==Development==http://trinity.duke.edu/development
+Dept==Facilities Support==http://trinity.duke.edu/facilities
+Dept==Finance & Administration==http://trinity.duke.edu/finance
+Dept==Trinity Technology Services==http://trinity.duke.edu/technology
+
+School==Divinity School==http://www.divinity.duke.edu/
+
+School==Fuqua School of Business==http://www.fuqua.duke.edu/
+
+School==The Graduate School==http://gradschool.duke.edu/
+Dept==Art, Art History and Visual Studies==http://gradschool.duke.edu/depts_progs/degree_progs/ah.php
+Dept==Biochemistry==http://gradschool.duke.edu/depts_progs/degree_progs/biochemistry.php
+Dept==Biological and Biologically Inspired Materials**==http://gradschool.duke.edu/depts_progs/degree_progs/bbim.php
+Dept==Biology==http://gradschool.duke.edu/depts_progs/degree_progs/biology.php
+Dept==Biomedical Engineering==http://gradschool.duke.edu/depts_progs/degree_progs/bme.php
+Dept==Business Administration==http://gradschool.duke.edu/depts_progs/degree_progs/ba.php
+Dept==Cell and Molecular Biology**==http://gradschool.duke.edu/depts_progs/certificate/cmb.php
+Dept==Cell Biology==http://gradschool.duke.edu/depts_progs/degree_progs/cb.php
+Dept==Chemistry==http://gradschool.duke.edu/depts_progs/degree_progs/chemistry.php
+Dept==Civil and Environmental Engineering==http://gradschool.duke.edu/depts_progs/degree_progs/cee.php
+Dept==Classical Studies==http://gradschool.duke.edu/depts_progs/degree_progs/cls.php
+Dept==Cognitive Neuroscience**==http://gradschool.duke.edu/depts_progs/degree_progs/cn.php
+Dept==Computational Biology and Bioinformatics==http://gradschool.duke.edu/depts_progs/degree_progs/cbb.php
+Dept==Computer Science==http://gradschool.duke.edu/depts_progs/degree_progs/cos.php
+Dept==Cultural Anthropology==http://gradschool.duke.edu/depts_progs/degree_progs/ca.php
+Dept==Developmental and Stem Cell Biology**==http://gradschool.duke.edu/depts_progs/degree_progs/db.php
+Dept==Earth and Ocean Sciences==http://gradschool.duke.edu/depts_progs/degree_progs/eos.php
+Dept==East Asian Studies==http://gradschool.duke.edu/depts_progs/degree_progs/eas.php
+Dept==Ecology==http://gradschool.duke.edu/depts_progs/degree_progs/ecology.php
+Dept==Economics==http://gradschool.duke.edu/depts_progs/degree_progs/economics.php
+Dept==Electrical and Computer Engineering==http://gradschool.duke.edu/depts_progs/degree_progs/ece.php
+Dept==English==http://gradschool.duke.edu/depts_progs/degree_progs/english.php
+Dept==Environment==http://gradschool.duke.edu/depts_progs/degree_progs/environment.php
+Dept==Environmental Policy==http://gradschool.duke.edu/depts_progs/degree_progs/envpolicy.php
+Dept==Evolutionary Anthropology==http://gradschool.duke.edu/depts_progs/degree_progs/baa.php
+Dept==Genetics and Genomics==http://gradschool.duke.edu/depts_progs/degree_progs/gg.php
+Dept==German Studies==http://gradschool.duke.edu/depts_progs/degree_progs/gs.php
+Dept==Global Health==http://gradschool.duke.edu/depts_progs/degree_progs/gh.php
+Dept==History==http://gradschool.duke.edu/depts_progs/degree_progs/history.php
+Dept==Humanities==http://gradschool.duke.edu/depts_progs/degree_progs/humanities.php
+Dept==Immunology==http://gradschool.duke.edu/depts_progs/degree_progs/immunology.php
+Dept==Integrated Toxicology and Environmental Health**==http://gradschool.duke.edu/depts_progs/degree_progs/it.php
+Dept==Liberal Studies==http://gradschool.duke.edu/depts_progs/degree_progs/ls.php
+Dept==Literature==http://gradschool.duke.edu/depts_progs/degree_progs/literature.php
+Dept==Marine Science and Conservation==http://gradschool.duke.edu/depts_progs/degree_progs/ms.php
+Dept==Master of Arts in Teaching==http://gradschool.duke.edu/depts_progs/degree_progs/mat.php
+Dept==Master of Fine Arts in Experimental and Documentary Art==http://gradschool.duke.edu/depts_progs/mfa.php
+Dept==Mathematics==http://gradschool.duke.edu/depts_progs/degree_progs/mathematics.php
+Dept==Mechanical Engineering and Materials Science==http://gradschool.duke.edu/depts_progs/degree_progs/mems.php
+Dept==Medical Physics==http://gradschool.duke.edu/depts_progs/degree_progs/mp.php
+Dept==Medical Scientist Training==http://gradschool.duke.edu/depts_progs/degree_progs/mst.php
+Dept==Molecular Cancer Biology==http://gradschool.duke.edu/depts_progs/degree_progs/mcb.php
+Dept==Molecular Genetics and Microbiology==http://gradschool.duke.edu/depts_progs/degree_progs/mgm.php
+Dept==Music==http://gradschool.duke.edu/depts_progs/degree_progs/music.php
+Dept==Neurobiology==http://gradschool.duke.edu/depts_progs/degree_progs/neurobiology.php
+Dept==Nursing==http://gradschool.duke.edu/depts_progs/degree_progs/nursing.php
+Dept==Pathology==http://gradschool.duke.edu/depts_progs/degree_progs/pathology.php
+Dept==Pharmacology==http://gradschool.duke.edu/depts_progs/degree_progs/pharmacology.php
+Dept==Philosophy==http://gradschool.duke.edu/depts_progs/degree_progs/philosophy.php
+Dept==Physics==http://gradschool.duke.edu/depts_progs/degree_progs/physics.php
+Dept==Political Science==http://gradschool.duke.edu/depts_progs/degree_progs/ps.php
+Dept==Psychology and Neuroscience==http://gradschool.duke.edu/depts_progs/degree_progs/pyschology.php
+Dept==Public Policy Studies==http://gradschool.duke.edu/depts_progs/degree_progs/pps.php
+Dept==Religion==http://gradschool.duke.edu/depts_progs/degree_progs/religion.php
+Dept==Romance Studies==http://gradschool.duke.edu/depts_progs/degree_progs/rs.php
+Dept==Slavic and Eurasian Studies==http://gradschool.duke.edu/depts_progs/degree_progs/sll.php
+Dept==Sociology==http://gradschool.duke.edu/depts_progs/degree_progs/sociology.php
+Dept==Statistical Science==http://gradschool.duke.edu/depts_progs/degree_progs/sds.php
+Dept==Statistical and Economic Modeling==http://gradschool.duke.edu/depts_progs/sec.php
+Dept==Structural Biology and Biophysics**==http://gradschool.duke.edu/depts_progs/degree_progs/sbb.php
+
+School==School of Law==http://www.law.duke.edu/
+Dept==Internet Law==http://law.duke.edu/curriculum/courseinfo/course?id=510
+Dept==International Human Rights Advocacy==http://law.duke.edu/curriculum/courseinfo/course?id=365
+Dept==From Bickel to Balkin: Readings in Modern Constitutional Theory==http://law.duke.edu/curriculum/courseinfo/course?id=367
+Dept==Islam and Human Rights==http://law.duke.edu/curriculum/courseinfo/course?id=512
+Dept==Law of Slavery==http://law.duke.edu/curriculum/courseinfo/course?id=490
+Dept==Science Law & Policy==http://law.duke.edu/curriculum/courseinfo/course?id=511
+Dept==Contract Drafting for the Finance Lawyer==http://law.duke.edu/curriculum/courseinfo/course?id=105
+Dept==Second Amendment: History, Theory, and Practices==http://law.duke.edu/curriculum/courseinfo/course?id=514
+Dept==Civil Rights Litigation==http://law.duke.edu/curriculum/courseinfo/course?id=513
+
+School==School of Medicine==http://medschool.duke.edu/
+
+School==Nicholas School of the Environment==http://www.nicholas.duke.edu/
+Dept==Marine Science & Conservation==http://www.nicholas.duke.edu/msc
+Dept==Earth and Ocean Sciences==http://www.nicholas.duke.edu/eos
+Dept==Environmental Sciences and Policy==http://www.nicholas.duke.edu/esp
+Dept==Research centers and programs==http://www.nicholas.duke.edu/divisions/centers
+
+School==School of Nursing==http://nursing.duke.edu/
+
+School==Pratt School of Engineering==http://www.pratt.duke.edu/
+Dept==Department of Civil & Environmental Engineering==http://cee.duke.edu/
+Dept==Department of Electrical & Computer Engineering==http://www.ece.duke.edu/
+Dept==Department of Mechanical Engineering & Materials Science==http://mems.duke.edu/
+
+School==Sanford School of Public Policy==http://sanford.duke.edu/
+Dept==GLOBAL POLICY==http://sanford.duke.edu/centers/global-policy
+Dept==HEALTH POLICY==http://sanford.duke.edu/centers/health-policy
+Dept==SOCIAL POLICY==http://sanford.duke.edu/centers/social-policy
+Dept==ETHICS==http://sanford.duke.edu/centers/ethics
+Dept==ENVIRONMENTAL POLICY==http://sanford.duke.edu/centers/environmental-policy
+Dept==MEDIA AND JOURNALISM==http://sanford.duke.edu/centers/media-journalism
+
+School==Duke Institute for Brain Sciences==http://www.dibs.duke.edu/
+Dept==Neurotechnology ==http://www.dibs.duke.edu/research/research-themes/neurotechnology
+Dept==Circuits and Behavior ==http://www.dibs.duke.edu/research/research-themes/circuits-and-behavior
+Dept==Neurological and Neuropsychiatric Disorders ==http://www.dibs.duke.edu/research/research-themes/neurological-and-neuropsychiatric-disorders
+Dept==Brain and Society ==http://www.dibs.duke.edu/research/research-themes/brain-and-society
+
+School==Nicholas Institute for Environmental Policy Solutions==http://www.nicholas.duke.edu/institute/
+
+School==Kenan Institute for Ethics==http://kenan.ethics.duke.edu/
+
+School==Institute for Genome Sciences and Policy==http://genome.duke.edu/
+Dept==Computational Biology==http://genome.duke.edu/research/computational/
+Dept==Evolutionary Genomics==http://genome.duke.edu/research/evolutionary/
+Dept==Genome Biology==http://genome.duke.edu/research/genome-biology/
+Dept==Genomes & Behavior==http://genome.duke.edu/research/behavior/
+Dept==Genomic Medicine==http://genome.duke.edu/research/genomic-medicine/
+Dept==Science & Society==http://genome.duke.edu/research/society/
+Dept==Systems Biology==http://genome.duke.edu/research/systems-biology/
+Dept==Affiliated Units==http://genome.duke.edu/research/affiliated/
+
+School==Duke Global Health Institute==http://globalhealth.duke.edu/
+
+School==John Hope Franklin Humanities Institute==http://www.fhi.duke.edu/
+
+School==Social Science Research Institute==http://www.ssri.duke.edu/
+
+School==Interdisciplinary Studies==http://interdisciplinary.duke.edu/
+Dept==Brain & Society==http://dibs.duke.edu/education/brain-society
+Dept==Information, Society & Culture==http://sites.duke.edu/bassisc
+Dept==Global Health==http://interdisciplinary.duke.edu/bass-connections
+Dept==Energy==http://energy.duke.edu/education/bass-connections-energy
+Dept==Education & Human Development==http://interdisciplinary.duke.edu/bass-connections/ehd
+

@@ -1,0 +1,183 @@
+01==http://www.mcgill.ca/
+School==Faculty of Agricultural and Environmental Sciences==http://www.mcgill.ca/macdonald/
+Dept==Agricultural Economics==http://agrecon.mcgill.ca
+Dept==Animal Science==http://www.mcgill.ca/animal
+Dept==Bioresource Engineering==http://www.mcgill.ca/bioeng
+Dept==Farm Management & Technology Program==http://www.mcgill.ca/fmt
+Dept==Food Science==http://www.mcgill.ca/foodscience
+Dept==Institute of Parasitology==http://www.mcgill.ca/parasitology
+Dept==McGill School of Environment==http://www.mcgill.ca/mse
+Dept==Natural Resource Sciences==http://www.mcgill.ca/nrs
+Dept==Plant Science==http://www.mcgill.ca/plant
+Dept==School of Dietetics and Human Nutrition==http://www.mcgill.ca/dietetics
+
+School==School of Continuing Studies==http://www.mcgill.ca/continuingstudies/
+Dept==I'VE GOT PERSONAL ENRICHMENT IN MIND==null
+Dept==I'VE GOT CAREER DEVELOPMENT IN MIND==null
+Dept==I'VE GOT LANGUAGE SKILLS IN MIND==http://www.mcgill.ca/continuingstudies/user/login?destination=node%2F1040
+
+School==Faculty of Dentistry==http://www.mcgill.ca/dentistry/
+
+School==Faculty of Education==http://www.mcgill.ca/education/
+Dept==Department of Educational and Counselling Psychology (ECP)==http://www.mcgill.ca/edu-ecp/
+Dept==Department of Integrated Studies in Education (DISE)==http://www.mcgill.ca/dise/
+Dept==Department of Kinesiology and Physical Education (KPE)==http://www.mcgill.ca/edu-kpe/
+Dept==School of Information Studies (SIS)==http://www.mcgill.ca/sis/
+Dept==First Nations and Inuit Education (FNIE)==http://www.mcgill.ca/dise/fnie/
+Dept==Office of Leadership in Community and International Initiatives (LCII)==http://www.mcgill.ca/edu-lcii/
+Dept==Development and Alumni Relations (DAR)==http://www.mcgill.ca/edu-alumni/
+Dept==McGill Journal of Education (MJE)==http://mje.mcgill.ca//
+
+School==Faculty of Engineering==http://www.mcgill.ca/engineering/
+Dept==Department of ==null
+Dept==Department of ==null
+Dept==Department of ==null
+Dept==Department of ==null
+Dept==Department of ==null
+Dept==Department of ==null
+Dept==School of ==null
+Dept==School of ==http://www.mcgill.ca/engineering/user/login?destination=node%2F752
+
+School==Graduate and Postdoctoral Studies==http://www.mcgill.ca/gps/
+Dept==Agricultural Economics==http://www.mcgill.ca/gradapplicants/agricultural-economics-0
+Dept==Anatomy and Cell Biology==http://www.mcgill.ca/gradapplicants/anatomy-and-cell-biology
+Dept==Animal Science==http://www.mcgill.ca/gradapplicants/animal-science-0
+Dept==Anthropology==http://www.mcgill.ca/gradapplicants/anthropology-0
+Dept==Architecture==http://www.mcgill.ca/gradapplicants/architecture-0
+Dept==Art History==http://www.mcgill.ca/gradapplicants/art-history
+Dept==Atmospheric and Oceanic Sciences==http://www.mcgill.ca/gradapplicants/atmospheric-and-oceanic-sciences-0
+Dept==Biochemistry==http://www.mcgill.ca/gradapplicants/biochemistry-0
+Dept==Bioethics==http://www.mcgill.ca/gradapplicants/bioethics
+Dept==Bioinformatics (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/bioinformatics-interdisciplinary-and-collaborative-programs-0
+Dept==Biology==http://www.mcgill.ca/gradapplicants/biology-0
+Dept==Biomedical Engineering==http://www.mcgill.ca/gradapplicants/biomedical-engineering-0
+Dept==Bioresource Engineering==http://www.mcgill.ca/gradapplicants/bioresource-engineering-0
+Dept==Biostatistics==http://www.mcgill.ca/gradapplicants/german-studies-0
+Dept==Biotechnology==http://www.mcgill.ca/gradapplicants/biotechnology
+Dept==Chemical Biology (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/chemical-biology-interdisciplinary-and-collaborative-programs-0
+Dept==Chemical Engineering==http://www.mcgill.ca/gradapplicants/chemical-engineering-0
+Dept==Chemistry==http://www.mcgill.ca/gradapplicants/chemistry-0
+Dept==Civil Engineering and Applied Mechanics==http://www.mcgill.ca/gradapplicants/civil-engineering-and-applied-mechanics-0
+Dept==Classics==http://www.mcgill.ca/gradapplicants/classics-0
+Dept==Communication Sciences and Disorders==http://www.mcgill.ca/gradapplicants/communication-sciences-and-disorders-0
+Dept==Communication Studies==http://www.mcgill.ca/gradapplicants/communication-studies
+Dept==Computational Science and Engineering (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/computational-science-and-engineering-interdisciplinary-and-collaborative-programs-0
+Dept==Computer Science==http://www.mcgill.ca/gradapplicants/computer-science-0
+Dept==Dentistry==http://www.mcgill.ca/gradapplicants/dentistry-0
+Dept==Development Studies Option (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/development-studies-option-interdisciplinary-and-collaborative-programs-0
+Dept==Dietetics and Human Nutrition==http://www.mcgill.ca/gradapplicants/dietetics-and-human-nutrition-0
+Dept==Earth and Planetary Sciences==http://www.mcgill.ca/gradapplicants/earth-and-planetary-sciences-0
+Dept==East Asian Studies==http://www.mcgill.ca/gradapplicants/east-asian-studies-0
+Dept==Economics==http://www.mcgill.ca/gradapplicants/economics-0
+Dept==Educational and Counselling Psychology==http://www.mcgill.ca/gradapplicants/educational-and-counselling-psychology-0
+Dept==Electrical and Computer Engineering==http://www.mcgill.ca/gradapplicants/electrical-and-computer-engineering-0
+Dept==English==http://www.mcgill.ca/gradapplicants/english-0
+Dept==Environment==http://www.mcgill.ca/gradapplicants/environment
+Dept==Environmental Engineering (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/environmental-engineering-interdisciplinary-and-collaborative-programs-0
+Dept==Epidemiology==http://www.mcgill.ca/gradapplicants/epidemiology
+Dept==European Studies (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/european-studies-interdisciplinary-and-collaborative-programs-0
+Dept==Experimental Medicine==http://www.mcgill.ca/gradapplicants/experimental-medicine
+Dept==Family Medicine==http://www.mcgill.ca/gradapplicants/family-medicine
+Dept==Food Science and Agricultural Chemistry==http://www.mcgill.ca/gradapplicants/food-science-and-agricultural-chemistry-0
+Dept==French Language and Literature==http://www.mcgill.ca/gradapplicants/french-language-and-literature-0
+Dept==Gender and Women's Studies (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/gender-and-womens-studies-interdisciplinary-and-collaborative-programs-0
+Dept==Geography==http://www.mcgill.ca/gradapplicants/geography-0
+Dept==History and Classical Studies==http://www.mcgill.ca/gradapplicants/history-and-classical-studies
+Dept==Human Genetics==http://www.mcgill.ca/gradapplicants/human-genetics-0
+Dept==Information Studies==http://www.mcgill.ca/gradapplicants/information-studies-0
+Dept==Institute for the Study of International Development==http://www.mcgill.ca/gradapplicants/institute-study-international-development
+Dept==Integrated Studies in Education==http://www.mcgill.ca/gradapplicants/integrated-studies-education-0
+Dept==Islamic Studies==http://www.mcgill.ca/gradapplicants/islamic-studies-0
+Dept==Jewish Studies==http://www.mcgill.ca/gradapplicants/jewish-studies-0
+Dept==Kinesiology and Physical Education==http://www.mcgill.ca/gradapplicants/kinesiology-and-physical-education-0
+Dept==Language Acquisition (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/language-acquisition-interdisciplinary-and-collaborative-programs-0
+Dept==Languages, Literatures, and Cultures==http://www.mcgill.ca/gradapplicants/hispanic-studies-0
+Dept==Law==http://www.mcgill.ca/gradapplicants/law-0
+Dept==Linguistics==http://www.mcgill.ca/gradapplicants/linguistics-0
+Dept==M.B.A.==http://www.mcgill.ca/gradapplicants/mba
+Dept==M.B.A./B.C.L./LL.B. (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/mballb-interdisciplinary-and-collaborative-programs-0
+Dept==M.D./M.B.A. (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/mdmba-interdisciplinary-and-collaborative-programs-0
+Dept==M.S.W./B.C.L./LL.B. (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/mswbclllb-interdisciplinary-and-collaborative-programs-0
+Dept==Management==http://www.mcgill.ca/gradapplicants/management-0
+Dept==Management (doctoral programs)==http://www.mcgill.ca/gradapplicants/management-doctoral-programs
+Dept==Mathematics and Statistics==http://www.mcgill.ca/gradapplicants/mathematics-and-statistics-0
+Dept==Mechanical Engineering==http://www.mcgill.ca/gradapplicants/mechanical-engineering-0
+Dept==Medical Physics==http://www.mcgill.ca/gradapplicants/medical-physics-0
+Dept==Microbiology and Immunology==http://www.mcgill.ca/gradapplicants/microbiology-and-immunology-0
+Dept==Mining and Materials Engineering==http://www.mcgill.ca/gradapplicants/mining-and-materials-engineering-0
+Dept==Music (Schulich School of Music)==http://www.mcgill.ca/gradapplicants/music-schulich-school-music
+Dept==Natural Resource Sciences==http://www.mcgill.ca/gradapplicants/natural-resource-sciences-0
+Dept==Neotropical Environment (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/neotropical-environment-interdisciplinary-and-collaborative-programs-0
+Dept==Neuroscience (Integrated Program in)==http://www.mcgill.ca/gradapplicants/neuroscience-integrated-program
+Dept==Nursing==http://www.mcgill.ca/gradapplicants/nursing-0
+Dept==Occupational Health==http://www.mcgill.ca/gradapplicants/occupational-health-0
+Dept==Otolaryngology - Head and Neck Surgery==http://www.mcgill.ca/gradapplicants/otolaryngology-head-and-neck-surgery-0
+Dept==Parasitology==http://www.mcgill.ca/gradapplicants/parasitology-0
+Dept==Pathology==http://www.mcgill.ca/gradapplicants/pathology-0
+Dept==Pharmacology and Therapeutics==http://www.mcgill.ca/gradapplicants/pharmacology-and-therapeutics-0
+Dept==Philosophy==http://www.mcgill.ca/gradapplicants/philosophy-0
+Dept==Physical and Occupational Therapy==http://www.mcgill.ca/gradapplicants/physical-and-occupational-therapy-0
+Dept==Physics==http://www.mcgill.ca/gradapplicants/physics-0
+Dept==Physiology==http://www.mcgill.ca/gradapplicants/physiology-0
+Dept==Plant Science==http://www.mcgill.ca/gradapplicants/plant-science-0
+Dept==Political Science==http://www.mcgill.ca/gradapplicants/political-science-0
+Dept==Psychiatry==http://www.mcgill.ca/gradapplicants/psychiatry-0
+Dept==Psychology==http://www.mcgill.ca/gradapplicants/psychology-0
+Dept==Psychosocial Oncology (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/psychosocial-oncology-interdisciplinary-and-collaborative-programs-0
+Dept==Public Health==http://www.mcgill.ca/gradapplicants/public-health
+Dept==Quebec Studies/?tudes sur le Qu?bec==http://www.mcgill.ca/gradapplicants/quebec-studies%C3%A9tudes-sur-le-qu%C3%A9bec
+Dept==Redpath Museum==http://www.mcgill.ca/gradapplicants/redpath-museum
+Dept==Religious Studies==http://www.mcgill.ca/gradapplicants/religious-studies-0
+Dept==Social Statistics (Interdisciplinary and Collaborative Programs)==http://www.mcgill.ca/gradapplicants/social-statistics-interdisciplinary-and-collaborative-programs-0
+Dept==Social Studies of Medicine==http://www.mcgill.ca/gradapplicants/social-studies-medicine
+Dept==Social Work==http://www.mcgill.ca/gradapplicants/social-work-0
+Dept==Sociology==http://www.mcgill.ca/gradapplicants/sociology-0
+Dept==Surgical Research==http://www.mcgill.ca/gradapplicants/surgical-research-0
+Dept==Universitas 21==http://www.mcgill.ca/gradapplicants/universitas-21-0
+Dept==Urban Planning==http://www.mcgill.ca/gradapplicants/urban-planning-0
+
+School==Faculty of Law==http://www.mcgill.ca/law/
+
+School==Desautels Faculty of Management==http://www.mcgill.ca/desautels/
+Dept==Global Strategy + Leadership==http://www.mcgill.ca/desautels/research/specializations/global-strategy-leadership
+Dept==Investment + Risk Management==http://www.mcgill.ca/desautels/research/specializations/investment-risk-management
+Dept==Marketing + Entrepreneurship==http://www.mcgill.ca/desautels/research/specializations/marketing-entrepreneurship
+Dept==Technology + Innovation Management==http://www.mcgill.ca/desautels/research/specializations/technology-innovation-management
+Dept==Health Care Management==http://www.mcgill.ca/desautels/research/specializations/health-care-management
+
+School==Faculty of Medicine==http://www.mcgill.ca/medicine/
+Dept==Cardiovascular Surgery==null
+Dept==Orthopedic Surgery==null
+Dept==Otolaryngology and Head & Neck Surgery==null
+Dept==Plastic Surgery==null
+Dept==Paediatric Surgery==null
+Dept==Thoracic Surgery==http://www.mcgill.ca/medicine/user/login?destination=node%2F96
+
+School==Schulich School of Music==http://www.mcgill.ca/music/
+Dept==Music Composition==http://www.mcgill.ca/study/2012-2013/faculties/music/undergraduate/programs/bachelor-music-bmus-major-composition
+Dept==Music History==http://www.mcgill.ca/study/2012-2013/faculties/music/undergraduate/programs/bachelor-music-bmus-major-music-history
+Dept==Music Theory.==http://www.mcgill.ca/study/2012-2013/faculties/music/undergraduate/programs/bachelor-music-bmus-major-theory
+
+School==Faculty of Religious Studies==http://www.mcgill.ca/religiousstudies/
+Dept==Montreal Diocesan Theological College==http://www.dio-mdtc.ca/
+Dept==Montreal School of Theology==http://www.mst-etm.ca/
+Dept==Presbyterian College==http://www.presbyteriancollege.ca/
+Dept==United Theological College==http://www.utc.ca/
+
+School==Faculty of Science==http://www.mcgill.ca/science/
+Dept==Department of Atmospheric and Oceanic Sciences==http://www.mcgill.ca/meteo/
+Dept==Department of Biology==http://biology.mcgill.ca/
+Dept==Department of Chemistry==http://www.chemistry.mcgill.ca/
+Dept==School of Computer Science==http://www.cs.mcgill.ca
+Dept==Department of Earth and Planetary Sciences==http://www.mcgill.ca/eps/
+Dept==Department of Geography==http://www.geog.mcgill.ca
+Dept==Department of Mathematics and Statistics==http://www.math.mcgill.ca
+Dept==Department of Physics==http://www.physics.mcgill.ca/
+Dept==Department of Psychology==http://www.psych.mcgill.ca
+Dept==Redpath Museum==http://www.mcgill.ca/redpath/
+Dept==Department of Anatomy and Cell Biology==http://www.mcgill.ca/anatomy/
+Dept==Department of Biochemistry==http://www.mcgill.ca/biochemistry/
+Dept==Department of Microbiology and Immunology==http://www.mcgill.ca/microimm/
+Dept==Department of Pharmacology and Therapeutics==http://www.medicine.mcgill.ca/pharma/
+Dept==Department of Physiology==http://www.medicine.mcgill.ca/physio/
+

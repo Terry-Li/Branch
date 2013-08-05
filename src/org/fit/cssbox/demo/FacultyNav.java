@@ -34,7 +34,7 @@ public class FacultyNav{
     
     
     
-    public static ArrayList<String> getLinks(String url, Set<String> visited) {
+    public static ArrayList<String> getLinks(String url, Set<String> visited, String domainName) {
         try {
             ArrayList<String> links = new ArrayList<String>();
             Document doc = Jsoup.connect(url).timeout(12000).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
@@ -42,7 +42,7 @@ public class FacultyNav{
             for (Element e : result) {
                 String anchor = e.text().trim();
                 String href = e.attr("abs:href").trim();
-                if (!href.equals("") && !anchor.equals("") && Utility.shouldVisit(href, visited)) {
+                if (!href.equals("") && !anchor.equals("") && Utility.shouldVisit(href, visited, domainName)) {
                     links.add(anchor+"=="+href);
                 }
             }
@@ -120,9 +120,9 @@ public class FacultyNav{
         return candidates;
     } */
     
-    public static ArrayList<String> getFacultyListURL(String url, Set<String> visited) throws IOException {
+    public static ArrayList<String> getFacultyListURL(String url, Set<String> visited, String domainName) throws IOException {
         ArrayList<String> candidates = new ArrayList<String>();;
-        ArrayList<String> links = getLinks(url, visited);
+        ArrayList<String> links = getLinks(url, visited,domainName );
         String facultyURL = getExactLink(links, "Faculty");
         String peopleURL = getExactLink(links, "People");
         String directoryURL = getExactLink(links, "Directory");
@@ -130,14 +130,14 @@ public class FacultyNav{
         if (facultyURL != null) {
             candidates.add(facultyURL);
             visited.add(facultyURL);
-            ArrayList<String> seconds = getFacultyLinks(getLinks(facultyURL,visited));
+            ArrayList<String> seconds = getFacultyLinks(getLinks(facultyURL,visited, domainName));
             candidates.addAll(seconds);
             visited.addAll(seconds);
         }
         if (peopleURL != null) {
             candidates.add(peopleURL);
             visited.add(peopleURL);
-            String facultyURL2 = getExactLink(getLinks(peopleURL,visited), "Faculty");
+            String facultyURL2 = getExactLink(getLinks(peopleURL,visited, domainName), "Faculty");
             if (facultyURL2 != null) {
                 candidates.add(facultyURL2);
                 visited.add(facultyURL2);
@@ -146,7 +146,7 @@ public class FacultyNav{
         if (facultyStaffURL != null) {
             candidates.add(facultyStaffURL);
             visited.add(facultyStaffURL);
-            String facultyURL2 = getExactLink(getLinks(facultyStaffURL,visited), "Faculty");
+            String facultyURL2 = getExactLink(getLinks(facultyStaffURL,visited, domainName), "Faculty");
             if (facultyURL2 != null) {
                 candidates.add(facultyURL2);
                 visited.add(facultyURL2);
@@ -155,7 +155,7 @@ public class FacultyNav{
         if (directoryURL != null) {
             candidates.add(directoryURL);
             visited.add(directoryURL);
-            String facultyURL2 = getExactLink(getLinks(directoryURL,visited), "Faculty");
+            String facultyURL2 = getExactLink(getLinks(directoryURL,visited, domainName), "Faculty");
             if (facultyURL2 != null) {
                 candidates.add(facultyURL2);
                 visited.add(directoryURL);
@@ -165,16 +165,16 @@ public class FacultyNav{
         candidates.addAll(temps);
         visited.addAll(temps);
         for (String temp: temps) {
-            ArrayList<String> seconds = getFacultyLinks(getLinks(temp,visited));
+            ArrayList<String> seconds = getFacultyLinks(getLinks(temp,visited, domainName));
             candidates.addAll(seconds);
             visited.addAll(seconds);
         }
         return candidates;
     }
     
-    public static String getFacultyURL(String url, Set<String> visited) throws IOException {
+    public static String getFacultyURL(String url, Set<String> visited, String domainName) throws IOException {
         if (url == null) return null;
-        ArrayList<String> candidates = getFacultyListURL(url, visited);
+        ArrayList<String> candidates = getFacultyListURL(url, visited, domainName);
         for (String candidate: candidates) {
             System.out.println(candidate);
             if (candidate != null) {//&& Faculty2.identify(candidate)

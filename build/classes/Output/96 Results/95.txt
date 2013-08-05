@@ -1,0 +1,57 @@
+95==http://www.case.edu/
+School==case school of engineering==http://engineering.case.edu
+Dept==biomedical engineering==http://bme.case.edu/
+Dept==chemical engineering==http://engineering.case.edu/eche
+Dept==civil engineering==http://engineering.case.edu/eciv
+Dept==electrical engineering & computer science==http://engineering.case.edu/eecs
+Dept==macromolecular science & engineering==http://polymers.case.edu/
+Dept==materials science & engineering==http://dmseg5.case.edu/
+Dept==mechanical & aerospace engineering==http://engineering.case.edu/emae
+
+School==college of arts and sciences==http://www.case.edu/artsci
+Dept==Childhood Studies==http://www.cwru.edu/artsci/childstudies/
+Dept==International Studies==http://www.cwru.edu/artsci/posc/international/
+Dept==Evolutionary Biology==http://www.cwru.edu/artsci/evolutionarybiology/index.htm
+Dept==History and Philosophy of Science==http://www.cwru.edu/artsci/hpst/
+
+School==frances payne bolton school of nursing==http://fpb.case.edu
+
+School==mandel school of applied social sciences==http://msass.case.edu
+Dept==Continuing Education==http://msass.case.edu/ce/
+Dept==Doctorate in Social Welfare==http://msass.case.edu/doctorate/
+Dept==Field Education==http://msass.case.edu/fieldedu/
+Dept==Financial Aid Office==http://msass.case.edu/finaid.html
+
+School==school of dental medicine==http://dental.case.edu
+Dept==The AEGD Clinic==http://dental.case.edu/aegd
+Dept==The Department of Biological Sciences==http://dental.case.edu/biosci
+Dept==The Department of Community Dentistry==http://dental.case.edu/community
+Dept==The Department of Comprehensive Care==http://dental.case.edu/compcare
+Dept==The Craniofacial Imaging Center (CIC)==http://dental.case.edu/cic
+Dept==The Department of Endodontics==http://dental.case.edu/endodontics
+Dept==The EFDA Program==http://dental.case.edu/efda
+Dept==Oral and maxillofacial surgery==http://dental.case.edu/omfs
+Dept==The Department of Oral Diagnosis and Radiology==http://dental.case.edu/oraldiagnosis
+Dept==Oral and Maxillofacial Pathology==http://dental.case.edu/oralpath
+Dept==Pediatric Dentistry==http://dental.case.edu/pediatrics
+Dept==The Department of Periodontics==http://dental.case.edu/periodontics
+
+School==school of graduate studies==http://gradstudies.case.edu
+Dept==Arts and Sciences==http://www.case.edu/artsci/anth/index.html
+Dept==Biomedical Sciences==http://www.anesthesiaprogram.com/default.htm
+Dept==Engineering==http://www.engineering.case.edu/emae/
+Dept==Professional Programs==http://weatherhead.case.edu/degrees/phd-management/information-systems/
+
+School==school of law==http://law.case.edu
+Dept==INTERNATIONAL LAW PROGRAM==null
+Dept==IP LAW PROGRAM==null
+Dept==HEALTH LAW PROGRAM==http://law.case.edu/Centers/Cox/
+
+School==school of medicine==http://casemed.case.edu
+Dept==Medical==http://casemed.case.edu/education/
+Dept==Research at CWRU==http://casemed.case.edu/research/
+Dept==Education & Training==http://casemed.case.edu/facultyandstaff/
+Dept==Education==http://casemed.case.edu/students/
+
+School==weatherhead school of management==http://weatherhead.case.edu
+

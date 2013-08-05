@@ -166,7 +166,7 @@ public class CSSModel {
             Combo c = it.next();
             //System.out.println(c);
             if (c.text.equals("") ||
-                c.text.split(" ").length>23 || !Utility.isDomainLink(c.url)) { 
+                c.text.split(" ").length>23) { 
                 //System.out.println(c);
                 it.remove();
             } 

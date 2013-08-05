@@ -1,0 +1,141 @@
+78==http://www.bu.edu/
+School==College of Arts & Sciences==http://www.bu.edu/cas/
+Dept==Anthropology==http://www.bu.edu/anthrop/
+Dept==Astronomy==http://www.bu.edu/dbin/astronomy/
+Dept==Classical Studies==http://www.bu.edu/classics/
+Dept==Economics==http://www.bu.edu/econ/
+Dept==History of Art & Architecture==http://www.bu.edu/ah/
+Dept==Modern Languages & Comparative Literature==http://www.bu.edu/mlcl/
+Dept==Physics==http://buphy.bu.edu/
+Dept==Religion==http://www.bu.edu/religion
+Dept==Archaeology==http://www.bu.edu/archaeology/
+Dept==Biology==http://www.bu.edu/biology/
+Dept==Computer Science==http://www.bu.edu/cs
+Dept==English==http://www.bu.edu/english/
+Dept==International Relations==http://www.bu.edu/ir/
+Dept==Music==http://sites.bu.edu/music/
+Dept==Political Science==http://www.bu.edu/polisci/
+Dept==Romance Studies==http://www.bu.edu/rs
+
+School==College of Communication==http://www.bu.edu/com/
+Dept==Film & Television==http://www.bu.edu/com/film-tv
+Dept==Journalism==http://www.bu.edu/com/journalism
+Dept==Mass Communication, Advertising & Public Relations==http://www.bu.edu/com/masscomm-ad-pr
+
+School==College of Engineering==http://www.bu.edu/eng/
+Dept==Biomedical Engineering Department==http://www.bu.edu/bme/
+Dept==Electrical & Computer Engineering Department==http://www.bu.edu/ece/
+Dept==Mechanical Engineering Department==http://www.bu.edu/me/
+Dept==Materials Science & Engineering Division==http://www.bu.edu/mse/
+Dept==Systems Engineering Division==http://www.bu.edu/se/
+
+School==College of Fine Arts==http://www.bu.edu/cfa/
+Dept==School of Theatre==http://www.bu.edu/cfa/theatre/
+Dept==School of Visual Arts==http://www.bu.edu/cfa/visual-arts/
+Dept==School of Music==http://www.bu.edu/cfa/music/
+
+School==College of General Studies==http://www.bu.edu/cgs/
+
+School==College of Health & Rehabilitation Sciences: Sargent College==http://www.bu.edu/sargent/
+Dept==Department of Health Sciences==http://www.bu.edu/sargent/academics/departments/programs-in-health-sciences/
+Dept==Department of Occupational Therapy==http://www.bu.edu/sargent/academics/departments/programs-in-occupational-therapy/
+Dept==Department of Physical Therapy & Athletic Training==http://www.bu.edu/sargent/academics/departments/programs-in-physical-therapy-athletic-training/
+Dept==Department of Speech, Language & Hearing Sciences==http://www.bu.edu/sargent/academics/departments/programs-in-speech-language-hearing-sciences/
+
+School==Metropolitan College==http://www.bu.edu/met/
+Dept==Actuarial Science==http://www.bu.edu/met/subject/actuarial-science/
+Dept==Administrative Studies==http://www.bu.edu/met/subject/administrative-studies/
+Dept==Advertising==http://www.bu.edu/met/subject/advertising/
+Dept==Arts & Humanities==http://www.bu.edu/met/programs/arts-humanities/
+Dept==Arts Administration==http://www.bu.edu/met/subject/arts-administration/
+Dept==Biotechnology & Clinical Research==http://www.bu.edu/met/subject/biotechnology-clinical-research/
+Dept==Business & Management==http://www.bu.edu/met/subject/business-management/
+Dept==City Planning==http://www.bu.edu/met/subject/city-planning/
+Dept==Computer Science & Information Technology==http://www.bu.edu/met/programs/information-technology/
+Dept==Criminal Justice==http://www.bu.edu/met/subject/criminal-justice/
+Dept==Digital Forensics==http://www.bu.edu/met/subject/digital-forensics/
+Dept==Electronic Commerce==http://www.bu.edu/met/subject/electronic-commerce/
+Dept==Finance==http://www.bu.edu/met/subject/finance/
+Dept==Gastronomy==http://www.bu.edu/met/programs/gastronomy/
+Dept==Health Communication==http://www.bu.edu/met/subject/health-communication/
+Dept==Health Informatics==http://www.bu.edu/met/programs/health-informatics/
+Dept==Interdisciplinary Studies==http://www.bu.edu/met/subject/interdisciplinary-studies/
+Dept==Leadership==http://www.bu.edu/met/subject/leadership/
+Dept==Liberal Studies==http://www.bu.edu/met/subject/liberal-studies/
+Dept==Marketing==http://www.bu.edu/met/subject/marketing/
+Dept==Mathematics==http://www.bu.edu/met/subject/mathematics/
+Dept==Pre-Medical Studies==http://www.bu.edu/met/subject/pre-medical-studies/
+Dept==Project Management==http://www.bu.edu/met/programs/project-management/
+Dept==Risk Management==http://www.bu.edu/met/subject/risk-management/
+Dept==Science==http://www.bu.edu/met/subject/science/
+Dept==Security==http://www.bu.edu/met/subject/security/
+Dept==Social Sciences==http://www.bu.edu/met/subject/social-sciences/
+Dept==Software Engineering==http://www.bu.edu/met/subject/software-engineering/
+Dept==Tourism Management==http://www.bu.edu/met/subject/tourism-management/
+Dept==Urban Affairs==http://www.bu.edu/met/subject/urban-affairs/
+
+School==Henry M. Goldman School of Dental Medicine==http://www.bu.edu/dental/
+Dept==ENDODONTICS==http://www.bu.edu/dental/academics/departments/endodontics/
+Dept==GENERAL DENTISTRY==http://www.bu.edu/dental/academics/departments/general-dentistry/
+Dept==HEALTH POLICY & HEALTH SERVICES RESEARCH==http://www.bu.edu/dental/research/health-policy/
+Dept==MOLECULAR & CELL BIOLOGY==http://www.bu.edu/dental/academics/departments/molecular/
+
+School==School of Education==http://www.bu.edu/sed/
+Dept==Undergraduate Education==http://www.bu.edu/sed/academics/undergraduate/
+Dept==Professional Development==http://www.bu.edu/sed/academics/professional-development/
+Dept==Graduate Education==http://www.bu.edu/sed/academics/graduate/
+
+School==School of Hospitality Administration==http://www.bu.edu/sha/
+Dept==Oral Health Sciences Orientation==http://www.bu.edu/hospitality/calendar-2/?eid=140058&cid=17
+Dept==The American Civil War: Treasures from the Vault==http://www.bu.edu/hospitality/calendar-2/?eid=136745&oid=109&cid=17
+Dept==The American Civil War: Treasures from the Vault==http://www.bu.edu/hospitality/calendar-2/?eid=136745&oid=110&cid=17
+
+School==School of Law==http://www.bu.edu/law/
+Dept==Senior Legal Information Librarian==mailto:dbachman@bu.edu
+Dept==Senior Legal Information Librarian==mailto:donweber@bu.edu
+Dept==Legal Information Librarian==mailto:sgellis@bu.edu
+
+School==School of Management==http://management.bu.edu/
+Dept==Law==null
+Dept==Management Information Systems==null
+Dept==Marketing==null
+Dept==Operations & Technology Management==null
+Dept==Organizational Behavior==null
+Dept==Accounting==null
+Dept==Entrepreneurship==null
+Dept==Finance==null
+Dept==General Management==null
+Dept==International Management==http://management.bu.edu/undergraduate-program/academics/study-abroad/
+
+School==School of Medicine==http://www.bumc.bu.edu/busm/
+Dept==Anesthesiology==http://www.bmc.org/anesthesia.htm
+Dept==Dermatology==http://www.bumc.bu.edu/derm/
+Dept==Emergency Medicine==http://www.ed.bmc.org/
+Dept==Family Medicine==http://www.bu.edu/familymed/
+Dept==Medicine==http://www.bumc.bu.edu/medicine/
+Dept==Neurology==http://www.bumc.bu.edu/neurology/
+Dept==Obstetrics & Gynecology==http://www.bu.edu/obgyn/
+Dept==Ophthalmology==http://www.bumc.bu.edu/ophthalmology/
+Dept==Pediatrics==http://www.bmc.org/pediatrics/
+Dept==Psychiatry==http://www.bumc.bu.edu/psychiatry/
+Dept==Radiation Oncology==http://www.bmc.org/radiation-oncology.htm
+Dept==Radiology==http://www.bumc.bu.edu/radiology/
+Dept==Surgery==http://www.bumc.bu.edu/generalsurgery/
+Dept==Urology==http://www.bumc.bu.edu/urology/
+
+School==Division of Graduate Medical Sciences==http://www.bumc.bu.edu/gms/
+Dept==Anatomy & Neurobiology==http://www.bu.edu/academics/gms/departments/anatomy-neurobiology/
+Dept==Biochemistry==http://www.bu.edu/academics/gms/departments/biochemistry/
+Dept==Microbiology==http://www.bu.edu/academics/gms/departments/microbiology/
+Dept==Pathology & Laboratory Medicine==http://www.bu.edu/academics/gms/departments/pathology-laboratory-medicine/
+
+School==School of Public Health==http://sph.bu.edu/
+
+School==School of Social Work==http://www.bu.edu/ssw/
+
+School==School of Theology==http://www.bu.edu/sth/
+
+School==Division of Military Education==http://www.bu.edu/rotc
+
+School==Arvind and Chandan Nandlal Kilachand Honors College==http://www.bu.edu/uhc/
+

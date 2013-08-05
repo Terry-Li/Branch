@@ -4,22 +4,25 @@
  */
 package org.fit.cssbox.demo;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.apache.commons.io.FileUtils;
 
 /**
  *
  * @author Yifeng
  */
 public class VisualFaculty {
-    public static ArrayList<String> names;
+    public static List<String> names;
     static {
         try {
-            names = Utility.getKeywords("Group/Names.txt");
+            names = FileUtils.readLines(new File("Group/Names.txt"));
         } catch (FileNotFoundException ex) {
             Logger.getLogger(VisualFaculty.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {

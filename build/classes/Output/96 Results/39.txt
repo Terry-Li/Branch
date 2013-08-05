@@ -1,0 +1,177 @@
+39==http://www.umich.edu/
+School==Architecture & Urban Planning==http://taubmancollege.umich.edu/
+Dept==/ARCHITECTURE==http://taubmancollege.umich.edu/architecture/
+Dept==/PLANNING==http://taubmancollege.umich.edu/planning/
+Dept==/URBAN DESIGN==http://taubmancollege.umich.edu/urbandesign/
+
+School==Art & Design==http://www.art-design.umich.edu/
+
+School==Business==http://www.bus.umich.edu/
+Dept==Accounting==http://www.bus.umich.edu/Academics/Departments/Accounting
+Dept==Business Economics & Public Policy==http://www.bus.umich.edu/Academics/Departments/BE
+Dept==Finance==http://www.bus.umich.edu/Academics/Departments/Finance
+Dept==Law, History, Communication==http://www.bus.umich.edu/Academics/Departments/LHC
+Dept==Management & Organizations==http://www.bus.umich.edu/Academics/Departments/MO
+Dept==Marketing==http://www.bus.umich.edu/Academics/Departments/Marketing
+Dept==Strategy==http://www.bus.umich.edu/Academics/Departments/Strategy
+Dept==Technology & Operations==http://www.bus.umich.edu/Academics/Departments/TO
+Dept==Entrepreneurial Studies==null
+
+School==Dentistry==http://www.umich.edu/units_dent.php
+Dept==Biologic and Materials Sciences/Division of Prosthodontics==http://www.dent.umich.edu/bms
+Dept==Cariology, Restorative Sciences and Endodontics==http://www.dent.umich.edu/crse
+Dept==Oral and Maxillofacial Surgery/Hospital Dentistry==http://www.dent.umich.edu/omshd
+Dept==Orthodontics and Pediatric Dentistry==http://www.dent.umich.edu/opd
+Dept==Periodontics and Oral Medicine==http://www.dent.umich.edu/pom
+
+School==Education==http://www.soe.umich.edu/
+Dept==Center for the Study of Higher and Postsecondary Education==http://www.soe.umich.edu/departments_services/academic_departments/center_for_the_study_of_higher_and_postsecondary_education/
+Dept==Combined Program in Education and Psychology==http://www.soe.umich.edu/departments_services/academic_departments/combined_program_in_education_and_psychology/
+Dept==Educational Studies==http://www.soe.umich.edu/departments_services/academic_departments/educational_studies/
+Dept==Joint Program in English and Education==http://www.soe.umich.edu/departments_services/academic_departments/joint_program_in_english_and_education/
+Dept==Teacher Education==http://www.soe.umich.edu/departments_services/academic_departments/teacher_education/
+
+School==Engineering==http://www.umich.edu/units_engin.php
+Dept==Aerospace Engineering==http://www.engin.umich.edu/dept/aero/
+Dept==Applied Physics==http://www-applied.physics.lsa.umich.edu/
+Dept==Atmospheric, Oceanic and Space Sciences==http://aoss.engin.umich.edu/
+Dept==Biomedical Engineering==http://www.bme.umich.edu/
+Dept==Chemical Engineering==http://www.engin.umich.edu/dept/cheme/
+Dept==Civil and Environmental Engineering==http://cee.umich.edu/
+Dept==Electrical Engineering and Computer Science==http://www.eecs.umich.edu/
+Dept==Financial Engineering==http://financialeng.engin.umich.edu/
+Dept==Industrial and Operations Engineering==http://ioe.engin.umich.edu/
+Dept==Interdisciplinary Professional Programs==http://interpro.engin.umich.edu/igphome.htm
+Dept==Macromolecular Science and Engineering==http://www.engin.umich.edu/prog/macro/
+Dept==Manufacturing Engineering==http://interpro.engin.umich.edu/igpcat.htm?id=2
+Dept==Materials Science and Engineering==http://msewww.engin.umich.edu/
+Dept==Mechanical Engineering==http://me.engin.umich.edu/
+Dept==Naval Architecture and Marine Engineering==http://name.engin.umich.edu/
+Dept==Nuclear Engineering and Radiological Sciences==http://www-ners.engin.umich.edu/
+Dept==Tauber Institute for Global Operations==http://www.tauber.umich.edu/
+
+School==Graduate Studies, Rackham School of==http://www.rackham.umich.edu/
+
+School==Information, School of==http://www.si.umich.edu/
+
+School==Kinesiology==http://www.kines.umich.edu/
+Dept==Athletic Training==http://www.kines.umich.edu/programs/athletic-training
+Dept==Health and Fitness==http://www.kines.umich.edu/programs/health-and-fitness
+Dept==Movement Science==http://www.kines.umich.edu/programs/movement-science
+Dept==Sport Management==http://www.kines.umich.edu/programs/sport-management
+
+School==Law==http://www.law.umich.edu/
+Dept==CENTER FOR INTERNATIONAL AND COMPARATIVE LAW==http://www.law.umich.edu/mlawglobal/Pages/cicl.aspx
+Dept==CHINESE LEGAL STUDIES PROGRAM==http://www.law.umich.edu/mlawglobal/curriculum/chineselegalstudies/Pages/default.aspx
+Dept==CLARENCE DARROW DEATH PENALTY DEFENSE COLLEGE==http://www.law.depaul.edu/centers_institutes/cjcc/darrow.asp
+Dept==EMPIRICAL LEGAL STUDIES CENTER==http://www.law.umich.edu/centersandprograms/elsc/Pages/default.aspx
+Dept==EUROPEAN LEGAL STUDIES PROGRAM==http://www.law.umich.edu/mlawglobal/curriculum/europeanlegalstudies/Pages/default.aspx
+Dept==ENVIRONMENTAL LAW AND POLICY PROGRAM==http://www.law.umich.edu/centersandprograms/environmentallaw/Pages/default.aspx
+Dept==INSTITUTE OF CONTINUING LEGAL EDUCATION==http://www.law.umich.edu/centersandprograms/Pages/icle.aspx
+Dept==JAPANESE LEGAL STUDIES PROGRAM==http://www.law.umich.edu/mlawglobal/curriculum/japaneselegalstudies/Pages/default.aspx
+Dept==PROGRAM IN LAW AND ECONOMICS==http://www.law.umich.edu/centersandprograms/lawandeconomics/Pages/default.aspx
+Dept==PROGRAM IN LAW, ECONOMICS, AND TECHNOLOGY==http://www.law.umich.edu/centersandprograms/lawecontech/Pages/default.aspx
+Dept==PROGRAM IN RACE, LAW & HISTORY==http://www.law.umich.edu/centersandprograms/racelawhistory/Pages/default.aspx
+Dept==PROGRAM IN REFUGEE AND ASYLUM LAW==http://www.law.umich.edu/centersandprograms/refugeeandasylumlaw/Pages/default.aspx
+Dept==PROGRAM ON CHILDREN AND THE LAW==http://www.law.umich.edu/centersandprograms/pcl/Pages/default.aspx
+Dept==ZELL ENTREPRENEURSHIP AND LAW PROGRAM==http://www.law.umich.edu/centersandprograms/zeal/Pages/default.aspx
+
+School==Literature, Science, and the Arts==http://www.umich.edu/units_lsa.php
+Dept==Center for the Study of Complex Systems (==http://www.cscs.umich.edu/
+Dept==Classical Art & Archaeology, Interdepartmental Program (==http://www.umich.edu/~ipcaa/
+Dept==Medieval and Early Modern Studies Program (==http://www.lsa.umich.edu/mems/
+Dept==Science, Technology, and Society Program (==http://www.umich.edu/~umsts/
+Dept==U-M Initiative in Disability Studies (==http://www.umich.edu/~uminds/
+
+School==Medicine==http://www.med.umich.edu/medschool/
+
+School==Music, Theatre & Dance==http://www.music.umich.edu/
+Dept==Music Education==http://www.music.umich.edu/departments/mused
+Dept==Music Theory==http://www.music.umich.edu/departments/mustheory
+Dept==Musicology==http://www.music.umich.edu/departments/musicology
+Dept==Performing Arts Technology==http://www.music.umich.edu/departments/pat
+
+School==Natural Resources & Environment==http://www.snre.umich.edu/
+Dept==Behavior, Education and Communication==null
+Dept==Conservation Ecology==null
+Dept==Environmental Informatics: GIS and Modeling==null
+Dept==Environmental Justice==null
+Dept==Environmental Policy and Planning==null
+Dept==Landscape Architecture==null
+Dept==Sustainable Systems==null
+Dept==Undergraduate program==null
+Dept==Professional master's program==null
+Dept==Doctoral program==http://www.snre.umich.edu/sitemap
+
+School==Nursing==http://www.nursing.umich.edu/
+Dept==Nursing Education==null
+Dept==Nursing Healthcare Policy==null
+Dept==Quality and Patient Safety==null
+Dept==Nursing Management/Executive Leadership==null
+Dept==Nursing Informatics==http://www.nursing.umich.edu/site-index
+
+School==Pharmacy==http://pharmacy.umich.edu/pharmacy/home
+
+School==Public Health==http://www.sph.umich.edu/
+Dept==More information for prospective students.==http://www.sph.umich.edu/students/prospective/index.html
+Dept==Biostatistics==http://www.sph.umich.edu/biostat/
+Dept==Environmental Health Sciences==http://www.sph.umich.edu/ehs/
+Dept==Epidemiology==http://www.sph.umich.edu/epid/
+Dept==Health Behavior and Health Education==http://www.sph.umich.edu/hbhe/
+Dept==Health Management and Policy==http://www.sph.umich.edu/hmp/
+Dept==Health Informatics==http://healthinformatics.umich.edu/
+
+School==Public Policy==http://www.fordschool.umich.edu/
+
+School==Social Work==http://ssw.umich.edu/
+Dept==Program Concentrations & Minor Practice Methods==http://ssw.umich.edu/programs/msw/concentrations
+Dept==Anthropology==http://www.lsa.umich.edu/anthro/
+Dept==Economics==http://www.lsa.umich.edu/econ/
+Dept==Political Science==http://www.lsa.umich.edu/polisci/
+Dept==Psychology==http://www.lsa.umich.edu/psych/
+Dept==Sociology==http://www.lsa.umich.edu/soc/
+
+School==U-M Dearborn==http://www.umd.umich.edu/
+Dept==College of Arts, Sciences and Letters==http://www.casl.umd.umich.edu/caslonline/
+Dept==College of Business==http://www.cob.umd.umich.edu/
+Dept==College of Engineering & Computer Science==http://online.umd.umich.edu/
+Dept==College of Education, Health, and Human Services==http://www.cehhs.umd.umich.edu/cehhs_online/
+Dept==College of Arts, Sciences, and Letters==http://www.casl.umd.umich.edu/
+Dept==College of Business==http://cob.umd.umich.edu/
+Dept==College of Engineering and Computer Science==http://www.engin.umd.umich.edu/
+Dept==College of Education, Health, and Human Services==http://www.cehhs.umd.umich.edu/
+
+School==U-M Flint==http://www.flint.umich.edu/
+Dept==Africana Studies==http://www.umflint.edu/africana/
+Dept==Anthropology==http://www.umflint.edu/sac/
+Dept==Arts and Sciences (College of)==http://www.umflint.edu/cas/
+Dept==Biology==http://www.umflint.edu/biology/
+Dept==Chemistry and Biochemistry==http://www.umflint.edu/chemistry/
+Dept==Communication and Visual Arts==http://www.umflint.edu/comarts/
+Dept==Computer Science==http://www.umflint.edu/csep/
+Dept==Early Childhood Education==http://www.umflint.edu/ece/
+Dept==Earth and Resource Science==http://www.umflint.edu/ers/
+Dept==Economics==http://www.umflint.edu/economics/
+Dept==Education==http://www.umflint.edu/education/
+Dept==Education and Human Services (School of)==http://www.umflint.edu/sehs/
+Dept==English==http://www.umflint.edu/english/
+Dept==Foreign Languages and Literatures==http://www.umflint.edu/fll/
+Dept==Graduate Programs==http://www.umflint.edu/graduateprograms/
+Dept==Health Professions and Studies (School of)==http://www.umflint.edu/shps/
+Dept==History==http://www.umflint.edu/history/
+Dept==Honors Program==http://www.umflint.edu/honors/
+Dept==International and Global Studies Program==http://www.umflint.edu/igs/
+Dept==Management (School of)==http://www.umflint.edu/som/
+Dept==Mathematics==http://www.umflint.edu/math/
+Dept==Music==http://www.umflint.edu/music/
+Dept==Nursing==http://www.umflint.edu/nursing/
+Dept==Philosophy==http://www.umflint.edu/philosophy/
+Dept==Physical Therapy==http://www.umflint.edu/pt/
+Dept==Political Science==http://www.umflint.edu/polsci/
+Dept==Psychology==http://www.umflint.edu/psychology/
+Dept==Public Administration==http://www.umflint.edu/mpa/
+Dept==Public Health and Health Sciences==http://www.umflint.edu/hsa/
+Dept==Social Work==http://www.umflint.edu/socialwork/
+Dept==Theatre and Dance==http://www.umflint.edu/theatre_dance/
+Dept==Women's and Gender Studies==http://www.umflint.edu/wgs/
+

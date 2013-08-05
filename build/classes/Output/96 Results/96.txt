@@ -1,0 +1,184 @@
+96==http://www.uiowa.edu/
+School==College of Liberal Arts and Sciences==http://www.clas.uiowa.edu/
+
+School==Tippie College of Business==http://tippie.uiowa.edu/
+Dept==Accounting==http://tippie.uiowa.edu/accounting/
+Dept==Economics==http://tippie.uiowa.edu/economics/
+Dept==Finance==http://tippie.uiowa.edu/finance/
+Dept==Management and Organizations==http://tippie.uiowa.edu/management-organizations/
+Dept==Management Sciences==http://tippie.uiowa.edu/management-sciences/
+Dept==Marketing==http://tippie.uiowa.edu/marketing/
+
+School==College of Dentistry==http://www.dentistry.uiowa.edu/
+Dept==Administration==http://www.dentistry.uiowa.edu/administration
+Dept==Endodontics==http://www.dentistry.uiowa.edu/endodontics
+Dept==Family Dentistry==http://www.dentistry.uiowa.edu/family-dentistry
+Dept==Operative Dentistry==http://www.dentistry.uiowa.edu/operative
+Dept==Oral & Maxillofacial Surgery==http://www.dentistry.uiowa.edu/oral-maxillofacial-surgery
+Dept==Oral Pathology, Radiology, & Medicine==http://www.dentistry.uiowa.edu/oral-pathology-radiology-medicine
+Dept==Orthodontics==http://www.dentistry.uiowa.edu/orthodontics
+Dept==Pediatric Dentistry==http://www.dentistry.uiowa.edu/pediatric
+Dept==Periodontics==http://www.dentistry.uiowa.edu/periodontics
+Dept==Preventive & Community Dentistry==http://www.dentistry.uiowa.edu/preventive
+Dept==Prosthodontics==http://www.dentistry.uiowa.edu/prosthodontics
+
+School==College of Education==http://www.education.uiowa.edu/
+Dept==Art Education==http://www.education.uiowa.edu/teach/art
+Dept==Counselor Education & Supervision==http://www.education.uiowa.edu/rce/counsed
+Dept==Couple and Family Therapy==http://www.education.uiowa.edu/rce/family
+Dept==Counseling Psychology==http://www.education.uiowa.edu/pq/counspsy
+Dept==Educational Leadership==http://www.education.uiowa.edu/epls/edleadership
+Dept==Educational Measurement and Statistics==http://www.education.uiowa.edu/pq/measstat
+Dept==Educational Psychology==http://www.education.uiowa.edu/pq/edpsych
+Dept==Elementary Education==http://www.education.uiowa.edu/teach/elementary
+Dept==English Education==http://www.education.uiowa.edu/teach/english
+Dept==Foreign Language and ESL Education==http://www.education.uiowa.edu/teach/foreign-esl
+Dept==Higher Education and Student Affairs==http://www.education.uiowa.edu/epls/hesa
+Dept==Language, Literacy & Culture==http://www.education.uiowa.edu/teach/llc
+Dept==Mathematics Education==http://www.education.uiowa.edu/teach/math
+Dept==Music Education==http://www.education.uiowa.edu/teach/music
+Dept==Rehabilitation Counselor Education==http://www.education.uiowa.edu/rce/rehabcounsed
+Dept==Rehabilitation and Mental Health Counseling==http://www.education.uiowa.edu/rce/rehab
+Dept==School Counseling==http://www.education.uiowa.edu/rce/schcouns
+Dept==School Psychology==http://www.education.uiowa.edu/pq/schpsych
+Dept==Science Education==http://www.education.uiowa.edu/teach/science
+Dept==Secondary Education==http://www.education.uiowa.edu/teach/secondary-education
+Dept==Schools, Culture, and Society==http://www.education.uiowa.edu/epls/scs
+Dept==Social Studies Education==http://www.education.uiowa.edu/teach/socialstudies
+Dept==Special Education==http://www.education.uiowa.edu/teach/speicialed
+Dept==Educational Policy and Leadership Studies==http://www.education.uiowa.edu/epls
+Dept==Psychological and Quantitative Foundation==http://www.education.uiowa.edu/pq
+Dept==Rehabilitation and Counselor Education==http://www.education.uiowa.edu/rce
+Dept==Teaching and Learning==http://www.education.uiowa.edu/teach
+
+School==College of Engineering==http://www.engineering.uiowa.edu/
+Dept==Engineering Computer Services==http://www.engineering.uiowa.edu/ecs
+Dept==Engineering Electronics Shop==http://www.engineering.uiowa.edu/ees/engineering-electronics-shop-ees
+Dept==Engineering Machine Shop==http://www.engineering.uiowa.edu/ems/engineering-machine-shop-ems
+
+School==Graduate College==http://www.grad.uiowa.edu/
+Dept==Advanced Practice Nursing==null
+Dept==Aging Studies==http://www.uiowa.edu/~socialwk/agingstudies/
+Dept==Agricultural Safety and Health==http://www.public-health.uiowa.edu/oeh/programs/certificate
+Dept==American Indian and Native Studies==http://www.uiowa.edu/~ainsp/certificate/
+Dept==Biostatistics==http://www.public-health.uiowa.edu/biostat/programs/bio-cert.html
+Dept==Book Studies/Book Arts and Technologies==http://book.grad.uiowa.edu/content/graduate-certificate
+Dept==Cognitive Science of Language==null
+Dept==College Teaching==http://www.education.uiowa.edu/services/ogte/certificate/default.aspx
+Dept==Emerging Infectious Disease Epidemiology==http://www.public-health.uiowa.edu/academics/certificate_eide.html
+Dept==Gender, Women's & Sexuality Studies==http://clas.uiowa.edu/gwss/graduate-program
+Dept==Global Health==http://international.uiowa.edu/global-health
+Dept==Informatics==http://informatics.grad.uiowa.edu/
+Dept==Multicultural Education and Culturally Competent Practice==http://www.education.uiowa.edu/services/ogte/meccp/default.aspx
+Dept==Rhetorics of Inquiry==http://poroi.grad.uiowa.edu/certificate-program
+Dept==Sacred Music==http://music.uiowa.edu/programs/organ/organ_sm.shtml
+Dept==Translational and Clinical Investigation==http://www.icts.uiowa.edu/content/certificate-translational-and-clinical-investigation
+Dept==Transportation Studies==http://urban.uiowa.edu/joint-degrees/transportation-certificate
+
+School==College of Law==http://www.law.uiowa.edu/
+Dept==Advanced Problems in International Business and Economic Relations==null
+Dept==Advanced Problems in International Environmental Law==null
+Dept==Comparative Constitutional Law==null
+Dept==Comparative Law==null
+Dept==Comparative Law in Post Communist Countries==null
+Dept==Cultural Property/Heritage==null
+Dept==European Union Law==null
+Dept==Family Law in the World Community==null
+Dept==Foreign Comparative & International Legal Research==null
+Dept==Foreign Relations Law==null
+Dept==Human Rights in the World Community==null
+Dept==Immigration==null
+Dept==International Business Transactions==null
+Dept==International Commercial Arbitration==null
+Dept==International Criminal Law==null
+Dept==International Environmental Law==null
+Dept==International Trade Law: Basic Norms & Regulations==null
+Dept==Introduction to the Law of France & the European Union==null
+Dept==Introduction to Public International Law==null
+Dept==Law in the Muslim World==null
+Dept==Law of War, Peace, and Military Affairs==null
+Dept==National Security Law & Government Power in Emergencies==null
+Dept==Private International Finance==null
+Dept==Problems of International Law==null
+Dept==Rethinking Public International Law==http://www.law.uiowa.edu/faculty/patricia-acton.php
+Dept==Professor and Associate Dean Marcella David==null
+Dept==The University of Iowa College of Law==null
+Dept==Iowa City, IA 52242-1113 USA==mailto:iclp@uiowa.edu
+
+School==Carver College of Medicine==http://www.medicine.uiowa.edu/
+Dept==Anatomy and Cell Biology==http://www.medicine.uiowa.edu/acb/
+Dept==Anesthesia==http://www.anesth.uiowa.edu/
+Dept==Biochemistry==http://www.biochem.uiowa.edu/
+Dept==Cardiothoracic Surgery==http://www.medicine.uiowa.edu/ctsurgery/
+Dept==Dermatology==http://www.medicine.uiowa.edu/dermatology/
+Dept==Emergency Medicine==http://www.medicine.uiowa.edu/emergencymedicine/
+Dept==Family Medicine==http://www.medicine.uiowa.edu/familymedicine/
+Dept==Internal Medicine==http://www.medicine.uiowa.edu/InternalMedicine/
+Dept==Microbiology==http://www.medicine.uiowa.edu/microbiology/
+Dept==Molecular Physiology and Biophysics==http://www.physiology.uiowa.edu/index.shtml
+Dept==Neurology==http://www.medicine.uiowa.edu/neurology/
+Dept==Neurosurgery==http://www.medicine.uiowa.edu/neurosurgery/
+Dept==Obstetrics and Gynecology==http://www.medicine.uiowa.edu/obgyn/
+Dept==Ophthalmology & Visual Sciences==http://www.medicine.uiowa.edu/eye/
+Dept==Orthopaedics and Rehabilitation==http://uiortho.com
+Dept==Otolaryngology==http://www.medicine.uiowa.edu/oto/
+Dept==Pathology==http://www.medicine.uiowa.edu/pathology/
+Dept==Pediatrics==http://www.medicine.uiowa.edu/pediatrics/
+Dept==Pharmacology==http://www.medicine.uiowa.edu/pharmacology/
+Dept==Physical Therapy and Rehabilitation Science==http://www.medicine.uiowa.edu/pt/
+Dept==Physician Assistant Studies and Services==http://www.medicine.uiowa.edu/pa/
+Dept==Psychiatry==http://www.medicine.uiowa.edu/psychiatry/
+Dept==Radiation Oncology==http://www.medicine.uiowa.edu/radiationoncology/
+Dept==Radiology==http://www.healthcare.uiowa.edu/Radiology/
+Dept==Surgery==http://www.medicine.uiowa.edu/surgery/
+Dept==Urology==http://www.medicine.uiowa.edu/urology/
+
+School==College of Nursing==http://www.nursing.uiowa.edu/
+
+School==College of Pharmacy==http://pharmacy.uiowa.edu/
+Dept==Pharmacy Graduates Aim High==null
+Dept==Pharmacy Graduates Aim High==null
+Dept==Pharmacy Graduates Aim High==null
+Dept==Pharmacy Graduates Aim High==null
+Dept==College of Pharmacy Celebrates Philanthropy==http://pharmacy.uiowa.edu/about
+
+School==College of Public Health==http://www.public-health.uiowa.edu/
+Dept==Master of Public Health Program==http://cph.uiowa.edu/mph/
+Dept==Biostatistics==http://cph.uiowa.edu/biostat/
+Dept==Community and Behavioral Health==http://cph.uiowa.edu/cbh/
+Dept==Epidemiology==http://cph.uiowa.edu/epi/
+Dept==Health Management and Policy==http://cph.uiowa.edu/hmp/
+Dept==Occupational and Environmental Health==http://cph.uiowa.edu/oeh/
+Dept==Interdisciplinary Graduate Program in Human Toxicology==http://toxicology.grad.uiowa.edu/
+
+School==University College==http://www.registrar.uiowa.edu/registrar/catalog/UniversityCollege/index.html
+
+School==Academics A-Z==http://www.uiowa.edu/homepage/academics/complete-list.html
+
+School==Locate Faculty & Staff==http://dnaapps.uiowa.edu/PublicDirectory/
+
+School==Centers, Programs and Institutes==http://www.uiowa.edu/homepage/academics/centers.html
+Dept==American Indian and Native Studies Program==http://www.uiowa.edu/~ainsp
+Dept==Bioethics and Humanities==http://www.healthcare.uiowa.edu/bemh/index.html
+Dept==Biological Scholars Program, Presidential==http://www.uiowa.edu/%7Epbschol/
+Dept==European Studies Group (ESG)==http://international.uiowa.edu/european-studies
+
+School==Continuing Education==http://www.continuetolearn.uiowa.edu/
+
+School==Interdisciplinary Programs==http://www.uiowa.edu/homepage/academics/interdiscipline.html
+Dept==Biological Scholars Program, Presidential==http://www.uiowa.edu/%7Epbschol/
+Dept==Biosciences Program==http://www.medicine.uiowa.edu/biosciences
+Dept==Interdisciplinary Program in Applied Mathematical & Computational Sciences==http://www.amcs.uiowa.edu/
+Dept==Interdisciplinary Genetics Ph.D. Program==http://genetics.grad.uiowa.edu/
+Dept==Interdisciplinary Graduate Program in Immunology==http://immuno.grad.uiowa.edu/
+Dept==Interdisciplinary Graduate Program in Neuroscience==http://neuroscience.grad.uiowa.edu/
+Dept==Interdisciplinary Molecular Biology PhD Program==http://molcellbio.grad.uiowa.edu/
+Dept==Medical Scientist Training Program==http://www.healthcare.uiowa.edu/mstp/
+
+School==International Programs==http://international.uiowa.edu/
+Dept==Global Health Studies Program (GHSP)==http://international.uiowa.edu/global-health
+Dept==Institute for Cinema and Culture (ICC)==http://international.uiowa.edu/icc
+Dept==Latin American Studies Program (LASP)==http://international.uiowa.edu/lasp
+Dept==Opera Studies Forum (OSF)==http://international.uiowa.edu/opera-studies
+Dept==South Asian Studies Program (SASP)==http://international.uiowa.edu/sasp
+

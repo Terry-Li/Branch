@@ -69,7 +69,7 @@ public class TextBoxes
      */
     public static void main(String[] args)
     {
-        String input = "http://www.northwestern.edu/academics/colleges-schools.html";
+        String input = "http://www.dal.ca/faculty/science.html";
         
         try {
             //Open the network connection 

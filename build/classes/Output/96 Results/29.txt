@@ -1,0 +1,114 @@
+29==http://berkeley.edu/
+School==Letters & Science, College of==http://ls.berkeley.edu/
+Dept==African American Studies==http://africam.berkeley.edu/
+Dept==American Literature==http://english.berkeley.edu
+Dept==American Studies==http://ugis.ls.berkeley.edu/as/
+Dept==Ancient Near Eastern Civilizations==http://neareastern.berkeley.edu
+Dept==Ancient History and Mediterranean Archaeology==http://ahma.berkeley.edu/
+Dept==Ancient Philosophy==http://philosophy.berkeley.edu/
+Dept==Anthropology==http://anthropology.berkeley.edu/
+Dept==Applied Mathematics==http://math.berkeley.edu/
+Dept==Archaeological Research Facility==http://www.arf.berkeley.edu/
+Dept==Art History==http://arthistory.berkeley.edu/
+Dept==Art Practice==http://art.berkeley.edu/
+Dept==Arts Research Center==http://arts.berkeley.edu/
+Dept==Asian American Studies==http://ethnicstudies.berkeley.edu/
+Dept==Asian Studies==http://ieas.berkeley.edu/gas/
+Dept==Astronomy==http://astro.berkeley.edu/
+Dept==Atmospheric Sciences Center==http://www.atmos.berkeley.edu/
+Dept==Beatrice Bain M. Research Group==http://bbrg.berkeley.edu/
+Dept==Berkeley Language Center==http://blc.berkeley.edu/
+Dept==Berkeley War Crimes Studies Center==http://warcrimescenter.berkeley.edu/
+Dept==Biochemistry and Molecular Biology==http://mcb.berkeley.edu/
+Dept==Biology==http://ls.berkeley.edu/?q=about-college/l-s-divisions/biological-sciences
+Dept==Biostatistics==http://stat-www.berkeley.edu/
+Dept==Buddhist Studies==http://buddhiststudies.berkeley.edu/
+Dept==Cancer Research Laboratory==http://biology.berkeley.edu/crl/
+Dept==Celtic Studies==http://celtic.berkeley.edu/
+Dept==Center for Integrative Planetary Science==http://cips.berkeley.edu/
+Dept==Center for New Music & Audio Technologies==http://cnmat.berkeley.edu/
+Dept==Center for Pure & Applied Mathematics==http://cpam.berkeley.edu/
+Dept==Center for the Study of Sexual Culture==http://cssc.berkeley.edu/
+Dept==Center for Tebtunis Papyri==http://tebtunis.berkeley.edu/
+Dept==Chemistry==http://chemistry.berkeley.edu/student_info/undergrad_info/prospective_undergrad/degree_choice.php
+Dept==Chinese==http://ealc.berkeley.edu/
+Dept==Classics==http://classics.berkeley.edu/
+Dept==Cognitive Science==http://ugis.ls.berkeley.edu/cogsci/
+Dept==College Writing Program==http://writing.berkeley.edu/
+Dept==Comparative Literature==http://complit.berkeley.edu/
+Dept==Computer Science==http://www.eecs.berkeley.edu/Peer/
+Dept==Consortium for the Arts==http://www.bampfa.berkeley.edu/bca/
+Dept==Creative Writing==http://ugis.ls.berkeley.edu/creative/index.php
+Dept==Dance==http://tdps.berkeley.edu/
+Dept==Demography==http://demog.berkeley.edu/
+Dept==Development Studies==http://iastp.berkeley.edu/major_detail/40
+Dept==Discovery Courses==http://lsdiscovery.berkeley.edu/
+Dept==Dramatic Art==http://theater.berkeley.edu/
+Dept==Dutch Studies==http://dutch.berkeley.edu/
+Dept==Earth and Planetary Science==http://eps.berkeley.edu/
+Dept==Econometrics Laboratory==http://emlab.berkeley.edu/eml/
+Dept==Economics==http://econ.berkeley.edu/
+Dept==Electron Microscope Laboratory==http://em-lab.berkeley.edu/EML/index.php
+Dept==English==http://english.berkeley.edu/
+Dept==Environmental Sciences==http://ugis.ls.berkeley.edu/environ/index.php
+Dept==Ethnic Studies==http://ethnicstudies.berkeley.edu
+Dept==Ethnomusicology==http://music.berkeley.edu/
+Dept==Exploring the Liberal Arts==http://learning.berkeley.edu/ls1/
+
+School==Business, Haas School of==http://haas.berkeley.edu/
+
+School==Chemistry, College of==http://chemistry.berkeley.edu/
+
+School==Education, Graduate School of==http://www-gse.berkeley.edu/
+Dept==COGNITION & DEVELOPMENT==http://www-gse.berkeley.edu/cd-faculty
+Dept==LANGUAGE, LITERACY, SOCIETY, & CULTURE==http://www-gse.berkeley.edu/llsc-faculty
+Dept==POLICY, ORGANIZATION, MEASUREMENT & EVALUATION==http://www-gse.berkeley.edu/pome-faculty
+Dept==FACULTY EMERITI==http://www-gse.berkeley.edu/emeritus
+
+School==Engineering, College of==http://coe.berkeley.edu/
+Dept==Bioengineering (BioE)==http://bioeng.berkeley.edu/
+Dept==Civil & Environmental Engineering (CEE)==http://www.ce.berkeley.edu/index.php
+Dept==Electrical Engineering & Computer Sciences (EECS)==http://www.eecs.berkeley.edu/
+Dept==Industrial Engineering & Operations Research (IEOR)==http://www.ieor.berkeley.edu/
+Dept==Materials Science & Engineering (MSE)==http://www.mse.berkeley.edu/
+Dept==Mechanical Engineering (ME)==http://www.me.berkeley.edu/
+Dept==Nuclear Engineering (NE)==http://www.nuc.berkeley.edu/
+
+School==Environmental Design, College of==http://ced.berkeley.edu/
+Dept==ARCHITECTURE==http://ced.berkeley.edu/academics/architecture/
+Dept==CITY + REGIONAL PLANNING==http://ced.berkeley.edu/academics/city-regional-planning/
+Dept==LANDSCAPE ARCHITECTURE + ENVIRONMENTAL PLANNING==http://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/
+Dept==URBAN DESIGN==http://ced.berkeley.edu/academics/urban-design/
+Dept==SUSTAINABLE ENVIRONMENTAL DESIGN==http://ced.berkeley.edu/academics/bachelor-of-arts-in-sustainable-environmental-design/
+Dept==ADDITIONAL PROGRAMS==http://ced.berkeley.edu/academics/additional-programs/
+Dept==COURSES==http://ced.berkeley.edu/academics/courses/
+
+School==Information, School of==http://www.ischool.berkeley.edu/
+
+School==Journalism, Graduate School of==http://journalism.berkeley.edu/
+
+School==Law, School of==http://www.law.berkeley.edu/
+Dept==Law and Economics==http://www.law.berkeley.edu/146.htm
+Dept==Comparative Legal Studies==http://www.law.berkeley.edu/147.htm
+Dept==Environmental Law==http://www.law.berkeley.edu/148.htm
+Dept==International Legal Studies==http://www.law.berkeley.edu/149.htm
+Dept==Law and Technology==http://www.law.berkeley.edu/401.htm
+Dept==Social Justice==http://www.law.berkeley.edu/151.htm
+
+School==Natural Resources, College of==http://cnr.berkeley.edu/
+
+School==Optometry, School of==http://optometry.berkeley.edu/
+
+School==Public Health, School of==http://sph.berkeley.edu/
+Dept==Maternal & Child Health==http://sph.berkeley.edu/students/degrees/areas/maternal.php
+Dept==Multicultural Health==http://sph.berkeley.edu/students/degrees/areas/multi.php
+Dept==Public Health Nutrition==http://sph.berkeley.edu/students/degrees/areas/nut1.php
+
+School==Public Policy, Richard & Rhoda Goldman School of==http://gspp.berkeley.edu/
+Dept==My Interest In racial profiling was?sparked in?==http://gspp.berkeley.edu/research/featured/cracking-the-code
+Dept==Market-based solutions to environmental problems?==http://gspp.berkeley.edu/research/featured/environmental-commodities-markets-and-emissions-trading
+Dept==?Politics, economics,and technology have?==http://gspp.berkeley.edu/research/featured/lets-not-railroad-american-higher-education
+Dept==There is little doubt that american political?==http://gspp.berkeley.edu/research/featured/the-volatility-of-social-influence-when-everyone-is-your-neighbor
+
+School==Social Welfare, School of==http://socialwelfare.berkeley.edu/
+

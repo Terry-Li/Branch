@@ -1,0 +1,41 @@
+68==http://wustl.edu/
+School==College of Arts & Sciences==http://college.artsci.wustl.edu/
+
+School==Graduate School of Arts & Sciences==http://graduateschool.wustl.edu/
+
+School==University College==http://ucollege.wustl.edu/
+Dept==Liberal Arts & Sciences==http://ucollege.wustl.edu/areas/arts_and_sciences
+Dept==Business, Leadership & Management==http://ucollege.wustl.edu/areas/business
+Dept==International Affairs==http://ucollege.wustl.edu/areas/international
+Dept==Special Programs and Special Audits==http://ucollege.wustl.edu/areas/special_programs
+
+School==Summer School==http://summerschool.wustl.edu/
+
+School==George Warren Brown School of Social Work==http://brownschool.wustl.edu/
+
+School==School of Engineering & Applied Science==http://engineering.wustl.edu/
+Dept==Energy & Environment==http://engineering.wustl.edu/init-env.aspx
+Dept==Medicine & Health==http://engineering.wustl.edu/init-med.aspx
+Dept==Security==http://engineering.wustl.edu/init-sec.aspx
+Dept==Entrepreneurship==http://engineering.wustl.edu/init-ent.aspx
+
+School==Sam Fox School of Design & Visual Arts==http://samfoxschool.wustl.edu/
+
+School==School of Law==http://law.wustl.edu/
+Dept==Washington University Law Review==http://lawreview.wustl.edu/
+Dept==Washington University Journal of Law and Policy==http://law.wustl.edu/Journal/
+Dept==Washington University Global Studies Law Review==http://law.wustl.edu/WUGSLR/
+Dept==Washington University Jurisprudence Review==http://digitalcommons.law.wustl.edu/jurisprudence/
+
+School==School of Medicine==http://medicine.wustl.edu/
+
+School==Olin Business School==http://www.olin.wustl.edu/Pages/default.aspx
+Dept==Finance==http://www.olin.wustl.edu/executiveeducation/CertificatePrograms/FinancialSkills/Pages/default.aspx
+Dept==Leadership==http://www.olin.wustl.edu/executiveeducation/CertificatePrograms/Leadership/Pages/default.aspx
+Dept==Supply Chain==http://www.olin.wustl.edu/executiveeducation/CertificatePrograms/SupplyChain/Pages/default.aspx
+Dept==Women?s Leadership Forum==http://www.olin.wustl.edu/executiveeducation/CertificatePrograms/WomensLeadershipForum/Pages/default.aspx
+
+School==Office of the Provost==http://provost.wustl.edu/
+
+School==University Registrar==http://studentrecords.wustl.edu/
+

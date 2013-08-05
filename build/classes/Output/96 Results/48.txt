@@ -1,0 +1,106 @@
+48==http://www.yale.edu/
+School==Yale College==http://yalecollege.yale.edu/
+
+School==Graduate School of Arts and Sciences==http://www.yale.edu/graduateschool/
+Dept==African American Studies==http://www.yale.edu/afamstudies/
+Dept==African Studies==http://www.yale.edu/macmillan/african/index.shtml
+Dept==American Studies==http://www.yale.edu/amstud/
+Dept==Anthropology==http://www.yale.edu/anthro/
+Dept==Applied Mathematics==http://www.cs.yale.edu/appliedmath2/
+Dept==Applied Physics==http://appliedphysics.yale.edu/
+Dept==Archaeological Studies==http://www.yale.edu/archaeology/
+Dept==Architecture==http://www.architecture.yale.edu/drupal/programs/phd
+Dept==Astronomy==http://www.astro.yale.edu/
+Dept==Biological and Biomedical Sciences==http://bbs.yale.edu/
+Dept==Chemistry==http://www.chem.yale.edu/
+Dept==Classics==http://www.yale.edu/classics/
+Dept==Comparative Literature==http://www.yale.edu/complit/
+Dept==Computer Science==http://www.cs.yale.edu/graduate/index.html
+Dept==Computational Biology and Bioinformatics==http://cbb.yale.edu/
+Dept==East Asian Languages and Literatures==http://www.yale.edu/eall/
+Dept==East Asian Studies==http://research.yale.edu/eastasianstudies/master.php
+Dept==Ecology and Evolutionary Biology==http://www.eeb.yale.edu/
+Dept==Economics==http://www.econ.yale.edu/
+Dept==Engineering and Applied Science==http://www.eng.yale.edu/
+Dept==English Language and Literature==http://www.yale.edu/english/graduate-admissions.html
+Dept==European and Russian Studies==http://www.yale.edu/macmillan/europeanstudies/
+Dept==Film Studies==http://www.yale.edu/filmstudiesprogram/
+Dept==Forestry and Environmental Studies==http://www.yale.edu/forestry
+Dept==French==http://www.yale.edu/french
+Dept==Geology and Geophysics==http://www.yale.edu/geology
+Dept==Germanic Languages and Literatures==http://www.yale.edu/german/
+Dept==Global Affairs==http://www.yale.edu/macmillan/iac/mainternational.htm
+Dept==History==http://www.yale.edu/history
+Dept==History of Art==http://www.yale.edu/arthistory
+Dept==History of Science and Medicine==http://www.yale.edu/hshm/
+Dept==International and Development Economics==http://www.yale.edu/ide
+Dept==Investigative Medicine==http://medicine.yale.edu/investigativemedicine/
+Dept==Italian Language and Literature==http://www.yale.edu/italian/
+Dept==Law==http://www.law.yale.edu/phd
+Dept==Linguistics==http://www.yale.edu/linguist/
+Dept==Management==http://phd.som.yale.edu
+Dept==Mathematics==http://www.math.yale.edu
+Dept==Medieval Studies==http://www.yale.edu/medieval/
+Dept==Music==http://www.yale.edu/yalemus/
+Dept==Near Eastern Languages and Civilizations==http://www.yale.edu/nelc
+Dept==Nursing==http://nursing.yale.edu/Academics/PhD/
+Dept==Philosophy==http://www.yale.edu/philos
+Dept==Physics==http://www.yale.edu/physics
+Dept==Political Science==http://www.yale.edu/polisci
+Dept==Psychology==http://www.yale.edu/psychology/
+Dept==Public Health==http://publichealth.yale.edu/biostat/curriculum/ms/msindex.aspx
+Dept==Religious Studies==http://www.yale.edu/religiousstudies/
+Dept==Renaissance Studies==http://www.yale.edu/renstudies/
+Dept==Slavic Languages and Literatures==http://www.yale.edu/slavic
+Dept==Sociology==http://www.yale.edu/socdept
+Dept==Spanish and Portuguese==http://www.yale.edu/span-port/
+Dept==Statistics==http://www.stat.yale.edu/
+
+School==School of Architecture==http://www.architecture.yale.edu/drupal/
+
+School==School of Art==http://art.yale.edu/
+
+School==Divinity School==http://divinity.yale.edu/
+
+School==School of Drama==http://drama.yale.edu/
+Dept==Acting==http://drama.yale.edu/node/66
+Dept==Design==http://drama.yale.edu/program/design
+Dept==Sound Design==http://drama.yale.edu/node/68
+Dept==Dramaturgy and Dramatic Criticism==http://drama.yale.edu/node/70
+
+School==School of Engineering & Applied Science==http://seas.yale.edu/
+Dept==Biomedical Engineering==http://seas.yale.edu/departments/biomedical-engineering
+Dept==Chemical & Environmental Engineering==http://seas.yale.edu/departments/chemical-and-environmental-engineering
+Dept==Electrical Engineering==http://seas.yale.edu/departments/electrical-engineering
+Dept==Mechanical Engineering & Materials Science==http://seas.yale.edu/departments/mechanical-engineering-and-materials-science
+
+School==School of Forestry & Environmental Studies==http://environment.yale.edu/
+
+School==Law School==http://www.law.yale.edu/
+
+School==School of Management==http://mba.yale.edu/index.shtml
+
+School==School of Medicine==http://medicine.yale.edu/index.aspx
+
+School==School of Music==http://music.yale.edu/
+
+School==School of Nursing==http://nursing.yale.edu/
+
+School==School of Public Health==http://publichealth.yale.edu/index.aspx
+Dept==Partners in Health - Stacy Spell==null
+Dept==Partners in Health - Ann Greene==null
+Dept==Partners in Health - Shanti Madison==mailto:denise.meyer@yale.edu
+
+School==Institute of Sacred Music==http://www.yale.edu/ism/
+Dept==Choral Conducting==http://www.yale.edu/ism/academics/choral.html
+Dept==Organ==http://www.yale.edu/ism/academics/organ.html
+Dept==Voice: Early Music, Oratorio, and Chamber Ensemble==http://www.yale.edu/ism/academics/voice.html
+Dept==Church Music Studies==http://www.yale.edu/ism/academics/chmus.html
+Dept==Liturgical Studies==http://www.yale.edu/ism/academics/liturgical.html
+Dept==Religion and the Arts==http://www.yale.edu/ism/academics/arts.html
+Dept==Ministerial Studies==http://www.yale.edu/ism/academics/Curriculum3Divinity.html
+
+School==Summer Session==http://summer.yale.edu/
+
+School==World Fellows Program==http://www.yale.edu/worldfellows/index.html
+

@@ -1,0 +1,84 @@
+91==http://www.utk.edu/
+School==Agricultural Sciences and Natural Resources==http://casnr.tennessee.edu/
+
+School==Architecture and Design==http://www.arch.utk.edu/
+
+School==Arts and Sciences==http://www.artsci.utk.edu/
+Dept==Classics==http://web.utk.edu/~classics/
+Dept==English==http://english.utk.edu/
+Dept==History==http://history.utk.edu/
+Dept==Modern Foreign Languages & Literatures==http://web.utk.edu/~mfll/default.html
+Dept==Philosophy==http://web.utk.edu/~philosop/
+Dept==Religious Studies==http://web.utk.edu/~religion/
+Dept==Biochemistry and Cellular and Molecular Biology==http://web.bio.utk.edu/bcmb/
+Dept==Biology, Division of==http://web.bio.utk.edu/general/
+Dept==Chemistry==http://www.chem.utk.edu/
+Dept==Earth and Planetary Sciences==http://web.eps.utk.edu/
+Dept==Ecology and Evolutionary Biology==http://eeb.bio.utk.edu/
+Dept==Mathematics==http://www.math.utk.edu/
+Dept==Microbiology==http://web.bio.utk.edu/micro/
+Dept==Physics and Astronomy==http://www.phys.utk.edu/
+Dept==Anthropology==http://web.utk.edu/~anthrop/
+Dept==Geography==http://web.utk.edu/~utkgeog/
+Dept==Political Science==http://web.utk.edu/~polisci/
+Dept==Psychology==http://psychology.utk.edu/
+Dept==Sociology==http://web.utk.edu/~utsocdep/
+Dept==Art, School of==http://art.utk.edu/
+Dept==Music, School of==http://www.music.utk.edu/
+Dept==Theatre==http://theatre.utk.edu/
+Dept==Language & World Business==http://web.utk.edu/~mfll/lwb/
+Dept==College Scholars==http://web.utk.edu/~scholars/
+Dept==Africana Studies==http://web.utk.edu/~africana/
+Dept==American Studies==http://web.utk.edu/~amerstud/
+Dept==Asian Studies==http://web.utk.edu/~asc/
+Dept==Cinema Studies==http://web.utk.edu/~cinema
+Dept==Global Studies==http://web.utk.edu/~global/
+Dept==Judaic Studies==http://web.utk.edu/~judaic/
+Dept==Latin American and Caribbean Studies==http://web.utk.edu/~LatAmer/
+Dept==Linguistics==http://web.utk.edu/~ling/
+Dept==Medieval and Renaissance Studies==http://web.utk.edu/~medieval/
+Dept==Women?s Studies==http://web.utk.edu/~wstudy/
+
+School==Business Administration==http://bus.utk.edu/
+
+School==Communication and Information==http://www.cci.utk.edu/
+Dept==Advertising & Public Relation==http://adpr.cci.utk.edu
+Dept==Communication Studies==http://cmst.cci.utk.edu
+Dept==Information Sciences==http://www.sis.utk.edu
+Dept==Journalism & Electronic Media==http://jem.cci.utk.edu
+
+School==Education, Health, and Human Sciences==http://cehhs.utk.edu/
+Dept==Child and Family Studies==http://cfs.utk.edu/
+Dept==Educational Leadership and Policy Studies==http://elps.utk.edu/
+Dept==Educational Psychology and Counseling==http://web.utk.edu/%7Eedpsych/
+Dept==Kinesiology, Recreation, and Sport Studies==http://web.utk.edu/%7Esals/
+Dept==Nutrition==http://nutrition.utk.edu/
+Dept==Public Health==http://publichealth.utk.edu/default.html
+Dept==Retail, Hospitality, and Tourism Management==http://rhtm.utk.edu/
+Dept==Theory and Practice in Teacher Education==http://web.utk.edu/%7Etpte/
+
+School==Engineering==http://www.engr.utk.edu/
+Dept==Biosystems Engineering==http://bioengr.ag.utk.edu/
+Dept==Department of Chemical and Biomolecular Engineering==http://www.engr.utk.edu/cbe
+Dept==Department of Civil and Environmental Engineering==http://www.engr.utk.edu/civil
+Dept==Department of Electrical Engineering and Computer Science==http://www.eecs.utk.edu
+Dept==Department of Industrial and Systems Engineering==http://www.engr.utk.edu/ie
+Dept==Department of Materials Science and Engineering==http://www.engr.utk.edu/mse
+
+School==Law==http://www.law.utk.edu/
+
+School==Nursing==http://nightingale.con.utk.edu/
+
+School==Social Work==http://www.csw.utk.edu/
+
+School==Veterinary Medicine==http://www.vet.utk.edu/
+Dept==Comparative Medicine==http://www.vet.utk.edu/departments/comparative/
+Dept==Pathobiology==http://www.vet.utk.edu/departments/path
+Dept==Large Animal Clinical Sciences==http://www.vet.utk.edu/departments/LACS/
+Dept==Small Animal Clinical Sciences==http://www.vet.utk.edu/departments/SACS/
+Dept==Internships & Residency Programs==http://www.vet.utk.edu/residency/index.php
+
+School==The Graduate School==http://gradschool.utk.edu/
+
+School==Graduate Admissions==http://graduateadmissions.utk.edu/
+

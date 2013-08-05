@@ -1,0 +1,85 @@
+67==http://www.utah.edu/
+School==Architecture + Planning, College of==http://www.arch.utah.edu/
+
+School==Business, David Eccles School of==http://www.business.utah.edu/
+Dept==School of Accounting==http://www.business.utah.edu/school-of-accounting
+Dept==Finance Department==http://www.business.utah.edu/page/finance-department
+Dept==Management Department==http://www.business.utah.edu/page/management-department
+Dept==Marketing Department==http://www.business.utah.edu/page/marketing-department
+Dept==Operations & IS Department==http://www.business.utah.edu/page/operations-department
+
+School==Continuing Education==http://continue.utah.edu/
+
+School==Education,College of==http://www.ed.utah.edu/
+Dept==Education, Culture, & Society==http://ecs.utah.edu/
+Dept==Educational Leadership & Policy==http://elp.utah.edu/
+Dept==Educational Psychology==http://ed-psych.utah.edu/
+Dept==Special Education==http://special-ed.utah.edu/
+Dept==Urban Institute for Teacher Education==http://uite.utah.edu/
+
+School==Engineering, College of==http://www.coe.utah.edu/
+Dept==Bioengineering==http://www.bioen.utah.edu
+Dept==Chemical Engineering==http://www.che.utah.edu
+Dept==Civil & Environmental Engineering==http://www.civil.utah.edu/
+Dept==Electrical & Computer Engineering==http://www.ece.utah.edu
+Dept==Materials Science & Engineering==http://www.mse.utah.edu/
+Dept==Mechanical Engineering==http://www.mech.utah.edu
+Dept==School of Computing==http://www.cs.utah.edu/
+
+School==Fine Arts, College of==http://www.finearts.utah.edu/
+Dept==The School of Music==http://www.music.utah.edu/
+Dept==Department of Art & Art History==http://www.art.utah.edu/
+Dept==Department of Ballet==http://www.ballet.utah.edu/
+Dept==Department of Film & Media Arts==http://www.film.utah.edu/
+Dept==Department of Modern Dance==http://www.dance.utah.edu/
+Dept==Department of Theatre==http://www.theatre.utah.edu/
+
+School==Graduate School==http://www.gradschool.utah.edu/
+
+School==Health, College of==http://www.health.utah.edu/
+Dept==Communication Sciences & Disorders==http://www.health.utah.edu/cmdis/
+Dept==Exercise and Sport Science==http://www.health.utah.edu/ess/
+Dept==Health Promotion & Education==http://www.health.utah.edu/healthed/
+Dept==Nutrition==http://www.health.utah.edu/nutr/
+Dept==Occupational Therapy==http://www.health.utah.edu/octh/
+Dept==Parks, Recreation & Tourism==http://www.health.utah.edu/prt/
+Dept==Physical Therapy==http://www.health.utah.edu/pt/
+
+School==Honors College==http://www.honors.utah.edu/
+
+School==Humanities, College of==http://www.hum.utah.edu/
+Dept==Communication==http://communication.utah.edu/index.php
+Dept==English==http://english.utah.edu/index.php
+Dept==History==http://history.utah.edu/index.php
+Dept==Languages & Literature==http://languages.utah.edu/index.php
+Dept==Linguistics==http://linguistics.utah.edu/index.php
+Dept==Philosophy==http://philosophy.utah.edu/index.php
+
+School==Law, S.J. Quinney College of==http://www.law.utah.edu/
+Dept==Our Publications==http://epubs.utah.edu/index.php/ulr
+Dept==Our Programs==http://www.law.utah.edu/clinic/
+Dept==Academic Organizations==http://www.law.utah.edu/documents/justice-through-research/
+Dept==Course Information==http://www.law.utah.edu/current/course-list/
+
+School==Medicine, School of==http://medicine.utah.edu/
+
+School==Mines & Earth Sciences, College of==http://www.mines.utah.edu/
+Dept==Atmospheric Sciences?==http://www.atmos.utah.edu/
+Dept==Geology and Geophysics?==http://www.earth.utah.edu/
+Dept==Metallurgical Engineering?==http://www.metallurgy.utah.edu/
+Dept==Mining Engineering==http://www.mining.utah.edu/
+
+School==Nursing, College of==http://nursing.utah.edu/
+
+School==Pharmacy, College of==http://www.pharmacy.utah.edu/
+Dept==Medicinal Chemistry==http://www.pharmacy.utah.edu/medchem/
+Dept==Pharmaceutics and Pharmaceutical Chemistry==http://www.pharmacy.utah.edu/pharmaceutics/
+Dept==Pharmacology and Toxicology==http://pharmacy.utah.edu/pharmtox/index.html
+Dept==Pharmacotherapy==http://www.pharmacy.utah.edu/pharmacotherapy/
+
+School==Science, College of==http://www.science.utah.edu/
+Dept==Department of Biology==http://www.biology.utah.edu/
+Dept==Department of Chemistry==http://www.chem.utah.edu/
+Dept==Department of Mathematics==http://www.math.utah.edu/
+Dept==Department of Physics & Astronomy==http://www.physics.utah.edu/
+

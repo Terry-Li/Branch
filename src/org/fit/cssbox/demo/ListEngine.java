@@ -10,6 +10,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -19,13 +20,13 @@ import java.util.logging.Logger;
  * @author Yifeng
  */
 public class ListEngine {
-    private ArrayList<String> positives;
-    private ArrayList<String> negatives;
-    private ArrayList<String> degrees;
-    private ArrayList<String> urlNegatives;
+    private List<String> positives;
+    private List<String> negatives;
+    private List<String> degrees;
+    private List<String> urlNegatives;
     
 
-    public ListEngine(ArrayList<String> positives, ArrayList<String> negatives, ArrayList<String> degrees, ArrayList<String> urlNegatives) {
+    public ListEngine(List<String> positives, List<String> negatives, List<String> degrees, List<String> urlNegatives) {
         this.positives = positives;
         this.negatives = negatives;
         this.degrees = degrees;
@@ -71,7 +72,7 @@ public class ListEngine {
         return false;
     }
     
-    public boolean contains(ArrayList<String> keywords, String text) {
+    public boolean contains(List<String> keywords, String text) {
         String[] tokens = text.split(" ");
         for (String keyword: keywords) {
             if (keyword.length() > 5 && text.toUpperCase().contains(keyword.toUpperCase())){
@@ -87,7 +88,7 @@ public class ListEngine {
         return false;
     }
     
-    public boolean containNames(ArrayList<String> keywords, String text) {
+    public boolean containNames(List<String> keywords, String text) {
         String[] tokens;
         if (text.contains(",")) {
             tokens = text.split(", ");
@@ -172,8 +173,9 @@ public class ListEngine {
                 //System.out.println(c.text);
             }
         }
+        //System.out.println(count+"/"+combos.size());
         //System.out.println("-----------------------------");
-        if (count >= (float)combos.size()*0.67) {
+        if (count >= (float)combos.size()*0.66) {
             return true;
         } else return false;
     }
@@ -182,44 +184,6 @@ public class ListEngine {
         for (Combo c: combos) {
             c.group = 0;
         }
-        /*
-        for (Combo c: original) {
-            Combo brand = new Combo(c.x,c.y,c.text,c.tag,c.dom);
-            brand.setFont(c.font);
-            brand.setGroup(c.group);
-            brand.setHeight(c.height);
-            brand.setParent(c.parent);
-            brand.setText(c.text);
-            brand.setUrl(c.url);
-            brand.setContract(c.contract);
-            if (c.previous == null) {
-                brand.previous = null;
-            } else {
-                brand.previous = clonePrevious(c.previous);
-            }
-            brand.style = c.style;
-            brand.title = c.title;
-            combos.add(brand);
-        } */
-    }
-    
-    public Combo clonePrevious(Combo c){
-            Combo brand = new Combo(c.x,c.y,c.text,c.tag,c.dom);
-            brand.setFont(c.font);
-            brand.setGroup(c.group);
-            brand.setHeight(c.height);
-            brand.setParent(c.parent);
-            brand.setText(c.text);
-            brand.setUrl(c.url);
-            brand.setContract(c.contract);
-            if (c.previous == null) {
-                brand.previous = null;
-            } else {
-                brand.previous = clonePrevious(c.previous);
-            }
-            brand.style = c.style;
-            brand.title = c.title;
-            return brand;
     }
     
     public void mergeList(ArrayList<ArrayList<Combo>> candidates){

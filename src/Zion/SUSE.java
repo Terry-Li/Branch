@@ -2,6 +2,7 @@ package Zion;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -20,6 +21,7 @@ import org.fit.cssbox.demo.*;
 public class SUSE implements Runnable{
     public String univName;
     public String univURL;
+    public String domainName;
     public static String dataCenter = "96 Results/";//"C:/Users/admin/Desktop/Canadian Universities/Data Center/";
     public static final String[] gateway = {"academics","academic units","schools","colleges","divisions", "faculties",
         "departments","department list","programs","faculty","directory","people","staff"};
@@ -31,6 +33,11 @@ public class SUSE implements Runnable{
     public SUSE(String univName, String univURL) {
         this.univName = univName;
         this.univURL = univURL;
+        try {
+            domainName = Utility.getDomainName(univURL);
+        } catch (URISyntaxException ex) {
+            Logger.getLogger(SUSE.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
     
     public void run() {
@@ -43,7 +50,7 @@ public class SUSE implements Runnable{
             univLink.url = univURL;
             univLink.context = new ArrayList<String>();
             System.out.println("Processing "+univName+"...");
-            SemanticList schoolList = SchoolNav.getSchoolsResult(univLink,visited);
+            SemanticList schoolList = SchoolNav.getSchoolsResult(univLink,visited,domainName);
             StringBuilder sb = new StringBuilder();
             sb.append(univName+"=="+univURL+"\n");
             if (schoolList != null) {   
@@ -58,7 +65,7 @@ public class SUSE implements Runnable{
                         Link schoolLink = new Link();
                         schoolLink.url = schoolURL;
                         schoolLink.context = new ArrayList<String>();
-                        SemanticList deptList = DepartmentNav.getDeptsResult(schoolLink, visited, schools);
+                        SemanticList deptList = DepartmentNav.getDeptsResult(schoolLink, visited, schools, domainName);
                         if (deptList != null) {
                             ArrayList<String> departments = deptList.list;
                             for (String dept: departments) {
@@ -83,6 +90,7 @@ public class SUSE implements Runnable{
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException, InterruptedException {
+        
         List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
         ExecutorService executor = Executors.newFixedThreadPool(6);
         /*

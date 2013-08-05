@@ -1,0 +1,142 @@
+88==http://www.buffalo.edu/
+School==Architecture and Planning==http://www.ap.buffalo.edu/
+
+School==Arts and Sciences==http://cas.buffalo.edu/
+Dept==Anthropology==http://www.anthropology.buffalo.edu/
+Dept==Biological Sciences==http://biology.buffalo.edu/
+Dept==Chemistry==http://www.chemistry.buffalo.edu/
+Dept==Classics==http://www.classics.buffalo.edu/
+Dept==Communication==http://www.communication.buffalo.edu/
+Dept==Communicative Disorders and Sciences==http://cdswebserver.med.buffalo.edu/drupal
+Dept==Comparative Literature==http://www.complit.buffalo.edu/
+Dept==Economics==http://www.economics.buffalo.edu/
+Dept==English==http://www.english.buffalo.edu/
+Dept==Geography==http://www.geog.buffalo.edu/
+Dept==Geology==http://www.geology.buffalo.edu/
+Dept==History==http://www.history.buffalo.edu
+Dept==Linguistics==http://linguistics.buffalo.edu
+Dept==Mathematics==http://www.math.buffalo.edu/
+Dept==Media Study==http://mediastudy.buffalo.edu/
+Dept==Music==http://www.music.buffalo.edu/
+Dept==Philosophy==http://www.philosophy.buffalo.edu/
+Dept==Physics==http://electron.physics.buffalo.edu/
+Dept==Political Science==http://www.polsci.buffalo.edu/
+Dept==Psychology==http://www.psychology.buffalo.edu/
+Dept==Romance Languages and Literatures==http://rll.buffalo.edu/
+Dept==Sociology==http://sociology.buffalo.edu/
+Dept==Theatre and Dance==http://www.theatredance.buffalo.edu/
+Dept==Transnational Studies==http://www.transnationalstudies.buffalo.edu/
+Dept==Visual Studies==http://visualstudies.buffalo.edu/
+Dept==Arts Management==http://www.artsmanagement.buffalo.edu/
+Dept==Asian Studies==http://www.asianstudies.buffalo.edu/
+Dept==Environmental Geosciences==http://www.envsci.buffalo.edu/
+Dept==Evolution, Ecology and Behavior==http://www.evolutionecologybehavior.buffalo.edu
+Dept==Jewish Studies==http://jewishstudies.buffalo.edu/
+Dept==Journalism==http://www.journalism.buffalo.edu
+Dept==Professional Science Management==http://www.professionalmasters.cas.buffalo.edu
+
+School==Dental Medicine==http://dental.buffalo.edu/
+Dept==EDUCATION >==null
+Dept==EDUCATION >==null
+Dept==EDUCATION >==https://dental.buffalo.edu/LinkClick.aspx?link=http%3a%2f%2fwww.youtube.com%2fwatch%3fv%3duU3bBbabRZM&tabid=36&portalid=0&mid=1395
+
+School==Education==http://gse.buffalo.edu/
+Dept==Counseling Psychology and School Psychology==http://gse.buffalo.edu/programs/cpsp
+Dept==Counselor Education==http://gse.buffalo.edu/programs/ced
+Dept==Educational Psychology and Quantitative Methods==http://gse.buffalo.edu/programs/edpsych
+Dept==Mental Health Counseling==http://gse.buffalo.edu/programs/mhc
+Dept==Rehabilitation Counseling==http://gse.buffalo.edu/programs/rehab
+Dept==School Counseling==http://gse.buffalo.edu/programs/sc
+Dept==School Psychology==http://gse.buffalo.edu/programs/sp
+Dept==Undergraduate Education Minor==http://gse.buffalo.edu/programs/edminor
+
+School==Engineering and Applied Sciences==http://www.eng.buffalo.edu/
+Dept==Biomedical==http://www.bme.buffalo.edu/
+Dept==Chemical and Biological==http://www.cbe.buffalo.edu/
+Dept==Civil, Structural, and Environmental==http://www.csee.buffalo.edu/
+Dept==Computer Science and Engineering==http://www.cse.buffalo.edu/
+Dept==Electrical==http://www.ee.buffalo.edu/
+Dept==Industrial and Systems==http://www.ie.buffalo.edu/
+Dept==Mechanical and Aerospace==http://www.mae.buffalo.edu/
+
+School==Law==http://www.law.buffalo.edu/
+Dept==NYC Program on Finance & Law==http://www.law.buffalo.edu/beyond/nyc.html
+Dept==Moot Court & Competitions==http://www.law.buffalo.edu/beyond/competitions.html
+Dept==Law Journals==http://www.law.buffalo.edu/beyond/journals.html
+Dept==Career & Professional Development==http://www.law.buffalo.edu/cso.html
+
+School==Management==http://www.mgt.buffalo.edu/
+
+School==Medicine and Biomedical Sciences==http://medicine.buffalo.edu/
+Dept==Biochemistry (BCH)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/bch.html
+Dept==Biomedical Engineering (BME)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/bme.html
+Dept==Biomedical Sciences (BMS)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/bms.html
+Dept==Biophysics (BPH)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/bph.html
+Dept==Genetics, Genomics and Bioinformatics (GGB)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/ggb.html
+Dept==Microbiology and Immunology (MIC)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/mic.html
+Dept==Neuroscience (NRS)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/nrs.html
+Dept==Oral Biology (ORB)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/orb.html
+Dept==Pathology and Anatomical Sciences (PTH)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/pth.html
+Dept==Pharmacology and Toxicology (PMY)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/pmy.html
+Dept==Physiology (PGY)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/pgy.html
+Dept==Structural Biology (STB)==http://medicine.buffalo.edu/phdprogram/departments_and_curriculum/course_descriptions/stb.html
+
+School==Nursing==http://nursing.buffalo.edu/
+Dept==Biostatistics and Bioinformatics==http://www.roswellpark.edu/research/departments/biostatistics
+Dept==Cancer Biology==http://www.roswellpark.edu/research/departments/cancer-biology
+Dept==Cancer Genetics==http://www.roswellpark.edu/research/departments/cancer-genetics
+Dept==Cell Stress Biology==http://www.roswellpark.edu/research/departments/cell-stress-biology
+Dept==Immunology==http://www.roswellpark.edu/research/departments/immunology
+Dept==Molecular and Cellular Biology==http://www.roswellpark.edu/research/departments/molecular-and-cellular-biology
+Dept==Pharmacology and Therapeutics==http://www.roswellpark.edu/research/departments/pharmacology-and-therapeutics
+Dept==Prevention and Population Sciences==http://www.roswellpark.edu/research/departments/prevention-and-population-sciences
+
+School==Pharmacy and Pharmaceutical Sciences==http://www.pharmacy.buffalo.edu/
+Dept==Pharmacy Practice==http://www.pharmacy.buffalo.edu/pages/102/Pharmacy-Practice-Department.html
+Dept==Pharmaceutical Sciences==http://www.pharmacy.buffalo.edu/pages/104/Pharmaceutical-Sciences-Department.html
+Dept==Residency and Fellowship==http://www.pharmacy.buffalo.edu/pages/111/Residency-%26-Fellowship-Training.html
+Dept==Continuing Education==http://www.pharmacy.buffalo.edu/pages/113/Continuing-Pharmacy-Education.html
+
+School==Public Health and Health Professions==http://sphhp.buffalo.edu/
+Dept==Biostatistics==http://sphhp.buffalo.edu/biostatistics.html
+Dept==Community Health and Health Behavior==http://sphhp.buffalo.edu/community-health-and-health-behavior.html
+Dept==Exercise and Nutrition Sciences==http://sphhp.buffalo.edu/exercise-and-nutrition-sciences.html
+Dept==Rehabilitation Science==http://sphhp.buffalo.edu/rehabilitation-science.html
+Dept==Social and Preventive Medicine==http://sphhp.buffalo.edu/social-and-preventive-medicine.html
+
+School==Social Work==http://www.socialwork.buffalo.edu/
+
+School==Roswell Park Cancer Institute Graduate Division==http://www.roswellpark.edu/education
+Dept==Biostatistics and Bioinformatics==http://www.roswellpark.edu/research/departments/biostatistics
+Dept==Cancer Biology==http://www.roswellpark.edu/research/departments/cancer-biology
+Dept==Cancer Genetics==http://www.roswellpark.edu/research/departments/cancer-genetics
+Dept==Cell Stress Biology==http://www.roswellpark.edu/research/departments/cell-stress-biology
+Dept==Immunology==http://www.roswellpark.edu/research/departments/immunology
+Dept==Molecular and Cellular Biology==http://www.roswellpark.edu/research/departments/molecular-and-cellular-biology
+Dept==Pharmacology and Therapeutics==http://www.roswellpark.edu/research/departments/pharmacology-and-therapeutics
+Dept==Prevention and Population Sciences==http://www.roswellpark.edu/research/departments/prevention-and-population-sciences
+
+School==Prospective Students==http://www.buffalo.edu/prospective_students.html
+
+School==Current Students==http://www.buffalo.edu/students.html
+Dept==Archaeology in Albania==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=albania&file=pro&img=pro_albania.jpg&i=190
+Dept==Monash University (Year, Semester)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=monash&file=pro&img=pro_monash.jpg&i=26
+Dept==Health in Brazil (Summer)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=brazil&file=pro&img=pro_brazil.jpg&i=125
+Dept==University of Toronto (Year)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=toronto&file=pro&img=pro_uoftoronto.jpg&i=114
+Dept==Beijing University of Technology (Year, Semester)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=poly&file=pro&img=pro_02cbpu.jpg&i=11
+Dept==Visual Studies Summer Workshop in Beijing (Spring)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=beijingvisual&file=pro&img=pro_beijingvisual.jpg&i=174
+Dept==Chinese Language & Culture Program In Beijing (Summer)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=beijingsummer&file=pro&img=pro_cnusummer.jpg&i=132
+Dept==Capital Medical University (Rotation, Spring)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=cuoms&file=pro&img=pro_cuoms.jpg&i=124
+Dept==Capital Normal University (Year, Semester)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=cnu&file=pro&img=pro_cnu.gif&i=10
+Dept==Shanghai Theatre Academy (Fall Semester)==http://inted.oie.buffalo.edu/studyabroad/program.asp?prog=shanghai&file=pro&img=pro_shanghai.jpg&i=163
+
+School==Faculty and Staff==http://www.buffalo.edu/faculty_staff.html
+
+School==Alumni==http://www.buffalo.edu/home/for-alumni.html
+
+School==Parents==http://parent.buffalo.edu/guide.php
+
+School==Business Partners==http://www.buffalo.edu/businessengagement/
+
+School==News Media==http://www.buffalo.edu/news/media-kit.html
+

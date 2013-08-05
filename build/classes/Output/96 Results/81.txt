@@ -1,0 +1,119 @@
+81==http://www.iub.edu/
+School==College of Arts and Sciences==http://college.indiana.edu/
+Dept==Folklore and Ethnomusicology==http://www.indiana.edu/~folklore/
+Dept==Folklore Institute==http://www.indiana.edu/~folklore/folklore.shtml
+Dept==French and Italian==http://www.indiana.edu/~frithome/
+Dept==Dutch Studies==http://www.indiana.edu/~germanic/
+Dept==East Asian Languages and Cultures==http://www.indiana.edu/~ealc/
+Dept==East Asian Studies Center==http://www.indiana.edu/~easc/
+Dept==Economics==http://www.indiana.edu/~econweb/
+Dept==English==http://www.indiana.edu/~engweb/
+Dept==Environmental Science==http://www.iub.edu/~bses/
+Dept==Fashion Design==http://design.iub.edu/fdcg/
+Dept==Film and Media Studies==http://www.indiana.edu/~cmcl/
+Dept==Fine Arts (Henry Radford Hope School)==http://www.indiana.edu/~finaweb/fa_landing.htm
+Dept==Gender Studies==http://www.indiana.edu/~gender/
+Dept==Genomics and Bioinformatics, Center for==http://cgb.indiana.edu/
+Dept==Geography==http://www.indiana.edu/~geog/
+Dept==Geological Sciences==http://geology.indiana.edu/
+Dept==Geological Survey==http://igs.indiana.edu/
+Dept==History==http://www.indiana.edu/~histweb/
+Dept==History and Memory, Center for the Study of==http://www.indiana.edu/~cshm/
+Dept==History and Philosophy of Science==http://www.indiana.edu/~hpscdept/
+Dept==History of Art==http://www.indiana.edu/~arthist/
+Dept==Human Biology==http://www.indiana.edu/~humbio/
+Dept==Archives of African American Music and Culture==http://www.indiana.edu/~aaamc/
+Dept==Archives of Traditional Music==http://www.indiana.edu/~libarchm/
+Dept==Arts and Sciences Career Services==http://www.indiana.edu/~career/
+Dept==Asian American Studies==http://www.indiana.edu/~aasp/
+Dept==Astronomy/Astrophysics==http://astrowww.astro.indiana.edu/
+Dept==Mathematics==http://www.math.indiana.edu/
+Dept==Mathers Museum==http://www.indiana.edu/~mathers/
+Dept==Medical Physics==http://www.indiana.edu/~medphyms/
+Dept==Medieval Studies Institute==http://www.indiana.edu/~medieval/
+Dept==Microbiology==http://www.bio.indiana.edu/graduate/micro/
+Dept==Middle East, Center for the Study of the==http://www.indiana.edu/~csme/
+Dept==Molecular and Cellular Biochemistry Department==http://www.indiana.edu/~mcbdept/
+Dept==Perspectives on Politics==http://www.apsanet.org/content_3246.cfm?navID=256
+Dept==Philosophy==http://www.indiana.edu/~phil/
+Dept==Physics==http://www.indiana.edu/~iubphys/
+Dept==Polish Studies==http://www.indiana.edu/~polishst/
+Dept==Political and Civic Engagement (PACE)==http://pace.indiana.edu/
+Dept==Political Science==http://www.indiana.edu/~iupolsci/
+Dept==Political Science Data Archive and Laboratory==http://www.indiana.edu/~iupolsci/research_centers_datalab_frame.shtml
+Dept==Portuguese==http://www.indiana.edu/~spanport/
+Dept==Poynter Center for the Study of Ethics and American Institutions==http://poynter.indiana.edu/
+Dept==Psychological and Brain Sciences==http://psych.indiana.edu/
+Dept==Landscape Studies==http://www.indiana.edu/~landskib/
+Dept==Language and Computer Laboratories==http://www.indiana.edu/~celtie/langlab.html
+Dept==Language Technology and Instructional Enrichment, Center for (CeLTIE)==http://www.indiana.edu/~celtie/
+Dept==Languages of the Central Asian Region, Center for (CeLCAR)==http://www.indiana.edu/~celcar/
+Dept==Latin American and Caribbean Studies==http://www.indiana.edu/~clacs/
+Dept==Latino Studies==http://www.indiana.edu/~latino/
+Dept==Liberal Arts and Management Program==http://www.indiana.edu/~lamp/
+Dept==Linguistics==http://www.indiana.edu/~lingdept/
+
+School==Jacobs School of Music==http://music.indiana.edu/
+
+School==Kelley School of Business==http://kelley.iu.edu/
+Dept==Accounting==http://kelley.iu.edu/accounting
+Dept==Business Economics and Public Policy==http://kelley.iu.edu/bepp
+Dept==Business Law and Ethics==http://kelley.iu.edu/buslaw
+Dept==Finance==http://kelley.iu.edu/finance
+Dept==Management and Entrepreneurship==http://kelley.iu.edu/management
+Dept==Marketing==http://kelley.iu.edu/marketing/
+Dept==Operations and Decision Technologies==http://kelley.iu.edu/odt
+
+School==Maurer School of Law==http://law.indiana.edu/
+
+School==School of Education==http://education.indiana.edu/
+
+School==School of Global and International Studies==http://sgis.indiana.edu/
+
+School==School of Informatics and Computing==http://www.soic.indiana.edu/
+Dept==Art==http://www.soic.indiana.edu/discover/art.php
+Dept==Artificial Intelligence==http://www.soic.indiana.edu/discover/artificial-intelligence.php
+Dept==Biology==http://www.soic.indiana.edu/discover/biology.php
+Dept==Business==http://www.soic.indiana.edu/discover/business.php
+Dept==Chemistry==http://www.soic.indiana.edu/discover/chemistry.php
+Dept==Cognitive Science==http://www.soic.indiana.edu/discover/cognitive-science.php
+Dept==Communication & Culture==http://www.soic.indiana.edu/discover/communication.php
+Dept==Complex Systems==http://www.soic.indiana.edu/discover/complex-systems.php
+Dept==Computer Science==http://www.soic.indiana.edu/discover/computer-science.php
+Dept==Data Management==http://www.soic.indiana.edu/discover/data-management.php
+Dept==Economics==http://www.soic.indiana.edu/discover/economics.php
+Dept==Environment & Sustainability==http://www.soic.indiana.edu/discover/environment.php
+Dept==Geography==http://www.soic.indiana.edu/discover/geography.php
+Dept==Health==http://www.soic.indiana.edu/discover/health.php
+Dept==Interaction Design==http://www.soic.indiana.edu/discover/interaction-design.php
+Dept==Journalism==http://www.soic.indiana.edu/discover/journalism.php
+Dept==Linguistics==http://www.soic.indiana.edu/discover/linguistics.php
+Dept==Logic==http://www.soic.indiana.edu/discover/logic.php
+Dept==Math==http://www.soic.indiana.edu/discover/math.php
+Dept==Music==http://www.soic.indiana.edu/discover/music.php
+Dept==Networks & Systems==http://www.soic.indiana.edu/discover/networks-systems.php
+Dept==Quantum Computing==http://www.soic.indiana.edu/discover/quantum-computing.php
+Dept==Programming==http://www.soic.indiana.edu/discover/programming.php
+Dept==Psychology==http://www.soic.indiana.edu/discover/psychology.php
+Dept==Public Affairs==http://www.soic.indiana.edu/discover/public-affairs.php
+Dept==Security==http://www.soic.indiana.edu/discover/security.php
+Dept==Society==http://www.soic.indiana.edu/discover/society.php
+Dept==Supercomputing==http://www.soic.indiana.edu/discover/supercomputing.php
+Dept==Telecommunications==http://www.soic.indiana.edu/discover/telecommunications.php
+Dept==Ubiquitous Computing==http://www.soic.indiana.edu/discover/ubiquitous-computing.php
+Dept==Visualization & Computer Graphics==http://www.soic.indiana.edu/discover/visual-graphics.php
+
+School==School of Journalism==http://journalism.indiana.edu/
+
+School==School of Nursing==http://www.indiana.edu/%7eiubnurse/
+
+School==School of Optometry==http://www.opt.indiana.edu/
+
+School==School of Public and Environmental Affairs==http://spea.indiana.edu/
+
+School==School of Public Health?Bloomington==http://www.publichealth.indiana.edu/
+
+School==School of Social Work==http://socialwork.iub.edu/
+
+School==University Graduate School==http://graduate.indiana.edu/
+

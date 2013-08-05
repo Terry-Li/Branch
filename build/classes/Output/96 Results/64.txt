@@ -1,0 +1,24 @@
+64==http://www.ucsb.edu/
+School==College of Creative Studies==http://www.ccs.ucsb.edu/
+
+School==College of Engineering==http://engineering.ucsb.edu/
+Dept==Chemical Engineering==http://www.chemengr.ucsb.edu/
+Dept==Computer Science==http://www.cs.ucsb.edu/
+Dept==Electrical & Computer Engineering==http://www.ece.ucsb.edu/
+Dept==Materials==http://www.materials.ucsb.edu/
+Dept==Mechanical Engineering==http://www.me.ucsb.edu/
+Dept==Biomolecular Science and Engineering==http://www.bmse.ucsb.edu
+Dept==Computer Engineering Program==http://www.ce.ucsb.edu
+Dept==Media Arts & Technology==http://www.mat.ucsb.edu
+
+School==College of Letters & Science==http://www.ltsc.ucsb.edu/
+Dept==Humanities & Fine Arts==http://www.hfa.ucsb.edu/
+Dept==Social Sciences==http://www.socialsciences.ucsb.edu/
+Dept==Mathematical, Life & Physical Sciences==http://www.science.ucsb.edu/
+Dept==Undergraduate Education==http://www.duels.ucsb.edu
+Dept==Academic Departments==http://www.ltsc.ucsb.edu/about/academic-departments
+
+School==Bren School of Environmental Science & Management==http://www.esm.ucsb.edu/
+
+School==Gevirtz Graduate School of Education==http://education.ucsb.edu/
+

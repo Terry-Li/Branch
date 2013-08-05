@@ -1,0 +1,88 @@
+51==http://www.rice.edu/
+School==George R. Brown School of Engineering==http://engr.rice.edu/
+Dept==Bioengineering==http://engineering.rice.edu/Content.aspx?id=1182
+Dept==Chemical and Biomolecular Engineering==http://engineering.rice.edu/Content.aspx?id=1180
+Dept==Civil and Environmental Engineering==http://engineering.rice.edu/Content.aspx?id=1184
+Dept==Computational and Applied Mathematics==http://engineering.rice.edu/Content.aspx?id=1186
+Dept==Computer Science==http://engineering.rice.edu/Content.aspx?id=1188
+Dept==Electrical and Computer Engineering==http://engineering.rice.edu/Content.aspx?id=1190
+Dept==Mechanical Engineering and Materials Science==http://engineering.rice.edu/Content.aspx?id=1192
+Dept==Statistics==http://engineering.rice.edu/Content.aspx?id=1194
+
+School==Jesse H. Jones Graduate School of Business==http://business.rice.edu/
+Dept==More Information==http://alliance.rice.edu/2013_ectvf/
+Dept==More Information==http://ypfinance.com/houston/?page_id=100
+Dept==More Information==http://business.rice.edu/JonesPartners_UpcomingEvents.aspx
+
+School==School of Architecture==http://architecture.rice.edu/
+
+School==School of Humanities==http://humanities.rice.edu/
+Dept==History==http://history.rice.edu/
+Dept==Linguistics==http://linguistics.rice.edu/
+Dept==Religious Studies==http://reli.rice.edu/
+
+School==School of Social Sciences==http://socialsciences.rice.edu/
+Dept==Anthropology==http://anthropology.rice.edu/
+Dept==Economics==http://economics.rice.edu/
+Dept==Political Science==http://politicalscience.rice.edu/
+Dept==Psychology==http://www.ruf.rice.edu/~psyc/
+Dept==Sociology==http://sociology.rice.edu/
+
+School==Schools and Departments (Full List)==http://students.rice.edu/students/Departments.asp
+
+School==The Shepherd School of Music==http://music.rice.edu/
+
+School==Susanne M. Glassock School of Continuing Studies/ESL==http://www.gscs.rice.edu/GSCSHome.aspx
+Dept==CFP Graduate Certificate Program==http://gscs.rice.edu/CFP_Web_Overview_Main.aspx
+Dept==Certified Internal Auditor? Program==http://gscs.rice.edu/Certified_Internal_Auditor.aspx
+Dept==Certified Management Accountant: Part I==http://gscs.rice.edu/Certified_Management_Accountant_Web.aspx
+Dept==Certified Treasury Professional Exam Preparation==http://gscs.rice.edu/CTP_Web-delivered.aspx
+Dept==Professional HR Development==http://gscs.rice.edu/PHR_Web-Delivered.aspx
+Dept==Global HR Development==http://gscs.rice.edu/GPHR_Web-Delivered.aspx
+Dept==Senior HR Development==http://gscs.rice.edu/SPHR_Web-Delivered.aspx
+Dept==Sustainability Facility Professional Credential==http://gscs.rice.edu/sfp/
+Dept==Rice E-Learning Design and Development Institute (REDDI)==null
+
+School==Wiess School of Natural Sciences==http://naturalsciences.rice.edu/
+Dept==Biochemistry & Cell Biology==http://naturalsciences.rice.edu/ShowContent.aspx?id=800
+Dept==Chemistry==http://naturalsciences.rice.edu/ShowContent.aspx?id=802
+Dept==Earth Science==http://naturalsciences.rice.edu/ShowContent.aspx?id=806
+Dept==Ecology & Evolutionary Biology==http://naturalsciences.rice.edu/ShowContent.aspx?id=804
+Dept==Kinesiology==http://naturalsciences.rice.edu/ShowContent.aspx?id=2147483740
+Dept==Mathematics==http://naturalsciences.rice.edu/ShowContent.aspx?id=808
+Dept==Physics & Astronomy==http://naturalsciences.rice.edu/ShowContent.aspx?id=810
+Dept==Continuing Studies==http://naturalsciences.rice.edu/ShowContent.aspx?id=880
+Dept==Houston Museum of Natural Science==http://naturalsciences.rice.edu/ShowContent.aspx?id=912
+Dept==The Lynn R. Lowrey Arboretum of Rice University==http://naturalsciences.rice.edu/ShowContent.aspx?id=876
+Dept==NanoKids? Educational Outreach Program==http://naturalsciences.rice.edu/ShowContent.aspx?id=594
+Dept==Rice Observatory==http://naturalsciences.rice.edu/ShowContent.aspx?id=592
+Dept==Rice University Mathematical Institute for Young Women==http://naturalsciences.rice.edu/ShowContent.aspx?id=888
+Dept==Rice University School Mathematics Project==http://naturalsciences.rice.edu/ShowContent.aspx?id=590
+Dept==Sally Ride Science Festival==http://naturalsciences.rice.edu/ShowContent.aspx?id=610
+Dept==School Science and Technology==http://naturalsciences.rice.edu/ShowContent.aspx?id=884
+
+School==School of Architecture==http://arch.rice.edu/Contact/School-of-Architecture/
+
+School==George R. Brown School of Engineering==http://engineering.rice.edu/
+Dept==Bioengineering==http://engineering.rice.edu/Content.aspx?id=1182
+Dept==Chemical and Biomolecular Engineering==http://engineering.rice.edu/Content.aspx?id=1180
+Dept==Civil and Environmental Engineering==http://engineering.rice.edu/Content.aspx?id=1184
+Dept==Computational and Applied Mathematics==http://engineering.rice.edu/Content.aspx?id=1186
+Dept==Computer Science==http://engineering.rice.edu/Content.aspx?id=1188
+Dept==Electrical and Computer Engineering==http://engineering.rice.edu/Content.aspx?id=1190
+Dept==Mechanical Engineering and Materials Science==http://engineering.rice.edu/Content.aspx?id=1192
+Dept==Statistics==http://engineering.rice.edu/Content.aspx?id=1194
+
+School==Schools (Full List)==http://students.rice.edu/students/Schools_dept_programs.aspx
+
+School==Susanne M. Glasscock School of Continuing Studies/ESL==http://gscs.rice.edu/GSCSHome.aspx
+Dept==CFP Graduate Certificate Program==http://gscs.rice.edu/CFP_Web_Overview_Main.aspx
+Dept==Certified Internal Auditor? Program==http://gscs.rice.edu/Certified_Internal_Auditor.aspx
+Dept==Certified Management Accountant: Part I==http://gscs.rice.edu/Certified_Management_Accountant_Web.aspx
+Dept==Certified Treasury Professional Exam Preparation==http://gscs.rice.edu/CTP_Web-delivered.aspx
+Dept==Professional HR Development==http://gscs.rice.edu/PHR_Web-Delivered.aspx
+Dept==Global HR Development==http://gscs.rice.edu/GPHR_Web-Delivered.aspx
+Dept==Senior HR Development==http://gscs.rice.edu/SPHR_Web-Delivered.aspx
+Dept==Sustainability Facility Professional Credential==http://gscs.rice.edu/sfp/
+Dept==Rice E-Learning Design and Development Institute (REDDI)==null
+

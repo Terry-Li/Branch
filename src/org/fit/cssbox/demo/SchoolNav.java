@@ -5,14 +5,17 @@
 package org.fit.cssbox.demo;
 
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -27,54 +30,16 @@ public class SchoolNav{
     
     static {
         try {
-            ArrayList<String> positives = Utility.getKeywords("Group/schools.txt");
-            ArrayList<String> negatives = Utility.getKeywords("Group/Negatives.txt");
-            ArrayList<String> degrees = Utility.getKeywords("Group/degrees.txt");
-            ArrayList<String> urlNegatives = Utility.getKeywords("Group/URLNegatives.txt");
+            List<String> positives = FileUtils.readLines(new File("Group/schools.txt"));
+            List<String> negatives = FileUtils.readLines(new File("Group/Negatives.txt"));
+            List<String> degrees = FileUtils.readLines(new File("Group/degrees.txt"));
+            List<String> urlNegatives = FileUtils.readLines(new File("Group/URLNegatives.txt"));
             engine = new ListEngine(positives, negatives, degrees, urlNegatives);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
         }
-    }
-    
-    public static Link getLink(Link url, String keyword) {
-        try {
-            Thread.sleep(200);
-        } catch (InterruptedException ex) {
-            Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        Link link = null;
-        try {
-            Document doc = Jsoup.connect(url.url).timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
-            Elements result = doc.select("a");
-            for (Element e: result) {
-                String anchor = e.text().trim();
-                String href = e.attr("abs:href").trim();
-                if (anchor.contains(keyword) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
-                    link = new Link();
-                    link.url = href;
-                    ArrayList<String> context = new ArrayList<String>();
-                    context.addAll(url.context);
-                    context.add(anchor);
-                    link.context = context;
-                    break;
-                }
-            }
-        } catch (IOException ex) {
-            Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        return link;
-    }
-    
-    public static boolean needURL(ArrayList<String> temps) {
-        for (String temp: temps) {
-            if (temp.split("==").length==2 && temp.split("==")[1].equals("null")) {
-                return true;
-            }
-        }
-        return false;
     }
     
     public static boolean needURLStrong(ArrayList<String> temps) {
@@ -85,21 +50,7 @@ public class SchoolNav{
         }
         return true;
     }
-    
-        
-    public static ArrayList<String> getLinks(Document doc) throws IOException {
-        ArrayList<String> links = new ArrayList<String>();
-        Elements result = doc.select("a");
-        for (Element e : result) {
-            String anchor = e.text().trim();
-            String href = e.attr("abs:href").trim();
-            if (!href.equals("")) {
-                links.add(anchor+"=="+href);
-            }
-        }
-        return links;
-    } 
-    
+      
     public static void addURLs(ArrayList<Combo> combos, ArrayList<String> temps, ArrayList<Integer> index, String baseURL) throws IOException{
         if (!needURLStrong(temps)) return; //|| temps.size() != index.size()
 
@@ -114,7 +65,7 @@ public class SchoolNav{
                 for (int j=index.get(i)+1; j<index.get(i+1); j++) {
                     String url = combos.get(j).url;
                     String anchor = combos.get(j).text.toLowerCase();
-                    if (url != null && !url.contains("#") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
+                    if (url != null && !url.contains("#") && !url.contains("@") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
                         String[] tokens = temps.get(i).split("==");
                         temps.set(i, tokens[0] + "==" + url);
                         break;
@@ -124,7 +75,7 @@ public class SchoolNav{
             for (int j = index.get(index.size()-1) + 1; j < combos.size(); j++) {
                 String url = combos.get(j).url;
                 String anchor = combos.get(j).text.toLowerCase();
-                if (url != null && !url.contains("#") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
+                if (url != null && !url.contains("#") && !url.contains("@") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
                     String[] tokens = temps.get(index.size()-1).split("==");
                     temps.set(index.size()-1, tokens[0] + "==" + url);
                     break;
@@ -134,7 +85,7 @@ public class SchoolNav{
                 for (int i = 0; i < index.size() - 1; i++) {
                     for (int j = index.get(i) + 1; j < index.get(i + 1); j++) {
                         String url = combos.get(j).url;
-                        if (url != null && !url.contains("#")) {
+                        if (url != null && !url.contains("#") && !url.contains("@")) {
                             String[] tokens = temps.get(i).split("==");
                             temps.set(i, tokens[0] + "==" + url);
                             break;
@@ -143,7 +94,7 @@ public class SchoolNav{
                 }
                 for (int j = index.get(index.size() - 1) + 1; j < combos.size(); j++) {
                     String url = combos.get(j).url;
-                    if (url != null && !url.contains("#")) {
+                    if (url != null && !url.contains("#") && !url.contains("@")) {
                         String[] tokens = temps.get(index.size() - 1).split("==");
                         temps.set(index.size() - 1, tokens[0] + "==" + url);
                         break;
@@ -157,13 +108,17 @@ public class SchoolNav{
     
     public static ArrayList<String> dedup(ArrayList<Combo> combos, ArrayList<String> dups, ArrayList<Integer> index, String baseURL) {
         if (index.size()==0) return new ArrayList<String>();
+        int count = 0;
         for (int i=0; i<dups.size(); i++) {
             String[] pairs = dups.get(i).split("==");
             if (pairs.length!=2) continue;
-            if (pairs[1].contains("#")) {
-                dups.set(i, pairs[0]+"==null");
+            if (pairs[1].contains("#") || pairs[1].contains("@")) {
+                count++;
+                //dups.set(i, pairs[0]+"==null");
             }
         }
+        if (count*2 >= index.size()) return new ArrayList<String>();//if contain #, not counted as a valid list
+       
         
         try {
             addURLs(combos,dups,index,baseURL);
@@ -188,7 +143,7 @@ public class SchoolNav{
     }
      
     
-    public static ArrayList<Link> getSchoolLinks(Link url) {
+    public static ArrayList<Link> getSchoolLinks(Link url, String domainName) {
         try {
             Thread.sleep(1000);
         } catch (InterruptedException ex) {
@@ -201,7 +156,7 @@ public class SchoolNav{
             for (Element e: result) {
                 String anchor = e.text().trim().toLowerCase();
                 String href = e.attr("abs:href").trim();
-                if ((anchor.contains("colleges")|| anchor.contains("divisions") || anchor.contains("schools") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
+                if ((anchor.contains("colleges")|| anchor.contains("divisions") || anchor.contains("schools") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>(), domainName)) {
                     Link link = new Link();
                     link.url = href;
                     ArrayList<String> context = new ArrayList<String>();
@@ -216,7 +171,7 @@ public class SchoolNav{
                             String alt = image.attr("alt").toLowerCase();
                             String title = image.attr("title").toLowerCase();
                             if ((alt.contains("schools")||alt.contains("divisions")||alt.contains("colleges")||alt.contains("faculties")||alt.contains("departments")||title.contains("schools")||title.contains("divisions")||title.contains("colleges")||title.contains("faculties")||title.contains("departments")) &&
-                                 !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
+                                 !href.equals("") && Utility.shouldVisit(href, new HashSet<String>(),domainName)) {
                                 Link link = new Link();
                                 link.url = href;
                                 ArrayList<String> context = new ArrayList<String>();
@@ -240,7 +195,7 @@ public class SchoolNav{
         return schoolLinks;
     }
     
-    public static ArrayList<Link> getAcademicLinks(Link url) {
+    public static ArrayList<Link> getAcademicLinks(Link url, String domainName) {
         try {
             Thread.sleep(1000);
         } catch (InterruptedException ex) {
@@ -255,7 +210,7 @@ public class SchoolNav{
                 String href = e.attr("abs:href").trim();
                 if ((anchor.contains("academics") || anchor.contains("academic units") || 
                      anchor.contains("academic divisions") || anchor.contains("academic areas") || 
-                     anchor.contains("academic programs") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
+                     anchor.contains("academic programs") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(href, new HashSet<String>(),domainName)) {
                     Link link = new Link();
                     link.url = href;
                     ArrayList<String> context = new ArrayList<String>();
@@ -271,7 +226,7 @@ public class SchoolNav{
                             String title = image.attr("title").toLowerCase();
                             if ((alt.contains("academics")||alt.contains("academic units")||alt.contains("academic divisions")||alt.contains("academic areas")||alt.contains("academic programs")||alt.contains("departments")
                                     ||title.contains("academics")||title.contains("academic units")||title.contains("academic divisions")||title.contains("academic areas")||title.contains("academic programs")||title.contains("departments")) &&
-                                 !href.equals("") && Utility.shouldVisit(href, new HashSet<String>())) {
+                                 !href.equals("") && Utility.shouldVisit(href, new HashSet<String>(), domainName)) {
                                 Link link = new Link();
                                 link.url = href;
                                 ArrayList<String> context = new ArrayList<String>();
@@ -307,28 +262,28 @@ public class SchoolNav{
         return dedups;
     }
     
-    public static ArrayList<Link> getNavLinks(Link url) {
+    public static ArrayList<Link> getNavLinks(Link url, String domainName) {
         ArrayList<Link> navLinks = new ArrayList<Link>();
         navLinks.add(url); //homepage
-        ArrayList<Link> schoolLinks = getSchoolLinks(url);
+        ArrayList<Link> schoolLinks = getSchoolLinks(url, domainName);
         navLinks.addAll(schoolLinks);
-        ArrayList<Link> academicLinks = getAcademicLinks(url);
+        ArrayList<Link> academicLinks = getAcademicLinks(url, domainName);
         navLinks.addAll(academicLinks);
         for (Link link: academicLinks) {
-            navLinks.addAll(getSchoolLinks(link));
+            navLinks.addAll(getSchoolLinks(link, domainName));
         }
         return dedupNavLinks(navLinks);
     }
     
-    public static SemanticList getSchoolsResult(Link link, Set<String> visited) throws IOException {
+    public static SemanticList getSchoolsResult(Link link, Set<String> visited, String domainName) throws IOException {
         ArrayList<SemanticList> lists = new ArrayList<SemanticList>();
         SemanticList schools = null;
-        ArrayList<Link> toSchedule = getNavLinks(link); 
+        ArrayList<Link> toSchedule = getNavLinks(link, domainName); 
         //System.out.println(toSchedule.size());
         for (int i=0;i<toSchedule.size();i++){
             //System.out.println(l.url);
             schools = engine.getSchools(toSchedule.get(i),1);
-            visited.addAll(Utility.getVisited(toSchedule.get(i).url));
+            visited.addAll(Utility.getVisited(toSchedule.get(i).url, domainName));
             if (schools != null) {
                 //System.out.println("oh yeah");
                 lists.add(schools);
