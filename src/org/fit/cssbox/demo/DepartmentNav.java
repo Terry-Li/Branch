@@ -98,8 +98,8 @@ public class DepartmentNav{
                 String href = e.attr("abs:href").trim();
                 //System.out.println(anchor+": "+href);
                 if (anchor.split(" ").length <= 6 && (anchor.contains("departments") || anchor.contains("academics") || anchor.contains("department list")
-                        || anchor.contains("programs") || anchor.contains("academic units")
-                        || anchor.contains("about the college") || anchor.contains("divisions")) && Utility.shouldVisit(href, visited, domainName)) {
+                        || anchor.contains("programs") || anchor.contains("academic units") || anchor.contains("about the faculty") || anchor.contains("about the school")
+                        || anchor.contains("about the college") || anchor.contains("divisions")) && Utility.shouldVisit(anchor,href, visited, domainName)) {
                     Link newLink = new Link();
                     newLink.url = href;
                     ArrayList<String> context = new ArrayList<String>();

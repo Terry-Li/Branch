@@ -42,7 +42,7 @@ public class FacultyNav{
             for (Element e : result) {
                 String anchor = e.text().trim();
                 String href = e.attr("abs:href").trim();
-                if (!href.equals("") && !anchor.equals("") && Utility.shouldVisit(href, visited, domainName)) {
+                if (!href.equals("") && !anchor.equals("") && Utility.shouldVisit(anchor, href, visited, domainName)) {
                     links.add(anchor+"=="+href);
                 }
             }

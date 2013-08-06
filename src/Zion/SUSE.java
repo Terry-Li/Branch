@@ -23,12 +23,7 @@ public class SUSE implements Runnable{
     public String univURL;
     public String domainName;
     public static String dataCenter = "96 Results/";//"C:/Users/admin/Desktop/Canadian Universities/Data Center/";
-    public static final String[] gateway = {"academics","academic units","schools","colleges","divisions", "faculties",
-        "departments","department list","programs","faculty","directory","people","staff"};
     public Set<String> visited = new HashSet<String>();
-    public static String[] NoUrls = {"1","8","24","44","55","61","69","78"};
-    public static String[] NoResult = {"11"};
-
 
     public SUSE(String univName, String univURL) {
         this.univName = univName;
@@ -93,22 +88,12 @@ public class SUSE implements Runnable{
         
         List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
         ExecutorService executor = Executors.newFixedThreadPool(6);
-        /*
         for (int i=0; i<lines.size(); i++) {
             String filename = (i+1)+"";
             if (i+1 < 10) {
                 filename = "0"+filename;
             }
             Runnable task = new SUSE(filename,lines.get(i).split("==")[1]);
-            executor.execute(task);
-        }*/
-        for (String index: NoResult) {
-            String filename = index;
-            int i = Integer.parseInt(index);
-            if (i<10) {
-                filename = "0"+filename;
-            }
-            Runnable task = new SUSE(filename,lines.get(i-1).split("==")[1]);
             executor.execute(task);
         }
         executor.shutdown();

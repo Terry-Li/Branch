@@ -27,6 +27,9 @@ public class Utility {
                                                           + "|doc|docx|xls|xlsx|ppt|pptx"
                                                           + "|xml"
                                                           + "|rm|smil|wmv|swf|wma|zip|rar|gz))$");
+    private final static String[] gates = {"colleges","divisions","schools","departments","academics","academic units",
+    "academic areas","programs","faculties","department list","about the college","about the faculty","about the school",
+    "faculty","directory","people","staff"};
     
 
     public static String getDomainName(String url) throws URISyntaxException {
@@ -35,7 +38,8 @@ public class Utility {
         return domain.startsWith("www.") ? domain.substring(4) : domain;
     }
     
-    public static boolean shouldVisit(String url, Set<String> visited, String domainName) {
+    public static boolean shouldVisit(String anchor, String url, Set<String> visited, String domainName) {
+        if (anchor!=null && anchor.split(" ").length > 6) return false;
         url = url.toLowerCase();
         if (url.contains(domainName) &&
             url.startsWith("http")&& !url.contains("#") &&!url.contains("@") && !FILTERS.matcher(url).matches() &&
@@ -365,7 +369,7 @@ public class Utility {
             for (Element e : result) {
                 String anchor = e.text().trim().toLowerCase();
                 String href = e.attr("abs:href").trim();
-                if (anchor.split(" ").length <= 6 && href.contains(domainName)) {
+                if (shouldVisit(anchor, href,(Set)new HashSet<>(),domainName)) {
                     deptLinks.add(href);
                 }
             }
