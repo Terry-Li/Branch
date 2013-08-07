@@ -5,11 +5,15 @@
 package org.fit.cssbox.demo;
 
 
+import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 import java.util.Set;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -20,7 +24,15 @@ import org.jsoup.select.Elements;
  * @author Terry
  */
 public class FacultyNav{
-
+    public static List<String> keywords;
+    
+    static {
+        try {
+            keywords = FileUtils.readLines(new File("Group/Names.txt"));
+        } catch (IOException ex) {
+            Logger.getLogger(FacultyNav.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
     
     public static String getExactLink(ArrayList<String> links, String keyword) {
         for (String link: links) {
@@ -120,8 +132,8 @@ public class FacultyNav{
         return candidates;
     } */
     
-    public static ArrayList<String> getFacultyListURL(String url, Set<String> visited, String domainName) throws IOException {
-        ArrayList<String> candidates = new ArrayList<String>();;
+    public static ArrayList<String> getFacultyListURL(String url, Set<String> visited, String domainName) {
+        ArrayList<String> candidates = new ArrayList<String>();
         ArrayList<String> links = getLinks(url, visited,domainName );
         String facultyURL = getExactLink(links, "Faculty");
         String peopleURL = getExactLink(links, "People");
@@ -172,16 +184,75 @@ public class FacultyNav{
         return candidates;
     }
     
-    public static String getFacultyURL(String url, Set<String> visited, String domainName) throws IOException {
+    public static String getFacultyURL(String url, Set<String> visited, String domainName) {
         if (url == null) return null;
         ArrayList<String> candidates = getFacultyListURL(url, visited, domainName);
         for (String candidate: candidates) {
-            System.out.println(candidate);
-            if (candidate != null) {//&& Faculty2.identify(candidate)
+            //System.out.println(candidate);
+            if (candidate != null && identify(candidate)) {//&& Faculty2.identify(candidate)
                 return candidate;
             }
         }
         return null;
+    }
+    
+    public static boolean isName(String text) {
+        String[] names = text.toUpperCase().trim().split(" ");
+        if (names.length <= 4) {
+            for (String name : names) {
+                for (String keyword : keywords) {
+                    if (name.equals(keyword)) {
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+
+  
+    public static boolean valid(ArrayList<Combo> combos) {
+        int count = 0;
+        int size = combos.size();
+        for (Combo c: combos) {
+            if (isName(c.text) || c.text.contains("@") || c.text.contains("Professor")) {
+                count++;
+            }
+        }
+        if (size > 4 && count > size*2/3) {return true;}
+        else return false;
+    }
+    
+    
+    public static boolean identify(String link) {
+        ArrayList<String> names = new ArrayList<String>();
+        ArrayList<Combo> combos = CSSModel.getCombos(link);
+        HashMap<String,ArrayList<Combo>> sets = new HashMap<String,ArrayList<Combo>>();
+        for (Combo c: combos) {
+            if (c.text.trim().length()!=0) {
+                String key = c.x + "" + c.tag + "" + c.height + "" + c.parent;
+                if (sets.keySet().contains(key)) {
+                    sets.get(key).add(c);
+                } else {
+                    ArrayList<Combo> empty = new ArrayList<Combo>();
+                    empty.add(c);
+                    sets.put(key, empty);
+                }
+            }
+        }
+        for (String key: sets.keySet()) {
+            ArrayList<Combo> value = sets.get(key);
+            //for (Combo c: value) System.out.println(c);
+            //System.out.println("-------------------------------------");
+            if (valid(value)) {
+                for (Combo c: value) {
+                    names.add(c.text+"=="+c.url);
+                }
+            }
+        }
+        if (names.size() > 4) {
+            return true;
+        } else return false;
     }
     
 }

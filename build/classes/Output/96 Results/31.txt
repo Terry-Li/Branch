@@ -1,9 +1,0 @@
-31==http://www.cornell.edu/
-School==Undergraduate Colleges and Schools==null
-
-School==Special-Mission Faculty Units==null
-
-School==Graduate and Professional Colleges and Schools==null
-
-School==Continuing Education==http://www.cornell.edu/about/site/
-

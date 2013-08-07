@@ -65,7 +65,9 @@ public class SchoolNav{
                 for (int j=index.get(i)+1; j<index.get(i+1); j++) {
                     String url = combos.get(j).url;
                     String anchor = combos.get(j).text.toLowerCase();
-                    if (url != null && !url.contains("#") && !url.contains("@") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
+                    if (url != null && !url.contains("#") && !url.contains("@") && (anchor.contains("website")||
+                            anchor.contains("home")||anchor.contains("site")||
+                            anchor.startsWith("http"))) {
                         String[] tokens = temps.get(i).split("==");
                         temps.set(i, tokens[0] + "==" + url);
                         break;
@@ -75,7 +77,9 @@ public class SchoolNav{
             for (int j = index.get(index.size()-1) + 1; j < combos.size(); j++) {
                 String url = combos.get(j).url;
                 String anchor = combos.get(j).text.toLowerCase();
-                if (url != null && !url.contains("#") && !url.contains("@") && (anchor.contains("website")||anchor.contains("homepage")||anchor.contains("site")||anchor.startsWith("http"))) {
+                if (url != null && !url.contains("#") && !url.contains("@") && (anchor.contains("website")||
+                        anchor.contains("home")||anchor.contains("site")||
+                        anchor.startsWith("http"))) {
                     String[] tokens = temps.get(index.size()-1).split("==");
                     temps.set(index.size()-1, tokens[0] + "==" + url);
                     break;
@@ -275,18 +279,22 @@ public class SchoolNav{
         return dedupNavLinks(navLinks);
     }
     
-    public static SemanticList getSchoolsResult(Link link, Set<String> visited, String domainName) throws IOException {
+    public static SemanticList getSchoolsResult(Link link, Set<String> visited, String domainName) {
         ArrayList<SemanticList> lists = new ArrayList<SemanticList>();
         SemanticList schools = null;
         ArrayList<Link> toSchedule = getNavLinks(link, domainName); 
         //System.out.println(toSchedule.size());
         for (int i=0;i<toSchedule.size();i++){
-            //System.out.println(l.url);
-            schools = engine.getSchools(toSchedule.get(i),1);
-            visited.addAll(Utility.getVisited(toSchedule.get(i).url, domainName));
-            if (schools != null) {
-                //System.out.println("oh yeah");
-                lists.add(schools);
+            try {
+                //System.out.println(l.url);
+                schools = engine.getSchools(toSchedule.get(i),1);
+                visited.addAll(Utility.getVisited(toSchedule.get(i).url, domainName));
+                if (schools != null) {
+                    //System.out.println("oh yeah");
+                    lists.add(schools);
+                }
+            } catch (IOException ex) {
+                Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
             }
         }      
         
