@@ -25,6 +25,9 @@ public class SUSE implements Runnable{
     public String domainName;
     public static String dataCenter = "96 Results/";//"C:/Users/admin/Desktop/Canadian Universities/Data Center/";
     public Set<String> visited = new HashSet<String>();
+    public static boolean onServer = true;
+    public static String filename = "23";
+    public static boolean polite = false;
 
     public SUSE(String univName, String univURL) {
         this.univName = univName;
@@ -89,34 +92,38 @@ public class SUSE implements Runnable{
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException, InterruptedException {
-        
-        List<String> lines = FileUtils.readLines(new File("Group/Elite96.txt"));
-        int cpus = Runtime.getRuntime().availableProcessors()*3;
-        ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(cpus);
-        for (int i=0; i<lines.size(); i++) {
-            String filename = (i+1)+"";
-            if (i+1 < 10) {
-                filename = "0"+filename;
+        if (onServer) {
+            List<String> lines = Utility.getKeywords("Group/Elite96.txt");
+            int cpus = Runtime.getRuntime().availableProcessors();
+            ThreadPoolExecutor executor = (ThreadPoolExecutor) Executors.newFixedThreadPool(cpus);
+            for (int i = 0; i < lines.size(); i++) {
+                String filename = (i + 1) + "";
+                if (i + 1 < 10) {
+                    filename = "0" + filename;
+                }
+                Runnable task = new SUSE(filename, lines.get(i).split("==")[1]);
+                executor.execute(task);
             }
-            Runnable task = new SUSE(filename,lines.get(i).split("==")[1]);
-            executor.execute(task);
-        }
-        executor.shutdown();
-        while (!executor.isTerminated()) {
-            System.out.println("Status: "+executor.getCompletedTaskCount()+"/"+executor.getTaskCount()+" threads are completed ...");
-            Thread.sleep(10000);
-        }
-        ArrayList<String> fails = new ArrayList<String>();
-        for (int j=0; j<lines.size(); j++) {
-            String filename = (j+1)+"";
-            if (j+1 < 10) {
-                filename = "0"+filename;
+            executor.shutdown();
+            while (!executor.isTerminated()) {
+                System.out.println("Status: " + executor.getCompletedTaskCount() + "/" + executor.getTaskCount() + " threads are completed ...");
+                Thread.sleep(10000);
             }
-            if (!new File(dataCenter+filename+".txt").exists()) {
-                fails.add((j+1)+"");
+            ArrayList<String> fails = new ArrayList<String>();
+            for (int j = 0; j < lines.size(); j++) {
+                String filename = (j + 1) + "";
+                if (j + 1 < 10) {
+                    filename = "0" + filename;
+                }
+                if (!new File(dataCenter + filename + ".txt").exists()) {
+                    fails.add((j + 1) + "");
+                }
             }
+            FileUtils.writeStringToFile(new File(dataCenter + "log.txt"), fails.toString());
+            System.out.println("Finished all threads");
+        } else {
+            List<String> lines = Utility.getKeywords("Group/Elite96.txt");
+            new SUSE(filename, lines.get(Integer.parseInt(filename)-1).split("==")[1]).process();
         }
-        FileUtils.writeStringToFile(new File(dataCenter+"log.txt"), fails.toString());
-        System.out.println("Finished all threads");
     }
 }

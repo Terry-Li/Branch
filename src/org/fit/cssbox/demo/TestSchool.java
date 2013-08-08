@@ -82,8 +82,14 @@ public class TestSchool {
         }
     }
     
+    public static void testLines() throws FileNotFoundException, IOException {
+        List<String> positives = Utility.getKeywords("Group/departments.txt");       
+        System.out.println(positives.size());        
+    }
+    
     public static void main(String[] args) throws MalformedURLException, IOException {
-        testDepartment("http://www.dal.ca/faculty/science.html");
+        //testDepartment("http://www.dal.ca/faculty/science.html");
         //testSchool("http://faculties.ualberta.ca/");
+        testLines();
     }
 }

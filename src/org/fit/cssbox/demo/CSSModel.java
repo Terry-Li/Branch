@@ -4,6 +4,7 @@
  */
 package org.fit.cssbox.demo;
 
+import Zion.SUSE;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
@@ -118,10 +119,12 @@ public class CSSModel {
      */
     public static ArrayList<Combo> getCombos(String url)
     {   
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException ex) {
-            Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+        if (SUSE.polite) {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException ex) {
+                Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }
         System.out.println("Getting combos from: "+url+"...");
         ArrayList<Combo> combos = new ArrayList<Combo>();

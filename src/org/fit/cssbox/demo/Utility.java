@@ -4,6 +4,7 @@
  */
 package org.fit.cssbox.demo;
 
+import Zion.SUSE;
 import java.io.*;
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -38,8 +39,30 @@ public class Utility {
         return domain.startsWith("www.") ? domain.substring(4) : domain;
     }
     
+    public static List<String> getKeywords(String file) throws FileNotFoundException, IOException {
+        List<String> keywords = new ArrayList<String>();
+        FileInputStream fstream = null;
+        fstream = new FileInputStream(file);
+        DataInputStream in = new DataInputStream(fstream);
+        BufferedReader br = new BufferedReader(new InputStreamReader(in));
+        String strLine;
+        while ((strLine = br.readLine()) != null && !strLine.trim().equals("")) {
+            keywords.add(strLine.trim());
+        }
+        return keywords;
+    }
+    
+    public static boolean isGate(String anchor) {
+        for (String gate: gates) {
+            if (anchor.toLowerCase().contains(gate)) {
+                return true;
+            }
+        }
+        return false;
+    }
+    
     public static boolean shouldVisit(String anchor, String url, Set<String> visited, String domainName) {
-        if (anchor!=null && anchor.split(" ").length > 6) return false;
+        if (anchor==null || !isGate(anchor) || anchor.split(" ").length > 6) return false;
         url = url.toLowerCase();
         if (url.contains(domainName) &&
             url.startsWith("http")&& !url.contains("#") &&!url.contains("@") && !FILTERS.matcher(url).matches() &&
@@ -359,10 +382,12 @@ public class Utility {
     public static Set<String> getVisited(String url, String domainName){
         Set<String> deptLinks = new HashSet<String>();
         try { 
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException ex) {
-                Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+            if (SUSE.polite) {
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException ex) {
+                    Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+                }
             }
             Document doc = Jsoup.connect(url).timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
             Elements result = doc.select("a");

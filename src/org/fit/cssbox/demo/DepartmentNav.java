@@ -28,10 +28,10 @@ public class DepartmentNav{
     
     static {
         try {
-            List<String> positives = FileUtils.readLines(new File("Group/departments.txt"));
-            List<String> negatives = FileUtils.readLines(new File("Group/Negatives.txt"));
-            List<String> degrees = FileUtils.readLines(new File("Group/degrees.txt"));
-            List<String> urlNegatives = FileUtils.readLines(new File("Group/URLNegatives.txt"));
+            List<String> positives = Utility.getKeywords("Group/departments.txt");
+            List<String> negatives = Utility.getKeywords("Group/Negatives.txt");
+            List<String> degrees = Utility.getKeywords("Group/degrees.txt");
+            List<String> urlNegatives = Utility.getKeywords("Group/URLNegatives.txt");
             engine = new ListEngine(positives, negatives, degrees, urlNegatives);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
@@ -97,9 +97,9 @@ public class DepartmentNav{
                 String anchor = e.text().trim().toLowerCase();
                 String href = e.attr("abs:href").trim();
                 //System.out.println(anchor+": "+href);
-                if (anchor.split(" ").length <= 6 && (anchor.contains("departments") || anchor.contains("academics") || anchor.contains("department list")
+                if (Utility.shouldVisit(anchor,href, visited, domainName) && (anchor.contains("departments") || anchor.contains("academics") || anchor.contains("department list")
                         || anchor.contains("programs") || anchor.contains("academic units") || anchor.contains("about the faculty") || anchor.contains("about the school")
-                        || anchor.contains("about the college") || anchor.contains("divisions")) && Utility.shouldVisit(anchor,href, visited, domainName)) {
+                        || anchor.contains("about the college") || anchor.contains("divisions"))) {
                     Link newLink = new Link();
                     newLink.url = href;
                     ArrayList<String> context = new ArrayList<String>();

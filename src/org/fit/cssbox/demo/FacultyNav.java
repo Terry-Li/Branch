@@ -28,7 +28,7 @@ public class FacultyNav{
     
     static {
         try {
-            keywords = FileUtils.readLines(new File("Group/Names.txt"));
+            keywords = Utility.getKeywords("Group/Names.txt");
         } catch (IOException ex) {
             Logger.getLogger(FacultyNav.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -49,12 +49,12 @@ public class FacultyNav{
     public static ArrayList<String> getLinks(String url, Set<String> visited, String domainName) {
         try {
             ArrayList<String> links = new ArrayList<String>();
-            Document doc = Jsoup.connect(url).timeout(12000).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
+            Document doc = Jsoup.connect(url).timeout(0).userAgent("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2").get();
             Elements result = doc.select("a");
             for (Element e : result) {
                 String anchor = e.text().trim();
                 String href = e.attr("abs:href").trim();
-                if (!href.equals("") && !anchor.equals("") && Utility.shouldVisit(anchor, href, visited, domainName)) {
+                if (Utility.shouldVisit(anchor, href, visited, domainName)) {
                     links.add(anchor+"=="+href);
                 }
             }
@@ -90,47 +90,6 @@ public class FacultyNav{
         }
         return null;
     }
-    
-    /*
-    public static ArrayList<String> getFacultyListURL(String url, Set<String> visited) throws IOException {
-        ArrayList<String> candidates = new ArrayList<String>();;
-        ArrayList<String> links = getLinks(url, visited);
-        String facultyURL = getExactLink(links, "Faculty");
-        String peopleURL = getExactLink(links, "People");
-        String directoryURL = getExactLink(links, "Directory");
-        String facultyStaffURL = getFacultyAndStaff(links);
-        if (facultyURL != null) {
-            candidates.add(facultyURL);
-            candidates.addAll(getFacultyLinks(getLinks(facultyURL,visited)));
-        }
-        if (peopleURL != null) {
-            candidates.add(peopleURL);
-            String facultyURL2 = getExactLink(getLinks(peopleURL,visited), "Faculty");
-            if (facultyURL2 != null) {
-                candidates.add(facultyURL2);
-            }
-        }
-        if (facultyStaffURL != null) {
-            candidates.add(facultyStaffURL);
-            String facultyURL2 = getExactLink(getLinks(facultyStaffURL,visited), "Faculty");
-            if (facultyURL2 != null) {
-                candidates.add(facultyURL2);
-            }
-        }
-        if (directoryURL != null) {
-            candidates.add(directoryURL);
-            String facultyURL2 = getExactLink(getLinks(directoryURL,visited), "Faculty");
-            if (facultyURL2 != null) {
-                candidates.add(facultyURL2);
-            }
-        }
-        ArrayList<String> temps = getFacultyLinks(links);
-        candidates.addAll(temps);
-        for (String temp: temps) {
-            candidates.addAll(getFacultyLinks(getLinks(temp,visited)));
-        }
-        return candidates;
-    } */
     
     public static ArrayList<String> getFacultyListURL(String url, Set<String> visited, String domainName) {
         ArrayList<String> candidates = new ArrayList<String>();
@@ -185,7 +144,7 @@ public class FacultyNav{
     }
     
     public static String getFacultyURL(String url, Set<String> visited, String domainName) {
-        if (url == null) return null;
+        if (url.equals("null")) return null;
         ArrayList<String> candidates = getFacultyListURL(url, visited, domainName);
         for (String candidate: candidates) {
             //System.out.println(candidate);
@@ -230,7 +189,7 @@ public class FacultyNav{
         HashMap<String,ArrayList<Combo>> sets = new HashMap<String,ArrayList<Combo>>();
         for (Combo c: combos) {
             if (c.text.trim().length()!=0) {
-                String key = c.x + "" + c.tag + "" + c.height + "" + c.parent;
+                String key = c.x + "" + c.style + "" + c.height;
                 if (sets.keySet().contains(key)) {
                     sets.get(key).add(c);
                 } else {

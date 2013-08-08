@@ -5,6 +5,7 @@
 package org.fit.cssbox.demo;
 
 
+import Zion.SUSE;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -30,10 +31,10 @@ public class SchoolNav{
     
     static {
         try {
-            List<String> positives = FileUtils.readLines(new File("Group/schools.txt"));
-            List<String> negatives = FileUtils.readLines(new File("Group/Negatives.txt"));
-            List<String> degrees = FileUtils.readLines(new File("Group/degrees.txt"));
-            List<String> urlNegatives = FileUtils.readLines(new File("Group/URLNegatives.txt"));
+            List<String> positives = Utility.getKeywords("Group/schools.txt");
+            List<String> negatives = Utility.getKeywords("Group/Negatives.txt");
+            List<String> degrees = Utility.getKeywords("Group/degrees.txt");
+            List<String> urlNegatives = Utility.getKeywords("Group/URLNegatives.txt");
             engine = new ListEngine(positives, negatives, degrees, urlNegatives);
         } catch (FileNotFoundException ex) {
             Logger.getLogger(SchoolNav.class.getName()).log(Level.SEVERE, null, ex);
@@ -148,10 +149,12 @@ public class SchoolNav{
      
     
     public static ArrayList<Link> getSchoolLinks(Link url, String domainName) {
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException ex) {
-            Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+        if (SUSE.polite) {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException ex) {
+                Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }
         ArrayList<Link> schoolLinks = new ArrayList<Link>();
         try {
@@ -160,7 +163,7 @@ public class SchoolNav{
             for (Element e: result) {
                 String anchor = e.text().trim().toLowerCase();
                 String href = e.attr("abs:href").trim();
-                if ((anchor.contains("colleges")|| anchor.contains("divisions") || anchor.contains("schools") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(anchor, href, new HashSet<String>(), domainName)) {
+                if (Utility.shouldVisit(anchor, href, new HashSet<String>(), domainName) && (anchor.contains("colleges")|| anchor.contains("divisions") || anchor.contains("schools") || anchor.contains("faculties") || anchor.contains("departments"))) {
                     Link link = new Link();
                     link.url = href;
                     ArrayList<String> context = new ArrayList<String>();
@@ -174,8 +177,12 @@ public class SchoolNav{
                         for (Element image: images) {
                             String alt = image.attr("alt").toLowerCase();
                             String title = image.attr("title").toLowerCase();
-                            if ((alt.contains("schools")||alt.contains("divisions")||alt.contains("colleges")||alt.contains("faculties")||alt.contains("departments")||title.contains("schools")||title.contains("divisions")||title.contains("colleges")||title.contains("faculties")||title.contains("departments")) &&
-                                 !href.equals("") && Utility.shouldVisit(alt+" "+title,href, new HashSet<String>(),domainName)) {
+                            if (Utility.shouldVisit(alt+" "+title,href, new HashSet<String>(),domainName) && 
+                                    (alt.contains("schools")||alt.contains("divisions")||alt.contains("colleges")||
+                                    alt.contains("faculties")||alt.contains("departments")||title.contains("schools")||
+                                    title.contains("divisions")||title.contains("colleges")||
+                                    title.contains("faculties")||title.contains("departments"))
+                                    ) {
                                 Link link = new Link();
                                 link.url = href;
                                 ArrayList<String> context = new ArrayList<String>();
@@ -200,10 +207,12 @@ public class SchoolNav{
     }
     
     public static ArrayList<Link> getAcademicLinks(Link url, String domainName) {
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException ex) {
-            Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+        if (SUSE.polite) {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException ex) {
+                Logger.getLogger(Utility.class.getName()).log(Level.SEVERE, null, ex);
+            }
         }
         ArrayList<Link> schoolLinks = new ArrayList<Link>();
         try {
@@ -212,9 +221,9 @@ public class SchoolNav{
             for (Element e: result) {
                 String anchor = e.text().trim().toLowerCase();
                 String href = e.attr("abs:href").trim();
-                if ((anchor.contains("academics") || anchor.contains("academic units") || 
+                if (Utility.shouldVisit(anchor, href, new HashSet<String>(),domainName) && (anchor.contains("academics") || anchor.contains("academic units") || 
                      anchor.contains("academic divisions") || anchor.contains("academic areas") || 
-                     anchor.contains("academic programs") || anchor.contains("faculties") || anchor.contains("departments")) && !href.equals("") && Utility.shouldVisit(anchor, href, new HashSet<String>(),domainName)) {
+                     anchor.contains("academic programs") || anchor.contains("faculties") || anchor.contains("departments"))) {
                     Link link = new Link();
                     link.url = href;
                     ArrayList<String> context = new ArrayList<String>();
@@ -228,9 +237,12 @@ public class SchoolNav{
                         for (Element image: images) {
                             String alt = image.attr("alt").toLowerCase();
                             String title = image.attr("title").toLowerCase();
-                            if ((alt.contains("academics")||alt.contains("academic units")||alt.contains("academic divisions")||alt.contains("academic areas")||alt.contains("academic programs")||alt.contains("departments")
-                                    ||title.contains("academics")||title.contains("academic units")||title.contains("academic divisions")||title.contains("academic areas")||title.contains("academic programs")||title.contains("departments")) &&
-                                 !href.equals("") && Utility.shouldVisit(alt+" "+title, href, new HashSet<String>(), domainName)) {
+                            if (Utility.shouldVisit(alt+" "+title, href, new HashSet<String>(), domainName) && (alt.contains("academics")||alt.contains("academic units")||alt.contains("academic divisions")||
+                                    alt.contains("academic areas")||alt.contains("academic programs")||alt.contains("departments")
+                                    ||title.contains("academics")||title.contains("academic units")||
+                                    title.contains("academic divisions")||title.contains("academic areas")||
+                                    title.contains("academic programs")||title.contains("departments")) 
+                                 ) {
                                 Link link = new Link();
                                 link.url = href;
                                 ArrayList<String> context = new ArrayList<String>();

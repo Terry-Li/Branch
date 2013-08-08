@@ -76,10 +76,12 @@ public class ListEngine {
         String[] tokens = text.split(" ");
         for (String keyword: keywords) {
             if (keyword.length() > 5 && text.toUpperCase().contains(keyword.toUpperCase())){
+                //System.out.println(text+"("+keyword+")");
                 return true;
             } else {
                 for (String token : tokens) {
                     if (token.replaceAll(",", "").equalsIgnoreCase(keyword)) {
+                        //System.out.println(text+"("+keyword+")");
                         return true;
                     }
                 }
@@ -128,17 +130,9 @@ public class ListEngine {
             if (current.size() < 3) continue;
             if (validNameCombo(current)) {
                 for (Combo c : current) {
-                    //System.out.println(c.text);
-                    if (c.url != null && !c.url.startsWith("http")) {
-                        output.add(c.text + "==" + new URL(new URL(url), c.url).toString());
-                        index.add(c.index);
-                    } else {
-                        output.add(c.text + "==" + c.url);
-                        index.add(c.index);
-                    }
+                    output.add(c.text + "==" + c.url);
+                    index.add(c.index);
                 }
-                //break;
-                //System.out.println("=========================================");
             }
         }
         return SchoolNav.dedup(combos, output, index, url);
@@ -175,7 +169,7 @@ public class ListEngine {
         }
         //System.out.println(count+"/"+combos.size());
         //System.out.println("-----------------------------");
-        if (count >= (float)combos.size()*0.66) {
+        if (count >= (float)combos.size()*0.67) {
             return true;
         } else return false;
     }
