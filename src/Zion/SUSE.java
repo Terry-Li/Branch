@@ -101,8 +101,10 @@ public class SUSE implements Runnable{
                 if (i + 1 < 10) {
                     filename = "0" + filename;
                 }
-                Runnable task = new SUSE(filename, lines.get(i).split("==")[1]);
-                executor.execute(task);
+                if (!new File(dataCenter + filename + ".txt").exists()) {
+                    Runnable task = new SUSE(filename, lines.get(i).split("==")[1]);
+                    executor.execute(task);
+                }
             }
             executor.shutdown();
             while (!executor.isTerminated()) {
