@@ -7,10 +7,10 @@ package org.fit.cssbox.demo;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Set;
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.net.URLConnection;
+import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.commons.io.FileUtils;
@@ -182,10 +182,33 @@ public class FacultyNav{
         else return false;
     }
     
+    public static void main(String[] args) throws MalformedURLException, IOException {
+        System.out.println(identify("http://www.edwards.usask.ca/faculty/"));
+        //System.out.println(new URL(new URL("http://www.seas.harvard.edu/academics/areas"),"/academics/areas/computer-science"));
+        /*
+        URL obj = new URL("http://www.seas.harvard.edu/academics/areas/computer-science");
+	URLConnection conn = obj.openConnection();
+ 
+	//get all headers
+	Map<String, List<String>> map = conn.getHeaderFields();
+	for (Map.Entry<String, List<String>> entry : map.entrySet()) {
+		System.out.println("Key : " + entry.getKey() + 
+                 " ,Value : " + entry.getValue());
+	}
+ 
+	//get header by 'key'
+	String server = conn.getHeaderField("Server");
+        
+        System.out.println(server);*/
+    }
+    
     
     public static boolean identify(String link) {
         ArrayList<String> names = new ArrayList<String>();
         ArrayList<Combo> combos = CSSModel.getCombos(link);
+        //for (Combo c: combos) {
+            //System.out.println(c);
+        //}
         HashMap<String,ArrayList<Combo>> sets = new HashMap<String,ArrayList<Combo>>();
         for (Combo c: combos) {
             if (c.text.trim().length()!=0) {

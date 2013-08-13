@@ -26,10 +26,10 @@ public class TestSchool {
         Link l = new Link();
         l.url = url;
         l.context = new ArrayList<String>();
-        List<String> positives = FileUtils.readLines(new File("Group/schools.txt"));
-        List<String> negatives = FileUtils.readLines(new File("Group/Negatives.txt"));
-        List<String> degrees = FileUtils.readLines(new File("Group/degrees.txt"));
-        List<String> urlNegatives = FileUtils.readLines(new File("Group/URLNegatives.txt"));
+        List<String> positives = Utility.getKeywords("Group/schools.txt");
+        List<String> negatives = Utility.getKeywords("Group/Negatives.txt");
+        List<String> degrees = Utility.getKeywords("Group/degrees.txt");
+        List<String> urlNegatives = Utility.getKeywords("Group/URLNegatives.txt");
         ListEngine engine = new ListEngine(positives, negatives, degrees, urlNegatives);
         SemanticList list = engine.getSchools(l,1);
         if (list != null)
@@ -82,14 +82,10 @@ public class TestSchool {
         }
     }
     
-    public static void testLines() throws FileNotFoundException, IOException {
-        List<String> positives = Utility.getKeywords("Group/departments.txt");       
-        System.out.println(positives.size());        
-    }
     
     public static void main(String[] args) throws MalformedURLException, IOException {
-        //testDepartment("http://www.dal.ca/faculty/science.html");
-        //testSchool("http://faculties.ualberta.ca/");
-        testLines();
+        //testDepartment("http://www.engineering.columbia.edu/");
+        testSchool("http://www.gmu.edu/resources/schools-colleges/");
+        //testUniv("http://www.cmu.edu/index.shtml");
     }
 }

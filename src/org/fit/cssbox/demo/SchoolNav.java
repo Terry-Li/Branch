@@ -44,8 +44,8 @@ public class SchoolNav{
     }
     
     public static boolean needURLStrong(ArrayList<String> temps) {
-        for (String temp: temps) {
-            if (temp.split("==").length==2 && !temp.split("==")[1].equals("null")) {
+        for (int i=0; i<temps.size()-1; i++) {
+            if (temps.get(i).split("==").length==2 && !temps.get(i).split("==")[1].equals("null")) {
                 return false;
             }
         }

@@ -399,10 +399,11 @@ public class ListEngine {
             } 
         }
         int height = 0;
+        int y = Integer.MAX_VALUE;
         for (String key: tileds.keySet()) {
             ArrayList<Combo> current = tileds.get(key);
             if (current.size() < 3) continue;
-            if (counts.get(key) > 1 && validCombo(current) && current.get(0).height > height) {
+            if (counts.get(key) > 1 && validCombo(current) && (current.get(0).height > height || current.get(0).y < y)) {
                 height = current.get(0).height;
                 output = new ArrayList<String>();
                 index = new ArrayList<Integer>();
@@ -696,7 +697,7 @@ public class ListEngine {
         //System.out.println(combos.size());
         //FileWriter writer = new FileWriter("96 Results/log.txt", true);
         for (Combo c: combos) {
-            if (true) {
+            if (c.x == 64 || c.x == 296 || c.x == 528 || c.x == 760) {
                 //System.out.println(c);
                 //writer.write(c.toString()+"\n");
                 //System.out.println(c.style);
@@ -708,7 +709,10 @@ public class ListEngine {
         if (iter0 != null) {
             System.out.println(new String("第零轮：抓嵌套矩形列表".getBytes("utf-8")));
             candidates.add(iter0);
-        }
+            //for (String str: iter0.list) {
+                //System.out.println(str);
+            //}
+         }
         SemanticList iter1 = nestedVertical(link, combos); //第一轮：抓嵌套列表
         if (iter1 != null) {
             System.out.println(new String("第一轮：抓嵌套列表".getBytes("utf-8")));

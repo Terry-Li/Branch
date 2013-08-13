@@ -70,3 +70,8 @@ Application
 Prospective
 Lib
 Library
+Colleges
+Schools
+Faculties
+Departments
+Divisions
